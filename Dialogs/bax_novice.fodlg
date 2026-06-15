@@ -14,3 +14,11 @@ Speech 2 # Надеюсь, я ничего не забыл.@@Слава Занд
 {Speech 1}{}{Преддиалоговые установки}
 {Speech 1 Answer 2}{}{-}
 {Speech 2}{}{Надеюсь, я ничего не забыл.@@Слава Зандеру Милосердному...@@Благослови тебя Брок.@@Надеюсь, урожай в этом году будет отменным.@@Слава Броку Великому!@@Я считаю, все к лучшему.@@**Молится богам**@@Мое обучение идет успешно.@@Каждый день приносит новые открытия!@@Последнюю неделю стоит жуткий зной...}
+
+[Text engl]
+{Name}{}{Novice}
+{DescAliveShort}{}{You see a novice.}
+{DescAliveFull}{}{This is a young, inexperienced novice.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{-}
+{Speech 2}{}{I hope I haven't forgotten anything.@@Glory to Zander the Merciful...@@May Brock bless you.@@I hope the harvest will be bountiful this year.@@Glory to Brock the Great!@@I believe it's all for the best.@@**Prays to the gods**@@My training is going well.@@Every day brings new discoveries!@@It's been a terrible heat wave all week...}

@@ -297,3 +297,121 @@ Speech 39 # Что то ещё?
 {Speech 39}{}{Что то ещё?}
 {Speech 39 Answer Exit}{}{Нет, спасибо. [Выход]}
 {Speech 39 Answer 38}{}{Я думаю, возьму ещё один диск.}
+
+[Text engl]
+{Name}{}{Preacher}
+{DescAliveShort}{}{You see a preacher.}
+{DescAliveFull}{}{You see a gray-haired old man in a violet robe. His eyes are filled with wisdom.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 4}{}{dumb}
+{Speech 1 Answer 6}{}{quest completed}
+{Speech 1 Answer 5}{}{quest taken}
+{Speech 1 Answer 2}{}{not taken}
+{Speech 4}{}{What are you doing here?@@Brock bless you.@@Zander bless you...@@May the gods help you.}
+{Speech 4 Answer Exit}{}{Eeeehoo!@@Oho! Yaow!@@Little man! Oooh!@@Me thank you!}
+{Speech 2}{}{Welcome to the Cathedral of the Church of Brock and Zander, @sex@|wanderer|sister|.}
+{Speech 2 Answer 3}{}{And I greet you. Can I help with something?}
+{Speech 2 Answer Exit}{}{And I greet you. I need to go.}
+{Speech 3}{}{I'm about to give a sermon, and my throat is drier than the wasteland... A bottle of water would help me out a great deal.}
+{Speech 3 Answer Exit}{}{Yes, I'll bring it right away.}
+{Speech 3 Answer Exit*}{}{I have no time for that right now.}
+{Speech 8}{}{@sex@|What a rude fellow you are!|What a rude woman!| }
+{Speech 5}{}{Greetings again. Did you bring me water? The sermon will begin in just a couple of minutes.}
+{Speech 5 Answer 9}{}{Here, take this. Good luck with the sermon. [Hand over the bottle of water]}
+{Speech 5 Answer 12}{}{No, but I have a few questions for you.}
+{Speech 5 Answer Exit}{}{No, haven't found it yet. [Exit]}
+{Speech 9}{}{**He clears his throat, drinks some water, and begins the sermon**}
+{Speech 6}{}{Hello again@sex@|, friend.|.| How are things going?@@Nice to see you again.@@How are you, @sex@|brother|sister|?@@May Brock bless you in your deeds.@@May Zander help you.}
+{Speech 6 Answer Exit}{}{Everything is just wonderful. But I'm in a hurry. [Exit]}
+{Speech 6 Answer 12}{}{Everything is wonderful. Allow me to ask a couple of things.}
+{Speech 6 Answer 11}{}{Do you need any help?}
+{Speech 6 Answer 38}{}{I'm in a hurry, could you record the information about the Church onto a disk? \n}
+{Speech 7}{}{The Cathedral of the Church of Brock and Zander, }
+{Speech 7 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 7 Answer Exit}{}{Everything is just wonderful. But I'm in a hurry. [Exit]}
+{Speech 11}{}{Praise the gods, everything is fine with me.}
+{Speech 11 Answer Exit}{}{Well, that's great. [Exit]}
+{Speech 12}{}{What do you wish to know, @sex@|friend|sister|?@@I am ready to answer your questions.@@Your curiosity is commendable, ask away.}
+{Speech 12 Answer 7}{}{What is this place?}
+{Speech 12 Answer 34}{}{Tell me the three commandments.}
+{Speech 12 Answer 13}{}{Can you tell me the legend of Brock and Zander?}
+{Speech 12 Answer 19}{}{Tell me the history of the Church?}
+{Speech 12 Answer 26}{}{Tell me about the Saint }
+{Speech 12 Answer 30}{}{What is that well in the yard?}
+{Speech 12 Answer 31}{}{What is that locked room?}
+{Speech 12 Answer Exit}{}{I think I don't need anything right now. [Exit]}
+{Speech 13}{}{Listen then... After the Day of Judgment the Gods turned away from people. Only the God Gardener did not abandon them in his mercy - he sent down to earth two golden seeds, which found their dwelling in two twins who were named Brock and Zander.}
+{Speech 13 Answer 14}{}{[Next]}
+{Speech 13 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 14}{}{They knew nothing of their divine origin, but their art of gardening was incredible and rumors of them spread far and wide. The envious then desired to kill the brothers!}
+{Speech 14 Answer 15}{}{[Next]}
+{Speech 14 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 15}{}{A countless crowd came, but Brock spoke to them: "Why do you good people call us heretics? What is our wickedness? We dream only of beauty and peace - not of doing evil."}
+{Speech 15 Answer 16}{}{[Next]}
+{Speech 15 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 16}{}{Brock touched the earth and flowers grew from it, bright as polished amber. Seeing the miracle, the people fell to their knees, having come to believe. But there were others too. The most malicious, Gop, son of Raider, crept up to Brock and treacherously killed him.}
+{Speech 16 Answer 17}{}{[Next]}
+{Speech 16 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 17}{}{Brock fell, bleeding out, and his younger brother Zander ran to him and began to mourn the dying one. And where his tears mingled with Brock's blood, green grass grew.}
+{Speech 17 Answer 18}{}{[Next]}
+{Speech 17 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 18}{}{The godless Gop wanted to kill Zander too, but roots wrapped around him and dragged him into the earth. And in that place a field of white flowers appeared. }
+{Speech 18 Answer 12}{}{Truly beautiful... May I ask another question?}
+{Speech 18 Answer 8}{}{What nonsense, old man! [Exit]}
+{Speech 19}{}{For many, many years people wandered the wasteland, believing in the gardener gods and keeping the commandments, but there was no unity among them, each lived apart and cared only for his own hide.}
+{Speech 19 Answer 20}{}{[Next]}
+{Speech 19 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 20}{}{But one day in Klamath several believers found themselves at once beside the holy well, dug long ago by Brock and Zander. They recognized fellow believers in one another and decided to live together there from then on.}
+{Speech 20 Answer 21}{}{[Next]}
+{Speech 20 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 21}{}{Their daily life was hard - constant raider attacks, crop failures and other hardships. But a Great man appeared, who soon became the patriarch of the nascent Church of Brock and Zander.}
+{Speech 21 Answer 22}{}{[Next]}
+{Speech 21 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 22}{}{The Church's golden age came - they found themselves many friends, led by the wise patriarch, and from all across the wasteland believers and ordinary people seeking peace gathered in Klamath. Thieves and bandits were not idle either, but together with its allies the Church was indestructible.}
+{Speech 22 Answer 25}{}{[Next]}
+{Speech 22 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 25}{}{One day, on the way to Broken Hills, the believers came upon the Sacred Well, the lands all around it covered with brock and zander and the grass growing green. Then they built this monastery around the well, where they live to this day.}
+{Speech 25 Answer 23}{}{[Next]}
+{Speech 25 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 23}{}{But one day something terrible happened - the forces split into two sides and a bloody struggle began. Brother went against brother, father against son. When the struggle ended, the patriarch said to the survivors: "Thank you, brothers, for your faithfulness to our cause. I am leaving you.", and no one ever saw him again.}
+{Speech 23 Answer 24}{}{[Next]}
+{Speech 23 Answer 12}{}{Maybe I'd better ask something else?}
+{Speech 24}{}{Evil and cruelty reigned in the world once more, and to survive one had to fight. But the brothers did not lose heart, and, as you can see, are still as strong in their faith!}
+{Speech 24 Answer 12}{}{Thank you for the tale... Allow me a couple more questions?}
+{Speech 24 Answer 8}{}{Did it take you long to make up this nonsense? [Exit]}
+{Speech 26}{}{The holy patriarch was a great man! Under him the Church reached its greatness, his wise deeds determined the course of events. He was, without a doubt, the greatest man in the history of the wasteland.}
+{Speech 26 Answer 28}{}{And what happened to him?}
+{Speech 26 Answer 27}{}{Hmm, but what about the Chosen One?}
+{Speech 27}{}{One could argue about that forever. I believe the Chosen One was lucky - he was neither wise, nor experienced, nor strong and agile. The Father, however, achieved everything without the interference of fortune or unheard-of luck... Let us drop this subject.}
+{Speech 27 Answer 28}{}{And what happened to him?}
+{Speech 28}{}{Many years ago, when I was still young, a dreadful slaughter began between the former allies. When it was all over, the Father said his farewell and left. Since then no one has heard anything of him... A few years ago we canonized Him, the First Patriarch of the Church of Brock and Zander, and named the monastery after him.}
+{Speech 28 Answer 12}{}{Hard to believe. May I ask something else?}
+{Speech 28 Answer 8}{}{Heh, looks like HE muddled all your minds pretty well! [Exit]}
+{Speech 30}{}{This is the Sacred Well, dug by the Gardener Gods, and it never runs dry. Nowadays we do not use it, so as not to disturb the holy site. But the water in it has healing properties and quenches thirst better than any other.}
+{Speech 30 Answer 12}{}{I see. Another question...}
+{Speech 31}{}{These are the chambers of the first patriarch of the Church. Entry is forbidden to ordinary folk.}
+{Speech 31 Answer 32}{}{And what if I really want to visit there?}
+{Speech 32}{}{No. Let us drop this subject.}
+{Speech 32 Answer 12}{}{All right, I have more questions.}
+{Speech 33}{}{Brock and zander are two plants sacred to us, which came to us from our gods. Brock grants warriors courage, and allows traders to drink without getting drunk. Zander increases the attention of craftsmen and healers.}
+{Speech 33 Answer 12}{}{Curious. Allow me to ask more?}
+{Speech 34}{}{We observe three sacred commandments. The first - Forsake thuggery - thugs are loathsome to Zander the Merciful. It is not permitted for a believer to kill innocent people.}
+{Speech 34 Answer 35}{}{[Next]}
+{Speech 34 Answer 37}{}{And what about the thugs, can they not be killed either?}
+{Speech 35}{}{The second - Forsake stealing from people, for this grave sin angers Brock the Great. One must not steal the property of the innocent. }
+{Speech 35 Answer 36}{}{[Next]}
+{Speech 36}{}{The third - A vow to help the needy, to honor our Gods, to respect fellow believers and to strive to lead a worthy life, wreaking no senseless destruction and not multiplying evil. }
+{Speech 36 Answer 12}{}{Do you have time for a couple more questions?}
+{Speech 37}{}{Why ever not? Killing bandits and robbers only helps cleanse the world of evil, and so it cannot be considered a sin!}
+{Speech 37 Answer 35}{}{I see. And the second commandment?}
+{Speech 38}{}{Sister Sofia left me the texts. Give me a disk, I'll record it.}
+{Speech 38 Answer 39}{}{The official information about the Organization. \n}
+{Speech 38 Answer 39*}{}{About death.\n}
+{Speech 38 Answer Exit}{}{I think I don't need anything right now. [Exit]\n}
+{Speech 38 Answer 39**}{}{About character.}
+{Speech 38 Answer 39***}{}{About the godless.}
+{Speech 38 Answer 39****}{}{About conduct.}
+{Speech 38 Answer 39*****}{}{The myth of peaceful Neutral.}
+{Speech 39}{}{Anything else?}
+{Speech 39 Answer Exit}{}{No, thank you. [Exit]}
+{Speech 39 Answer 38}{}{I think I'll take another disk.}

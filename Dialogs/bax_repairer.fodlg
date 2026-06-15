@@ -315,3 +315,87 @@ Speech 21 # Мантию? Без проблем, мне нужно 3 куска 
 {Speech 21}{}{Мантию? Без проблем, мне нужно 3 куска ткани и 200 монет за работу.}
 {Speech 21 Answer 6}{}{Идет, держи.}
 {Speech 21 Answer 6*}{}{Пожалуй, она мне ни к чему...}
+
+[Text engl]
+{Name}{}{Alejandro}
+{DescAliveShort}{}{You see the repairman Alejandro.}
+{DescAliveFull}{}{You see Alejandro, a jack of all trades. In his hands are parts from yet another instrument of death, which he is painstakingly working on.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 4}{}{dumb}
+{Speech 1 Answer 6}{}{quest completed}
+{Speech 1 Answer 5}{}{quest taken}
+{Speech 1 Answer 2}{}{not taken}
+{Speech 1 Answer 13}{}{player hated}
+{Speech 4}{}{Couldn't you help me with this? No? Too bad...}
+{Speech 2}{}{A new face in our shop... How can I help you?}
+{Speech 2 Answer 7}{}{So what do you do here?}
+{Speech 2 Answer 18}{}{Hm, is this a shop?}
+{Speech 2 Answer 3}{}{I'd like to repair something...}
+{Speech 2 Answer 14}{}{Hm... I think I saw this pistol on a certain traveler...}
+{Speech 2 Answer Exit}{}{No idea. [Exit]}
+{Speech 3}{}{There's a little snag with the repairs... I've worn my tools down to a terrible state. If you got me some new ones, any repair would be a piece of cake.}
+{Speech 3 Answer Exit}{}{Consider the tools already in your pocket. [Exit]}
+{Speech 3 Answer Exit*}{}{And here I thought you actually knew how to do something! [Exit]}
+{Speech 7}{}{I'm the local craftsman, I make and fix everything under the sun. But mostly weapons.}
+{Speech 7 Answer 3}{}{Great, can you fix something for me too?}
+{Speech 7 Answer 8}{}{I won't trouble you any longer. [Exit]}
+{Speech 8}{}{No worries at all.}
+{Speech 5}{}{I urgently need tools, the work has stalled and nothing's getting done! Did you happen to bring them?}
+{Speech 5 Answer 9}{}{Here they are. [Hand over the tools]}
+{Speech 5 Answer Exit}{}{If I'd found them - I'd have told you. [Exit]}
+{Speech 9}{}{Thanks. Now there won't be any problems with repairs.}
+{Speech 6}{}{Peace be with you. Can I help with anything?@@Need help?@@What can I do for you?@@With my tools I can do almost anything.@@Zander helps me. I'll help you.}
+{Speech 6 Answer 11}{}{Can you fix this?@@Bet you can't fix this?}
+{Speech 6 Answer 21}{}{Can you sew a robe?}
+{Speech 6 Answer Exit}{}{Just dropped by to say hello. [Exit]@@Hello to you too. I have to go. [Exit]}
+{Speech 6 Answer Barter}{}{Want to trade?}
+{Speech 11}{}{No problem, hand it over. [Holds out his hand]}
+{Speech 11 Answer Exit}{}{I changed my mind. [Exit]}
+{Speech 11 Answer 12}{}{[Hand over the 10mm pistol and 10 coins]}
+{Speech 11 Answer 12*}{}{[Hand over the 10mm SMG and 30 coins]}
+{Speech 11 Answer 12**}{}{[Hand over the magnum and 20 coins]}
+{Speech 11 Answer 12***}{}{[Hand over the .223 pistol and 100 coins]}
+{Speech 11 Answer 12****}{}{[Hand over the shotgun and 25 coins]}
+{Speech 11 Answer 12*****}{}{[Hand over the tommy gun and 40 coins]}
+{Speech 11 Answer 12******}{}{[Hand over the Grease Gun and 50 coins]}
+{Speech 11 Answer 12*******}{}{[Hand over the hunting rifle and 40 coins]}
+{Speech 11 Answer 12********}{}{[Hand over the H&K CAWS and 80 coins]}
+{Speech 11 Answer 12*********}{}{[Hand over the combat shotgun and 80 coins]}
+{Speech 11 Answer 12**********}{}{[Hand over the flamer and 90 coins]}
+{Speech 11 Answer 12***********}{}{[Hand over the minigun and 100 coins]}
+{Speech 11 Answer 12************}{}{[Hand over the robe and 50 coins]}
+{Speech 11 Answer 12*************}{}{[Hand over the leather jacket and 70 coins]}
+{Speech 11 Answer 12**************}{}{[Hand over the combat leather jacket and 150 coins]}
+{Speech 11 Answer 12***************}{}{[Hand over the leather armor and 160 coins]}
+{Speech 11 Answer 12****************}{}{[Hand over the leather armor mk II and 220 coins]}
+{Speech 11 Answer 12*****************}{}{[Hand over the metal armor and 280 coins]}
+{Speech 12}{}{Here, good as fresh off the factory line. Well, almost.@@Here you go. Doesn't get any newer than this!@@Much better now.}
+{Speech 12 Answer 11}{}{Will you fix something else?}
+{Speech 12 Answer Exit}{}{Thanks, Alejandro.}
+{Speech 13}{}{Get lost. I'm busy.@@We'll discuss this later, smart guy.@@Come back when you've wised up.@@If it weren't for my vow, I'd have killed you...@@Zander commanded us to forgive people. But in your case that's pretty hard.}
+{Speech 14}{}{What are you implying?}
+{Speech 14 Answer 15}{}{Seems like you're up to dark deeds in your den of evil!}
+{Speech 14 Answer 7}{}{Sorry, I must have been mistaken. So who are you?}
+{Speech 14 Answer Exit}{}{Sorry, I must have been mistaken. I'd better go. [Exit]}
+{Speech 15}{}{What are you talking about? Are you out of your mind?}
+{Speech 15 Answer 16}{}{That pistol's probably stolen.}
+{Speech 15 Answer 16*}{}{I'm afraid you killed the pistol's owner and took his weapon. And buried the corpse somewhere far off. Or right in the garden.}
+{Speech 15 Answer Exit}{}{Sorry, that's not at all what I meant... [Leave]}
+{Speech 16}{}{You accuse me of sins?! How dare you! My faith is strong, and your claims are simply laughable!}
+{Speech 16 Answer 17}{}{Yes, you all do evil here, hiding behind "religion". I knew right away there was some catch, but now it's clear as day!}
+{Speech 16 Answer Exit}{}{Wait. That was a stupid joke. I won't do it again. [Exit]}
+{Speech 17}{}{Get out of here, and don't let me ever lay eyes on you again!}
+{Speech 18}{}{Exactly. But when it comes to trading, that's not my department. I just fix all sorts of junk here and keep an eye on the shop.}
+{Speech 18 Answer 3}{}{Can you fix something for me?}
+{Speech 18 Answer 19}{}{Where do you get your goods to trade?}
+{Speech 18 Answer 20}{}{And how is business going for you?}
+{Speech 18 Answer 2}{}{I get the picture about you. I have a couple more questions.}
+{Speech 19}{}{Now and then caravans come to us from various cities... But more often we put together a caravan ourselves and set off on long journeys. One such caravan should be arriving here soon.}
+{Speech 19 Answer 20}{}{And how is business going for you?}
+{Speech 19 Answer 2}{}{I hope nothing happens to them. I have a couple more questions for you.}
+{Speech 20}{}{Pretty good, for such a little shop there are plenty of visitors.}
+{Speech 20 Answer 2}{}{Glad to hear it. Let me ask one more thing...}
+{Speech 20 Answer Exit}{}{It was nice talking, but I must be going. [Exit]}
+{Speech 21}{}{A robe? No problem, I need 3 pieces of cloth and 200 coins for the work.}
+{Speech 21 Answer 6}{}{Deal, here you go.}
+{Speech 21 Answer 6*}{}{On second thought, I don't really need it...}

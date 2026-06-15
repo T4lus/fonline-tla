@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: Билл}
 {DescAliveFull}{}{Вроде обычный крестьянин, только одет лучше, чем остальные.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Bill}
+{DescAliveShort}{}{You see: Bill}
+{DescAliveFull}{}{Seems like an ordinary peasant, only dressed better than the rest.}
+{Speech 1}{}{Pre-dialog settings}

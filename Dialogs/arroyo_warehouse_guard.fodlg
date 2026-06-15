@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: охранник}
 {DescAliveFull}{}{Это охранник. Очень важный перец, с таким лучше не шутить.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Guard}
+{DescAliveShort}{}{You see: a guard}
+{DescAliveFull}{}{This is a guard. A real big shot, better not to mess with him.}
+{Speech 1}{}{Pre-dialog settings}

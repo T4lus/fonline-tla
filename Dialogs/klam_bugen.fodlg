@@ -215,3 +215,72 @@ Speech 20 # Привет@@Как поживаешь?@@Я жив. А ты как?
 {Speech 19}{}{Хе, хе… Ладно, сынок, не обижайся уже. Возьми вот, на память. Скучно мне здесь, сам понимаешь. Вот и веселюсь, как могу…}
 {Speech 19 Answer Exit}{}{Да ладно, дед, я не в обиде. Бывай …}
 {Speech 20}{}{Привет@@Как поживаешь?@@Я жив. А ты как?@@Не набегался ещё?@@Всё шляешься кругом?@@Будь здоров}
+
+[Text engl]
+{Name}{}{Bugenhagen}
+{DescAliveShort}{}{Some old man.}
+{DescAliveFull}{}{An old geezer, but still pretty spry.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{woman\n}
+{Speech 1 Answer 3}{}{man\n}
+{Speech 1 Answer 20}{}{quest done\n}
+{Speech 1 Answer 8}{}{in progress}
+{Speech 2}{}{Hey there, gorgeous@@Want to get to know grandpa a little closer?@@What a rack!@@Care to have a drink with me?@@You look fantastic!}
+{Speech 3}{}{Hello, traveler…}
+{Speech 3 Answer 4}{}{Hi there. Who are you?}
+{Speech 3 Answer Exit}{}{Get lost, old man.}
+{Speech 4}{}{Me? Oh, I'm nobody special, a local… I live here. Have for a long time… My name is Bugenhagen.}
+{Speech 4 Answer 5}{}{Well, I'll be damned. Who gave you a name like that? Does somebody hate you?}
+{Speech 4 Answer Exit}{}{Stupid place, stupid names. I'm off.}
+{Speech 5}{}{It's not that they hate me. They're afraid… You see, I'm a sorcerer, yes.}
+{Speech 5 Answer Exit}{}{A sorcerer, huh? Hocus-pocus, abracadabra? Conjure away, granny, conjure away, grandpa, conjure away, little gray bear? Bah! Why am I even talking to you?}
+{Speech 5 Answer 6}{}{Wow, a sorcerer. Imagine that! Could you teach me some sorcery?}
+{Speech 6}{}{Ahem… Well, you see… I can teach you how to make any woman in the wasteland yours… Want to know?}
+{Speech 6 Answer Exit}{}{No thanks, I'm impotent.}
+{Speech 6 Answer Exit*}{}{No thanks, I'm not interested in women. Only men.}
+{Speech 6 Answer Exit**}{}{No thanks, everyone puts out for me as it is.}
+{Speech 6 Answer 7}{}{Of course I do!}
+{Speech 7}{}{Yeah?.. Well, all right… Only thing is, you'll have to pay… Bring me a hundred, then we'll talk…}
+{Speech 7 Answer 9}{}{Here you go, I've got it on me.}
+{Speech 7 Answer Exit}{}{Fine, I'll bring it.}
+{Speech 7 Answer Exit*}{}{Oh, get lost, a hundred he wants. The nerve.}
+{Speech 8}{}{Back already?}
+{Speech 8 Answer Exit}{}{I haven't found anything yet.}
+{Speech 8 Answer 9}{}{Here's your hundred! Now teach me.}
+{Speech 8 Answer 10}{}{Here's your flower! Now teach me.}
+{Speech 8 Answer 11}{}{Here's your booze! Are we done now?}
+{Speech 8 Answer 12}{}{Take your damn root already! Now teach me.}
+{Speech 8 Answer 13}{}{Tail delivery for the masses! So, is it all done now?}
+{Speech 8 Answer 14}{}{Here's some fine black gunpowder for you! [Gritting your teeth]}
+{Speech 8 Answer 15}{}{Not dead yet? What a shame. Here's your antidote. Are we done now?}
+{Speech 9}{}{Well, you see… First I need to prepare the mixture. Bring me this and that… A Broc flower, bring me that, yeah…}
+{Speech 9 Answer Exit}{}{All right…}
+{Speech 9 Answer Exit*}{}{I've changed my mind. To hell with you.}
+{Speech 10}{}{Yeah, good… Now I need a bottle of moonshine, if you can find one…}
+{Speech 10 Answer Exit}{}{God! All right, I'll look for it.}
+{Speech 10 Answer Exit*}{}{Old fools like you drive me crazy. Go to hell.}
+{Speech 11}{}{There, good job, yeah… Well, now all that's left is to find a Xander root.}
+{Speech 11 Answer Exit}{}{For crying out loud! Couldn't you have said so at once? Fine, I'll find it.}
+{Speech 11 Answer Exit*}{}{You're really getting on my nerves. Go shove it!}
+{Speech 12}{}{Yeah, yeah… A little Xander root, good, yeah… Uhh, well, anyway, the thing is… I need a scorpion tail too. The season for them just came around. Bring me one tail.}
+{Speech 12 Answer Exit}{}{[You get the feeling you've seen all of this somewhere before. But it passes quickly.] Yeah. You're a real pain, old man. Fine, I'll bring you a scorpion tail.}
+{Speech 12 Answer Exit*}{}{People like you ought to be paved into the asphalt. I'm leaving.}
+{Speech 13}{}{Well, you see… Almost done now, yeah… I'll need gunpowder too, one pack. Be a pal and get it.}
+{Speech 13 Answer Exit}{}{Get it? You're the one who's gotten on my last nerve with your errands! Fine, you'll have your gunpowder.}
+{Speech 13 Answer Exit*}{}{No, old man, if I do find gunpowder, it'll only be to blow you up. Go to hell…}
+{Speech 14}{}{Ah… Well, yeah… The thing is, anyway… While I was at the scorpion tail, you know… Well, I got poisoned, basically. Bring me an antidote already, or I'll die…}
+{Speech 14 Answer Exit}{}{That'd be just great! All right, I'll bring it, since I'm running around here anyway…}
+{Speech 14 Answer Exit*}{}{That's the way out! Just die already, once and for all!}
+{Speech 15}{}{Hmm… Yes, that's all now. Go in peace, I don't need anything for the time being.}
+{Speech 15 Answer 16}{}{What? Wha… Why you! And I… You promised to tell me how to make any woman in the wasteland mine!}
+{Speech 16}{}{Ah, so that's it… And here I was wondering why he keeps hanging around. So that's what it is…}
+{Speech 16 Answer 17}{}{Old man, don't joke with me, my nerves are already shot! Spit it out!}
+{Speech 16 Answer Exit}{}{All right. You asked for it. I'll put your eyes on the back of your head!}
+{Speech 17}{}{Hmm. Well, listen. So… You pick a secluded spot… You bring a woman there…}
+{Speech 17 Answer 18}{}{Yeah! Yeah, and then what?}
+{Speech 18}{}{And then you whack her over the head with a crowbar and have your way with her as much as you like…}
+{Speech 18 Answer 19}{}{Uh… Wha… [You stand there dumbstruck for a while, then burst into wild laughter] Heh, old man, you really got me, good one, what a joker. All right, I'll be going…}
+{Speech 18 Answer Exit}{}{Are you mocking me, you old bastard? I'll kill you!}
+{Speech 19}{}{Heh, heh… All right, son, no hard feelings now. Here, take this as a keepsake. It's boring here, you understand. So I have my fun however I can…}
+{Speech 19 Answer Exit}{}{It's all right, old man, no offense taken. So long…}
+{Speech 20}{}{Hello@@How are you doing?@@I'm alive. And you?@@Done running around yet?@@Still wandering about?@@Take care}

@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: Гильом}
 {DescAliveFull}{}{Сомнений нет: это - паладин Братства.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Giliom}
+{DescAliveShort}{}{You see: Giliom}
+{DescAliveFull}{}{There's no doubt: this is a Brotherhood paladin.}
+{Speech 1}{}{Pre-dialog settings}

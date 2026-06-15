@@ -140,3 +140,57 @@ Speech 17 # [Он уставился на вас, не мигая и издав�
 {Speech 16 Answer Exit}{}{Бычок! Гыгыгы!}
 {Speech 17}{}{[Он уставился на вас, не мигая и издавая невнятные звуки. Кажется, здесь нечего ловить.]}
 {Speech 17 Answer Exit}{}{[Выход]}
+
+[Text engl]
+{Name}{}{Scientist}
+{DescAliveShort}{}{You see a scientist.}
+{DescAliveFull}{}{You see an elderly man, he seems to be very perplexed.}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 12}{}{completed}
+{Speech 1 Answer 10}{}{taken}
+{Speech 1 Answer 16}{}{dumb}
+{Speech 1 Answer 2}{}{not taken}
+{Speech 1 Answer 17}{}{girl}
+{Speech 2}{}{H-hello f-friend, I haven't s-seen you before. Are you a new a-applicant of the Church? [Mutters under his breath: distracted again, n-now I won't f-finish...]}
+{Speech 2 Answer 3}{}{No, I'm just walking around here. Won't you tell me what you're doing here?}
+{Speech 2 Answer 3*}{}{Yes, friend, I greet you. What are you busy with here?}
+{Speech 2 Answer Exit}{}{Sorry for bothering you. [Exit]}
+{Speech 3}{}{I-I was always drawn by a thirst for k-knowledge, and to the glory of Z-zander, I was a-able to unlock my p-potential, thanks to the C-church. We've come f-far in studying the f-flora and f-fauna of the p-p-post-nuclear w-world.}
+{Speech 3 Answer Exit}{}{Well, good luck to you. [Exit]}
+{Speech 3 Answer 4}{}{How did you end up here?}
+{Speech 4}{}{H-have you heard about the L-laboratory of the environmental protection agency? Before the w-war they processed t-toxic waste there. And a-afterwards it was a l-laboratory for unique bi-biological research. M-my father w-worked t-there, and I h-helped him...}
+{Speech 4 Answer 5}{}{And what happened?}
+{Speech 4 Answer Exit}{}{In my opinion this is nonsense! [Exit]}
+{Speech 5}{}{Th-there was a r-radiation l-leak, we h-had to e-evacuate, m-my father r-received a s-strong d-dose of radiation and soon p-passed away, and I w-wandered th-through the t-towns of the wasteland, u-until I m-met s-sister Sofia in the NCR...}
+{Speech 5 Answer 6}{}{Sister Sofia?}
+{Speech 5 Answer Exit}{}{All right, I have no time, bye. [Exit]}
+{Speech 6}{}{Yes, she gave s-sermons there, her p-persistence and f-faith are i-impressive... [His eyes lit up] In short, th-thanks to her, I found my h-home h-here and the o-opportunity to w-work...}
+{Speech 6 Answer 7}{}{What are you working on?}
+{Speech 6 Answer Exit}{}{Well, fine, good luck to you. [Exit]}
+{Speech 7}{}{R-right now we're running tests on r-replacing the m-mutated DNA of t-two-headed b-brahmin, b-but I made a mistake somewhere, now I n-need to somehow wash down the r-room...}
+{Speech 7 Answer 8}{}{Maybe I can help with something?}
+{Speech 7 Answer 9}{}{Yeah, right, Brahmin! They say the churchmen experiment on slaves caught in the wasteland and taken captive!}
+{Speech 7 Answer Exit}{}{I see, bye. [Exit]}
+{Speech 8}{}{A-all right, b-bring 5 pieces of cloth to w-w-wipe off the grime...}
+{Speech 8 Answer Exit}{}{Okay. [Exit]}
+{Speech 8 Answer Exit*}{}{Yeah right, you think I have nothing better to do? [Exit]}
+{Speech 9}{}{Wh-where did you hear this n-nonsense? You've c-clearly come to the wrong organization, f-friend, get l-lost!}
+{Speech 9 Answer Exit}{}{Well, fine. [Exit]}
+{Speech 10}{}{I can't continue work until the pieces of protoplasm are removed from the chamber, did you b-bring the r-rags?}
+{Speech 10 Answer 11}{}{Here. [Give 5 pieces of cloth]}
+{Speech 10 Answer Exit}{}{Not yet. [Exit]}
+{Speech 11}{}{Excellent! N-now I'll t-tidy things up. Thank y-you.}
+{Speech 11 Answer Exit}{}{Good luck with your work.}
+{Speech 11 Answer 13}{}{Listen, what if in the non-transcribable strand of the DNA region coding for the b-chain, where glutamic acid is encoded by the triplet GAA, you replace the triplet GAA with the triplet GTA, then in place of glutamic acid in the hemoglobin molecule, according to the genetic code, valine would appear. As a result, instead of hemoglobin HbA a new hemoglobin would appear - HbS, would that solve the problem?}
+{Speech 12}{}{Oh, h-hi, can I help with anything?}
+{Speech 12 Answer Exit}{}{Hi, just dropped by to say hello. [Exit]}
+{Speech 13}{}{No, s-such a replacement of o-only a single n-nucleotide and a single amino acid l-leads to the d-development of a severe d-disease - sickle cell anemia. Sorry, but y-you don't get this t-topic.}
+{Speech 13 Answer Exit}{}{Ehm... [Exit]}
+{Speech 13 Answer 14}{}{And what if you use so-called intragenic suppression - that is, insert a pair of nucleotides, which changes the overall length of the DNA. As a result, a complete change in the protein's structure occurs. The amino acid composition of the proteins can be restored upon the loss of another pair of nucleotides. Then the two mutations would at least partially compensate for each other.}
+{Speech 14}{}{Hm... Interesting th-thought, I should t-try it, th-thanks for the a-advice.}
+{Speech 14 Answer Exit}{}{Anytime, you're welcome.}
+{Speech 15}{}{This is n-no place for you.@@I d-don't want to t-talk with you.@@G-get lost@@I... id... idi... Idiot!}
+{Speech 16}{}{F-friend, do you not know how e-ef-f-fective bovine s-somatrop-pin is for y-yearling c-calves?}
+{Speech 16 Answer Exit}{}{Lil bull! Hehehe!}
+{Speech 17}{}{[He stares at you, not blinking and making unintelligible sounds. It seems there's nothing to gain here.]}
+{Speech 17 Answer Exit}{}{[Exit]}

@@ -14,3 +14,11 @@ Speech 2 # Приветствую!@@Как дела?@@Только не шали
 {Speech 1}{}{Преддиалоговые установки}
 {Speech 1 Answer 2}{}{-}
 {Speech 2}{}{Приветствую!@@Как дела?@@Только не шали тут!@@Я все вижу.@@Помолимся Броку.@@Слава Броку, все тихо.@@Довольно скучная работенка...@@Вчера отразили атаку рейдеров без потерь.@@Ты бы тоже смог нам помочь.@@Недавно здесь?@@Надеюсь, тебе здесь нравится.@@Мой ствол - такое барахло!}
+
+[Text engl]
+{Name}{}{Guard}
+{DescAliveShort}{}{You see a guard in the service of the church.}
+{DescAliveFull}{}{This is a man who chose the path of a warrior and guards the Cathedral.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{-}
+{Speech 2}{}{Greetings!@@How's it going?@@Don't cause any trouble here!@@I see everything.@@Let us pray to Brock.@@Glory to Brock, all is quiet.@@Pretty boring work...@@Yesterday we drove off a raider attack without losses.@@You could help us too.@@New around here?@@I hope you like it here.@@My gun is such a piece of junk!}

@@ -101,3 +101,40 @@ Speech 13 # Если моя мать этим занималась, почему
 {Speech 13}{}{Если моя мать этим занималась, почему мне нельзя?@@Честно? Я по ней соскучилась...@@У нас в деревне всегда очень скучно.@@В Рено так много интересных людей. Я вернусь туда обязательно.@@Отстань, я все маме расскажу!@@Не приставай ко мне!!!}
 {100000001}{}{Господи, бедная мама. Как он это выдерживала. Пойдем-ка домой быстрее. Я должна извиниться перед ней за своё поведение.}
 {100000002}{}{Ты трахнул невинное дитя. Как ты мог. Сволочь. Ты заработал себе неприятности на всю оставшуюся жизнь.}
+
+[Text engl]
+{Name}{}{Natasha Grey}
+{DescAliveShort}{}{A cute little girl. Looks rather cheerful.}
+{DescAliveFull}{}{A pretty ordinary girl. Though prettier than most.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{does not follow the player}
+{Speech 1 Answer 13}{}{follows the player}
+{Speech 2}{}{Hey mister! Did you want something?}
+{Speech 2 Answer 3}{}{Come here, please. Isn't your name Natasha?}
+{Speech 2 Answer Exit}{}{Get lost, squirt.}
+{Speech 2 Answer 12}{}{Come here, please. Isn't your name Natasha?}
+{Speech 3}{}{Yes, Natasha. You've heard about me? Want me to service you?}
+{Speech 3 Answer 4}{}{I'll service your backside with my belt right now, you little brat!}
+{Speech 3 Answer 5}{}{Yes, I've heard. From your mother. She asked me to find you and bring you home.}
+{Speech 4}{}{Brute. You can't catch me!}
+{Speech 5}{}{No way. I don't want to go home. I'm going to work here, like mom. As a prostitute.}
+{Speech 5 Answer 6}{}{Understand, your mother is worried about you. And you're still too little…}
+{Speech 6}{}{What? I'm too little? I'm a real prostitute! I'm not going home with you until you screw me!}
+{Speech 6 Answer 7}{}{And if I screw you - you'll definitely come with me to your mother, promise?}
+{Speech 6 Answer 8}{}{Oh, don't make me laugh. Some prostitute you are. There's nowhere to screw you! And you've got no tits! Remember the ones your mother has? Exactly. To become a prostitute, you have to study hard in school. And grow some tits. Let's go to mom, she'll teach you how it's done.}
+{Speech 7}{}{Of course I promise! Well? Are you going to screw me?}
+{Speech 7 Answer 9}{}{Alright, what am I going to do with you. Let's go into some entryway then.}
+{Speech 7 Answer 11}{}{No, I'm not going to screw you. What nonsense you've cooked up.}
+{Speech 7 Answer 11*}{}{No, I'm not going to screw you. What nonsense you've cooked up.}
+{Speech 8}{}{Are you telling the truth? Because I really want to work as a prostitute. Even if I have to study in school.}
+{Speech 8 Answer 10}{}{Of course it's the truth. You need to study hard in school, wash your hands before eating, and brush your teeth twice a day. I promise, when you grow up, I'll become your regular client! You'll earn a pile of money!}
+{Speech 9}{}{God, poor mom. How did she put up with this. Let's hurry home. I have to apologize to her for my behavior.}
+{Speech 10}{}{Really? That's great! Let's hurry home then!}
+{Speech 10 Answer Exit}{}{Yes, let's go.}
+{Speech 10 Answer Exit*}{}{Not so fast, girl. Wait for me here, I still have some unfinished business. I'll be back.}
+{Speech 11}{}{Then go to hell.}
+{Speech 12}{}{Maybe. But I'm not going to talk to such a creep!}
+{Speech 12 Answer Exit}{}{Why you little brat!}
+{Speech 13}{}{If my mother did this, why can't I?@@Honestly? I miss her...@@It's always so boring in our village.@@There are so many interesting people in Reno. I'll go back there for sure.@@Leave me alone, I'll tell mom everything!@@Don't bother me!!!}
+{100000001}{}{God, poor mom. How did she put up with this. Let's hurry home. I have to apologize to her for my behavior.}
+{100000002}{}{You screwed an innocent child. How could you. You bastard. You've earned yourself trouble for the rest of your life.}

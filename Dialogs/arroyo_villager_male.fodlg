@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: крестьянин}
 {DescAliveFull}{}{Обычный крестьянин. Грязный и уставший.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Villager}
+{DescAliveShort}{}{You see: a villager}
+{DescAliveFull}{}{An ordinary villager. Dirty and tired.}
+{Speech 1}{}{Pre-dialog settings}

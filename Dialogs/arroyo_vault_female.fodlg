@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: женщина}
 {DescAliveFull}{}{Женщина в костюме Убежища.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Woman}
+{DescAliveShort}{}{You see: a woman}
+{DescAliveFull}{}{A woman in a Vault jumpsuit.}
+{Speech 1}{}{Pre-dialog settings}

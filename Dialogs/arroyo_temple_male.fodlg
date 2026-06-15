@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: житель Храма}
 {DescAliveFull}{}{Мужчина лет сорока в костюме Убежища с очень бледной кожей.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Temple Dweller}
+{DescAliveShort}{}{You see: a Temple dweller}
+{DescAliveFull}{}{A man of about forty in a Vault suit with very pale skin.}
+{Speech 1}{}{Pre-dialog settings}

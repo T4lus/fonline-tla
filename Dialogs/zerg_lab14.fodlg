@@ -83,3 +83,38 @@ Speech 12 # 10:15 Пулемёт Вася закончил расчеты, я д
 {Speech 11 Answer Exit}{}{Отключить терминал.}
 {Speech 12}{}{ 10:15 Пулемёт Вася закончил расчеты, я думаю, он не ошибся. Работать с нитроглицериновыми смесями, возле цистерн с браминьим газом, достаточно страшно.\n 11:47 Вася добавляет загуститель смеси. \n 11:54 Что то не так, реакция идет слишком бурно, взрывчатка не загустевает. Воняет как в жопе брамина. \n 12:03 Смесь разогрелась, комната заполнилась туманом, попробую поколотить емкость, возможно загуститель неравномерно распределился по... [Ошибка. Запись не завершена].}
 {Speech 12 Answer Exit}{}{Отключить терминал.}
+
+[Text engl]
+{Name}{}{Terminal}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Enter the data storage.}
+{Speech 2}{}{Enter password.}
+{Speech 2 Answer 3}{}{[Try to hack the system]}
+{Speech 2 Answer 4}{}{[Try to hack the system]}
+{Speech 2 Answer 3*}{}{[Guess the password]}
+{Speech 2 Answer 4*}{}{[Guess the password]}
+{Speech 3}{}{ Welcome. Launch the ferrite information matrix you're interested in.}
+{Speech 3 Answer Exit}{}{Shut down the terminal.}
+{Speech 3 Answer 5}{}{27.3.2045. First successful recording. A new type of memory.}
+{Speech 3 Answer 7}{}{3.4.2045. On information security.}
+{Speech 3 Answer 9}{}{6.4.2045. Thoughts on future projects.}
+{Speech 3 Answer 12}{}{7.6.2045. Current experiment.}
+{Speech 4}{}{Unauthorized access. Shutting down.}
+{Speech 4 Answer Exit}{}{Shut down the terminal.}
+{Speech 5}{}{ Several days of nonstop work have paid off. Now I'll have a permanent source for replenishing the terminal's permanent memory. \n I came across this technology during one of my raids. An unremarkable thing, looking like beadwork set into a piece of circuit board, turned out to be an alternative to holodiscs.}
+{Speech 5 Answer 6}{}{Go to the second side of the memory.}
+{Speech 6}{}{It took a long time before I found information about this technology in the State University archives. The thing is, I can't make holodiscs, but for weaving ferrite memory you can build a little machine.\nA pity it stores so little information. But it's enough for text.}
+{Speech 6 Answer 3}{}{Return to the initial list of matrices.}
+{Speech 6 Answer Exit}{}{Shut down the terminal.}
+{Speech 7}{}{ Greetings, friend. Maybe you're a great scientist, but more likely a lonely self-taught mechanic, a "crafter" - as they often call such people now. I deliberately set up simple protection. It's a filter for the riffraff, not real information security. Study and make use of it. \n 3.4.2045. Ra.}
+{Speech 7 Answer 8}{}{Go to the second side of the memory.}
+{Speech 8}{}{From time to time a bunch of drunk zergs barges in here and, for fun, tries to guess the password. Then they start throwing bottles at the terminal. After a few wrecked terminals, I armored this one so it'll survive not only the next zerg invasion but a nuclear blast as well. }
+{Speech 8 Answer 3}{}{Return to the initial list of matrices.}
+{Speech 8 Answer Exit}{}{Shut down the terminal.}
+{Speech 10}{}{ Now I can create freely. In the near future I intend to develop a new flying machine. It will work on the old principle of aeronautics. \n I extract the gas from brahmin dung, of which there's plenty around here. Vasya the Machine Gun says it's dangerous to store containers of this gas near the new explosives, but they didn't give us a second room.}
+{Speech 10 Answer 11}{}{Go to the second ferrite memory matrix.}
+{Speech 11}{}{ I almost forgot, the creation of a super-powerful explosive is nearly finished. A little more effort and we'll flood the wasteland with this achievement of progress. Tomorrow is the final experiment. Then I'll head out on a raid. A radio, explosives, a flamethrower - what else do you need to bring the light of science to the wasteland...}
+{Speech 11 Answer 3}{}{Return to the initial list of matrices.}
+{Speech 11 Answer Exit}{}{Shut down the terminal.}
+{Speech 12}{}{ 10:15 Vasya the Machine Gun finished the calculations, I think he didn't make a mistake. Working with nitroglycerin mixtures next to tanks of brahmin gas is pretty scary.\n 11:47 Vasya adds the thickener to the mixture. \n 11:54 Something's wrong, the reaction is going too violently, the explosive isn't thickening. It reeks like a brahmin's ass. \n 12:03 The mixture heated up, the room filled with fog, I'll try to bang on the container, maybe the thickener spread unevenly through... [Error. Recording not completed].}
+{Speech 12 Answer Exit}{}{Shut down the terminal.}

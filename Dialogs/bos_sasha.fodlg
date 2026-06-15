@@ -100,3 +100,38 @@ Speech 12 # [Женщина плачет от радости и отпивает
 {Speech 12}{}{[Женщина плачет от радости и отпивает из бутылки] Благослови тебя бог! Ты нашел мою любимую дочурку.}
 {Speech 12 Answer Exit}{}{Ладно, пойду я. Будьте счастливы.}
 {100000001}{}{Вы сделали доброе дело, вернули пропавшего ребенка обратно домой. Слухи распространяются быстро. Возможно, теперь вас не будут преследовать охотники на убийц детей.}
+
+[Text engl]
+{Name}{}{Sasha Grey}
+{DescAliveShort}{}{A pretty woman with a great figure.}
+{DescAliveFull}{}{A woman who looks completely out of place in this village. What is she doing in this dump?}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{And who the hell are you@sex@|||? What do you want from me?}
+{Speech 2 Answer 3}{}{Are you Sasha Grey? You look... Are you troubled by something, ma'am?}
+{Speech 2 Answer Exit}{}{No, no, it's nothing. I'm just passing by.}
+{Speech 2 Answer 10}{}{About your daughter...}
+{Speech 2 Answer Exit*}{}{Ugh. Me say hello.}
+{Speech 3}{}{[The woman's eyes glisten with tears, she nervously chews on her cigarette.] Of course I'm troubled, dammit! You bet! My daughter went missing, damn it all!}
+{Speech 3 Answer 4}{}{Maybe I can help? Tell me what exactly happened.}
+{Speech 4}{}{My child went missing, that's what happened! [Takes a sip from the bottle]  It happens with kids sometimes, you know. But this time she's been gone too long. Almost a week. I'm starting to worry. [Nervously spits at her feet]}
+{Speech 4 Answer 5}{}{ Calm down, ma'am. Maybe I can find her. Any idea where she might have gone?}
+{Speech 5}{}{[Eyes you suspiciously for a moment.] Well, I do have one idea. You see, I moved here from Reno after I got married. And in Reno I worked… well, you know.. acted in films… and for magazines… and, well, hmm… moonlighted on the side too.}
+{Speech 5 Answer 6}{}{Go on.}
+{Speech 6}{}{ [Lights a new cigarette] Well, anyway, my daughter happened to come across one of those magazines, you know, where I posed… And then she told me she wants to live in Reno and work as a prostitute, because you don't have to do anything and they pay you money. And then we had a fight recently, and I think she decided to run off there.}
+{Speech 6 Answer 7}{}{Makes sense. And how old is she?}
+{Speech 7}{}{Eleven.}
+{Speech 7 Answer 8}{}{Hmm, what a precocious child. Decided to earn money on her own so as not to burden her parents. Good girl. And what's her name?}
+{Speech 8}{}{Natasha. Well, if you're going to look for her, she's a cutie. Grey eyes, long lashes. Brunette. Looks a lot like me.}
+{Speech 8 Answer 9}{}{What was she wearing when she left?}
+{Speech 9}{}{Well, what was she wearing… Uhh… Clothes. I don't remember, honestly. [Takes a sip from the bottle.]}
+{Speech 9 Answer Exit}{}{I'll do what I can. Dragging myself back to Reno again…}
+{Speech 10}{}{[The woman looks at you hopefully and takes a sip from the bottle] Well, did you find her?}
+{Speech 10 Answer Exit}{}{No, but the search is in full swing. I'll find her soon.}
+{Speech 10 Answer 11}{}{I found her, in Reno. But I think she's better off staying there. She's quite in her element.}
+{Speech 10 Answer 12}{}{Found her, here she is. She loves you so much. She talked about nothing but you the whole way.}
+{Speech 10 Answer 12*}{}{Found her, here she is. She loves you so much. She talked about nothing but you the whole way.}
+{Speech 11}{}{[The woman looks at you like you're a fool and takes a sip from the bottle] In her element, my ass! I need her here. Drag her back here!}
+{Speech 12}{}{[The woman cries with joy and takes a sip from the bottle] God bless you! You found my beloved little daughter.}
+{Speech 12 Answer Exit}{}{Alright, I'll be going. Be happy.}
+{100000001}{}{You did a good deed, you brought a missing child back home. Word spreads fast. Perhaps now the child-killer hunters won't be after you.}

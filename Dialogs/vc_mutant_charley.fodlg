@@ -181,3 +181,65 @@ Speech 20 # Чего уставил@sex@|cя|ась|? Живого мутант�
 {Speech 18 Answer 17*}{}{Защищай меня.}
 {Speech 19}{}{Все вопросы к @arg mastername@.@@Я тебя не знаю. Лучше уходи.@@Если хочешь что-то узнать, разговаривай с @arg mastername@.}
 {Speech 20}{}{Чего уставил@sex@|cя|ась|? Живого мутанта никогда не видел@sex@||а|? Бу!@@Не мешай мне медитировать, человече.@@Отстань.}
+
+[Text engl]
+{Name}{}{Charley}
+{DescAliveShort}{}{An ordinary hulking mutant}
+{DescAliveFull}{}{A mutant with a surprisingly clear gaze. Funny, he kind of looks like the Hulk.}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 2}{}{serves no one, talking to a guard senior sergeant or higher}
+{Speech 1 Answer 11}{}{serves no one, player rank below senior sergeant}
+{Speech 1 Answer 12}{}{serves someone, talking to the master}
+{Speech 1 Answer 19}{}{serves someone, talking to a stranger}
+{Speech 1 Answer 20}{}{after service}
+{Speech 1 Answer 2*}{}{fewer than three cleared caves}
+{Speech 2}{}{Hello, human! Don't shoot, let's talk like normal folks, without all that horse-faced showing off, eh?}
+{Speech 2 Answer Exit}{}{With freaks like you my talk is short!}
+{Speech 2 Answer 3}{}{Showing off how? Do you even understand what you said? There aren't even words for that.}
+{Speech 2 Answer 3*}{}{Well, let's talk, like normal people, heh…}
+{Speech 3}{}{As you say, human. My buddies, as I take it, you killed them all?}
+{Speech 3 Answer 4}{}{Yes, they're already counting the steps to the Master's throne…}
+{Speech 4}{}{Yeah. I told them, don't go up north! But of course, they wouldn't listen. Well, they got what they asked for…}
+{Speech 4 Answer 5}{}{And what did you come crawling here for, if you're so smart?}
+{Speech 4 Answer Exit}{}{Yeah, yeah. They ran right into it. Time for you to follow after them!}
+{Speech 5}{}{Down south it's no picnic either, you know… I just wanted to leave there, not to mess with you. Honestly, if you hadn't found us, I'd probably have slipped away at night… Although, on the other hand, to where?.. Nobody much likes us, and for good reason.}
+{Speech 5 Answer Exit}{}{Exactly. And I don't like ones like you either. You're about to see just how much!}
+{Speech 5 Answer 6}{}{Well now. A mutant who doesn't like mutants. How did that come about?}
+{Speech 6}{}{Well, if you're aware, we, uhh… that is, you, yeah, so anyway, we mutate under the influence of the FEV virus. It changes the hormonal balance very strongly and a lot of other things too, I won't go into detail. What matters is the result - of a person's personality nothing but ruins remain, social skills are erased, only basic functions work. Aggression grows, the ability to learn falls. Plus you have to consider that most of my, uhh... comrades weren't beacons of wisdom even in their human form…}
+{Speech 6 Answer 7}{}{Right. And you?}
+{Speech 6 Answer Exit}{}{You talk too much, I don't like chatting with dead men!}
+{Speech 7}{}{And me… I'm the exception. I mutated, but I kept my mind, and my social skills, and even my memory. Partly. It happens, I know. But rarely, and I've never met any others myself. It was very hard for me among my mutated friends.}
+{Speech 7 Answer Exit}{}{Yes, and that's why you're dangerous. I'll destroy you!}
+{Speech 7 Answer 8}{}{Well, tough case. And what do you plan to do now?}
+{Speech 8}{}{Hm, well, finding a cave in the mountains and holing up there - not an option. I don't even know. Maybe you can suggest something?}
+{Speech 8 Answer 9}{}{Hm. Well look, there's this town - Broken Hills. People, ghouls and mutants manage to live together there. The sheriff there is Marcus the mutant. You can go there, you'll surely find both work and shelter.\n}
+{Speech 9}{}{Yes, thanks for the advice… And don't take this as pushy, but maybe you'd take me on for work? As a helper, or something? I'm a mutant, sure, but in all else - a perfectly decent fellow. I can haul heavy loads, fire a bazooka, fight with my fists. You provide the ammo and weapons. And I won't let you down.}
+{Speech 9 Answer Exit}{}{No, come on, I can't, what are you thinking. A guardsman with a mutant, everyone would laugh. I won't touch you, of course, sit here as long as you like, but I can't take you along.\n}
+{Speech 9 Answer Exit*}{}{Aha, so you're a spy! How did I not see it right away… Waste him!!!}
+{Speech 9 Answer Exit**}{}{Uhh… aaa… This is kind of unexpected. But amusing. All right, come with me.}
+{Speech 11}{}{According to the codex of the brotherhood, adopted by Morgan and Bartholomew… oops, wrong one… In short, I want to see the captain.\nWell, or a sergeant, at the very least…}
+{Speech 12}{}{Yes, @pname@, I'm listening.@@Boss?@@Something happened? Speak.@@I'm your partner, forgot@sex@||| already?@@[Smirks] You'll see, we'll work great together, "partner"!}
+{Speech 12 Answer 13}{}{Remind me what you can do.}
+{Speech 12 Answer 14}{}{Wait for me here, I'll be back soon.}
+{Speech 12 Answer 15}{}{All right, we can go. Are you ready?}
+{Speech 12 Answer Exit}{}{Everything's fine, conversation's over.@@We'll talk later.@@That's enough for now.}
+{Speech 12 Answer Barter}{}{Let's see what you've got. [Barter]}
+{Speech 12 Answer 16}{}{Let's change the distance.}
+{Speech 12 Answer 18}{}{If someone comes at me...@@If a fight breaks out...}
+{Speech 13}{}{I shoot heavy weapons, or I can use my fists.}
+{Speech 13 Answer 12}{}{Good. I have more questions for you.}
+{Speech 14}{}{All right, agreed. Don't be long.}
+{Speech 15}{}{Let's go, of course. I'm sick of hanging around here, partner.}
+{Speech 15 Answer Exit}{}{We're heading out.}
+{Speech 16}{}{Well? Should I press up closer to you, or does the mutant stink bother you?}
+{Speech 16 Answer Exit}{}{All right, let's leave things as they are.}
+{Speech 16 Answer 17}{}{Don't go far.}
+{Speech 16 Answer 17*}{}{Keep at maximum distance.}
+{Speech 17}{}{No problem.@@Will do, partner.@@All right.}
+{Speech 17 Answer Exit}{}{That's all.}
+{Speech 17 Answer 12}{}{So, one more thing.@@And also..}
+{Speech 18}{}{Yes, that's important. Should I step in, or what?@@Am I covering you? Or staying out of it?@@Need fire support? Or will you handle it yourself@sex@|||?}
+{Speech 18 Answer 17}{}{Don't interfere.}
+{Speech 18 Answer 17*}{}{Protect me.}
+{Speech 19}{}{Take all questions to @arg mastername@.@@I don't know you. Better leave.@@If you want to find out something, talk to @arg mastername@.}
+{Speech 20}{}{What are you staring@sex@|||at? Never seen a live mutant before@sex@|||? Boo!@@Don't bother my meditating, human.@@Get lost.}

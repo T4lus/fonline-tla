@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: Микки}
 {DescAliveFull}{}{Парнишка с намеренно-серьёзным лицом. Наверное, хочет казаться взрослее.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Mikky}
+{DescAliveShort}{}{You see: Mikky}
+{DescAliveFull}{}{A young lad with a deliberately serious face. He probably wants to seem older.}
+{Speech 1}{}{Pre-dialog settings}

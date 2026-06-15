@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: Камерон}
 {DescAliveFull}{}{Потный туземец с большим шрамом на щеке. Пьёт и что-то громко рассказывает окружающим.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Cameron}
+{DescAliveShort}{}{You see: Cameron}
+{DescAliveFull}{}{A sweaty native with a big scar on his cheek. He's drinking and loudly telling something to those around him.}
+{Speech 1}{}{Pre-dialog settings}

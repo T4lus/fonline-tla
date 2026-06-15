@@ -271,3 +271,90 @@ Speech 30 # Персональный репликатор! Техники хаб
 {Speech 29 Answer Exit}{}{Да, благодарю вас, Джек. Возможно мы так и поступим.}
 {Speech 30}{}{Персональный репликатор! Техники хабологов спустили элементы конструкции по лестнице и собрали уже на месте. Затем подключили его к сети города и настроили работу реплицирующих программ и передатчика. Чтобы зацепиться за него, используй терминал. Не знаю как, но оно работает! Это потрясающе! }
 {Speech 30 Answer Exit}{}{Разделяю ваш оптимизм, Джек.}
+
+[Text engl]
+{Name}{}{Black Jack}
+{DescAliveShort}{}{Black Jack.}
+{DescAliveShort}{}{Jack Black.}
+{DescAliveFull}{}{A rather intelligent-looking man in a vault dweller's jumpsuit.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 14}{}{dummy }
+{Speech 1 Answer 2}{}{Black in VC, quest not taken}
+{Speech 1 Answer 3}{}{Black in VC, player spoke with Troy and heard Black's recommendation}
+{Speech 1 Answer 7}{}{Black in GECK-city}
+{Speech 1 Answer 15}{}{Black in VC, player returned to pay the "moving money" and take Black to GECK}
+{Speech 1 Answer 18}{}{Jack is already following someone.}
+{Speech 1 Answer 25}{}{Black isn't anyone's merc. Player has the "escort jack" status. So the doctor was lost somewhere.}
+{Speech 2}{}{Get lost, I'm busy@@I don't know you.@@Find something to do.@@What do you want.@@Don't bug me.}
+{Speech 3}{}{Hello, Doctor Troy told me about you. What do you want?}
+{Speech 3 Answer 4}{}{I suggest you move and open your own clinic in a new place. A small but civilized town in the wasteland. Built recently with the help of the GECK.}
+{Speech 4}{}{Is that so. Move. Hmm. Well, why not? But I have some conditions.}
+{Speech 4 Answer 5}{}{I'm listening.}
+{Speech 5}{}{The clinic is entirely mine. I'm in charge. That's the first thing. No objections? I set the prices for the services myself. That's the second thing. And right now I need moving money. For the relocation. Fifteen thousand. That's the third thing. That's all, really.}
+{Speech 5 Answer 6}{}{I see no obstacles. Everything suits me. I'll pay the moving money.}
+{Speech 5 Answer Exit}{}{What a demand. I don't have that kind of money. [Exit]}
+{Speech 6}{}{Well then, it's settled. I'll wait for you here, with the money.}
+{Speech 6 Answer Exit}{}{All right, as you say}
+{Speech 7}{}{Hello, I'm Doctor Black Jack. I'm listening.}
+{Speech 7 Answer Exit}{}{Sorry, never mind. [Exit]}
+{Speech 7 Answer 9}{}{I need a doctor's help.}
+{Speech 7 Answer Barter}{}{What do you have for sale? [Barter]}
+{Speech 7 Answer 10}{}{I've got some broken bones here...}
+{Speech 7 Answer 12}{}{Where am I? I can't see a damn thing! Can you fix my eyes?}
+{Speech 7 Answer 13}{}{Wow! Black Jack? So where are the hookers?}
+{Speech 7 Answer 26}{}{How's it going, Jack?}
+{Speech 7 Answer 30}{}{Black, what's that contraption standing in our basement?}
+{Speech 9}{}{So. I'm ready to help you. It'll cost 400 coins.}
+{Speech 9 Answer Exit}{}{Oh no, too expensive. I'll manage somehow.}
+{Speech 9 Answer 11}{}{All right, doctor}
+{Speech 10}{}{Let's have a look. Oh, it's all elementary. And it only costs 450 coins. We'll screw a titanium bolt into the bone... and done.}
+{Speech 10 Answer Exit}{}{Oh no, too expensive. I'll manage somehow.}
+{Speech 10 Answer 11}{}{All right, doctor. [Pay 450 coins]}
+{Speech 11}{}{We'll fix it right up... Done.}
+{Speech 11 Answer Exit}{}{Thanks. I won't bother you anymore.}
+{Speech 12}{}{It's simple. I'll replace your lens with a shard of bottle glass. All for just five hundred.}
+{Speech 12 Answer 11}{}{All right, doctor. [Pay 500 coins]}
+{Speech 12 Answer Exit}{}{Oh no, too expensive. I'll manage somehow.}
+{Speech 13}{}{God, and every one of these idiots thinks he's so witty. @@ Yeah, yeah, very funny.@@ The prize for best comedian goes to you!}
+{Speech 14}{}{Why do they let animals in here?@@You need a vet, and I'm a doctor@@I don't need test subjects.}
+{Speech 15}{}{You again? What about my new clinic?}
+{Speech 15 Answer 16}{}{I brought the money, as we agreed. And I'm ready to take you to your new place of work.}
+{Speech 15 Answer Exit}{}{I'm working on it...}
+{Speech 16}{}{Well, excellent. I'm ready to go with you.}
+{Speech 16 Answer Exit}{}{Time to set off!}
+{Speech 16 Answer Exit*}{}{So. I'll be back soon, wait for me here, Doctor Black.}
+{Speech 16 Answer 17}{}{Time to set off!}
+{Speech 17}{}{This won't do. I heard you already have a doctor at the clinic. Let that bone-setter poison you, I don't want to.}
+{Speech 17 Answer Exit}{}{We can easily fix all that!}
+{Speech 18}{}{How much longer? I'm starting to think I agreed to move out of the comfortable Vault City too soon.}
+{Speech 18 Answer Exit}{}{We'll be there soon.}
+{Speech 18 Answer 19}{}{We're here, Black!}
+{Speech 18 Answer 20}{}{We're here, Black!}
+{Speech 18 Answer Exit*}{}{I don't understand what you're talking about.}
+{Speech 18 Answer 21}{}{Jack, couldn't you walk a little faster? I can't wait for you forever! Get moving!}
+{Speech 18 Answer 23}{}{Jack! What's the deal? We had an agreement, you even got the money!!!}
+{Speech 19}{}{What? Is this a joke? An idiotic joke.}
+{Speech 20}{}{Hmm... Well, not bad, I think. True, I'll have to redo a few things here, tidy up... Excellent, I'm taking up my duties!}
+{Speech 20 Answer Exit}{}{Glad@sex@|||, that you like it here, Doctor Black.}
+{Speech 21}{}{Listen, I don't want to kick the bucket before we get to the clinic. Although... For an extra fee...}
+{Speech 21 Answer 22}{}{Oh, my God... How much?}
+{Speech 22}{}{THREE HUNDRED THIRTY!}
+{Speech 22 Answer Exit}{}{Fine, we'll walk. Only we'll get there in six months.}
+{Speech 22 Answer Exit*}{}{Deal. Just at a run, okay? [Hand over the money]}
+{Speech 23}{}{Sorry, I'm doing everything I can. There's no way to go faster. [Stifles a chuckle]}
+{Speech 23 Answer 24}{}{This isn't what we agreed on. Give back the money, Black!}
+{Speech 24}{}{No problem at all. Only I don't forget such things.}
+{Speech 24 Answer Exit}{}{Oh boo-hoo, as if... Let's move on.}
+{Speech 25}{}{After that incident I no longer wish to talk to you.@@You bastard! You left@sex@||| me to die in the Wasteland!@@Go to hell...}
+{Speech 25 Answer Exit}{}{Hey! I can explain everything!}
+{Speech 26}{}{Listen, @sex@|buddy|girl|. You've set yourself up nicely here, and I'm happy with my place too. But I've got one idea, and I keep thinking about it.}
+{Speech 26 Answer 27}{}{What are you talking about, Black?}
+{Speech 27}{}{Well look. I have a decent clinic here, everything equipped top-class. Patch up, stitch, cut out - anything you like, for your money. So why not go further?}
+{Speech 27 Answer 28}{}{Further? I don't understand...}
+{Speech 28}{}{It'll all become clear now. We need a replicator, right here in this hole. I know it's quite possible to make a deal with the Hubologists on this. Installing a personal replicator isn't cheap. But on the other hand, it's the next level of comfort in our town! Very convenient. Think about it...}
+{Speech 28 Answer Exit}{}{Yes, an interesting idea, thanks, Jack.}
+{Speech 28 Answer 29}{}{And who do you need to approach about this, do you know, Black?}
+{Speech 29}{}{[Shrugs] I think one of the higher-ups. Where do those robe-wearers have their headquarters? Frisco? Find some bigwig, ask them to explain the terms. I don't think there should be any problems with that.}
+{Speech 29 Answer Exit}{}{Yes, thank you, Jack. Maybe that's what we'll do.}
+{Speech 30}{}{A personal replicator! The Hubologist technicians brought the structural elements down the stairs and assembled it on site. Then they hooked it up to the town's grid and tuned the replicating programs and the transmitter. To latch onto it, use the terminal. I don't know how, but it works! It's amazing! }
+{Speech 30 Answer Exit}{}{I share your optimism, Jack.}

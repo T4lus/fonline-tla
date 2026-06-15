@@ -117,3 +117,47 @@ Speech 13 # О! Это лучший выбор! За 10 монет абсолю�
 {Speech 13}{}{О! Это лучший выбор! За 10 монет абсолютно новые и непередаваемые ощущения.}
 {Speech 13 Answer Exit}{}{Держи.}
 {Speech 13 Answer Exit*}{}{Тогда не надо.}
+
+[Text engl]
+{Name}{}{Cook}
+{DescAliveShort}{}{You see a cook.}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 6}{}{acquainted}
+{Speech 1 Answer 2}{}{-}
+{Speech 2}{}{Greetings, traveler. Did the smell of food bring you here?}
+{Speech 2 Answer 3}{}{Hello. Who are you?}
+{Speech 3}{}{I'm the local cook. I cook up lunches and dinners for the brothers.}
+{Speech 3 Answer 4}{}{So I'm in the kitchen?}
+{Speech 4}{}{Yes. You're in the kitchen. Here a most complex process of turning all kinds of odds and ends into tasty food takes place.}
+{Speech 4 Answer 5}{}{Good luck with the cooking.}
+{Speech 4 Answer 7}{}{They say you make food out of heretics and sinners?}
+{Speech 4 Answer 8}{}{I could use some food or drinks.}
+{Speech 5}{}{Thanks for the kind word, traveler. Here, take some vitamins.}
+{Speech 5 Answer Exit}{}{Thank you.}
+{Speech 6}{}{Hello again. Sorry, I'm busy right now.}
+{Speech 6 Answer Exit}{}{Bye.@@Bye then.@@Happy cooking.}
+{Speech 6 Answer 8}{}{I could use some food or drinks.}
+{Speech 7}{}{Ha-ha-ha. Exactly. And today you're the main course. Go on, don't get in the way, I've no time to listen to nonsense.}
+{Speech 7 Answer Exit}{}{Bye.}
+{Speech 8}{}{I can sell you some beer, moonshine, fruit, iguana, and the original beer for connoisseurs - Gamma Gulp.}
+{Speech 8 Answer 9}{}{Give me some beer.}
+{Speech 8 Answer 10}{}{I'll try the moonshine.}
+{Speech 8 Answer 11}{}{I'll take the fruit.}
+{Speech 8 Answer 12}{}{I'll grab an iguana on a stick.}
+{Speech 8 Answer 13}{}{Let's see what kind of connoisseur I am. The Gamma.}
+{Speech 8 Answer Exit}{}{I'd better come back later.}
+{Speech 9}{}{Excellent cold beer to lift your spirits. Just 5 coins.}
+{Speech 9 Answer Exit}{}{Here you go.}
+{Speech 9 Answer Exit*}{}{I think I'll change my mind.}
+{Speech 10}{}{Local triple-distilled moonshine. Not moonshine, but wine. And only 20 coins.}
+{Speech 10 Answer Exit}{}{Here you go}
+{Speech 10 Answer Exit*}{}{Then never mind.}
+{Speech 11}{}{Vitamins are our life. And 5 coins is nothing at all.}
+{Speech 11 Answer Exit}{}{Here you go.}
+{Speech 11 Answer Exit*}{}{Then never mind.}
+{Speech 12}{}{This fine little lizard on a skewer will cost just 15 coins.}
+{Speech 12 Answer Exit}{}{Here you go.}
+{Speech 12 Answer Exit*}{}{Then never mind.}
+{Speech 13}{}{Oh! That's the best choice! For 10 coins, absolutely new and indescribable sensations.}
+{Speech 13 Answer Exit}{}{Here you go.}
+{Speech 13 Answer Exit*}{}{Then never mind.}

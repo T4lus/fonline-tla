@@ -71,3 +71,30 @@ Speech 9 # Приветствую...
 {Speech 9}{}{Приветствую...}
 {Speech 9 Answer Exit}{}{АМГХА-ХА!!! [Атаковать]}
 {Speech 9 Answer Exit*}{}{У? Гульп.}
+
+[Text engl]
+{Name}{}{Guard}
+{DescAliveShort}{}{You see a Guard.}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 9}{}{stupid}
+{Speech 1 Answer 6}{}{enemy}
+{Speech 1 Answer 5}{}{acquainted}
+{Speech 1 Answer 2}{}{-}
+{Speech 2}{}{Another new face... Greetings, @sex@|friend|sister|!}
+{Speech 2 Answer 3}{}{What is this place?}
+{Speech 2 Answer 6}{}{Quiet. I'll kill you all!}
+{Speech 3}{}{This is the abode of the Church of Brock the Great and Zander the Merciful.}
+{Speech 3 Answer 7}{}{Why do you need so many guards?}
+{Speech 3 Answer 4}{}{Alright. I think I'll be going...}
+{Speech 4}{}{Don't misbehave, there are pretty strict rules of conduct here.}
+{Speech 4 Answer 8}{}{What kind of rules of conduct?}
+{Speech 5}{}{Greetings.@@Don't misbehave here.@@Remember your promises.@@May the Gods bless you.@@Nice to see you again.}
+{Speech 6}{}{Guards! Intrusion!@@Attack!@@Danger!@@Brothers, to arms!@@Prepare to die!@@May Brock help me!@@Forward!}
+{Speech 7}{}{We're constantly attacked by raiders and other scum. Like it or not, you'll keep your rifle close. Still, we pay them back in the same coin and don't let them relax...}
+{Speech 7 Answer 4}{}{I see. May I come in?}
+{Speech 8}{}{Don't kill the innocent, don't steal, don't grab things without asking. Don't use crude language. Help people to the best of your ability. Don't blaspheme and don't praise your gods publicly.}
+{Speech 8 Answer Exit}{}{I promise not to cause you any trouble. And I'll even help if needed.}
+{Speech 8 Answer Exit*}{}{I think I'll break a couple of these rules. [Attack]}
+{Speech 9}{}{Greetings...}
+{Speech 9 Answer Exit}{}{AMGHA-HA!!! [Attack]}
+{Speech 9 Answer Exit*}{}{Uh? Gulp.}

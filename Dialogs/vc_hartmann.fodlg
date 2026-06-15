@@ -723,3 +723,222 @@ Speech 75 # Все бы так служили Городу-Убежищу, ка�
 {100000009}{}{Это чучело безнадежно. Я так и думал.@@Ну, как идет, как идет! Корова какая то! Свинья, наверное.@@ Строй не ломай, ты!@@Дубьё, сороконожки! @@ Наберут по объявлению! @@ Чё-то я не понял, вы вообще ходить умеете?}
 {100000010}{}{Вольно. Разойдись.}
 {100000011}{}{Служба в рядах Гвардии закалила вас, вы научились действовать в  бою решительно и без промедлений. Никакому штатскому это недоступно . Вы получаете 1 единицу действия.}
+
+[Text engl]
+{Name}{}{Johann Hartmann}
+{DescAliveShort}{}{A stern-looking soldier.}
+{DescAliveFull}{}{A man of age, but trim and composed. He is clearly used to giving orders.}
+{Speech 1}{}{Преддиалоговые установки}
+{Speech 1 Answer 2}{}{игрок не выполнял квесты Хартмана}
+{Speech 1 Answer 72}{}{низкий интеллект}
+{Speech 1 Answer 70}{}{Взят квест на поединок, не выполнен}
+{Speech 1 Answer 11}{}{Взят квест на поединок, выполнен. }
+{Speech 1 Answer 11*}{}{Квест на винтовки не брался}
+{Speech 1 Answer 13}{}{Взят квест на ремонт винтовок}
+{Speech 1 Answer 16}{}{Выполнен квест на ремонт винтовок}
+{Speech 1 Answer 19}{}{Взят квест на строевую подготовку, но игрок вылетел. Подготовка активна, выполняет кто-то другой или зависла (сбросится через 5 реальных минут),}
+{Speech 1 Answer 18}{}{Взят квест на строевую подготовку, но игрок вылетел. Никто не занимается строевой подготовкой}
+{Speech 1 Answer 20}{}{Выполнен квест на строевую подготовку}
+{Speech 1 Answer 21}{}{Строевая подготовка сдана игрок не стал гвардейцем}
+{Speech 1 Answer 72*}{}{есть таймаут на один из повторяемых квестов}
+{Speech 1 Answer 28}{}{игрок гвардеец, выполнено меньше 3 патрулей. Таймаут прошел. Квест на патруль не взят.}
+{Speech 1 Answer 31}{}{Игрок выполнил или провалил квест на патруль}
+{Speech 1 Answer 36}{}{Игрок выполнил три квеста на патрулирование. Ранг не повышен.}
+{Speech 1 Answer 40}{}{Ранг = мл. сержант. Таймаут свободен. Менее 4 зачищенных пещер с мутантами. Не выполнен преквест разведки.}
+{Speech 1 Answer 43}{}{Игрок в процессе выполнения квеста-разведки, квест не сдан}
+{Speech 1 Answer 46}{}{Разведка выполнена, зачистка нет.}
+{Speech 1 Answer 49}{}{Зачистка выполнена, либо игрок  не успел до удаления локации}
+{Speech 1 Answer 54}{}{Выполнено 4 разведки, статус младший сержант}
+{Speech 1 Answer 74}{}{Ранг = старший сержант, нет 18 уровня или 100 красноречия}
+{Speech 1 Answer 57}{}{Ранг = старший сержант, 18 ур, 100 спича, не выполнен квест Дипкурьер}
+{Speech 1 Answer 64}{}{Взят и не сдан квест Дипкурьер}
+{Speech 1 Answer 75}{}{Лейтенант}
+{Speech 2}{}{What's the matter?}
+{Speech 2 Answer Exit}{}{Sorry, my mistake. I'm leaving now. [Exit]}
+{Speech 2 Answer 3}{}{I have some questions. Could you help?}
+{Speech 3}{}{Go ahead and ask.}
+{Speech 3 Answer 4}{}{Who are you and what do you do?}
+{Speech 4}{}{Johann Hartmann. Captain Johann Hartmann. Commander of the City Guard. Any more questions?}
+{Speech 4 Answer 5}{}{Commander of the Guard? Wow! Can I become a guardsman? All my life I @sex@|dreamed|dreamed| of a military career. Romance, military camaraderie, protecting the civilian population. Wonderful.}
+{Speech 4 Answer 6}{}{Commander of the Guard? Wow! Can I become a guardsman? All my life I @sex@|dreamed|dreamed| of a military career. Romance, military camaraderie, protecting the civilian population. Wonderful.}
+{Speech 4 Answer Exit}{}{No, sir! Permission to leave?@@No questions, farewell.}
+{Speech 5}{}{No, it won't work. Go bulk up, gain some experience, get yourself into shape… Then we'll talk.}
+{Speech 5 Answer Exit}{}{But I'm already the best@sex@|||!}
+{Speech 6}{}{Romance, protection… Are you right in the head? Did they drop you off the table as a child? Hmm. Well, in principle we are recruiting. Are you @sex@|sure|sure| you want this?}
+{Speech 6 Answer 7}{}{Yes, sir. That is exactly my wish!}
+{Speech 6 Answer Exit}{}{I need to think it over some more. [Exit]}
+{Speech 7}{}{Well then. BUT! Before becoming a guardsman, you must prove that you are @sex@|worthy|worthy| of the rank. And for that you'll have to try hard. Very hard! But afterward - all the perks: passage into the city, free medicine, decent money. What do you say?}
+{Speech 7 Answer 8}{}{Sounds great, and difficulties don't scare me.}
+{Speech 7 Answer Exit}{}{So there's a catch here too. Forget it, I'm fed up.}
+{Speech 8}{}{Well then, here's your first task. You need to fight one of our men hand-to-hand. Show what you've got.}
+{Speech 8 Answer 9}{}{Why not. I figure it's either a smashed fist or a split skull. Which one's the guy?}
+{Speech 8 Answer 10}{}{Well, I, uh, you know. My unarmed combat skills, they, uh, aren't trained up… Maybe we could do it some other way?}
+{Speech 9}{}{Now that's the spirit! There's a lad standing off by himself - go duke it out with him.}
+{Speech 9 Answer Exit}{}{As you say...}
+{Speech 10}{}{Oh, mama! A soldier, a guardsman, what can I say. Get out of here, so I don't see you again.}
+{Speech 11}{}{All right, first trial - passed. Shall we continue?}
+{Speech 11 Answer 12}{}{Always ready!}
+{Speech 11 Answer Exit}{}{I need time to prepare. [Exit]}
+{Speech 12}{}{Now, in service you'll often have to use your personal weapon. Right now your task is to show that you can handle it. Here, take these. [Hands over two rifles fouled until the bolts won't move] By tomorrow I want them shining like new! Forward, march!}
+{Speech 12 Answer Exit}{}{Yes, sir! [Exit]}
+{Speech 13}{}{Well? How's it going?}
+{Speech 13 Answer Exit}{}{It's in progress... [Exit]}
+{Speech 13 Answer 14}{}{A weapon loves tender care, cleaning and oiling! Here are your gats!}
+{Speech 13 Answer 15}{}{I @sex@|thought|thought | about it a bit. And @sex@|decided|decided|  to attach something to them.}
+{Speech 14}{}{Excellent!}
+{Speech 14 Answer Exit}{}{@sex@|Glad|glad| to serve! [Exit]}
+{Speech 15}{}{What's this improvising! Hand it over! What did you… Oh. Not bad, not bad at all. Well done. Hmm. Keep one for yourself. Would you look at that. What advanced recruits we're getting these days, huh…}
+{Speech 15 Answer Exit}{}{@sex@|Glad|glad| to serve! [Exit]}
+{Speech 16}{}{I'm listening.}
+{Speech 16 Answer 17}{}{Will there be more tasks, or am I in the Guard already?}
+{Speech 17}{}{Of course. Of course there will be, and of course you're not in the Guard yet. Next up is drill training.}
+{Speech 17 Answer 18}{}{So what are we waiting for?}
+{Speech 17 Answer Exit}{}{Oh. I'll be right here, I'm right here… [Exit]}
+{Speech 18}{}{Right. Fall into formation next to these mon… guardsmen, and do everything just like them. Got it? Go!}
+{Speech 18 Answer Exit}{}{Yes, sir! [Exit]}
+{Speech 19}{}{Talk later. I've got training going on! Clear the @sex@||| grounds, now!}
+{Speech 19 Answer Exit}{}{But what about me...}
+{Speech 20}{}{Right. @pname@. There you are.}
+{Speech 20 Answer 21}{}{Always at your service, Captain.}
+{Speech 21}{}{Welll, the trials are over for you. So. Haven't @sex@|changed your mind|changed your mind | about joining the Guard?}
+{Speech 21 Answer Exit}{}{I need time to make a decision. [Exit]}
+{Speech 21 Answer 22}{}{I don't change my decisions.}
+{Speech 22}{}{If your intentions to join the Guard are unchanged, I must administer the oath. Stand at attention and repeat after me: I, @pname@...}
+{Speech 22 Answer 23}{}{I, @pname@...}
+{Speech 23}{}{Joining the ranks of the Guardsmen of Vault City…}
+{Speech 23 Answer 24}{}{Joining the ranks of the Guardsmen of Vault City…}
+{Speech 24}{}{Do take this oath and solemnly swear. To be an honest, loyal, disciplined, vigilant warrior. To bear with dignity the hardships and deprivations of military service…}
+{Speech 24 Answer 25}{}{Do take this oath and solemnly swear. To be an honest, loyal, disciplined, vigilant warrior. To bear with dignity the hardships and deprivations of military service…}
+{Speech 25}{}{To unquestioningly carry out the orders and commands of commanders and superiors. To spare neither my blood, nor, if need be, my life in defense of the City and the fight against its enemies…}
+{Speech 25 Answer 26}{}{To unquestioningly carry out the orders and commands of commanders and superiors. To spare neither my blood, nor, if need be, my life in defense of the City and the fight against its enemies…}
+{Speech 26}{}{And if I should break this solemn oath, may I be struck by the punishment of a military tribunal. And may God have mercy on my soul.}
+{Speech 26 Answer 27}{}{And if I should break this solemn oath, may I be struck by the punishment of a military tribunal. And may God have mercy on my soul.}
+{Speech 27}{}{My congratulations, guardsman. So. Your pay is 68 coins a day. It's credited to your bank account. That's for now. Raise your rank - the pay goes up. You may enter the city without a pass. Once a week the doc in the vault will issue 5 stimpaks. Also once a week - free repairs at Valerie's. You receive service assignments from me personally. Is everything clear? Dismissed.}
+{Speech 27 Answer Exit}{}{Servant of the people! [Exit]}
+{Speech 28}{}{Right, Private @pname@. Front and center!}
+{Speech 28 Answer 29}{}{Private @pname@ reporting as ordered!}
+{Speech 29}{}{Listen to my orders. You're being assigned to a patrol. Three of our men will be with you, you'll make the rounds of the city, eliminate all hostile elements. Protect your own men, destroy the enemy. Mind you don't mix them up, Kutuzov. Report back when it's done. What's unclear?}
+{Speech 29 Answer 30}{}{Who will command the patrol?}
+{Speech 30}{}{Go out the gate to the Guard barracks. Find Corporal Shrimp, you'll be under his command. March!}
+{Speech 30 Answer Exit}{}{All clear! Permission to double-time?}
+{Speech 30 Answer 71}{}{Permission to ask a question, sir? Why is the corporal called "Shrimp"?}
+{Speech 31}{}{Report!}
+{Speech 31 Answer 32}{}{Your order has been carried out!}
+{Speech 31 Answer 33}{}{Your order has been carried out!}
+{Speech 31 Answer 34}{}{Your order has been carried out!}
+{Speech 31 Answer 35}{}{I, uh. It didn't work out…}
+{Speech 31 Answer Exit}{}{Forgive me, Captain, I'll be back soon.}
+{Speech 32}{}{Excellent, Private. Right, rest for two days, then come see me. That's an order. }
+{Speech 32 Answer Exit}{}{Yes, sir.[Exit]}
+{Speech 33}{}{Handled it well enough. Not without losses, but still. You can rest now. Come back in two days.}
+{Speech 33 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 34}{}{Hmph. I've already heard. I'm ashamed I took you into the Guard… But, for lack of a cook, you make do with the janitor. So, dear janitor, come back in a couple of days. There'll be a chance to redeem yourself.}
+{Speech 34 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 35}{}{Right, Private, I don't want to see this again. A week of self-training, then come see me.}
+{Speech 35 Answer Exit}{}{Yes, sir.[Exit]}
+{Speech 36}{}{Private @pname@!}
+{Speech 36 Answer 37}{}{Here, sir!}
+{Speech 37}{}{Allow me to congratulate you on your promotion to the next rank - junior sergeant!}
+{Speech 37 Answer 38}{}{Servant of the people!}
+{Speech 38}{}{Your pay is increased to 98 coins a day. It'll be transferred to your account. Once a week the doc will issue you a super stimpak. Weapon repair at Valerie's - 1 gun a day. Any questions?}
+{Speech 38 Answer 39}{}{No, sir! @sex@|Glad|Glad| to serve!}
+{Speech 39}{}{At ease, junior sergeant. Celebrate the promotion with friends, report to me tomorrow.}
+{Speech 39 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 40}{}{Junior sergeant @pname@!}
+{Speech 40 Answer 41}{}{Here, Captain!}
+{Speech 41}{}{I have a task for you.}
+{Speech 41 Answer 42}{}{Listening, Captain, sir.}
+{Speech 41 Answer Exit}{}{I need to adjust my gear. [Exit]}
+{Speech 42}{}{Listen to the briefing. We've received information that mutant gangs are massing in the city's vicinity again. But the information is still unconfirmed. We need to conduct reconnaissance. You'll handle this. The task - scout the surroundings, find the mutants' lair. Pinpoint the location precisely. Report to me. Under no circumstances, I repeat - under no circumstances reveal yourself. No armed clashes. Find it - and report. Is the task clear?}
+{Speech 42 Answer Exit}{}{Yes, sir. Permission to carry out? [Exit]}
+{Speech 43}{}{Junior sergeant @pname@! Awaiting your report.}
+{Speech 43 Answer 44}{}{Yes, sir, Captain! The information is confirmed. It's super mutants. The base has been found. They didn't spot me.}
+{Speech 43 Answer 45}{}{The base was found, but… I had to engage them in combat, Captain.}
+{Speech 43 Answer Exit}{}{Permission to report, I am in the process of carrying it out, Captain, sir! [Exit]}
+{Speech 44}{}{Excellent work, @pname@! I must think over the strategy, come see me tomorrow.}
+{Speech 44 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 45}{}{You @sex@|stupid ass|brainless sheep|, junior sergeant! Now they've changed location and we have to search for them all over again. What were you @sex@|listening|listening| with when I gave the task? Out of here. Come back in a week.}
+{Speech 45 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 46}{}{Junior sergeant @pname@!}
+{Speech 46 Answer 47}{}{Here, Captain!}
+{Speech 47}{}{@sex@|Ready|Ready| for the next task?}
+{Speech 47 Answer 48}{}{Yes, sir.}
+{Speech 47 Answer Exit}{}{I need time to prepare. [Exit]}
+{Speech 48}{}{The command entrusts you with an operation to wipe out the mutants' lair. I'm placing five guardsmen under your command. They'll wait for you on site. The objective - reach the super mutant base you discovered and conduct a full sweep. Super mutants are tough fighters, so you must be excellently prepared for the operation. I await your report here when it's done. No questions? Carry on!}
+{Speech 48 Answer Exit}{}{Yes, sir! [Exit]}
+{Speech 49}{}{Junior sergeant @pname@! Awaiting your report.}
+{Speech 49 Answer Exit}{}{I'm working on it, sir. [Exit]}
+{Speech 49 Answer 50}{}{Permission to report, the task is complete! }
+{Speech 49 Answer 73}{}{Captain, sir. We were too late... The mutants managed to change position...}
+{Speech 50}{}{Glad to hear it. Report the details.}
+{Speech 50 Answer 51}{}{We destroyed 9 super mutants. No casualties among our personnel.}
+{Speech 50 Answer 52}{}{We destroyed 9 super mutants. Casualties among our personnel - 1 man.}
+{Speech 50 Answer 52*}{}{We destroyed 9 super mutants. Casualties among our personnel - 2 men.}
+{Speech 50 Answer 52**}{}{We destroyed 9 super mutants. Casualties among our personnel - 3 men.}
+{Speech 50 Answer 53}{}{We destroyed 9 super mutants. Casualties among our personnel - 4 men.}
+{Speech 50 Answer 53*}{}{We destroyed 9 super mutants. I lost all of my men. The fight was hard.}
+{Speech 51}{}{Excellent work, simply superb. Here, this is from me personally. Stay close by, I'll need you again in three days.}
+{Speech 51 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 52}{}{Not bad. And you stayed within the casualty quota. Report to me in three days. For now - rest.}
+{Speech 52 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 53}{}{Too high a price for such a task. You don't take care of your men at all. That's not how you become a good commander. I'm displeased. I'll expect you here in three days.}
+{Speech 53 Answer Exit}{}{Yes, sir. [Exit]}
+{Speech 54}{}{Junior sergeant @pname@!}
+{Speech 54 Answer 55}{}{Here, Captain!}
+{Speech 55}{}{Congratulations on your promotion to the military rank of senior sergeant. Your pay is increased to 151 coins a day. Once a week you'll receive 2 super stimpaks from the doctor in the vault. Weapon repair at Valerie's - 2 items a day.}
+{Speech 55 Answer 56}{}{Servant of the people!}
+{Speech 56}{}{At ease, senior sergeant. You're free for now. Don't go away from the city for too long. You may be needed.}
+{Speech 56 Answer Exit}{}{Yes, Captain! [Exit]}
+{Speech 57}{}{Senior sergeant @pname@! Front and center!}
+{Speech 57 Answer 58}{}{Here, Captain!}
+{Speech 58}{}{I have a task of special importance for you. @sex@|Ready|Ready|?}
+{Speech 58 Answer 59}{}{Yes, sir.}
+{Speech 58 Answer Exit}{}{I'll come when I'm better prepared. [Exit]}
+{Speech 59}{}{Listen to me carefully, @pname@. The mission I'm entrusting to you is very important for the City. And the reward for completing it will be considerable. But in case of failure… I don't want to think about it, but know that if you fail, I can make your life real miserable.}
+{Speech 59 Answer 60}{}{No doubt about it… Ahem. I @sex@|meant|meant| to say - I am @sex@|ready|ready| to carry out any task from the command.}
+{Speech 59 Answer Exit}{}{Well, if you put it that way, I'd like to ask to be relieved of this task. [Exit]}
+{Speech 60}{}{So then. The events of recent weeks lead to certain conclusions. Our analysts don't like the increase in mutant activity. From this follows your task. \n Your mission - travel to the NCR and negotiate with General Sheiman for military aid for our city. Get the point across to him that we're not asking them to get involved in every skirmish on our territory, but want to secure support in case of a serious conflict. In turn, we too will be ready to render them aid. If needed.}
+{Speech 60 Answer 61}{}{Understood. It's serious business. Can you advise anything?}
+{Speech 61}{}{I can't give you any of our men to help, sorry. I strongly recommend you go to Sheiman not alone, but with three or four friends. Are there people you trust? They should be serious people, no less experienced than you. Let him see that we're not a bunch of schoolkids here.}
+{Speech 61 Answer 62}{}{Yes, sir. I'll find the people. Anything else?}
+{Speech 62}{}{Well, I can't advise you on how to conduct negotiations. I'm no diplomat. And in general I prefer action over words, so it's all at your discretion.\n}
+{Speech 62 Answer 63}{}{Permission to leave?}
+{Speech 63}{}{Go. Good luck.}
+{Speech 63 Answer Exit}{}{To hell with it. [Exit]}
+{Speech 64}{}{@pname@! Finally! Report!}
+{Speech 64 Answer Exit}{}{Negotiations are underway. I'll come with a report later. [Exit]}
+{Speech 64 Answer 67}{}{Done. They agree to help us. Here's the emergency radio code. You'll discuss the details in person with Sheiman.}
+{Speech 64 Answer 65}{}{Done. They agree to help us. Here's the emergency radio code. And on top of that, he agrees to take our soldiers on for training.}
+{Speech 64 Answer 66}{}{Done. They agree to help us. Here's the emergency radio code. And on top of that, he agrees to take our soldiers on for training.}
+{Speech 65}{}{Excellent, @pname@! I believed in you, but I didn't expect a result like this. Well, I'll reward you. From me personally - a personalized weapon, and a cash bonus, of course.}
+{Speech 65 Answer 68}{}{Serving the people!}
+{Speech 66}{}{Excellent, @pname@! I believed in you, but I didn't expect a result like this. Well, I'll reward you. From this moment you are a @sex@|Citizen|Citizen| of Vault City. From me personally - a personalized weapon, and a cash bonus, of course.}
+{Speech 66 Answer 68}{}{Serving the people!}
+{Speech 67}{}{Not bad, very good, @pname@! You greatly @sex@|helped|helped| the whole City. And the city is grateful to you. Take this.}
+{Speech 67 Answer 68}{}{Serving the people!}
+{Speech 68}{}{And you serve well! By the way, allow me to congratulate you. You're a lieutenant now. Your pay is 360 coins a day. Any treatment from Doctor Troy is free. Three super stimpaks a week from him too. Valerie will repair three of any items a day…\nI think we ought to wet those bars.}
+{Speech 68 Answer 69}{}{ Yes, sir, Captain!}
+{Speech 69}{}{You can call me Johann.}
+{Speech 69 Answer Exit}{}{Yes, sir… uh… All right, Johann. [Exit]}
+{Speech 70}{}{I don't get it... You're supposed to be @sex@|having fun|having fun| with my fighter right now. Some kind of problem?}
+{Speech 70 Answer Exit}{}{Yes, I'm heading to him now.}
+{Speech 70 Answer 11}{}{Captain, I @sex@|could|could| have beaten that guy. But, judge for yourself, how would it look from the outside? I don't want everyone thinking that any drifter from the Wasteland can easily thrash a Guard fighter...}
+{Speech 71}{}{Ask him yourself. [Smirks] That's all. Conversation's over. March!}
+{Speech 71 Answer Exit}{}{Yes, sir!}
+{Speech 72}{}{Not now, @pname@!@@ I'm busy, come back later. @@ There's nothing for you yet.@@ Go tend to your own business.@@You're distracting me, @pname@!}
+{Speech 73}{}{Damn it! I didn't expect you to let me down, junior sergeant. Well, what can you do. Come back in a week. There'll be new orders.}
+{Speech 73 Answer Exit}{}{Yes, sir...}
+{Speech 74}{}{If only everyone served Vault City the way you do. I'm proud of you!@@Hey, you apes, look at who you should be taking example from!@@Senior sergeant, you've @sex@|earned|earned| your rank. As long as guys like you are in the Guard, the City can sleep soundly.}
+{Speech 75}{}{If only everyone served Vault City the way you do. I'm proud of you!@@Hey, you apes, look at who you should be taking example from!@@Lieutenant. Greetings.}
+{100000000}{}{Guardsmen! Listen to my command. Dress center!}
+{100000001}{}{Three steps forward, march!}
+{100000002}{}{About... face!}
+{100000003}{}{Weapon to the chest!}
+{100000004}{}{Weapon on your back!}
+{100000005}{}{Five steps forward, at the double, march!}
+{100000006}{}{About face!}
+{100000007}{}{Two steps forward, march!}
+{100000008}{}{At ease!}
+{100000009}{}{This scarecrow is hopeless. Just as I thought.@@Well, how's it going, how's it going! Like some kind of cow! A pig, probably.@@ Don't break formation, you!@@Blockheads, centipedes! @@ They'll hire anybody off a notice! @@ I don't get it, can you even walk?}
+{100000010}{}{At ease. Dismissed.}
+{100000011}{}{Service in the ranks of the Guard has hardened you, you've learned to act decisively and without hesitation in combat. No civilian can do this. You receive 1 action point.}

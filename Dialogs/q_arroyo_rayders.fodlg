@@ -17,3 +17,13 @@ Speech 2 # Ах, ты, скотина!@@ @@Я убью тебя!@@Кто ты?!
 {Speech 2}{}{Ах, ты, скотина!@@ @@Я убью тебя!@@Кто ты?!}
 {100000000}{}{Все к оружию!@@А ты кто такой?!@@А ты кто такой?!@@Ты откуда взялся?!@@У нас гости, ребята!@@Это кто тут у нас!@@К бою!@@С фланга заходи, с фланга!}
 {100000001}{}{Они где-то здесь, ребята!@@Ищите!@@Куда бежишь, цыплёнок?!}
+
+[Text engl]
+{Name}{}{Raider}
+{DescAliveShort}{}{You see a raider.}
+{DescAliveFull}{}{You see one of the bandits attacking the caravans heading to Arroyo.}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 2}{}{ }
+{Speech 2}{}{Why, you scum!@@ @@I'll kill you!@@Who are you?!}
+{100000000}{}{Everyone to arms!@@And just who are you?!@@And just who are you?!@@Where'd you come from?!@@We've got company, boys!@@Well, who do we have here!@@To battle!@@Flank him, flank him!}
+{100000001}{}{They're around here somewhere, boys!@@Search!@@Where you running, chicken?!}

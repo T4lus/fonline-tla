@@ -9,3 +9,9 @@ Speech 1 # Преддиалоговые установки
 {DescAliveShort}{}{Вы видите: Док Эдвин}
 {DescAliveFull}{}{Человек в докторском халате поверх костюма Убежища. Держит себя ну ооочень важно.}
 {Speech 1}{}{Преддиалоговые установки}
+
+[Text engl]
+{Name}{}{Doc Edwin}
+{DescAliveShort}{}{You see: Doc Edwin}
+{DescAliveFull}{}{A man in a doctor's coat over a Vault suit. He carries himself reeeeally self-importantly.}
+{Speech 1}{}{Pre-dialog settings}
