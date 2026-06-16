@@ -67,14 +67,14 @@ Speech 5 # Ах, это было.... Так необычно... Конечно, 
 {DescAliveShort}{}{You see a citizen in a blue jumpsuit. His clothes look like those the vault dwellers wear, but without a number on his back.}
 {DescAliveFull}{}{You see a citizen from the Vault City.}
 {DescAliveFull}{}{You see a citizen in a blue jumpsuit. His clothes look like those the vault dwellers wear, but without a number on his back.}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Ты знаешь, я сейчас разговаривал с доктором по вопросам демографической политики…}
-{Speech 2 Answer 5}{}{Это снова я. Повторим?}
-{Speech 3}{}{А, так это тебя выбрали. Ну что ж, пойдем… Но знай, я это делаю только ради процветания города.}
-{Speech 3 Answer Exit}{}{Твой патриотизм впечатляет. Вот все бы так...}
-{Speech 3 Answer Exit*}{}{Твой патриотизм впечатляет. Вот все бы так...}
-{Speech 5}{}{Ах, это снова ты! Это было.... Так необычно... Конечно, повторим. Я готова на все ради Города-Убежища.}
-{Speech 5 Answer Exit}{}{Твой патриотизм впечатляет. Вот все бы так...}
-{Speech 5 Answer Exit*}{}{Твой патриотизм впечатляет. Вот все бы так...}
+{Speech 2 Answer 3}{}{You know, I was just talking with the doctor about demographic policy...}
+{Speech 2 Answer 5}{}{It's me again. Shall we do it again?}
+{Speech 3}{}{Ah, so you're the one who was chosen. Well then, let's go... But know that I do this only for the prosperity of the city.}
+{Speech 3 Answer Exit}{}{Your patriotism is impressive. If only everyone were like that...}
+{Speech 3 Answer Exit*}{}{Your patriotism is impressive. If only everyone were like that...}
+{Speech 5}{}{Ah, it's you again! That was.... So unusual... Of course, let's do it again. I'm ready for anything for the sake of Vault City.}
+{Speech 5 Answer Exit}{}{Your patriotism is impressive. If only everyone were like that...}
+{Speech 5 Answer Exit*}{}{Your patriotism is impressive. If only everyone were like that...}

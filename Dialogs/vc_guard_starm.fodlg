@@ -103,34 +103,34 @@ Speech 13 # [Его глаза округлились.] Эээ... Хех... Ээ
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{только для "умных"}
-{Speech 2}{}{Отош@sex@|ел|ла| от меня. Быстро. Прикончу.}
-{Speech 2 Answer 3}{}{Что случилось, @sex@|приятель|красавчик|? Откуда такая агрессия? Я - человек мирный!}
-{Speech 3}{}{Мирный? Знаю я вас, "мирных". Последнее предупреждение. Уходи, или стреляю.}
-{Speech 3 Answer 4}{}{Да подожди ты, что стряслось?! Ты чего на людей бросаешься?}
-{Speech 3 Answer Exit}{}{У самих револьверы найдутся... [Атаковать]}
-{Speech 3 Answer Exit*}{}{Полегче, @sex@|приятель|красавчик|. Проще нужно к людям относиться... [Уйти]}
-{Speech 4}{}{Непонятлив@sex@|ый|ая| как@sex|ой||ая|... Все вы, уроды из убежищ, одинаковые. Ну, я тебя предупредил. Сам@sex@||а| виноват@sex@||а| будешь.}
-{Speech 4 Answer 5}{}{Минуточку! А почему ты решил, что я из Убежища?}
-{Speech 5}{}{А что, скажешь, нет? А костюмчик откуда синий? Я что, слепой, по-твоему? [Видно, что охранник колеблется стрелять в вас или нет]}
-{Speech 5 Answer 6}{}{Что значит, откуда? Я недавно из репликации.. А хабологи всем реплицированным такие костюмы выдают. А что у тебя с жителем убежища то произошло?}
-{Speech 6}{}{Хм. А ведь точно. Слышал я об этом. Да и костюм у тебя, видно, новый.}
-{Speech 6 Answer 7}{}{Вот! И я про то! Так что там про убежища-то?}
-{Speech 7}{}{Да был тут один умник. Пришел к нам. Рассказывал про деревню, дикарей, убежища и прочий бред. Избранным назвался. Костюмчик у него был точно такой, как у тебя.}
-{Speech 7 Answer 8}{}{Ну и что? Мало ли в пустоши избранных всяких?}
-{Speech 8}{}{Ну, избранных может и не мало. А вот сволочей таких больше не встречал. Он у меня все про бронежилет мой расспрашивал. Где взял, какой удар держит, из какого материала сделан…}
-{Speech 8 Answer 9}{}{А потом?}
-{Speech 9}{}{А потом, зараза, дождался, как мы с ребятами приняли немного, в честь завершения рабочей смены. Подкрался в сумерках, да и обчистил карманы. }
-{Speech 9 Answer 10}{}{Да ну?!}
-{Speech 10}{}{Так все и было. У кузена пистолет именной спер, у командира нашего получку всей бригады за месяц. А у меня бронежилет свистнул... И как мы только не заметили его... Не знаю. Шустрый гад...}
-{Speech 10 Answer Exit}{}{Да уж, обидная история. Думаю, он уже расплатился сполна.}
-{Speech 10 Answer 11}{}{И как его только земля носит... Я не из таких, не волнуйся на мой счет! [Незаметно залезть охраннику в карман и вытащить бумажник]}
-{Speech 11}{}{[Вы успешно похитили бумажник.]}
-{Speech 11 Answer Exit}{}{[Спокойно развернуться и уйти.]}
-{Speech 11 Answer 12}{}{Хотя знаешь... Я думаю, это вы просто такие остолопы! [Помахать перед его лицом бумажником]}
-{Speech 11 Answer 12*}{}{Эй, да просто надо получше следить за своими вещами! Смотри! [Ловко вытащить бумажник из-за пазухи и попытаться улыбнуться как можно дружелюбней.]}
-{Speech 11 Answer 13}{}{Эй, да просто надо получше следить за своими вещами! Смотри! [Ловко вытащить бумажник из-за пазухи и попытаться улыбнуться как можно дружелюбней.]}
-{Speech 12}{}{Ах ты @sex@|гнусный подонок|гнусная тварь|!}
-{Speech 13}{}{[Его глаза округлились.] Эээ... Хех... Эээ... Ну ты даааёшь... [Расслабляется, тоже начинает улыбаться.]  Спасибо, в следущий раз буду осторожней. [Забирает бумажник]}
-{Speech 13 Answer Exit}{}{Бывай, чувак!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{only for the "smart" ones}
+{Speech 2}{}{Get away from me. Quick. Or I'll finish you.}
+{Speech 2 Answer 3}{}{What's the matter, @sex@|buddy|good-lookin'|? Why so aggressive? I'm a peaceful man!}
+{Speech 3}{}{Peaceful? I know your kind, the "peaceful" ones. Last warning. Leave, or I shoot.}
+{Speech 3 Answer 4}{}{Hold on, what happened?! Why are you jumping at people?}
+{Speech 3 Answer Exit}{}{I've got a revolver of my own... [Attack]}
+{Speech 3 Answer Exit*}{}{Easy, @sex@|buddy|good-lookin'|. You should take it easier on people... [Leave]}
+{Speech 4}{}{Slow@sex@||a| on the uptake... All you freaks from the Vaults are the same. Well, I warned you. You'll have only yourself to blame.}
+{Speech 4 Answer 5}{}{Just a moment! Why did you decide I'm from a Vault?}
+{Speech 5}{}{Oh, are you saying you're not? Then where did that blue suit come from? Do you think I'm blind? [You can see the guard hesitating whether to shoot you or not]}
+{Speech 5 Answer 6}{}{What do you mean, where from? I came out of replication recently. And the Hubologists hand out suits like this to everyone who's replicated. So what happened between you and a Vault dweller?}
+{Speech 6}{}{Hmm. That's right. I've heard about that. And your suit does look new.}
+{Speech 6 Answer 7}{}{There! That's what I'm saying! So what's all this about the Vaults?}
+{Speech 7}{}{There was this smart-aleck here. Came to us. Talked about some village, savages, vaults and other nonsense. Called himself the Chosen One. He had a suit exactly like yours.}
+{Speech 7 Answer 8}{}{So what? The wasteland's full of all sorts of chosen ones.}
+{Speech 8}{}{Well, maybe there's no shortage of chosen ones. But I've never met a scoundrel like him again. He kept asking me all about my body armor. Where I got it, how much of a hit it takes, what material it's made of...}
+{Speech 8 Answer 9}{}{And then?}
+{Speech 9}{}{And then, the bastard, he waited until me and the boys had a few drinks, to celebrate the end of our shift. Snuck up in the twilight and cleaned out our pockets. }
+{Speech 9 Answer 10}{}{No way?!}
+{Speech 10}{}{That's how it was. He swiped my cousin's personalized pistol, and our commander's whole crew's monthly pay. And he made off with my body armor... And how we didn't notice him... I don't know. Slippery bastard...}
+{Speech 10 Answer Exit}{}{Yeah, that's a sad story. I think he's already paid in full.}
+{Speech 10 Answer 11}{}{It's a wonder the earth still carries him... I'm not one of those, don't worry about me! [Slip your hand into the guard's pocket and pull out his wallet]}
+{Speech 11}{}{[You successfully stole the wallet.]}
+{Speech 11 Answer Exit}{}{[Calmly turn around and leave.]}
+{Speech 11 Answer 12}{}{Although, you know what... I think you lot are just that gullible! [Wave the wallet in front of his face]}
+{Speech 11 Answer 12*}{}{Hey, you just need to keep a better eye on your things! Look! [Deftly pull the wallet out from behind your shirt and try to smile as friendly as possible.]}
+{Speech 11 Answer 13}{}{Hey, you just need to keep a better eye on your things! Look! [Deftly pull the wallet out from behind your shirt and try to smile as friendly as possible.]}
+{Speech 12}{}{Why you @sex@|filthy bastard|filthy wretch|!}
+{Speech 13}{}{[His eyes went wide.] Uhh... Heh... Uhh... You're really somethin'... [Relaxes, starts smiling too.]  Thanks, I'll be more careful next time. [Takes the wallet back]}
+{Speech 13 Answer Exit}{}{Take care, pal!}

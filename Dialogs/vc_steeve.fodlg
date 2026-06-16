@@ -54,18 +54,18 @@ Speech 6 # Здравствуйте и добро пожаловать в Гор
 {DescAliveShort}{}{You see a happy young man.}
 {DescAliveFull}{}{You see Steve, Vault City Messenger.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 6}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 5}{}{знаком}
-{Speech 2}{}{Здравствуйте и добро пожаловать в Город Убежища, лучший город в Новой Калифорнии! Я Стив... чем я могу помочь вам?}
-{Speech 2 Answer 3}{}{Что вы имеете в виду под словом "лучший?"}
-{Speech 2 Answer Exit}{}{До свидания.}
-{Speech 3}{}{Мммм... [Смотрит в брошюру, которую держит в руке] Э... вы задали неправильный вопрос. Здесь нет на него ответа.}
-{Speech 3 Answer 4}{}{Вы вообще что-нибудь знаете?}
-{Speech 3 Answer Exit}{}{В любом случае спасибо.}
-{Speech 4}{}{[Смотрит в брошюру] Если житель внешнего мира... то есть вы... оскорбляет вас... это, наверное, я... отошлите его к руководителю Службы Приветствий. О... Я отсылаю вас к Мелинде, руководителю Службы Приветствий.}
-{Speech 4 Answer Exit}{}{Тогда я пойду, поговорю с ней.}
-{Speech 5}{}{Добро пожаловать в Службу Приветствий. Я Стив.}
-{Speech 5 Answer 3}{}{Что вы имеете в виду под словом "лучший?"}
-{Speech 5 Answer Exit}{}{До свидания.}
-{Speech 6}{}{Здравствуйте и добро пожаловать в Город Убежища, лучший город в Новой Калифорнии!}
+{Speech 1 Answer 6}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 5}{}{acquainted}
+{Speech 2}{}{Hello and welcome to Vault City, the best city in New California! I'm Steve... how can I help you?}
+{Speech 2 Answer 3}{}{What do you mean by the word "best"?}
+{Speech 2 Answer Exit}{}{Goodbye.}
+{Speech 3}{}{Mmm... [He looks into the brochure he is holding] Uh... you've asked the wrong question. There's no answer for it here.}
+{Speech 3 Answer 4}{}{Do you actually know anything?}
+{Speech 3 Answer Exit}{}{Thanks anyway.}
+{Speech 4}{}{[Looks into the brochure] If an outsider... that is, you... insults you... that's probably me... refer them to the head of the Welcome Service. Oh... I'm referring you to Melinda, the head of the Welcome Service.}
+{Speech 4 Answer Exit}{}{Then I'll go talk to her.}
+{Speech 5}{}{Welcome to the Welcome Service. I'm Steve.}
+{Speech 5 Answer 3}{}{What do you mean by the word "best"?}
+{Speech 5 Answer Exit}{}{Goodbye.}
+{Speech 6}{}{Hello and welcome to Vault City, the best city in New California!}

@@ -116,32 +116,32 @@ Speech 10 # Как успехи?@@Привет @pname@!@@Кого я вижу!@@
 {Speech 10}{}{Как успехи?@@Привет @pname@!@@Кого я вижу!@@Рад видеть тебя!}
 
 [Text engl]
-{Name}{}{Бармен}
-{DescAliveShort}{}{Вы видите бармена.}
-{DescAliveFull}{}{Вы видите высокого человека в элегантном костюме. Он смотрит прямо перед собой и, кажется, не обращает внимания на посетителей.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 3}{}{тупица }
-{Speech 1 Answer 7}{}{взялись за доставку}
-{Speech 1 Answer 10}{}{квест сдан}
-{Speech 1 Answer 2}{}{обычный интеллект. Квест не взят}
-{Speech 2}{}{что-то хотели?}
-{Speech 2 Answer 4}{}{Может, тебе какая-нибудь помощь нужна?}
-{Speech 2 Answer Exit}{}{Нет. Не сегодня.}
-{Speech 3}{}{Удались, тупоголовый@ Господи, кого только пускают в город@Лично для вас ничего нет}
-{Speech 4}{}{Нужна конечно. Если ты не против поработать.}
-{Speech 4 Answer 5}{}{Не против. Излагай.}
-{Speech 4 Answer Exit}{}{Что-то часто работать приходится. Я пойду лучше[выход]}
-{Speech 5}{}{Видишь ли, многим гражданам уже опротивела синтезированная пища. Они готовы отдать неплохие деньги за натуральные продукты. Если бы ты @sex@|взялся|взялась| за поставки, я был бы очень благодарен.}
-{Speech 5 Answer 6}{}{Что именно нужно?}
-{Speech 6}{}{Ну скажем так: пять шашлыков, пять игуан на палочке и пять порций вяленого мяса. Плачу четыре с половиной  сотни. И моя благодарность.}
-{Speech 6 Answer Exit}{}{Договорились[выход]}
-{Speech 6 Answer Exit*}{}{Что-то не хочется.[выход]}
-{Speech 7}{}{Как мой заказ? @sex@|Принес|Принесла|?}
-{Speech 7 Answer 8}{}{Ага. Забирай.}
-{Speech 7 Answer Exit}{}{Ещё нет[выход]}
-{Speech 7 Answer 9}{}{Ага. Забирай.}
-{Speech 8}{}{Зашибись. Так, это тебе. Кстати, приноси ещё  то же самое через пару дней. Я возьму. }
-{Speech 8 Answer Exit}{}{Хорошо[выход]}
-{Speech 9}{}{Так, это тебе. Спасибо, но пока больше ничего приносить не нужно. }
-{Speech 9 Answer Exit}{}{Как скажешь.[выход]}
-{Speech 10}{}{Как успехи?@Привет @pname@!@Кого я вижу!@Рад видеть тебя!}
+{Name}{}{Barman}
+{DescAliveShort}{}{You see the barman.}
+{DescAliveFull}{}{You see a tall man in an elegant suit. He looks straight ahead and seems to pay no attention to the visitors.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 3}{}{dimwit }
+{Speech 1 Answer 7}{}{took the delivery job}
+{Speech 1 Answer 10}{}{quest turned in}
+{Speech 1 Answer 2}{}{normal intellect. Quest not taken}
+{Speech 2}{}{want something?}
+{Speech 2 Answer 4}{}{Maybe you need some help?}
+{Speech 2 Answer Exit}{}{No. Not today.}
+{Speech 3}{}{Clear off, you blockhead@ Lord, who do they let into the city@There's nothing here for you personally}
+{Speech 4}{}{Sure I do. If you don't mind doing some work.}
+{Speech 4 Answer 5}{}{I don't mind. Spit it out.}
+{Speech 4 Answer Exit}{}{Seems like there's always work to do. I'd better be going[exit]}
+{Speech 5}{}{You see, a lot of citizens are already sick of synthesized food. They're willing to pay good money for natural products. If you @sex@|took on|took on| the supplies, I'd be very grateful.}
+{Speech 5 Answer 6}{}{What exactly do you need?}
+{Speech 6}{}{Well, let's say: five kebabs, five iguanas-on-a-stick, and five portions of jerky. I'll pay four and a half  hundred. And my gratitude.}
+{Speech 6 Answer Exit}{}{Deal[exit]}
+{Speech 6 Answer Exit*}{}{I don't feel like it.[exit]}
+{Speech 7}{}{How's my order? @sex@|Did you bring it|Did you bring it|?}
+{Speech 7 Answer 8}{}{Yeah. Take it.}
+{Speech 7 Answer Exit}{}{Not yet[exit]}
+{Speech 7 Answer 9}{}{Yeah. Take it.}
+{Speech 8}{}{Awesome. Here, this is for you. By the way, bring the same  again in a couple of days. I'll take it. }
+{Speech 8 Answer Exit}{}{Alright[exit]}
+{Speech 9}{}{Here, this is for you. Thanks, but for now I don't need anything else brought in. }
+{Speech 9 Answer Exit}{}{As you say.[exit]}
+{Speech 10}{}{How's it going?@Hi @pname@!@Look who it is!@Glad to see you!}

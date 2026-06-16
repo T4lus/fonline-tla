@@ -171,59 +171,59 @@ Speech 22 # Хорошо. Это тебе. А теперь оставь меня
 {Speech 22 Answer Exit}{}{Ладно.}
 
 [Text engl]
-{Name}{}{Чарли}
-{DescAliveShort}{}{Вы видите: Чарли.}
-{DescAliveFull}{}{Вы видите худого человека. Его волосы клочьями прилипли к голове, и его кожа свисает складками.}
-{Speech 1}{}{Преддиалоговые установки}
+{Name}{}{Charlie}
+{DescAliveShort}{}{You see: Charlie.}
+{DescAliveFull}{}{You see a thin man. His hair clings to his head in clumps, and his skin hangs in folds.}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 1 Answer 20}{}{Ушли за карабином и патронами}
-{Speech 1 Answer 3}{}{основной}
-{Speech 2}{}{Уйди, бестолочь.}
-{Speech 2 Answer Exit}{}{Агр! По-ка!}
-{Speech 3}{}{Чего?@@Отстань.@@Уходи...}
-{Speech 3 Answer 4}{}{Неважно выглядишь. Может, помощь какая нужна?}
-{Speech 3 Answer Exit}{}{Уже ухожу.}
-{Speech 4}{}{Да, нужна…}
-{Speech 4 Answer 5}{}{Говори, какая помощь.}
-{Speech 5}{}{Эээ… Мне нужен дробовик. Армейский карабин.}
-{Speech 5 Answer 6}{}{Ни хрена себе заявочки. Никак, в армию собрался? На черта тебе карабин?}
-{Speech 6}{}{Тебе правда интересно? Могу рассказать.}
-{Speech 6 Answer 7}{}{Расскажи, если это не займёт весь день.}
-{Speech 6 Answer Exit}{}{Интересно? Нет.}
-{Speech 7}{}{Я  жалок и ничтожен. Я долго думал над своей жизнью. И пришел к выводу, что она приносит мне только страдания. От неё нет никакого толку. Ни мне, ни окружающим. Поэтому я решил её прекратить. В смысле жизнь.}
-{Speech 7 Answer 8}{}{Прекратить жизнь…То есть, ты застрелиться хочешь?}
-{Speech 8}{}{Верно. Хочу. О, кстати, к дробовику мне нужен один патрон. Нет, два. Вдруг с первого не попаду.}
-{Speech 8 Answer Exit}{}{Нет уж. Ну тебя в жопу. Не стану я тебе в этом помогать.}
-{Speech 8 Answer Exit*}{}{Гм. Ну если уж ты так решил, принесу. Карабин и два патрона. Стреляйся на здоровье.}
-{Speech 8 Answer 9}{}{Я тебя @sex@|послушал|послушала|, теперь ты меня послушай. Я тоже долго @sex@|думал|думала| над своей жизнью.  В жизни действительно нет никакого толка. И не только в твоей. Это относится ко всем людям. Никто не знает, зачем живёт…}
-{Speech 8 Answer Exit**}{}{Никак не забудешь о своей идиотской идее? Да пошел ты!}
-{Speech 9}{}{[Чарли выпучил глаза и открыл рот]}
-{Speech 9 Answer 10}{}{И не стоит из себя изображать самого- больного-в-мире-человека. Я лично знаю людей, которые живут хуже тебя, но не скулят и не жалуются на жизнь…}
-{Speech 10}{}{[Чарли хлопает глазами и шевелит челюстью]}
-{Speech 10 Answer 11}{}{Подумай о своих предках, о том, сколько человек боролись за жизнь, воевали, трудились и умирали, только для того, чтобы жил ты. Тысячи людей… А ты, как последний гандон, хочешь испортить все их усилия, просто потому, что боишься жизни, боишься страданий.}
-{Speech 11}{}{Что же делать?}
-{Speech 11 Answer 12}{}{Сухари сушить.}
-{Speech 12}{}{Не понял.}
-{Speech 12 Answer 13}{}{А что тут понимать. Ты говоришь, тебе не нужна собственная жизнь. Ну так отдай её другим людям. Помоги тем, кто хочет жить, в отличие от тебя. Сделай что-нибудь, что поможет другим выжить.}
-{Speech 13}{}{А… o… Слушай, точно. Всё правильно. Я так и сделаю. Я даже знаю, как я могу помочь другим.}
-{Speech 13 Answer 14}{}{Ну-ну?}
-{Speech 14}{}{Я займусь составлением карт радиационной опасности района. Там будут выделены все зоны с повышенной радиацией.  Думаю, это поможет многим  людям.}
-{Speech 14 Answer 15}{}{Ну вот видишь. И жить стало интереснее, когда цель появилась…}
-{Speech 15}{}{Угу, точно. Так, мне понадобится счетчик Гейгера…}
-{Speech 15 Answer 16}{}{Я могу…}
-{Speech 16}{}{Не-не-не. Ты уже много для меня @sex@|сделал|сделала|.  Больше, чем кто-либо.}
-{Speech 16 Answer 17}{}{Но…}
-{Speech 17}{}{Успокойся. Тут навалом народу потупее тебя. Вот и пусть поищут мне счетчик. А тебе - моя бесконечная благодарность и вот это. Бери.}
-{Speech 17 Answer 18}{}{Спасибо.}
-{Speech 18}{}{Ага. Вот, ещё кстати, там веревка, думал - не застрелюсь, так повешусь. Мне уже не нужно. Может тебе пригодится?}
-{Speech 18 Answer 19}{}{В смысле, пригодится?}
-{Speech 19}{}{Ну броню скрафтишь,  хе хе. Шутка. Давай, счастливо.}
-{Speech 19 Answer Exit}{}{И тебе не хворать.}
-{Speech 20}{}{Что нужно?}
-{Speech 20 Answer 21}{}{Твоя просьба…}
-{Speech 21}{}{Принес?}
-{Speech 21 Answer Exit}{}{Ещё нет. [Выход]}
-{Speech 21 Answer Exit*}{}{Знаешь, я так полюбил этот карабин за время странствий. Пожалуй, оставлю себе.}
-{Speech 21 Answer 22}{}{Принес, забирай. Думаю, мозг вынесет на отлично.}
-{Speech 22}{}{Хорошо. Это тебе. А теперь оставь меня. Я должен побыть наедине с собой.}
-{Speech 22 Answer Exit}{}{Ладно.}
+{Speech 1 Answer 20}{}{Went to get the carbine and ammo}
+{Speech 1 Answer 3}{}{main}
+{Speech 2}{}{Get lost, dimwit.}
+{Speech 2 Answer Exit}{}{Argh! See ya!}
+{Speech 3}{}{What?@@Leave me alone.@@Go away...}
+{Speech 3 Answer 4}{}{You don't look so good. Maybe you need some help?}
+{Speech 3 Answer Exit}{}{I'm leaving already.}
+{Speech 4}{}{Yes, I do…}
+{Speech 4 Answer 5}{}{Tell me what kind of help.}
+{Speech 5}{}{Uhhh… I need a shotgun. An army carbine.}
+{Speech 5 Answer 6}{}{Well, that's quite a request. What, are you joining the army? What the hell do you need a carbine for?}
+{Speech 6}{}{Are you really interested? I can tell you.}
+{Speech 6 Answer 7}{}{Tell me, if it won't take all day.}
+{Speech 6 Answer Exit}{}{Interested? No.}
+{Speech 7}{}{I'm pitiful and worthless. I've thought long and hard about my life. And I've come to the conclusion that it brings me nothing but suffering. It's of no use. Not to me, not to anyone around me. So I've decided to end it. My life, I mean.}
+{Speech 7 Answer 8}{}{End your life… You mean you want to shoot yourself?}
+{Speech 8}{}{That's right. I do. Oh, by the way, I'll need one round for the shotgun. No, two. In case I miss the first time.}
+{Speech 8 Answer Exit}{}{No way. To hell with you. I won't help you with this.}
+{Speech 8 Answer Exit*}{}{Hmph. Well, if you've really decided, I'll bring them. A carbine and two rounds. Shoot yourself in good health.}
+{Speech 8 Answer 9}{}{I @sex@|listened|listened| to you, now you listen to me. I've also thought long and hard about my life. There really is no use in life. And not just yours. It goes for all people. Nobody knows why they live…}
+{Speech 8 Answer Exit**}{}{Still can't let go of your idiotic idea? Well, screw you!}
+{Speech 9}{}{[Charlie bulged his eyes and opened his mouth]}
+{Speech 9 Answer 10}{}{And don't go acting like the most-miserable-man-in-the-world. I personally know people who live worse than you, but don't whine or complain about life…}
+{Speech 10}{}{[Charlie blinks his eyes and works his jaw]}
+{Speech 10 Answer 11}{}{Think about your ancestors, about how many people fought for life, made war, toiled and died, just so that you could live. Thousands of people… And you, like the lowest scumbag, want to ruin all their efforts, just because you're afraid of life, afraid of suffering.}
+{Speech 11}{}{So what should I do?}
+{Speech 11 Answer 12}{}{Dry your tears.}
+{Speech 12}{}{I don't get it.}
+{Speech 12 Answer 13}{}{What's there to get. You say you don't need your own life. Well then, give it to other people. Help those who want to live, unlike you. Do something that helps others survive.}
+{Speech 13}{}{Ah… oh… Listen, that's right. It's all correct. That's what I'll do. I even know how I can help others.}
+{Speech 13 Answer 14}{}{Go on?}
+{Speech 14}{}{I'll take up making maps of the area's radiation hazards. All the zones with elevated radiation will be marked on them. I think it'll help a lot of people.}
+{Speech 14 Answer 15}{}{There, you see. And life got more interesting once you found a purpose…}
+{Speech 15}{}{Yep, exactly. So, I'll need a Geiger counter…}
+{Speech 15 Answer 16}{}{I can…}
+{Speech 16}{}{No-no-no. You've already @sex@|done|done| a lot for me. More than anyone.}
+{Speech 16 Answer 17}{}{But…}
+{Speech 17}{}{Relax. There's plenty of folk dumber than you around here. Let them go find me a counter. And for you - my endless gratitude and this. Take it.}
+{Speech 17 Answer 18}{}{Thank you.}
+{Speech 18}{}{Yeah. Oh, and by the way, there's a rope over there, I figured - if I don't shoot myself, I'll hang myself. I don't need it anymore. Maybe it'll come in handy for you?}
+{Speech 18 Answer 19}{}{What do you mean, come in handy?}
+{Speech 19}{}{Well, you'll craft some armor, heh heh. Just kidding. Go on, take care.}
+{Speech 19 Answer Exit}{}{You take care too.}
+{Speech 20}{}{What do you need?}
+{Speech 20 Answer 21}{}{Your request…}
+{Speech 21}{}{Did you bring it?}
+{Speech 21 Answer Exit}{}{Not yet. [Exit]}
+{Speech 21 Answer Exit*}{}{You know, I've grown so fond of this carbine during my travels. I think I'll keep it for myself.}
+{Speech 21 Answer 22}{}{Brought it, take it. I figure it'll blow your brains out just fine.}
+{Speech 22}{}{Good. This is for you. And now leave me. I need to be alone with myself.}
+{Speech 22 Answer Exit}{}{All right.}

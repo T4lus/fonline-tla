@@ -49,15 +49,15 @@ Speech 5 # Все упаковано и готово к отправке.
 {DescAliveShort}{}{You see a happily looking dealer.}
 {DescAliveFull}{}{You see Happy Harry, the shop's owner.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{ответ}
-{Speech 2}{}{Итак, приветствую вас. Чем могу служить?}
-{Speech 2 Answer 3}{}{Я думаю вы торгуете всякими вещами, и наверное у вас есть в продаже кристаллищированная вода?}
-{Speech 2 Answer Barter}{}{Я собираюсь заняться торговлей, можно посмотреть, что у вас есть в запасе?}
-{Speech 2 Answer Exit}{}{Не сегодня, спасибо.}
+{Speech 1 Answer 2}{}{answer}
+{Speech 2}{}{So, greetings to you. How may I serve you?}
+{Speech 2 Answer 3}{}{I figure you trade in all sorts of things, and you've probably got crystallized water for sale?}
+{Speech 2 Answer Barter}{}{I'm looking to do some trading, mind if I take a look at what you've got in stock?}
+{Speech 2 Answer Exit}{}{Not today, thanks.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 4}{}{20 фляг.}
-{Speech 4}{}{Хорошо, думаю я найду столько. С вас 200 монет.}
-{Speech 4 Answer 5}{}{Вот деньги. [Вы даете 200 монет]}
-{Speech 4 Answer Exit}{}{У меня недостаточно денег.}
-{Speech 4 Answer Exit*}{}{Наверное я совершу покупки позже.}
-{Speech 5}{}{Все упаковано и готово к отправке.}
+{Speech 3 Answer 4}{}{20 flasks.}
+{Speech 4}{}{All right, I think I can find that many. That'll be 200 coins.}
+{Speech 4 Answer 5}{}{Here's the money. [You hand over 200 coins]}
+{Speech 4 Answer Exit}{}{I don't have enough money.}
+{Speech 4 Answer Exit*}{}{I'll probably do my shopping later.}
+{Speech 5}{}{Everything's packed and ready to ship.}

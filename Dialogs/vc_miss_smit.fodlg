@@ -21,4 +21,4 @@ Speech 2 # Поговорите с моим мужем.@@Если вам что-
 {DescAliveFull}{}{You see miss Smith.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Поговорите с моим мужем.@@Если вам что-то нужно, поговорите с моим мужем.}
+{Speech 2}{}{Talk to my husband.@@If you need something, talk to my husband.}

@@ -49,14 +49,14 @@ Speech 5 # Мы пока останемся здесь. Если будут др
 [Text engl]
 {Name}{}{Bounty Hunter}
 {Speech 1}{}{Initial preferences}
-{Speech 1 Answer 2}{}{прохожий}
-{Speech 1 Answer 3}{}{выполняет квест}
-{Speech 1 Answer 4}{}{выполняет квест, гвардейцы внутри}
-{Speech 1 Answer 5}{}{досмотр проведен}
-{Speech 2}{}{Проходим, проходим. Это спецоперация.@@Покиньте территорию. Идет специальная правительственная операция.@@Не мешай. Лучше проваливай отсюда. Тебя не приглашали.@@У тебя ровно 30 секунд, чтобы убраться отсюда.@@Здесь запрещено находиться. Приказываю немедленно покинуть территорию.}
-{Speech 2 Answer Exit}{}{Ого! А что случилось?@@Ничего себе.@@А что происходит то?@@Ясно.}
-{Speech 3}{}{@sex@|Сэр|Мэм|! Все готово к проведению досмотра. Когда начнем?@@Действуй, мы готовы.}
-{Speech 3 Answer Exit}{}{Прямо сейчас, идите за мной.}
-{Speech 3 Answer Exit*}{}{Через пару минут. Никуда не уходить.}
-{Speech 4}{}{Можно приступать.@@Все готово, начинаем?}
-{Speech 5}{}{Мы пока останемся здесь. Если будут другие указания, дайте знать.}
+{Speech 1 Answer 2}{}{passerby}
+{Speech 1 Answer 3}{}{doing the quest}
+{Speech 1 Answer 4}{}{doing the quest, guards inside}
+{Speech 1 Answer 5}{}{search conducted}
+{Speech 2}{}{Move along, move along. This is a special operation.@@Leave the area. A special government operation is in progress.@@Don't interfere. Better get out of here. You weren't invited.@@You have exactly 30 seconds to get out of here.@@You're not allowed here. I order you to leave the area immediately.}
+{Speech 2 Answer Exit}{}{Wow! What happened?@@No way.@@What's going on here?@@I see.}
+{Speech 3}{}{@sex@|Sir|Ma'am|! Everything's ready for the search. When do we start?@@Go ahead, we're ready.}
+{Speech 3 Answer Exit}{}{Right now, follow me.}
+{Speech 3 Answer Exit*}{}{In a couple of minutes. Don't go anywhere.}
+{Speech 4}{}{We can begin.@@Everything's ready, shall we start?}
+{Speech 5}{}{We'll stay here for now. If there are other orders, let us know.}

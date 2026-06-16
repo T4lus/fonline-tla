@@ -134,47 +134,47 @@ Speech 12 # Приветсвую,  @sex@|Гражданин|Гражданка|!
 {DescAliveShort}{}{You see Randall, the Central Administrative Head Officer.}
 {DescAliveFull}{}{You see a middle-aged man with dark hair.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 10}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 12}{}{Гражданство получено}
-{Speech 2}{}{Привет! Всегда приятно увидеть новое лицо. Меня зовут Рэндал... я руководитель Службы Обустройства. Вам что-нибудь нужно?}
-{Speech 2 Answer 3}{}{Ну, возможно. Что это за место?}
-{Speech 2 Answer Exit}{}{Сегодня ничего, на самом деле.}
-{Speech 3}{}{Это Служба Обустройства. Обычный ассортимент... товары повседневного спроса, немного книг, руководства из цикла "как сделать", кое-какие инструменты, стимуляторы, медикаменты, ну и всякое такое.}
-{Speech 3 Answer 4}{}{Звучит прекрасно. Могу я посмотреть, что у вас есть?}
-{Speech 3 Answer 9}{}{Не возражаете, если я задам вам еще несколько вопросов?}
-{Speech 3 Answer Exit}{}{Я зайду в другой раз.}
-{Speech 4}{}{Ну, жаль вас расстраивать, но мне разрешено вести дела только с гражданами. Ничего личного, просто таковы правила, понимаете? Попробуйте зайти к Счастливчику Гарри в Пригороде.}
-{Speech 4 Answer 5}{}{Как можно стать гражданином?}
-{Speech 4 Answer 7}{}{Но... эээ, я живу в этом городе. Разве вы меня не помните?}
-{Speech 4 Answer 9}{}{Не возражаете, если я задам вам еще несколько вопросов?}
-{Speech 4 Answer Exit}{}{Хорошо. До встречи.}
-{Speech 5}{}{Вы можете пройти гражданский тест. Проконсул Грегори проводит его для всех жителей внешнего мира, которые хотят стать гражданами. Но, возможно, сперва вам стоит поговорить с Первой Гражданкой Линетт. Она тут у нас всем заправляет.}
-{Speech 5 Answer 6}{}{Хорошо. И где она?}
-{Speech 5 Answer 9}{}{Понятно. Не возражаете, если я задам вам еще один вопрос?}
-{Speech 5 Answer Exit}{}{Спасибо за информацию. Пойду поищу ее.}
-{Speech 6}{}{Она в здании Совета... выйдете отсюда, повернете направо, и идите прямо по улице мимо парка. Прямо в Совет и упретесь.}
-{Speech 6 Answer 9}{}{Понятно. Не возражаете, если я задам вам еще один вопрос?}
-{Speech 6 Answer Exit}{}{Спасибо за информацию. Пойду поищу ее.}
-{Speech 7}{}{Правда? Что-то я не припоминаю. А удостоверение при вас? Это бы все прояснило.}
-{Speech 7 Answer 11}{}{Да, конечно, вот оно.}
-{Speech 7 Answer 8}{}{Нет, у меня сейчас его нет при себе.}
-{Speech 7 Answer Exit}{}{Ладно, бог с ним. Поговорим позже.}
-{Speech 8}{}{Ну... э, хорошо.}
-{Speech 8 Answer 9}{}{Можно еще спросить?}
-{Speech 8 Answer Exit}{}{Ладно, я пожалуй пойду.}
-{Speech 9}{}{Конечно. Что именно?}
-{Speech 9 Answer 3}{}{Скажите еще раз, что это за место?}
-{Speech 9 Answer Exit}{}{Нет, пока ничего. До свидания.}
-{Speech 10}{}{Привет! Всегда приятно увидеть новое лицо. Меня зовут Рэндал... я руководитель Службы Обустройства. Вам что-нибудь нужно?}
-{Speech 10 Answer Exit}{}{Бака!}
-{Speech 11}{}{Хм. Ну давайте поторгуем!}
-{Speech 11 Answer Barter}{}{[Бартер]}
-{Speech 11 Answer Barter*}{}{Покажите-ка товар ещё раз.}
-{Speech 11 Answer 9}{}{Знаете, я передумал@sex@||а| торговать, хотел@sex@||а| только узнать кое-что...}
-{Speech 11 Answer 9*}{}{Это всё, спасибо. А ещё я хотел@sex@||а| узнать кое-что...}
-{Speech 11 Answer Exit}{}{На самом деле мне ничего не надо.}
-{Speech 11 Answer Exit*}{}{Это всё, спасибо.}
-{Speech 12}{}{Приветсвую,  @sex@|Гражданин|Гражданка|!  Желаете что-нибудь приобрести?}
-{Speech 12 Answer Barter}{}{Да, давайте посмотрим, что у вас есть. }
-{Speech 12 Answer Exit}{}{Не сегодня, я просто прогуливаюсь.}
+{Speech 1 Answer 10}{}{fool}
+{Speech 1 Answer 2}{}{conversation}
+{Speech 1 Answer 12}{}{Citizenship obtained}
+{Speech 2}{}{Hello! It's always nice to see a new face. My name is Randall... I'm the head of the Settlement Service. Do you need anything?}
+{Speech 2 Answer 3}{}{Well, maybe. What is this place?}
+{Speech 2 Answer Exit}{}{Nothing today, actually.}
+{Speech 3}{}{This is the Settlement Service. The usual assortment... everyday goods, a few books, "how-to" manuals, some tools, stimulants, medications, and all that sort of thing.}
+{Speech 3 Answer 4}{}{Sounds great. Can I take a look at what you have?}
+{Speech 3 Answer 9}{}{Do you mind if I ask you a few more questions?}
+{Speech 3 Answer Exit}{}{I'll drop by another time.}
+{Speech 4}{}{Well, sorry to disappoint you, but I'm only allowed to do business with citizens. Nothing personal, those are just the rules, you understand? Try stopping by Lucky Harry's in the Courtyard.}
+{Speech 4 Answer 5}{}{How can one become a citizen?}
+{Speech 4 Answer 7}{}{But... uh, I live in this city. Don't you remember me?}
+{Speech 4 Answer 9}{}{Do you mind if I ask you a few more questions?}
+{Speech 4 Answer Exit}{}{All right. See you.}
+{Speech 5}{}{You can take the citizenship test. Proconsul Gregory administers it for all outworlders who want to become citizens. But maybe you should talk to First Citizen Lynette first. She runs everything around here.}
+{Speech 5 Answer 6}{}{All right. And where is she?}
+{Speech 5 Answer 9}{}{I see. Do you mind if I ask you one more question?}
+{Speech 5 Answer Exit}{}{Thanks for the information. I'll go look for her.}
+{Speech 6}{}{She's in the Council building... go out of here, turn right, and go straight down the street past the park. You'll run right into the Council.}
+{Speech 6 Answer 9}{}{I see. Do you mind if I ask you one more question?}
+{Speech 6 Answer Exit}{}{Thanks for the information. I'll go look for her.}
+{Speech 7}{}{Really? I don't quite recall. Do you have your ID on you? That would clear everything up.}
+{Speech 7 Answer 11}{}{Yes, of course, here it is.}
+{Speech 7 Answer 8}{}{No, I don't have it on me right now.}
+{Speech 7 Answer Exit}{}{All right, never mind. We'll talk later.}
+{Speech 8}{}{Well... uh, all right.}
+{Speech 8 Answer 9}{}{Can I ask something else?}
+{Speech 8 Answer Exit}{}{All right, I'd better be going.}
+{Speech 9}{}{Of course. What exactly?}
+{Speech 9 Answer 3}{}{Tell me again, what is this place?}
+{Speech 9 Answer Exit}{}{No, nothing for now. Goodbye.}
+{Speech 10}{}{Hello! It's always nice to see a new face. My name is Randall... I'm the head of the Settlement Service. Do you need anything?}
+{Speech 10 Answer Exit}{}{Baka!}
+{Speech 11}{}{Hmm. Well, let's trade!}
+{Speech 11 Answer Barter}{}{[Barter]}
+{Speech 11 Answer Barter*}{}{Show me the goods again.}
+{Speech 11 Answer 9}{}{You know, I've changed my mind about trading, I only wanted to find out something...}
+{Speech 11 Answer 9*}{}{That's all, thanks. And there's also something I wanted to find out...}
+{Speech 11 Answer Exit}{}{Actually, I don't need anything.}
+{Speech 11 Answer Exit*}{}{That's all, thanks.}
+{Speech 12}{}{Greetings, @sex@|Citizen|Citizen|! Care to acquire something?}
+{Speech 12 Answer Barter}{}{Yes, let's take a look at what you have. }
+{Speech 12 Answer Exit}{}{Not today, I'm just strolling around.}

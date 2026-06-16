@@ -145,49 +145,49 @@ Speech 14 # Ах, как я вам признательна! Вы даже не 
 {DescAliveShort}{}{You see Amanda.}
 {DescAliveFull}{}{You see Amanda.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 12}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 2*}{}{знаком}
-{Speech 2}{}{Что вам надо?}
-{Speech 2 Answer 3}{}{С вами все в порядке? Вы плохо выглядите.}
-{Speech 2 Answer Exit}{}{Ничего. Извините за беспокойство.}
-{Speech 2 Answer 13}{}{Мы с вами уже встречались, помните?}
-{Speech 3}{}{Я... ну, я... это мой муж, Джошуа. Он... у него неприятности в... в баре. Он случайно ударил гражданина, и его арестовали. Он не хотел ничего плохого, но выпил, и...}
-{Speech 3 Answer 4}{}{Арестовали? И где он сейчас?}
-{Speech 3 Answer 8}{}{Если он напился и на кого-то напал, значит, получил по заслугам.}
-{Speech 3 Answer Exit}{}{Мне жаль это слышать. Надеюсь, они его отпустят.}
-{Speech 4}{}{В городе, в Центре Распределения Слуг... они говорят, что он сможет отбыть наказание в качестве слуги, но ему же дали несколько лет!}
-{Speech 4 Answer 5}{}{И что можно сделать?}
-{Speech 5}{}{У меня почти не осталось денег, и нам придется уйти, если мы не сможем платить охранникам за защиту. Они говорят, если мы хотим остаться с Джошуа вместе, они могут и нас сделать слугами...}
-{Speech 5 Answer 6}{}{По-моему, неплохое решение. Они же хорошо обращаются со слугами в Городе Убежище, правда?}
-{Speech 5 Answer 7}{}{Я посмотрю, что можно сделать, хорошо? Может быть, я поговорю с кем нибудь в центре распределения.}
-{Speech 5 Answer 9}{}{Я могу вам помочь. Но это будет кой-чего стоить.}
-{Speech 5 Answer Exit}{}{Мне жаль это слышать. Надеюсь, они его отпустят.}
-{Speech 6}{}{Я не хочу, чтобы мой сын вырос рабом! Мы приехали в Город Убежище, потому что сышали, что это свободный город... но когда мы оказались здесь... все эти законы, необходимость платить охранникам... ничего общего с тем, что нам рассказывали.}
-{Speech 6 Answer 7}{}{Я посмотрю, что можно сделать, хорошо? Может быть, я поговорю с кем нибудь в центре распределения.}
-{Speech 6 Answer Exit}{}{Мне жаль это слышать. Надеюсь, они его отпустят.}
-{Speech 7}{}{Главный там Баркус, офицер Баркус. Я даже не могу попасть внутрь города, чтобы поговорить с ним. Не могу убедиться, что с Джошуа все в порядке! Я...}
-{Speech 7 Answer Exit}{}{Не беспокойтесь. Я посмотрю что можно сделать.}
-{Speech 8}{}{Но это же был несчастный случай! Я... он не хотел!}
-{Speech 8 Answer 4}{}{Где он сейчас?}
-{Speech 8 Answer Exit}{}{Он не хотел ни на кого нападать? Ну, конечно. Надеюсь, это послужит вам хорошим уроком.}
-{Speech 8 Answer Exit*}{}{Мне жаль это слышать. Надеюсь, они его отпустят.}
-{Speech 9}{}{Но у меня почти нет денег и...}
-{Speech 9 Answer 10}{}{Мне нужны не деньги...}
-{Speech 9 Answer 7}{}{Да ладно. Может, я поговорю с кем-нибудь в Центре Распределения.}
-{Speech 9 Answer Exit}{}{Мне грустно это слышать. Может быть, они его все-таки выпустят. До встречи.}
-{Speech 10}{}{Что вы...? Ой, нет. Я... не могу. То есть, я...}
-{Speech 10 Answer 11}{}{Хотите вы освободить своего мужа или нет? Он никогда не узнает.}
-{Speech 10 Answer 7}{}{Да ладно. Может, я поговорю с кем-нибудь в Центре Распределения.}
-{Speech 10 Answer Exit}{}{Мне грустно это слышать. Может быть, они его все-таки выпустят. До встречи.}
-{Speech 11}{}{Если вы обещаете освободить моего мужа, я... я... ну хорошо. Я... закрою палатку. Я... думаю, сын еще играет снаружи, так что нам никто не помешает.}
-{Speech 11 Answer Exit}{}{Не волнуйтесь, я освобожу вашего мужа. Когда получу свою плату.}
-{Speech 11 Answer 7}{}{Забудте об этом. Может, я поговорю с кем-нибудь в Центре Распределения.}
-{Speech 11 Answer Exit*}{}{Ладно. Забудте о нашей встрече.}
-{Speech 12}{}{Мне очень жаль, но мне нечего вам подать.}
-{Speech 13}{}{Есть новости о Джошуа?}
-{Speech 13 Answer Exit}{}{Пока нет, но вы можете быть спокойны, Аманда, очень скоро ваш муж будет на свободе.}
-{Speech 13 Answer 14}{}{Джошуа свободен. Скоро вернется домой.}
-{Speech 13 Answer 14*}{}{Джошуа свободен. Скоро вернется домой.}
-{Speech 14}{}{Ах, как я вам признательна! Вы даже не представляете, как много сделали для нашей семьи! Благослави вас Бог!}
-{Speech 14 Answer Exit}{}{Не стоит благодарности. Постарайтесь больше не попадать в историю. Прощайте.}
+{Speech 1 Answer 12}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 2*}{}{acquainted}
+{Speech 2}{}{What do you need?}
+{Speech 2 Answer 3}{}{Are you all right? You don't look well.}
+{Speech 2 Answer Exit}{}{Nothing. Sorry to bother you.}
+{Speech 2 Answer 13}{}{We've met before, remember?}
+{Speech 3}{}{I... well, I... it's my husband, Joshua. He... he's in trouble at... at the bar. He accidentally hit a citizen, and they arrested him. He didn't mean any harm, but he'd been drinking, and...}
+{Speech 3 Answer 4}{}{Arrested? And where is he now?}
+{Speech 3 Answer 8}{}{If he got drunk and attacked someone, then he got what he deserved.}
+{Speech 3 Answer Exit}{}{I'm sorry to hear that. I hope they let him go.}
+{Speech 4}{}{In the city, at the Servant Allocation Center... they say he can serve out his sentence as a servant, but they gave him several years!}
+{Speech 4 Answer 5}{}{And what can be done?}
+{Speech 5}{}{I have almost no money left, and we'll have to leave if we can't pay the guards for protection. They say if we want to stay together with Joshua, they can make servants of us too...}
+{Speech 5 Answer 6}{}{Sounds like a decent solution to me. They treat servants well in Vault City, don't they?}
+{Speech 5 Answer 7}{}{I'll see what I can do, all right? Maybe I'll talk to someone at the allocation center.}
+{Speech 5 Answer 9}{}{I can help you. But it'll cost you something.}
+{Speech 5 Answer Exit}{}{I'm sorry to hear that. I hope they let him go.}
+{Speech 6}{}{I don't want my son to grow up a slave! We came to Vault City because we heard it was a free city... but when we got here... all these laws, having to pay the guards... nothing like what we were told.}
+{Speech 6 Answer 7}{}{I'll see what I can do, all right? Maybe I'll talk to someone at the allocation center.}
+{Speech 6 Answer Exit}{}{I'm sorry to hear that. I hope they let him go.}
+{Speech 7}{}{The one in charge there is Barkus, Officer Barkus. I can't even get into the city to talk to him. I can't make sure Joshua is all right! I...}
+{Speech 7 Answer Exit}{}{Don't worry. I'll see what I can do.}
+{Speech 8}{}{But it was an accident! I... he didn't mean to!}
+{Speech 8 Answer 4}{}{Where is he now?}
+{Speech 8 Answer Exit}{}{He didn't mean to attack anyone? Well, of course. I hope this serves as a good lesson to you.}
+{Speech 8 Answer Exit*}{}{I'm sorry to hear that. I hope they let him go.}
+{Speech 9}{}{But I have almost no money and...}
+{Speech 9 Answer 10}{}{It's not money I need...}
+{Speech 9 Answer 7}{}{Never mind. Maybe I'll talk to someone at the Allocation Center.}
+{Speech 9 Answer Exit}{}{I'm sad to hear that. Maybe they'll let him out after all. See you.}
+{Speech 10}{}{What are you...? Oh, no. I... I can't. I mean, I...}
+{Speech 10 Answer 11}{}{Do you want to free your husband or not? He'll never know.}
+{Speech 10 Answer 7}{}{Never mind. Maybe I'll talk to someone at the Allocation Center.}
+{Speech 10 Answer Exit}{}{I'm sad to hear that. Maybe they'll let him out after all. See you.}
+{Speech 11}{}{If you promise to free my husband, I... I... well, all right. I'll... close up the stall. I... think my son is still playing outside, so no one will disturb us.}
+{Speech 11 Answer Exit}{}{Don't worry, I'll free your husband. Once I get my payment.}
+{Speech 11 Answer 7}{}{Forget about it. Maybe I'll talk to someone at the Allocation Center.}
+{Speech 11 Answer Exit*}{}{All right. Forget we ever met.}
+{Speech 12}{}{I'm very sorry, but I have nothing to give you.}
+{Speech 13}{}{Any news about Joshua?}
+{Speech 13 Answer Exit}{}{Not yet, but you can rest easy, Amanda, very soon your husband will be free.}
+{Speech 13 Answer 14}{}{Joshua is free. He'll be home soon.}
+{Speech 13 Answer 14*}{}{Joshua is free. He'll be home soon.}
+{Speech 14}{}{Oh, how grateful I am to you! You have no idea how much you've done for our family! God bless you!}
+{Speech 14 Answer Exit}{}{Don't mention it. Try not to get into trouble again. Farewell.}

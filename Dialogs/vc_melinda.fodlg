@@ -33,10 +33,10 @@ Speech 4 # Пожалуйста.
 {DescAliveShort}{}{You see a very fat woman. She looks like she hasn't rest for a half of her life.}
 {DescAliveFull}{}{You see Melinda, the Head Meeting Officer.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{ответ}
-{Speech 2}{}{Чем могу помочь?}
-{Speech 2 Answer 3}{}{Я @sex@|слышал|слышала| где-то в Городе убежище можно купить кристаллизированной воды?}
-{Speech 2 Answer Exit}{}{У меня пока нет вопросов. До свидания.}
-{Speech 3}{}{Я думаю вам надо обратиться к Веселому Гарри, он обычно торгует такими вещами.}
-{Speech 3 Answer 4}{}{Спасибо.}
-{Speech 4}{}{Пожалуйста.}
+{Speech 1 Answer 2}{}{answer}
+{Speech 2}{}{How can I help?}
+{Speech 2 Answer 3}{}{I @sex@|heard|heard| you can buy crystallized water somewhere in Vault City?}
+{Speech 2 Answer Exit}{}{I have no questions for now. Goodbye.}
+{Speech 3}{}{I think you should talk to Merry Harry, he usually trades in such things.}
+{Speech 3 Answer 4}{}{Thank you.}
+{Speech 4}{}{You're welcome.}

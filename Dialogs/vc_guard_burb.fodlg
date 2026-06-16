@@ -19,6 +19,6 @@ Speech 2 # Приветствую.@@Если хотите попасть в го
 {Name}{}{Guard}
 {DescAliveShort}{}{You see a guard}
 {DescAliveFull}{}{You see a cunningly looking guard from the Vault City.}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Приветствую.@@Если хотите попасть в город, поговорите с Уоллесом.}
+{Speech 2}{}{Greetings.@@If you want to get into the city, talk to Wallace.}

@@ -39,11 +39,11 @@ Speech 5 # [Становится по стойке смирно и отдает 
 [Text engl]
 {Name}{}{Guardsman}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 3}{}{гвардеец рядовой}
-{Speech 1 Answer 4}{}{сержант}
-{Speech 1 Answer 5}{}{лейтенант}
-{Speech 2}{}{Нет времени.@@Проваливай.@@Убирайся.@@Не раздражай меня.@@Отвали.}
-{Speech 3}{}{Новенький, значит? Ну, поздравляю...@@Привет!@@Извини, @sex@|братишка|сестренка|, не до разговоров сейчас.@@Гвардеец - это почетно, страйся оправдать доверие.@@Э... Мы вроде не знакомы...@@Как продвигается служба?@@А вот и наш новичок, хе-хе.}
-{Speech 4}{}{Сержант, здравия желаю!@@Чем больше в армии сержантов, тем крепче наша оборона, @sex@|сэр|мэм|.@@Сержант, @sex@|сэр|мэм|, это не вы голыми руками задушили четверых грабителей на прошлой неделе?@@У меня вся родня в армии, но только я добился принятия в гвардию, @sex@|сэр|мэм|.@@Здорово, что вы с нами, сержант.@@Какие новости, сержант?@@Что-нибудь слышно о супермутантах? Говорят, они окружают ГУ.@@Хартманн дело свое знает, правда, сержант?}
-{Speech 5}{}{[Становится по стойке смирно и отдает честь]@@Служу народу!@@Лейтенант, сэр, разрешите обратиться?@@О, лейтенант Гвардии...@@Сэр, скажите, у меня есть шанс заслужить звание сержанта?@@Какие новости, сэр?@@В Городе все спокойно, сэр. Разрешите идти?@@Никаких происшествий, лейтенант, сэр.}
+{Speech 1 Answer 2}{}{not a guardsman}
+{Speech 1 Answer 3}{}{guardsman private}
+{Speech 1 Answer 4}{}{sergeant}
+{Speech 1 Answer 5}{}{lieutenant}
+{Speech 2}{}{No time.@@Get lost.@@Beat it.@@Don't irritate me.@@Push off.}
+{Speech 3}{}{New here, eh? Well, congratulations...@@Hi!@@Sorry, @sex@|bro|sis|, no time to talk right now.@@Being a guardsman is an honor, try to live up to the trust.@@Uh... I don't think we've met...@@How's the service going?@@And here's our newcomer, heh-heh.}
+{Speech 4}{}{Sergeant, my respects!@@The more sergeants we have in the army, the stronger our defenses, @sex@|sir|ma'am|.@@Sergeant, @sex@|sir|ma'am|, wasn't it you who strangled four robbers with your bare hands last week?@@My whole family's in the army, but only I made it into the Guard, @sex@|sir|ma'am|.@@Glad to have you with us, sergeant.@@Any news, sergeant?@@Heard anything about the super mutants? They say they're surrounding VC.@@Hartmann knows his business, right, sergeant?}
+{Speech 5}{}{[Stands at attention and salutes]@@I serve the people!@@Lieutenant, sir, permission to speak?@@Oh, Lieutenant of the Guard...@@Sir, tell me, do I have a chance to earn the rank of sergeant?@@Any news, sir?@@All quiet in the City, sir. Permission to carry on?@@No incidents, lieutenant, sir.}

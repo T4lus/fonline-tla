@@ -19,6 +19,6 @@ Speech 2 # Вы тоже будете бить меня?@@Я хорошо раб
 {Name}{}{Servant}
 {DescAliveShort}{}{You see a strong man in a working clothes. He is staring down without blinking.}
 {DescAliveFull}{}{You see a slave from Vault City.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 2}{}{Вы тоже будете бить меня?@@Я хорошо работаю.@@Хотите купить меня?@@Пожалуйста, не бейте меня опять!@@Мне надо работать.@@*шепчет* Как мне надоел этот город...}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 2}{}{Are you going to beat me too?@@I work well.@@Do you want to buy me?@@Please, don't beat me again!@@I have to work.@@*whispers* I'm so sick of this city...}

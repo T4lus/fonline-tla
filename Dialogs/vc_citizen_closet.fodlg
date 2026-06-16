@@ -18,7 +18,7 @@ Speech 2 # Я здесь ради моего же блага.@@Ну ладно, 
 [Text engl]
 {Name}{}{Citizen}
 {DescAliveShort}{}{You see the Vault City Citizen.}
-{DescAliveFull}{}{You see a Citizen wearing blue clothes. Он ссыт.}
+{DescAliveFull}{}{You see a Citizen wearing blue clothes. He is pissing.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}

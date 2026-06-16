@@ -93,22 +93,22 @@ Speech 6 # О, опять ты? Еще раз тебе накостылять?
 {Name}{}{Guardsman}
 {Speech 1}{}{Initial preferences}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 6}{}{Игрок проиграл в предыдущем бою}
-{Speech 1 Answer 2*}{}{Квест не взят, выполнен}
-{Speech 2}{}{[Гвардеец молчит] }
-{Speech 2 Answer 3}{}{Я ищу учителя, который смог бы научить меня обращаться с энергетическим оружием. Не подскажете, к кому обратиться?@@Ух! Вот это выправка! Я тоже так хочу...@@Что вы думаете об эскалации напряженности в южном регионе Калифорнии?@@Ваша Гвардия - это чистый понт. Встретились бы мы в Пустоши, я бы тебе показал@sex@||а|, где гекконы зимуют.@@Говорят, в Гвардию берут только полных идиотов. Это правда?@@А вы ноктюрн сыграть смогли бы, на флейте?@@Эй! Я, кажется, с тобой разговариваю? Или все-таки с забором?@@Как дела, @sex@|братишка|красавчик|?@@Это не вы даете уроки косноязычия?@@Как настроение, друг?@@Может, соберемся, выпьем? Я угощаю.@@Я cмотрю, ты веселый парень?@@Какие новости в Гвардии?@@Подскажите, как мне стать гвардейцем?@@Это так здорово, быть Гвардейцем. Расскажите о вашей службе, пожалуйста?@@Какова длина Дуная?@@Где я могу найти Первого Гражданина, вы же должны знать!}
-{Speech 2 Answer 2}{}{Я ищу учителя, который смог бы научить меня обращаться с энергетическим оружием. Не подскажете, к кому обратиться?@@Ух! Вот это выправка! Я тоже так хочу...@@Что вы думаете об эскалации напряженности в южном регионе Калифорнии?@@Ваша Гвардия - это чистый понт. Встретились бы мы в Пустоши, я бы тебе показал@sex@||а|, где гекконы зимуют.@@Говорят, в Гвардию берут только полных идиотов. Это правда?@@А вы ноктюрн сыграть смогли бы, на флейте?@@Эй! Я, кажется, с тобой разговариваю? Или все-таки с забором?@@Как дела, @sex@|братишка|красавчик|?@@Это не вы даете уроки косноязычия?@@Как настроение, друг?@@Может, соберемся, выпьем? Я угощаю.@@Я cмотрю, ты веселый парень?@@Какие новости в Гвардии?@@Подскажите, как мне стать гвардейцем?@@Это так здорово, быть Гвардейцем. Расскажите о вашей службе, пожалуйста?@@Какова длина Дуная?@@Где я могу найти Первого Гражданина, вы же должны знать!}
-{Speech 2 Answer Exit}{}{Мне пора.}
-{Speech 2 Answer Exit*}{}{Вот и поговорили, блин.}
-{Speech 2 Answer Exit**}{}{Тьфу!}
-{Speech 2 Answer Exit***}{}{Ах, ты, сволочь! [Атаковать] }
-{Speech 2 Answer 4}{}{Я - новобранец. Капитан Хартман отправил меня к вам, чтобы проверить мои навыки рукопашного боя.}
-{Speech 3}{}{[Широко зевает] Тебе что, поговорить не с кем?}
-{Speech 3 Answer 2}{}{О! Я уж было подумал@sex@||а|, не глухой ли ты. Ответишь на пару вопросов?}
-{Speech 4}{}{[Гвардеец измеряет вас взглядом] Новобранец... Да, вижу, что не ветеран. А ты не боишься, что я сделаю тебе больно?}
-{Speech 4 Answer 5}{}{Мы еще посмотрим, кто кому больно сделает.}
-{Speech 5}{}{[Ухмыляется] Договорились. Начнем?}
-{Speech 5 Answer Exit}{}{Да, я готов@sex@||а|. [Начать поединок]}
-{Speech 5 Answer Exit*}{}{Нет, я не могу это сделать прямо сейчас.}
-{Speech 6}{}{О, опять ты? Еще раз тебе накостылять?}
-{Speech 6 Answer 5}{}{В этот раз уже я тебя отделаю!}
+{Speech 1 Answer 6}{}{The player lost the previous fight}
+{Speech 1 Answer 2*}{}{Quest not taken, completed}
+{Speech 2}{}{[The guardsman is silent] }
+{Speech 2 Answer 3}{}{I'm looking for a teacher who could train me to handle energy weapons. Could you tell me who to turn to?@@Whew! What a bearing! I want to be like that too...@@What do you think about the escalation of tensions in the southern region of California?@@Your Guard is all show. If we'd met out in the Wasteland, I'd have shown@sex@||a| you where the geckos spend the winter.@@They say only complete idiots get taken into the Guard. Is that true?@@Could you play a nocturne, on the flute?@@Hey! I think I'm talking to you? Or to a fence after all?@@How's it going, @sex@|bro|good-lookin'|?@@Aren't you the one who gives lessons in mumbling?@@How's your mood, friend?@@Maybe we could get together for a drink? My treat.@@I see you're a cheerful fellow?@@What's the news in the Guard?@@Tell me, how do I become a guardsman?@@It must be so great to be a Guardsman. Tell me about your service, please?@@How long is the Danube?@@Where can I find the First Citizen? You must know!}
+{Speech 2 Answer 2}{}{I'm looking for a teacher who could train me to handle energy weapons. Could you tell me who to turn to?@@Whew! What a bearing! I want to be like that too...@@What do you think about the escalation of tensions in the southern region of California?@@Your Guard is all show. If we'd met out in the Wasteland, I'd have shown@sex@||a| you where the geckos spend the winter.@@They say only complete idiots get taken into the Guard. Is that true?@@Could you play a nocturne, on the flute?@@Hey! I think I'm talking to you? Or to a fence after all?@@How's it going, @sex@|bro|good-lookin'|?@@Aren't you the one who gives lessons in mumbling?@@How's your mood, friend?@@Maybe we could get together for a drink? My treat.@@I see you're a cheerful fellow?@@What's the news in the Guard?@@Tell me, how do I become a guardsman?@@It must be so great to be a Guardsman. Tell me about your service, please?@@How long is the Danube?@@Where can I find the First Citizen? You must know!}
+{Speech 2 Answer Exit}{}{I've got to go.}
+{Speech 2 Answer Exit*}{}{Well, that was a fine talk, damn it.}
+{Speech 2 Answer Exit**}{}{Bah!}
+{Speech 2 Answer Exit***}{}{Why you bastard! [Attack] }
+{Speech 2 Answer 4}{}{I'm a recruit. Captain Hartman sent me to you to test my hand-to-hand combat skills.}
+{Speech 3}{}{[Yawns widely] What, you got no one to talk to?}
+{Speech 3 Answer 2}{}{Oh! I was beginning to think@sex@||a| you might be deaf. Will you answer a couple of questions?}
+{Speech 4}{}{[The guardsman sizes you up] A recruit... Yeah, I can see you're no veteran. Aren't you afraid I'll hurt you?}
+{Speech 4 Answer 5}{}{We'll see yet who hurts whom.}
+{Speech 5}{}{[Smirks] Deal. Shall we begin?}
+{Speech 5 Answer Exit}{}{Yes, I'm ready@sex@||a|. [Begin the duel]}
+{Speech 5 Answer Exit*}{}{No, I can't do this right now.}
+{Speech 6}{}{Oh, you again? Want another beating?}
+{Speech 6 Answer 5}{}{This time I'm the one who'll thrash you!}

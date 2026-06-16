@@ -103,39 +103,39 @@ Speech 13 # Аааааа! Аааааа!
 {DescAliveShort}{}{You see Martin.}
 {DescAliveFull}{}{You see an annoying, constantly blinking man.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 12}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 10}{}{знаком}
-{Speech 2}{}{Чт-?! А-я-я-яй!}
-{Speech 2 Answer 3}{}{Айи-и-и-и!}
-{Speech 3}{}{В-в-вы чуть д-д-до смерти м-меня не н-напугали.}
-{Speech 3 Answer 4}{}{Простите, в мыслях не было вас пугать.}
-{Speech 4}{}{В-все в порядке. П-п-просто л-л-люди р-редко заходят в Убежище.}
-{Speech 4 Answer 5}{}{Чем вы тут занимаетесь?}
-{Speech 4 Answer Exit}{}{О. Приятно было поболтать. До свидания.}
-{Speech 5}{}{Т-т-т-только следите за по-по-порядком на складе. С-с-с-смотрите, чтобы в-в-в-все двери были за-за-за-заперты.}
-{Speech 5 Answer 6}{}{У вас есть ключ?}
-{Speech 5 Answer 7}{}{Что хранится там, внизу?}
-{Speech 5 Answer Exit}{}{Еще увидимся. Пока.}
-{Speech 6}{}{Эээ. Эт-т-то не имеет зна-зна-зна-значения, все равно б-б-б-большую часть д-д-дверей за-за-за-заклинило.}
-{Speech 6 Answer 7}{}{Что хранится там, внизу?}
-{Speech 6 Answer Exit}{}{Еще увидимся. Пока.}
-{Speech 7}{}{Зап-зап-запасные детали...при-при-при-припасы...и ру-ру-ру-руда...}
-{Speech 7 Answer 8}{}{Руда?}
-{Speech 7 Answer Exit}{}{О. Спасибо за информацию.}
-{Speech 8}{}{Ру-ру-ру-руда из Ре-ре-ре-ре-реддинга... Но-но-но-но-но ее уже ма-ма-ма-мало.}
-{Speech 8 Answer 9}{}{Уже мало? А почему?}
-{Speech 8 Answer Exit}{}{О. Спасибо за информацию.}
-{Speech 9}{}{Не-не-не-не з-з-з-знаю. МакКлюра это о-о-о-о-очень тре-тре-тре-тревожит.}
-{Speech 9 Answer Exit}{}{Ладно, тогда я поговорю с ним. До встречи.}
-{Speech 10}{}{П-п-п-п-ривет еще р-р-р-раз. Вам что-что-что-что-нибудь н-н-н-нужно?}
-{Speech 10 Answer 11}{}{У вас отличный голос. Вы должны постоянно упражняться.}
-{Speech 10 Answer 5}{}{Скажите еще раз, что вы тут делаете?}
-{Speech 10 Answer Exit}{}{Забудь. Извини за беспокойство.}
-{Speech 11}{}{С-с-с-спасибо! Это очень л-л-любезно.}
-{Speech 11 Answer 5}{}{Скажите еще раз, что вы тут делаете?}
-{Speech 11 Answer Exit}{}{Забудь. Извини за беспокойство.}
-{Speech 12}{}{Чт-?! А-я-я-яй!}
-{Speech 12 Answer 13}{}{Айи-и-и-и!}
-{Speech 13}{}{Аааааа! Аааааа!}
-{Speech 13 Answer Exit}{}{ААААааа!!!}
+{Speech 1 Answer 12}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 10}{}{acquainted}
+{Speech 2}{}{Wh-?! Ay-ay-ay!}
+{Speech 2 Answer 3}{}{Hey there, easy!}
+{Speech 3}{}{Y-y-you nearly s-s-scared me to d-death.}
+{Speech 3 Answer 4}{}{Sorry, I didn't mean to scare you.}
+{Speech 4}{}{It-it's all right. P-p-people just r-rarely come into the Vault.}
+{Speech 4 Answer 5}{}{What do you do here?}
+{Speech 4 Answer Exit}{}{Oh. It was nice chatting. Goodbye.}
+{Speech 5}{}{J-j-j-just keep o-o-order in the warehouse. M-m-m-make sure a-a-a-all the doors are l-l-l-locked.}
+{Speech 5 Answer 6}{}{Do you have a key?}
+{Speech 5 Answer 7}{}{What's stored down there?}
+{Speech 5 Answer Exit}{}{See you again. Bye.}
+{Speech 6}{}{Uhh. Th-th-that doesn't ma-ma-ma-matter, m-m-m-most of the d-d-doors are j-j-j-jammed anyway.}
+{Speech 6 Answer 7}{}{What's stored down there?}
+{Speech 6 Answer Exit}{}{See you again. Bye.}
+{Speech 7}{}{Sp-sp-spare parts...su-su-su-supplies...and o-o-o-ore...}
+{Speech 7 Answer 8}{}{Ore?}
+{Speech 7 Answer Exit}{}{Oh. Thanks for the information.}
+{Speech 8}{}{O-o-o-ore from Re-re-re-re-redding... B-b-b-b-but there's hardly a-a-a-any left.}
+{Speech 8 Answer 9}{}{Hardly any? Why's that?}
+{Speech 8 Answer Exit}{}{Oh. Thanks for the information.}
+{Speech 9}{}{I d-d-d-don't kn-kn-know. McClure is v-v-v-very wo-wo-wo-worried about it.}
+{Speech 9 Answer Exit}{}{All right, then I'll talk to him. See you.}
+{Speech 10}{}{H-h-h-hello a-a-again. Do you n-n-n-need a-a-anything?}
+{Speech 10 Answer 11}{}{You have a great voice. You should practice all the time.}
+{Speech 10 Answer 5}{}{Tell me again what you do here?}
+{Speech 10 Answer Exit}{}{Forget it. Sorry to bother you.}
+{Speech 11}{}{Th-th-th-thank you! That's very k-k-kind.}
+{Speech 11 Answer 5}{}{Tell me again what you do here?}
+{Speech 11 Answer Exit}{}{Forget it. Sorry to bother you.}
+{Speech 12}{}{Wh-?! Ay-ay-ay!}
+{Speech 12 Answer 13}{}{Ayee-ee-ee!}
+{Speech 13}{}{Aaaaah! Aaaaah!}
+{Speech 13 Answer Exit}{}{AAAAaah!!!}

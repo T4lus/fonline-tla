@@ -113,43 +113,43 @@ Speech 13 # Шутник.
 {DescAliveShort}{}{You see Wallace.}
 {DescAliveFull}{}{You see a fat, weak man with unattractive face. He is wearing vault jumpsuit.}
 {DescAliveFull}{}{You see Wallace, Vault City Custom's Hall representative.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 8}{}{дурак}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 8}{}{fool}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Приветствую. Добро пожаловать в Город Убежища. Я могу чем-нибудь вам помочь?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer 5}{}{Что это за место?}
-{Speech 2 Answer Exit}{}{Сегодня ничем, спасибо.}
-{Speech 3}{}{Меня зовут Уоллес. Я начальник Таможни Города Убежища. Я обслуживаю тех, у кого какие-то дела за нашими великими стенами.}
-{Speech 3 Answer 4}{}{Мне хотелось бы попасть в город.}
-{Speech 3 Answer Exit}{}{Понятно. Спасибо за информацию.}
-{Speech 4}{}{Если вы хотите попасть в Город Убежища, у вас должна быть на это серьезная причина. Только граждане Убежища имеют право входить и выходить, когда им вздумается. Все остальные должны получать дневной пропуск.}
-{Speech 4 Answer 12}{}{У меня есть чертовски серьёзная причина... }
-{Speech 4 Answer 7}{}{Что за дневной пропуск?}
-{Speech 4 Answer Exit}{}{Понятно. Спасибо за информацию.}
-{Speech 5}{}{Это таможня Города Убежища. Мы отвечаем за учет всех товаров, которые поступают в город с караванами, и наблюдаем за всеми торговыми сделками. Перед тем, как входить в город, все торговцы должны пройти таможню.}
-{Speech 5 Answer 4}{}{Мне хотелось бы попасть в город.}
-{Speech 5 Answer 6}{}{Какие товары вы получаете с караванами?}
-{Speech 5 Answer Exit}{}{Понятно. Спасибо за информацию.}
-{Speech 6}{}{Зависит от того, откуда караван. Мы получаем грузы из многих мест... Слуг - из Дена, уран - из Брокен Хиллс, а металл - из Реддинга.}
-{Speech 6 Answer Exit}{}{Что вы можете мне сказать о Дене?}
-{Speech 6 Answer Exit*}{}{Что вы можете рассказать о Брокен Хиллс?}
-{Speech 6 Answer Exit**}{}{Что вы можете мне сказать о Реддинге?}
-{Speech 6 Answer 2}{}{Могу я задать вам еще вопрос?}
-{Speech 6 Answer Exit***}{}{Понятно. Спасибо за информацию.}
-{Speech 7}{}{Дневной пропуск позволит вам находиться в стенах Города Убежища в течении дня. Все просто.}
-{Speech 7 Answer 2}{}{Позвольте задать вам еще один вопрос.}
-{Speech 7 Answer Exit}{}{Понятно. Спасибо за информацию.}
-{Speech 8}{}{Вот из за таких как ты, мы и построили стену.@@Кыш!@@Нечего тебе тут делать.@@Иди от сюда.@@Хочешь познакомиться с охраной?}
-{Speech 9}{}{О, что же вы сразу не сказали. Вот, конечно, возьмите. [Выписывает пропуск]}
-{Speech 9 Answer Exit}{}{Благодарю.}
-{Speech 10}{}{Я же выдавал вам недавно один? Извините, я не могу выписать замену так скоро.}
-{Speech 10 Answer 11}{}{Неужели ничего нельзя сделать?}
-{Speech 10 Answer Exit}{}{Первая Гражданка будет очень недовольна, когда узнает об этом.}
-{Speech 11}{}{Нет, извините.}
-{Speech 12}{}{Что же это?}
-{Speech 12 Answer 10}{}{Письмо для Первой Гражданки. Вот. [Показать голодиск]}
-{Speech 12 Answer 9}{}{Письмо для Первой Гражданки. Вот. [Показать голодиск]}
-{Speech 12 Answer 13}{}{Первая причина это ты...}
-{Speech 12 Answer Exit}{}{На самом деле ничего, извините.}
-{Speech 13}{}{Шутник.}
+{Speech 2}{}{Greetings. Welcome to Vault City. Can I help you with anything?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 5}{}{What is this place?}
+{Speech 2 Answer Exit}{}{Nothing today, thanks.}
+{Speech 3}{}{My name is Wallace. I'm the head of the Vault City Customs. I serve those who have business beyond our great walls.}
+{Speech 3 Answer 4}{}{I'd like to get into the city.}
+{Speech 3 Answer Exit}{}{I see. Thanks for the information.}
+{Speech 4}{}{If you want to get into Vault City, you'd better have a serious reason for it. Only Vault City citizens have the right to come and go as they please. Everyone else has to get a day pass.}
+{Speech 4 Answer 12}{}{I've got a damn serious reason... }
+{Speech 4 Answer 7}{}{What's a day pass?}
+{Speech 4 Answer Exit}{}{I see. Thanks for the information.}
+{Speech 5}{}{This is the Vault City customs. We're responsible for keeping track of all the goods that come into the city with the caravans, and we oversee all the trade deals. Before entering the city, all traders must pass through customs.}
+{Speech 5 Answer 4}{}{I'd like to get into the city.}
+{Speech 5 Answer 6}{}{What kind of goods do you get with the caravans?}
+{Speech 5 Answer Exit}{}{I see. Thanks for the information.}
+{Speech 6}{}{Depends on where the caravan's from. We get shipments from many places... Servants from the Den, uranium from Broken Hills, and metal from Redding.}
+{Speech 6 Answer Exit}{}{What can you tell me about the Den?}
+{Speech 6 Answer Exit*}{}{What can you tell me about Broken Hills?}
+{Speech 6 Answer Exit**}{}{What can you tell me about Redding?}
+{Speech 6 Answer 2}{}{Can I ask you another question?}
+{Speech 6 Answer Exit***}{}{I see. Thanks for the information.}
+{Speech 7}{}{A day pass will let you stay within the walls of Vault City for a day. Simple as that.}
+{Speech 7 Answer 2}{}{Let me ask you another question.}
+{Speech 7 Answer Exit}{}{I see. Thanks for the information.}
+{Speech 8}{}{It's because of people like you that we built the wall.@@Shoo!@@You've got no business here.@@Get out of here.@@Want to meet the guards?}
+{Speech 9}{}{Oh, why didn't you say so right away. Here, of course, take it. [Writes out a pass]}
+{Speech 9 Answer Exit}{}{Thank you.}
+{Speech 10}{}{Didn't I just give you one recently? Sorry, I can't write out a replacement so soon.}
+{Speech 10 Answer 11}{}{Is there really nothing that can be done?}
+{Speech 10 Answer Exit}{}{The First Citizen is going to be very displeased when she hears about this.}
+{Speech 11}{}{No, sorry.}
+{Speech 12}{}{And what is that?}
+{Speech 12 Answer 10}{}{A letter for the First Citizen. Here. [Show the holodisk]}
+{Speech 12 Answer 9}{}{A letter for the First Citizen. Here. [Show the holodisk]}
+{Speech 12 Answer 13}{}{The first reason is you...}
+{Speech 12 Answer Exit}{}{Actually nothing, sorry.}
+{Speech 13}{}{Joker.}

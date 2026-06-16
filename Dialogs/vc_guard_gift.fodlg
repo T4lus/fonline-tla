@@ -65,21 +65,21 @@ Speech 8 # Давно хотел тебя увидеть, поблагодари
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{только для норм интелекта}
-{Speech 2}{}{[Охранник очень внимательно на вас смотрит, словно пытается что-то вспомнить]}
-{Speech 2 Answer 3}{}{Ты чего на меня уставился?}
-{Speech 3}{}{Это не ты себя Избранн@sex@|ым|ой| называл@sex@||а|?}
-{Speech 3 Answer Exit}{}{Как@sex@|им|ой| так@sex@|им|ой| "избранн@sex@|ым|ой|"? Ты меня с кем-то путаешь. [Уйти]}
-{Speech 3 Answer 4}{}{[Соврать] Да. Избранный - это я. А что, мы раньше встречались?}
-{Speech 3 Answer 5}{}{[Соврать] Да. Избранный - это я. А что, мы раньше встречались?}
-{Speech 4}{}{Ха. Нет, это не ты. Брешешь, @sex@|дружок|подруга|.}
-{Speech 5}{}{Ты меня не помнишь? Ну конечно, столько времени прошло. Три года, пять лет? }
-{Speech 5 Answer 7}{}{Что-то припоминаю...}
-{Speech 5 Answer 6}{}{Извини, ошибка вышла, пошутил@sex@||а| я.}
-{Speech 6}{}{Хреновая шутка, @sex@|друг|подруга|. }
-{Speech 7}{}{Я тебе напомню. Заварушка тут была. Бандиты местные шалили, нас с ребятами сильно прижало. Если бы не твоя винтовка, положили бы нас, как пить дать!}
-{Speech 7 Answer Exit}{}{Да. Точно, так и было.}
-{Speech 7 Answer 8}{}{Да. Точно, так и было.}
-{Speech 8}{}{Давно хотел тебя увидеть, поблагодарить. Возьми в знак признательности. [Протягивает бутылку выпивки]}
-{Speech 8 Answer Exit}{}{Спасибо друг! Удачи тебе!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{only for normal intellect}
+{Speech 2}{}{[The guard is watching you very closely, as if trying to remember something]}
+{Speech 2 Answer 3}{}{What are you staring at me for?}
+{Speech 3}{}{Weren't you the one who called yourself the Chosen One?}
+{Speech 3 Answer Exit}{}{What "Chosen One"? You're confusing me with someone. [Leave]}
+{Speech 3 Answer 4}{}{[Lie] Yes. I'm the Chosen One. Why, have we met before?}
+{Speech 3 Answer 5}{}{[Lie] Yes. I'm the Chosen One. Why, have we met before?}
+{Speech 4}{}{Ha. No, it's not you. You're lying, @sex@|pal|girl|.}
+{Speech 5}{}{Don't you remember me? Well of course, so much time has passed. Three years, five years? }
+{Speech 5 Answer 7}{}{Something's coming back to me...}
+{Speech 5 Answer 6}{}{Sorry, my mistake, I was just joking@sex@||a|.}
+{Speech 6}{}{Lousy joke, @sex@|friend|girl|. }
+{Speech 7}{}{I'll remind you. There was a scuffle here. The local bandits were acting up, me and the boys were in a tight spot. If it hadn't been for your rifle, they'd have done us in for sure!}
+{Speech 7 Answer Exit}{}{Yes. That's right, that's how it was.}
+{Speech 7 Answer 8}{}{Yes. That's right, that's how it was.}
+{Speech 8}{}{I've long wanted to see you, to thank you. Take this as a token of my gratitude. [Holds out a bottle of booze]}
+{Speech 8 Answer Exit}{}{Thanks, friend! Good luck to you!}

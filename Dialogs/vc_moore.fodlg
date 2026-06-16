@@ -169,68 +169,68 @@ Speech 18 # Э... не совсем так. Осторожнее в пустош
 {DescAliveFull}{}{You see Thomas Moore.}
 {DescAliveFull}{}{You see Thomas Moore. Despite his disheveled hair and beard, his clothes look clean and tidy.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 17}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 15}{}{знаком}
-{Speech 2}{}{Привет и добро пожаловать! Вы сегодня уже слышали Слово?}
-{Speech 2 Answer 3}{}{А, ну... нет.}
-{Speech 2 Answer 10}{}{А ты ...?}
-{Speech 2 Answer Exit}{}{Э, нет, и не хочу слышать. До свидания.}
+{Speech 1 Answer 17}{}{fool}
+{Speech 1 Answer 2}{}{unknown}
+{Speech 1 Answer 15}{}{known}
+{Speech 2}{}{Hello and welcome! Have you heard the Word today?}
+{Speech 2 Answer 3}{}{Ah, well... no.}
+{Speech 2 Answer 10}{}{And you are...?}
+{Speech 2 Answer Exit}{}{Uh, no, and I don't want to hear it. Goodbye.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 11}{}{Зачем вы живете здесь, если так ненавидите этот город?}
-{Speech 3 Answer Exit}{}{С меня, пожалуй, хватит. До свидания.}
-{Speech 3 Answer Exit*}{}{Иди в другом месте свою дурь впаривай, дядя... мы тут все заодно.}
-{Speech 4}{}{Настало ВРЕМЯ услышать стенания наших собратьев за этими стенами и впустить их внутрь! У нас более чем достаточно всего, чтобы накормить и обогреть наших братьев... мы не должны быть столь богаты, когда столь многие бедны.}
-{Speech 4 Answer 5}{}{Я слышу вас!}
-{Speech 4 Answer 5*}{}{Ну наконец, хоть кто-то говорит разумные вещи! Почему другие должны страдать, когда помощь рядом, за этими стенами?}
-{Speech 4 Answer Exit}{}{С меня хватит. До свидания.\n}
-{Speech 5}{}{Глядя на вас сегодня, я вижу СИЛУ. Я вижу ВЕРУ. Лгут ли мне мои глаза? Или передо мной родственная душа, разделяющая мои убеждения?}
-{Speech 5 Answer 6}{}{Чертовски верно!\n}
-{Speech 5 Answer 8}{}{Да! Знайте же, что настало ВРЕМЯ... время для этого города, построенного на грехе и рабстве, открыть свои ворота для всех!}
-{Speech 5 Answer Exit}{}{Мне нужно идти. Приятно было поговорить... ээ, то есть послушать вас.}
+{Speech 3 Answer 11}{}{Why do you live here if you hate this city so much?}
+{Speech 3 Answer Exit}{}{I think I've had enough. Goodbye.}
+{Speech 3 Answer Exit*}{}{Go peddle your nonsense somewhere else, mister... we're all in this together here.}
+{Speech 4}{}{The TIME has come to hear the cries of our brethren beyond these walls and let them in! We have more than enough to feed and warm our brothers... we should not be so rich while so many are poor.}
+{Speech 4 Answer 5}{}{I hear you!}
+{Speech 4 Answer 5*}{}{Finally, at least someone is talking sense! Why should others suffer when help is right here, beyond these walls?}
+{Speech 4 Answer Exit}{}{I've had enough. Goodbye.\n}
+{Speech 5}{}{Looking at you today, I see STRENGTH. I see FAITH. Do my eyes deceive me? Or do I behold a kindred soul who shares my convictions?}
+{Speech 5 Answer 6}{}{Damn right!\n}
+{Speech 5 Answer 8}{}{Yes! Know this, the TIME has come... time for this city, built on sin and slavery, to open its gates to all!}
+{Speech 5 Answer Exit}{}{I have to go. It was nice talking to... uh, I mean listening to you.}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 6 Answer 12}{}{Ну, это зависит от того, сколько у вас при себе денег... "друг".}
-{Speech 6 Answer 7}{}{Нет слишком больших расстояний... нет слишком тяжкого пути, если цель справедлива, а слово истинно. Я сделаю все, что нужно сделать!}
-{Speech 6 Answer Exit}{}{Мне не нравится направление, которое принимает эта беседа. Счастливо.}
-{Speech 7}{}{Даже если это будет означать изгнание из этого оазиса?}
-{Speech 7 Answer 8}{}{Это не оазис, брат мой. Это город, построенный на жадности и себялюбии. Его нужно спасти от него самого... если посмотреть на это с такой точки зрения, будет ли изгнание слишком высокой ценой? Я думаю, нет.}
-{Speech 7 Answer 8*}{}{Я сделаю все, что угодно, чтобы освободить из оков моих собратьев!}
-{Speech 7 Answer 8**}{}{Я не знаю... а что вы просите меня сделать?}
-{Speech 7 Answer Exit}{}{Хммм. Знаете, если речь идет об этом, пожалуй, нет. Счастливо.}
-{Speech 8}{}{[Наклоняется к вам.] У меня есть посылка... с жизненно важной информацией. Вы доставите ее в Нью-Рино для меня? Я сделал бы это сам, но граждане следят за мной...}
-{Speech 8 Answer 13}{}{Так вы признаете, что у вас есть дружки в Нью-Рино, да? Это вам дорого обойдется... "друг".}
-{Speech 8 Answer 9}{}{Конечно, давайте её сюда.}
-{Speech 8 Answer Exit}{}{Нет, спасибо... это для меня слишком рискованно. На меня не рассчитывайте.}
-{Speech 9}{}{Вот, возьмите... доставьте это Джону Бишопу, в Нью-Рино. Только осторожно, дитя мое, и не забудьте слово.}
-{Speech 10}{}{Мое имя? Я Томас Мур, проповедник слова истинного. А что привело вас ко мне? Вы ищете Слово?}
-{Speech 10 Answer 3}{}{Слово?}
-{Speech 10 Answer Exit}{}{Э, нет, не сегодня, спасибо. До свидания.}
-{Speech 11}{}{Ну... кому же еще проповедовать, как не тем, кто больше всего в этом нуждается?}
-{Speech 11 Answer 10}{}{Полагаю, вы правы. Кто вы?}
-{Speech 11 Answer 3}{}{Укрепись в своем сердце, брат! Скажи слово!}
-{Speech 11 Answer 5}{}{Точно! Этот город построен на грехах и рабстве, и лишь добродетельные могут наставить его на путь истинный!}
-{Speech 11 Answer Exit}{}{Э... верно. Что ж, приятно было побеседовать. До свидания.}
-{Speech 12}{}{Невежественные варвары! У вас есть уши, но вы не слышите! У вас есть глаза, но вы не видите! Прочь с глаз моих, грязная свинья!}
-{Speech 12 Answer Exit}{}{Грязная... э... св... что? Никто не смеет так говорить со мной! Надеюсь, у тебя нет семьи и никто по тебе не заплачет, труп...}
-{Speech 12 Answer Exit*}{}{Успокойтесь. Я ухожу.}
-{Speech 13}{}{Что?! Как ты СМЕЕШЬ шантажировать меня, ты... ты... [Хмурится]... я внимательно слушаю вас.}
-{Speech 13 Answer 14}{}{Обсудим сумму выплат, или как?}
-{Speech 14}{}{Вот... в этом чемоданчике номера моего счета. Доставьте его Джону Бишопу в Нью-Рино, и он даст вам доступ к моему счету.}
-{Speech 14 Answer 12}{}{Забудьте об этом. Я все равно вас выдам.}
-{Speech 14 Answer Exit}{}{В таком случае, хрен с ней, с платой. В Рино я не пойду.}
-{Speech 14 Answer Exit*}{}{Отлично! Но не дай бог, я схожу впустую!}
-{Speech 15}{}{О! Я всегда рад встрече с искателями истины! Чем я могу помочь вам сегодня?}
-{Speech 15 Answer 16}{}{У меня есть вопрос: почему в Городе Убежища есть рабы? Мне говорили, что это свободный город.}
-{Speech 15 Answer 3}{}{Я хочу услышать слово, брат!}
-{Speech 15 Answer 4}{}{Этот город построен на грехе и рабстве, и я хочу наставить его на путь истинный!}
-{Speech 15 Answer Exit}{}{Сегодня ничем, спасибо.}
-{Speech 16}{}{На этот вопрос я не могу ответить, ибо город, построенный руками рабов, никогда не станет свободным.}
-{Speech 16 Answer 12}{}{Да, но они же смогут разбогатеть, верно?}
-{Speech 16 Answer 4}{}{Ваши слова... задели во мне какую-то струну. Возможно, для Города Убежища лучше всего будет освободить рабов и принять их.}
-{Speech 16 Answer 12*}{}{Ой, не надо этого браминьего дерьма. Рабство... и Город Убежища... просуществуют еще много лет.}
-{Speech 16 Answer Exit}{}{Интересные слова. Возможно, мы с вами еще поговорим.}
-{Speech 17}{}{Привет и добро пожаловать! Вы сегодня уже слышали Слово?}
-{Speech 17 Answer 18}{}{Буга-буга?}
-{Speech 17 Answer Exit}{}{Идти туда, туда!}
-{Speech 18}{}{Э... не совсем так. Осторожнее в пустошах, о недалекое создание.}
-{Speech 18 Answer Exit}{}{Уф.}
+{Speech 6 Answer 12}{}{Well, that depends on how much money you've got on you... "friend".}
+{Speech 6 Answer 7}{}{No distance is too great... no road too hard, if the cause is just and the word is true. I will do whatever needs to be done!}
+{Speech 6 Answer Exit}{}{I don't like the direction this conversation is taking. Take care.}
+{Speech 7}{}{Even if it means exile from this oasis?}
+{Speech 7 Answer 8}{}{It's no oasis, my brother. It's a city built on greed and selfishness. It must be saved from itself... if you look at it that way, would exile be too high a price? I think not.}
+{Speech 7 Answer 8*}{}{I will do anything to free my brethren from their chains!}
+{Speech 7 Answer 8**}{}{I don't know... what are you asking me to do?}
+{Speech 7 Answer Exit}{}{Hmmm. You know, if that's what it's about, then no. Take care.}
+{Speech 8}{}{[Leans toward you.] I have a package... with vital information. Will you deliver it to New Reno for me? I would do it myself, but the citizens are watching me...}
+{Speech 8 Answer 13}{}{So you admit you've got buddies in New Reno, do you? That's going to cost you... "friend".}
+{Speech 8 Answer 9}{}{Sure, hand it over.}
+{Speech 8 Answer Exit}{}{No, thanks... that's too risky for me. Count me out.}
+{Speech 9}{}{Here, take it... deliver this to John Bishop, in New Reno. Just be careful, my child, and don't forget the word.}
+{Speech 10}{}{My name? I am Thomas Moore, preacher of the one true word. And what brings you to me? Do you seek the Word?}
+{Speech 10 Answer 3}{}{The Word?}
+{Speech 10 Answer Exit}{}{Uh, no, not today, thanks. Goodbye.}
+{Speech 11}{}{Well... who else should one preach to, if not those who need it most?}
+{Speech 11 Answer 10}{}{I suppose you're right. Who are you?}
+{Speech 11 Answer 3}{}{Take heart, brother! Speak the word!}
+{Speech 11 Answer 5}{}{Exactly! This city is built on sins and slavery, and only the virtuous can set it on the right path!}
+{Speech 11 Answer Exit}{}{Uh... right. Well, it was nice talking. Goodbye.}
+{Speech 12}{}{Ignorant barbarians! You have ears, but you do not hear! You have eyes, but you do not see! Out of my sight, you filthy swine!}
+{Speech 12 Answer Exit}{}{Filthy... uh... sw... what? No one dares speak to me like that! I hope you have no family and that no one weeps for you, corpse...}
+{Speech 12 Answer Exit*}{}{Calm down. I'm leaving.}
+{Speech 13}{}{What?! How DARE you blackmail me, you... you... [Frowns]... I'm listening to you carefully.}
+{Speech 13 Answer 14}{}{Shall we discuss the amount of the payments, or what?}
+{Speech 14}{}{Here... in this briefcase are my account numbers. Deliver it to John Bishop in New Reno, and he will give you access to my account.}
+{Speech 14 Answer 12}{}{Forget it. I'm going to turn you in anyway.}
+{Speech 14 Answer Exit}{}{In that case, to hell with the payment. I'm not going to Reno.}
+{Speech 14 Answer Exit*}{}{Excellent! But heaven help you if I go there for nothing!}
+{Speech 15}{}{Oh! I am always glad to meet seekers of truth! How can I help you today?}
+{Speech 15 Answer 16}{}{I have a question: why are there slaves in Vault City? I was told it was a free city.}
+{Speech 15 Answer 3}{}{I want to hear the word, brother!}
+{Speech 15 Answer 4}{}{This city is built on sin and slavery, and I want to set it on the right path!}
+{Speech 15 Answer Exit}{}{Nothing today, thanks.}
+{Speech 16}{}{That question I cannot answer, for a city built by the hands of slaves will never be free.}
+{Speech 16 Answer 12}{}{Yes, but they'll be able to get rich, won't they?}
+{Speech 16 Answer 4}{}{Your words... struck a chord in me. Perhaps the best thing for Vault City would be to free the slaves and accept them.}
+{Speech 16 Answer 12*}{}{Oh, don't give me that brahmin dung. Slavery... and Vault City... will go on for many years yet.}
+{Speech 16 Answer Exit}{}{Interesting words. Perhaps we'll talk again, you and I.}
+{Speech 17}{}{Hello and welcome! Have you heard the Word today?}
+{Speech 17 Answer 18}{}{Booga-booga?}
+{Speech 17 Answer Exit}{}{Go there, there!}
+{Speech 18}{}{Uh... not quite. Be careful in the wastes, oh dim-witted creature.}
+{Speech 18 Answer Exit}{}{Ugh.}

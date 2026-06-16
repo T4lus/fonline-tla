@@ -28,9 +28,9 @@ Speech 2 # Не Гражданам тут делать нечего.@@Убира
 {Name}{}{Guard}
 {DescAliveShort}{}{You see a Vault City guard.}
 {DescAliveFull}{}{You see a guard wearing metal armor.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 2}{}{Янки гоу хом!||get out}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 2}{}{Yankee, go home!||get out}
 {100000000}{}{Empty}
 {100000001}{}{Please, remove your weapon}
 {100000002}{}{Remove your gun!}

@@ -157,50 +157,50 @@ Speech 13 # Пошёл прочь отсюда!
 {DescAliveFull}{}{This guard looks diligent. He is wearing metal armor and is holding dangerously looking rifle in his hands.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Stop! Where you pass?}
-{Speech 2 Answer 6}{}{This is my pass}
-{Speech 2 Answer 3}{}{Соответствующего разрешеня?}
-{Speech 2 Answer Exit}{}{bye}
-{Speech 2 Answer 6*}{}{This is my pass [show fake citizenship]}
-{Speech 2 Answer 11}{}{Вы не узнаете меня? Я гражданин! Вот мое удостоверение.}
-{Speech 2 Answer Exit*}{}{Досидания дядинька}
-{Speech 2 Answer 12}{}{Моя должен идти!}
-{Speech 2 Answer 13}{}{Ыыы [Изза рта капает слюна]}
+{Speech 2}{}{Stop. No one passes beyond this point without proper authorization.}
+{Speech 2 Answer 6}{}{I have a day pass.}
+{Speech 2 Answer 3}{}{Proper authorization?}
+{Speech 2 Answer Exit}{}{I see. Sorry.}
+{Speech 2 Answer 6*}{}{Don't you recognize me? I'm a citizen! Here's my ID.}
+{Speech 2 Answer 11}{}{Don't you recognize me? I'm a citizen! Here's my ID.}
+{Speech 2 Answer Exit*}{}{Goodbye mister}
+{Speech 2 Answer 12}{}{Me must go!}
+{Speech 2 Answer 13}{}{Uhhh [Drool drips from his mouth]}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{А где я могу найти Уоллеса?}
-{Speech 3 Answer 5}{}{Дневной пропуск? Что это?}
-{Speech 3 Answer Exit}{}{Ладно, спасибо.}
-{Speech 4}{}{Уоллес в здании таможни, вон там.}
-{Speech 4 Answer 5}{}{Что за дневной пропуск?}
-{Speech 4 Answer Exit}{}{Спасибо, что потратили на меня свое время. До свидания.}
-{Speech 5}{}{С дневным пропуском можно пройти в город... если у вас там дела. А теперь проходите. У меня нет времени разговаривать с чужаками.}
-{Speech 5 Answer 4}{}{Где я могу найти Уоллеса?}
-{Speech 5 Answer Exit}{}{Спасибо, что потратили на меня свое время. До свидания.}
-{Speech 6}{}{Дайте посмотреть [Он берёт Ваш пропуск, тщательно его осматривает и отдаёт обратно] Хорошо, теперь мы должны вас обыскать.}
-{Speech 6 Answer 7}{}{Обыскать? Зачем?}
-{Speech 6 Answer 9}{}{Да, конечно.[Обыск]}
-{Speech 6 Answer Exit}{}{В другой раз, мне пора.}
-{Speech 7}{}{Что бы убедиться, что у вас нет ничего незаконного.}
-{Speech 7 Answer 9}{}{Да, конечно.[Обыск]}
-{Speech 7 Answer 8}{}{А что является незаконным?}
-{Speech 7 Answer Exit}{}{В другой раз, мне пора.}
-{Speech 8}{}{Во внутренний двор запрещено вносить любые взрывчатые вещества, алкоголь и наркотики. Есть при вас что-то есть из вышеперечисленного, мы вас не пропустим.}
-{Speech 8 Answer 9}{}{Хорошо, обыскивайте меня. Я чист. [Обыск]}
-{Speech 8 Answer Exit}{}{Ух, пожалуй, я вернусь позже.}
-{Speech 9}{}{okay. go.}
-{Speech 10}{}{stop!}
-{Speech 11}{}{Текст диалога}
-{Speech 11 Answer Exit}{}{Заткнись! [атака]}
-{Speech 11 Answer 6}{}{Вы ошибаетесь. Это просто пропуск старого образца. Поглядите внимательней.}
-{Speech 11 Answer 13}{}{Вы ошибаетесь. Это просто пропуск старого образца. Поглядите внимательней.}
-{Speech 11 Answer 6*}{}{Вам показалось. [Вкладываете в пропуск 100$] Поглядите внимательней.}
-{Speech 11 Answer Exit*}{}{Зачем нам конфликт? Давай сделаем вид что ничего не произошло.}
-{Speech 11 Answer 6**}{}{Но я так хочю, войти! О!, Какой большой, город! [томно вздыхаете]}
-{Speech 12}{}{Окей, я тебя обыщу если ты небудеш кусаться}
-{Speech 12 Answer 9}{}{Угумс}
-{Speech 12 Answer Exit}{}{Агрр!!! [Атака]}
-{Speech 12 Answer Exit*}{}{Неа моя не будет}
-{Speech 13}{}{Пошёл прочь отсюда!}
+{Speech 3 Answer 4}{}{And where can I find Wallace?}
+{Speech 3 Answer 5}{}{A day pass? What's that?}
+{Speech 3 Answer Exit}{}{All right, thanks.}
+{Speech 4}{}{Wallace is in the customs building, over there.}
+{Speech 4 Answer 5}{}{What's a day pass?}
+{Speech 4 Answer Exit}{}{Thanks for taking the time. Goodbye.}
+{Speech 5}{}{With a day pass you can enter the city... if you have business there. Now move along. I have no time to talk with strangers.}
+{Speech 5 Answer 4}{}{Where can I find Wallace?}
+{Speech 5 Answer Exit}{}{Thanks for taking the time. Goodbye.}
+{Speech 6}{}{Let me see [He takes your pass, examines it carefully and hands it back] All right, now we have to search you.}
+{Speech 6 Answer 7}{}{Search? Why?}
+{Speech 6 Answer 9}{}{Yes, of course.[Search]}
+{Speech 6 Answer Exit}{}{Another time, I have to go.}
+{Speech 7}{}{To make sure you don't have anything illegal.}
+{Speech 7 Answer 9}{}{Yes, of course.[Search]}
+{Speech 7 Answer 8}{}{And what counts as illegal?}
+{Speech 7 Answer Exit}{}{Another time, I have to go.}
+{Speech 8}{}{No explosives, alcohol or drugs may be brought into the inner courtyard. If you're carrying any of the above, we won't let you in.}
+{Speech 8 Answer 9}{}{Fine, search me. I'm clean. [Search]}
+{Speech 8 Answer Exit}{}{Uh, I think I'll come back later.}
+{Speech 9}{}{Looks like you've got nothing. You may pass. Just keep your weapon holstered.}
+{Speech 10}{}{I can't let you in with THAT!}
+{Speech 11}{}{Let me see [He takes your pass and examines it carefully] Damn it! This is a forgery!}
+{Speech 11 Answer Exit}{}{I have business to attend to!... [Try to run away]}
+{Speech 11 Answer 6}{}{You're mistaken. It's just an old-style pass. Look closer.}
+{Speech 11 Answer 13}{}{You're mistaken. It's just an old-style pass. Look closer.}
+{Speech 11 Answer 6*}{}{You imagined it. [You slip 100$ into the pass] Look closer.}
+{Speech 11 Answer Exit*}{}{Why fight about it? Let's pretend nothing happened.}
+{Speech 11 Answer 6**}{}{But I want to go in so badly! Oh! What a big city! [You sigh languidly]}
+{Speech 12}{}{Okay, but first I'll search you, if you won't bite}
+{Speech 12 Answer 9}{}{Uh-huh}
+{Speech 12 Answer Exit}{}{Arrgh!!! [Attack]}
+{Speech 12 Answer Exit*}{}{Me not want to be touched by hands}
+{Speech 13}{}{Get out of here!}
 {100000001}{}{iam searching you}
 {100000002}{}{okay, go}
 {100000003}{}{Stop! Remove forbidden items}

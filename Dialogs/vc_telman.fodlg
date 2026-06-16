@@ -53,17 +53,17 @@ Speech 5 # Да не пойду я никуда.  Убирайся прочь!
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{получен квест Эрнст Тельман от линетт }
-{Speech 2}{}{Что вам нужно?}
-{Speech 2 Answer 3}{}{Нам нужно проводить тебя в тюрьму.}
-{Speech 2 Answer 4}{}{Извините, что отрываю. Видите ли, органы надзора получили  жалобу на вас…Не переживайте, мы  уже разобрались, это всё полная чушь, к вам нет претензий. Просто небольшая формальность - нужно зайти расписаться, что ваши права не были нарушены. Желательно прямо сейчас, если возможно.}
-{Speech 2 Answer Exit}{}{Молчи и дуй за мной. Все ясно?}
-{Speech 3}{}{Да кто вы такой? По какому праву?}
-{Speech 3 Answer 5}{}{Там всё объяснят. Шевелись. Я не буду тебя уговаривать.}
-{Speech 4}{}{Да, конечно. Не будем откладывать.}
-{Speech 4 Answer Exit}{}{Я провожу вас [выход]}
-{Speech 5}{}{Да не пойду я никуда.  Убирайся из моего дома.}
-{Speech 5 Answer Attack}{}{Неправильный ответ. Получи!}
-{100000001}{}{Вы не имеете права!@@Я буду жаловаться!@@Это произвол!@@Ты! Ты поплатишься за это!@@Я выйду отсюда через полчаса, вы все заплатите!}
-{100000002}{}{Пакуйте товарища.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{quest Ernst Telman received from Lynette }
+{Speech 2}{}{What do you need?}
+{Speech 2 Answer 3}{}{We need to escort you to the prison.}
+{Speech 2 Answer 4}{}{Sorry to bother you. You see, the supervisory authorities have received a complaint about you... Don't worry, we've already sorted it out, it's all complete nonsense, there are no claims against you. It's just a small formality - you need to come in and sign that your rights weren't violated. Preferably right now, if possible.}
+{Speech 2 Answer Exit}{}{Shut up and follow me. Is that clear?}
+{Speech 3}{}{And who are you? By what right?}
+{Speech 3 Answer 5}{}{They'll explain everything there. Get moving. I'm not going to talk you into it.}
+{Speech 4}{}{Yes, of course. Let's not delay.}
+{Speech 4 Answer Exit}{}{I'll escort you [exit]}
+{Speech 5}{}{I'm not going anywhere.  Get out of my house.}
+{Speech 5 Answer Attack}{}{Wrong answer. Take that!}
+{100000001}{}{You have no right!@@I'll file a complaint!@@This is an outrage!@@You! You'll pay for this!@@I'll be out of here in half an hour, and you'll all pay!}
+{100000002}{}{Pack up the comrade.}

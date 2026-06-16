@@ -131,41 +131,41 @@ Speech 15 # Лейтенант, сэр... Простите, не признал.
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
 {Speech 1 Answer 13}{}{Answer text}
-{Speech 1 Answer 11}{}{патруль на энке}
-{Speech 2}{}{Ну, ты еще кто так@sex@|ой|ая|? Не раздражай меня. Отвечать быстро, пока я не занялся тобой, @sex@|щегол|крыса|.}
-{Speech 2 Answer 7}{}{Капрал Шрим? По приказу капитана Хартманна я прибыл для несения патрульной службы.}
-{Speech 2 Answer 14}{}{Капрал Шрим? По приказу капитана Хартманна я прибыл для несения патрульной службы.}
-{Speech 2 Answer 5}{}{Почему тебя называют "креветкой"?}
-{Speech 2 Answer 3}{}{Эй, эй, ты чего такой нервный!}
-{Speech 2 Answer Exit}{}{Мне нужно идти.}
-{Speech 2 Answer 15}{}{Да ты как со старшим по званию разговариваешь, капрал!}
-{Speech 3}{}{Что?! Да как ты смеешь!!! Ты дерзишь мне, ах ты, падла, я прикончу тебя прямо на месте, вспорю твое брюхо кинжалом! Ты будешь корчиться на моем наже как червяк! О тебе и думать забудут, дрянь!!!}
-{Speech 3 Answer 5}{}{Спокойнее, Креветка, я свой, гвардеец.}
-{Speech 3 Answer 4}{}{Я здесь по приказу капитана.}
-{Speech 4}{}{Какого, к дьволу, капитана? Капитана Кука? Капитана-Америка? Капитана Очевидность? Ты, туп@sex@|ой брамин|ая корова|, выражайся понятно, или убирайся отсюда ко всем чертям!}
-{Speech 4 Answer 7}{}{Приказ капитана Хартманна. Прибыл@sex@||а| для несения патрульной службы.}
-{Speech 4 Answer 14}{}{Приказ капитана Хартманна. Прибыл@sex@||а| для несения патрульной службы.}
-{Speech 5}{}{Ты... Что ты сейчас сказал@sex@||а|, повтори... Если я еще раз от тебя это слово услышу. Я не знаю, что сделаю с тобой!!! Никто этого не знает. Но это будет что-то очень страшное. Поверь мне. Я не бросаю слова на ветер. [Достает здоровенный тесак из-за пояса]}
-{Speech 5 Answer Exit}{}{Да что ты можешь сделать, псих? Я легко тебя успокою.}
-{Speech 5 Answer Exit*}{}{Не будем об этом.}
-{Speech 6}{}{Ну все, я за себя не отвечаю! Прощайся с жизнью, мразь.}
-{Speech 7}{}{Патрульный. Хреново. Только мне желторотиков в патруле не хватало. Так, мля, слушай сюда, новобранец. В патруле - молчать, выполнять приказы быстрее, чем услышишь, не тупить, не тормозить. За любую ошибку буду бить морду. @sex@|Усек?|Усекла?|}
-{Speech 7 Answer 8}{}{Да чего тут усекать. А когда выходим?}
-{Speech 7 Answer 9}{}{[Кивнуть]}
-{Speech 8}{}{[Лицо капрала багровеет и он срывается на крик] Чем слушаем, тля?!!! Я что сказал сейчас? Молчать! Тебе еще раз объяснить?}
-{Speech 8 Answer 9}{}{[Молчать]}
-{Speech 9}{}{Ты очень вовремя здесь появилась, подружка. Выходим немедленно.}
-{Speech 9 Answer 10}{}{Прошу прощения, сэр. Мне нужно только заскочить в уборную.}
-{Speech 9 Answer Exit}{}{Отлично! Я готов@sex@||а|.}
-{Speech 10}{}{Тьфу. Бегом! У тебя ровно 32 секунды. И не часом больше.}
-{Speech 10 Answer Exit}{}{Есть!}
-{Speech 11}{}{Кто? Ты? Ты меня бесишь, запомни это. Быстрее, что за хрень случилась?}
-{Speech 11 Answer 12}{}{Сэр, мне кажется мы можем продолжить маршрут патрулирования.}
-{Speech 11 Answer Exit}{}{Ничего особенного. Все в норме.}
-{Speech 12}{}{Тебе КАЖЕТСЯ? Да кого волнует то, что тебе кажется?! Я и без твоих советов разбирусь, когда нам нужно идти дальше.}
-{Speech 12 Answer Exit}{}{Ничуть в этом не сомневаюсь, сэр.}
-{Speech 13}{}{А ну, вали отсюда! Бегом!}
-{Speech 14}{}{На сегодня нами выполнены все задачи по патрулированию. Завтра приходи. И не заставляй себя ждать.}
-{Speech 14 Answer Exit}{}{Слушаюсь.}
-{Speech 15}{}{Лейтенант, сэр... Простите, не признал...}
-{Speech 15 Answer Exit}{}{Под трибунал пойдешь. Я еще тобой займусь, Креветка!}
+{Speech 1 Answer 11}{}{patrol on the encounter}
+{Speech 2}{}{Well, who the hell are you@sex@||? Don't irritate me. Answer fast, before I deal with you, @sex@|punk|rat|.}
+{Speech 2 Answer 7}{}{Corporal Shrim? By order of Captain Hartmann, I've reported for patrol duty.}
+{Speech 2 Answer 14}{}{Corporal Shrim? By order of Captain Hartmann, I've reported for patrol duty.}
+{Speech 2 Answer 5}{}{Why do they call you "Shrimp"?}
+{Speech 2 Answer 3}{}{Hey, hey, why so jumpy!}
+{Speech 2 Answer Exit}{}{I've got to go.}
+{Speech 2 Answer 15}{}{Is that how you talk to a superior officer, corporal!}
+{Speech 3}{}{What?! How dare you!!! You're sassing me, you scum, I'll finish you off right here, gut you with my dagger! You'll squirm on my blade like a worm! Nobody will even remember you, you trash!!!}
+{Speech 3 Answer 5}{}{Easy, Shrimp, I'm one of yours, guardsman.}
+{Speech 3 Answer 4}{}{I'm here on the captain's orders.}
+{Speech 4}{}{What the hell captain? Captain Cook? Captain America? Captain Obvious? You dumb@sex@| brahmin| cow|, speak clearly, or get the hell out of here!}
+{Speech 4 Answer 7}{}{Captain Hartmann's order. Reported@sex@|| for patrol duty.}
+{Speech 4 Answer 14}{}{Captain Hartmann's order. Reported@sex@|| for patrol duty.}
+{Speech 5}{}{You... What did you just say@sex@||, say it again... If I hear that word from you one more time. I don't know what I'll do to you!!! Nobody knows. But it'll be something very terrible. Believe me. I don't throw words to the wind. [Pulls a huge cleaver from his belt]}
+{Speech 5 Answer Exit}{}{What can you do, you psycho? I'll put you down easy.}
+{Speech 5 Answer Exit*}{}{Let's not get into that.}
+{Speech 6}{}{That's it, I'm not responsible for myself anymore! Say goodbye to your life, scum.}
+{Speech 7}{}{A patrolman. Lousy. Just what I needed, greenhorns in my patrol. All right, damn it, listen up, recruit. On patrol - keep your mouth shut, follow orders faster than you hear them, don't be stupid, don't lag. For any mistake I'll bust your face. @sex@|Got it?|Got it?|}
+{Speech 7 Answer 8}{}{What's there to get. So when do we head out?}
+{Speech 7 Answer 9}{}{[Nod]}
+{Speech 8}{}{[The corporal's face turns crimson and he breaks into a shout] What are you listening with, you louse?!!! What did I just say? Keep quiet! Do I have to explain it to you again?}
+{Speech 8 Answer 9}{}{[Stay silent]}
+{Speech 9}{}{You showed up right on time, pal. We move out immediately.}
+{Speech 9 Answer 10}{}{Excuse me, sir. I just need to pop into the latrine.}
+{Speech 9 Answer Exit}{}{Excellent! I'm ready@sex@||.}
+{Speech 10}{}{Ugh. Run! You've got exactly 32 seconds. And not a moment more.}
+{Speech 10 Answer Exit}{}{Yes sir!}
+{Speech 11}{}{Who? You? You make me furious, remember that. Quick, what the hell happened?}
+{Speech 11 Answer 12}{}{Sir, I think we can continue the patrol route.}
+{Speech 11 Answer Exit}{}{Nothing in particular. All's well.}
+{Speech 12}{}{You THINK? Who cares what you think?! I'll figure out when we need to move on without your advice.}
+{Speech 12 Answer Exit}{}{I don't doubt it for a moment, sir.}
+{Speech 13}{}{Now get out of here! On the double!}
+{Speech 14}{}{For today we've completed all our patrol tasks. Come back tomorrow. And don't keep me waiting.}
+{Speech 14 Answer Exit}{}{Yes sir.}
+{Speech 15}{}{Lieutenant, sir... Sorry, didn't recognize you...}
+{Speech 15 Answer Exit}{}{You'll face a court-martial. I'll deal with you yet, Shrimp!}

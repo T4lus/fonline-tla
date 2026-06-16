@@ -71,26 +71,26 @@ Speech 7 # У меня брамины бывали поумнее тебя. Да
 {DescAliveShort}{}{You see a pockmarked man in a dirty blue shirt. He smells like a brahmin's herd.}
 {DescAliveFull}{}{You see Ed, the brahmin's trader.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 7}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 4}{}{знаком}
-{Speech 2}{}{Эй, привет, незнакомец. Я Эд, местный торговец браминами. Чем могу помочь?}
-{Speech 2 Answer 3}{}{Я ищу убежище.}
-{Speech 2 Answer 5}{}{Вы можете мне рассказать о городе убежище?}
-{Speech 2 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 2 Answer Exit}{}{До свидания.}
-{Speech 3}{}{Ну... в городе есть какое-то убежище. Может, это оно и есть?}
-{Speech 3 Answer 4}{}{Может, и так. У меня есть еще вопросы...}
-{Speech 3 Answer Exit}{}{Может быть. Спасибо за информацию.}
-{Speech 4}{}{Приятно снова видеть вас. Чем могу служить?}
-{Speech 4 Answer 3}{}{Я ищу убежище.}
-{Speech 4 Answer 5}{}{Вы можете мне рассказать о городе убежище?}
-{Speech 4 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 4 Answer Exit}{}{До свидания.}
-{Speech 5}{}{Нормальное место... если только найдешь общий язык с гражданами. Я не во всем с ними согласен, но живется мне здесь неплохо.}
-{Speech 5 Answer 4}{}{У меня есть еще вопросы...}
-{Speech 5 Answer Exit}{}{Понятно. Спасибо за информацию. До свидания.}
-{Speech 6}{}{Я продаю браминов людям, которым они нужны. А на вырученные деньги оплачиваю аренду.}
-{Speech 6 Answer 4}{}{У меня есть еще вопросы...}
-{Speech 6 Answer Exit}{}{Ясно. До свидания.}
-{Speech 7}{}{У меня брамины бывали поумнее тебя. Давай, проходи.}
+{Speech 1 Answer 7}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 4}{}{acquainted}
+{Speech 2}{}{Hey, hello there, stranger. I'm Ed, the local brahmin trader. How can I help you?}
+{Speech 2 Answer 3}{}{I'm looking for a vault.}
+{Speech 2 Answer 5}{}{Can you tell me about Vault City?}
+{Speech 2 Answer 6}{}{What do you do around here?}
+{Speech 2 Answer Exit}{}{Goodbye.}
+{Speech 3}{}{Well... there's some kind of vault in the city. Maybe that's the one?}
+{Speech 3 Answer 4}{}{Maybe so. I have more questions...}
+{Speech 3 Answer Exit}{}{Maybe. Thanks for the information.}
+{Speech 4}{}{Nice to see you again. How can I be of service?}
+{Speech 4 Answer 3}{}{I'm looking for a vault.}
+{Speech 4 Answer 5}{}{Can you tell me about Vault City?}
+{Speech 4 Answer 6}{}{What do you do around here?}
+{Speech 4 Answer Exit}{}{Goodbye.}
+{Speech 5}{}{It's a decent place... as long as you can find common ground with the citizens. I don't agree with them on everything, but life here isn't bad for me.}
+{Speech 5 Answer 4}{}{I have more questions...}
+{Speech 5 Answer Exit}{}{I see. Thanks for the information. Goodbye.}
+{Speech 6}{}{I sell brahmins to folks who need them. And with the money I make, I pay my rent.}
+{Speech 6 Answer 4}{}{I have more questions...}
+{Speech 6 Answer Exit}{}{Got it. Goodbye.}
+{Speech 7}{}{I've had brahmins smarter than you. Go on, move along.}
