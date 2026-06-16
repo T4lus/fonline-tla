@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Бутылка с аммиаком"
 $Text russ Desc = "Пластиковая бутылка, наполненная аммиаком. Лучше всего для вас держать её плотно закрытой."
-$Text engl = "Бутылка с аммиаком"
-$Text engl Desc = "Бутылка с аммиаком. Лучше всего для вас держать её плотно закрытой."
+$Text engl = "Bottle of Ammonia"
+$Text engl Desc = "A bottle of ammonia. You'd best keep it tightly closed."

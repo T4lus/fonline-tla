@@ -11,5 +11,5 @@ DisableEgg = True
 
 $Text russ = "Грузовик"
 $Text russ Desc = "Чудеса, этот грузовик находится в отличном состоянии."
-$Text engl = "Грузовик"
-$Text engl Desc = "Чудеса, этот грузовик находится в отличном состоянии."
+$Text engl = "Truck"
+$Text engl Desc = "Amazingly, this truck is in excellent condition."

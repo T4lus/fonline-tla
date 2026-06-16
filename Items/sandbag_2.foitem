@@ -15,5 +15,5 @@ InitScript = Sandbag::SandBagInit
 
 $Text russ = "Мешки с песком"
 $Text russ Desc = "Эти мешки используются для строительства укреплений"
-$Text engl = "Мешки с песком"
-$Text engl Desc = "Эти мешки используются для строительства укреплений."
+$Text engl = "Sandbags"
+$Text engl Desc = "These bags are used for building fortifications."

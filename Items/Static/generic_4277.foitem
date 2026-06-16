@@ -15,5 +15,5 @@ Corner = EastWest
 
 $Text russ = "Верстак хабологов"
 $Text russ Desc = "Этот верстак оборудован всем необходимым для того, чтобы можно было собрать плазменную гранату. Периодически заканчиваются детонаторы, но техники хабологов следят, чтобы запасы своевременно обновлялись."
-$Text engl = "Верстак хабологов"
-$Text engl Desc = "Этот верстак оборудован всем необходимым для того, чтобы можно было собрать плазменную гранату. Периодически заканчиваются детонаторы, но техники хабологов следят, чтобы запасы своевременно обновлялись."
+$Text engl = "Hubologist Workbench"
+$Text engl Desc = "This workbench is equipped with everything needed to assemble a plasma grenade. The detonators run out from time to time, but the Hubologist technicians make sure the supplies are replenished on schedule."

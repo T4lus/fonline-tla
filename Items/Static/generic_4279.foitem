@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "Автоматический станок"
 $Text russ Desc = "Довоенный автоматический станок для производства аммуниции. Просто загрузите в ёмкости необходимые материалы и выберите нужный калибр из списка. Данная модель склонна довольно часто перегреваться - в таких случаях просто давайте старичку отдохнуть."
-$Text engl = "Автоматический станок"
-$Text engl Desc = "Довоенный автоматический станок для производства аммуниции. Просто загрузите в ёмкости необходимые материалы и выберите нужный калибр из списка. Данная модель склонна довольно часто перегреваться - в таких случаях просто давайте старичку отдохнуть."
+$Text engl = "Automatic Machine"
+$Text engl Desc = "A prewar automatic machine for producing ammunition. Just load the required materials into the hoppers and pick the caliber you need from the list. This model is rather prone to overheating - when that happens, just let the old-timer rest."

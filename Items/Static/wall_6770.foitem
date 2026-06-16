@@ -6,4 +6,4 @@ IsShootThru = True
 PicMap = art/walls/VLTWD002.FRM
 
 $Text russ = "Стена"
-$Text engl = "Стена"
+$Text engl = "Wall"

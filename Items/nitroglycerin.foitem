@@ -18,5 +18,5 @@ DisableEgg = True
 
 $Text russ = "Нитроглицерин"
 $Text russ Desc = "Взрывчатое вещевство, давшее жизнь динамиту. Очень нестабильно, может взорваться от простой тряски, лучше не таскайте его в своём рюкзаке."
-$Text engl = "Нитроглицерин"
-$Text engl Desc = "Взрывчатое вещевство, давшее жизнь динамиту. Очень нестабильно, может взорваться от простой тряски, лучше не таскайте его в своём рюкзаке."
+$Text engl = "Nitroglycerin"
+$Text engl Desc = "The explosive substance that gave birth to dynamite. Very unstable, it can detonate from a simple shake, so you'd better not haul it around in your backpack."

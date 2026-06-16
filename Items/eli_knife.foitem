@@ -46,4 +46,4 @@ DisableEgg = True
 $Text russ = "Нож Илая"
 $Text russ Desc = "Чертовски хорошо заточенный и увесистый нож в два фута длиной. Таким можно отрубить чью-нибудь конечность даже без особого замаха."
 $Text engl = "Eli's knife"
-$Text engl Desc = "Чертовски хорошо заточенный и увесистый нож в два фута длиной. Таким можно отрубить чью-нибудь конечность даже без особого замаха."
+$Text engl Desc = "A damn well-sharpened, hefty knife two feet long. With this you could hack off someone's limb without even much of a swing."

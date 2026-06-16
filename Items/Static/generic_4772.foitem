@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Стена из мрамора"
 $Text russ Desc = "Стена, сплошь усеянная именами."
-$Text engl = "Стена из мрамора"
-$Text engl Desc = "Стена, сплошь усеянная именами."
+$Text engl = "Marble Wall"
+$Text engl Desc = "A wall completely covered with names."

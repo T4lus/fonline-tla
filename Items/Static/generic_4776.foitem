@@ -13,5 +13,5 @@ Corner = EastWest
 
 $Text russ = "Монумент"
 $Text russ Desc = "Ого! Да эта хреновина из золота. Где подъемный кран, когда он так нужен?"
-$Text engl = "Монумент"
-$Text engl Desc = "Ого! Да эта хреновина из золота. Где подъемный кран, когда он так нужен?"
+$Text engl = "Monument"
+$Text engl Desc = "Whoa! This thing is made of gold. Where's a crane when you need one?"

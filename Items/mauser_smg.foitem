@@ -50,5 +50,5 @@ DisableEgg = True
 
 $Text russ = "Маузер (автоматич.)"
 $Text russ Desc = "9мм Маузер, переделанный для ведения автоматической стрельбы по историческому аналогу. Классика, воссозданная своими руками."
-$Text engl = "Маузер (автоматич.)"
-$Text engl Desc = "9мм Маузер, переделанный для ведения автоматической стрельбы по историческому аналогу. Классика, воссозданная своими руками."
+$Text engl = "Mauser (automatic)"
+$Text engl Desc = "A 9mm Mauser modified for automatic fire after its historical counterpart. A classic, recreated by hand."

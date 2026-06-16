@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Дым"
 $Text russ Desc = "Клубы дыма, такого плотного, что кажется, легко можно задохнуться."
-$Text engl = "Дым"
-$Text engl Desc = "Клубы дыма, такого плотного, что кажется, легко можно задохнуться."
+$Text engl = "Smoke"
+$Text engl Desc = "Clouds of smoke so thick it seems you could easily suffocate."

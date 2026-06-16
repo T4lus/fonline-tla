@@ -18,5 +18,5 @@ LightColor = 0xff000000
 
 $Text russ = "Пиво 'Гамма-глоток'"
 $Text russ Desc = "Бутылка пива 'Гамма-глоток'. Светится в темноте!"
-$Text engl = "Пиво 'Гамма-глоток'"
-$Text engl Desc = "Бутылка пива 'Гамма-глоток'. Светится в темноте!"
+$Text engl = "Gamma Gulp Beer"
+$Text engl Desc = "A bottle of 'Gamma Gulp' beer. Glows in the dark!"

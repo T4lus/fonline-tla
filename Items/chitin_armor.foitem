@@ -35,4 +35,4 @@ DisableEgg = True
 $Text russ = "Хитиновая броня"
 $Text russ Desc = "Новое слово среди средств личной зашиты. Легкая и прочная, она не раз выручит вас в пустоши."
 $Text engl = "Chitin Armor"
-$Text engl Desc = "Кожаная броня, укрепленная несколькими слоями хитина гигантских жуков. Легкая и надежная, к тому же может отпугнуть одним своим видом."
+$Text engl Desc = "Leather armor reinforced with several layers of chitin from giant bugs. Light and reliable, and it can even scare off enemies just by its appearance."

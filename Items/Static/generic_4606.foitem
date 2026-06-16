@@ -14,5 +14,5 @@ DisableEgg = True
 
 $Text russ = "Пепел"
 $Text russ Desc = "Какое-то заброшенное кострище."
-$Text engl = "Пепел"
-$Text engl Desc = "Какое-то заброшенное кострище."
+$Text engl = "Ashes"
+$Text engl Desc = "Some abandoned fire pit."

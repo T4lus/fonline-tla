@@ -21,5 +21,5 @@ DisableEgg = True
 
 $Text russ = "Голодиск со схемами"
 $Text russ Desc = "На этикетке диска написано 'Как соорудить большую космическую станцию всего за 18 месяцев. Издание второе, переработанное.'"
-$Text engl = "Голодиск со схемами"
-$Text engl Desc = "На этикетке диска написано 'Как соорудить большую космическую станцию всего за 18 месяцев. Издание второе, переработанное.'"
+$Text engl = "Holodisk with Schematics"
+$Text engl Desc = "The label on the disk reads 'How to Build a Large Space Station in Just 18 Months. Second Edition, Revised.'"

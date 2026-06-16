@@ -49,5 +49,5 @@ DisableEgg = True
 
 $Text russ = "Самопал (пистолет-пулемёт)"
 $Text russ Desc = "Самодельный многоствольный пистолет-пулемёт, выполненный по технологии продольного заряжания аммуниции: безгильзовые патроны вставляются один за другим в ствол и приводятся в действие электрическим зарядом. Отсутствие движущихся частей механизма обеспечивает большую надёжность и высокую скорострельность. Мин. сила: 5."
-$Text engl = "Самопал (пистолет-пулемёт)"
-$Text engl Desc = "Самодельный многоствольный пистолет-пулемёт, выполненный по технологии продольного заряжания аммуниции: безгильзовые патроны вставляются один за другим в ствол и приводятся в действие электрическим зарядом. Отсутствие движущихся частей механизма обеспечивает большую надёжность и высокую скорострельность. Мин. сила: 5."
+$Text engl = "Zip gun (submachine gun)"
+$Text engl Desc = "A homemade multi-barreled submachine gun built using inline ammunition loading: caseless rounds are inserted one behind another into the barrel and fired by an electric charge. The absence of moving parts provides great reliability and a high rate of fire. Min. strength: 5."

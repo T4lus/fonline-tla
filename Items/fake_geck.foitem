@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Реплика ГЕККа"
 $Text russ Desc = "Старый потёртый чемоданчик с намалёванной надписью 'ГЕКК'. Внутри лежит молоток и скелетик крысы."
-$Text engl = "Реплика ГЕККа"
-$Text engl Desc = "Старый потёртый чемоданчик с намалёванной надписью 'ГЕКК'. Внутри лежит молоток и скелетик крысы."
+$Text engl = "GECK Replica"
+$Text engl Desc = "An old, worn-out suitcase with 'GECK' scrawled on it. Inside there's a hammer and the little skeleton of a rat."

@@ -16,5 +16,5 @@ DisableEgg = True
 
 $Text russ = "Флаг"
 $Text russ Desc = "Вы видите: Флаг. На нём хорошо читается: KotW - абревиатура Рыцарей Пустоши."
-$Text engl = "Флаг"
-$Text engl Desc = "Вы видите: Флаг. На нём хорошо читается: KotW - абревиатура Рыцарей Пустоши."
+$Text engl = "Flag"
+$Text engl Desc = "You see: A flag. It clearly reads: KotW - the abbreviation of the Knights of the Wasteland."

@@ -14,5 +14,5 @@ DisableEgg = True
 
 $Text russ = "Ванна с кровью"
 $Text russ Desc = "Ванна с кровью. Нет, отбросьте от себя мысли о том, что в ней было бы прикольно искупаться."
-$Text engl = "Ванна с кровью"
-$Text engl Desc = "Ванна с кровью. Нет, отбросьте от себя мысли о том, что в ней было бы прикольно искупаться."
+$Text engl = "Bathtub of Blood"
+$Text engl Desc = "A bathtub of blood. No, push aside any thoughts about how fun it would be to take a dip in it."

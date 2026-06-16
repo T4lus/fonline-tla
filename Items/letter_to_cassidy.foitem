@@ -16,5 +16,5 @@ DisableEgg = True
 
 $Text russ = "Письмо Кэссиди"
 $Text russ Desc = "Письмо Кэссиди к его подруге Синди, присматривающей сейчас за его баром в Городе-Убежище. Простое дружеское письмо, в котором он интересуется, как у неё дела. Вы не находите в нём ни тайных шифров, ни странных подтекстов, ни предупреждений о том, что мир гибнет и надо призвать Избранного. Да, это действительно простое дружеское письмо, хватит уже читать чужую переписку."
-$Text engl = "Письмо Синди"
-$Text engl Desc = "Ответ Синди на письмо Кэссиди. Она рассказывает, что с баром у неё всё хорошо, он по-прежнему популярен среди жителей Пригорода, а солдаты из Города не досаждают обысками. В конце приписка: 'Кэсс, дико хочется тебя увидеть, приезжай в гости! Чмоки, Синди.'"
+$Text engl = "Letter to Sindy"
+$Text engl Desc = "Sindy's reply to Cassidy's letter. She tells him that the bar is doing fine, it's still popular among the residents of the Courtyard, and the soldiers from the City aren't bothering her with searches. There's a note at the end: 'Cass, I'm dying to see you, come visit! Kisses, Sindy.'"

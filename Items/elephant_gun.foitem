@@ -45,4 +45,4 @@ DisableEgg = True
 $Text russ = "Слонобой"
 $Text russ Desc = "Самодельная винтовка под патроны .700 Найтро Экспресс. Вы понятия не имеете, зачем кому-либо могло понадобиться оружие подобного калибра. Мин. сила: 7."
 $Text engl = "Elephant gun"
-$Text engl Desc = "Самодельная винтовка под патроны .700 Найтро Экспресс. Вы понятия не имеете, зачем кому-либо могло понадобиться оружие подобного калибра.  Min. strength: 7."
+$Text engl Desc = "A homemade rifle chambered for .700 Nitro Express rounds. You have no idea why anyone would need a weapon of this caliber.  Min. strength: 7."

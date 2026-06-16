@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Иприт"
 $Text russ Desc = "Бесцветный газ с неприятным запахом. Иногда его еще называют горчиным газом."
-$Text engl = "Иприт"
-$Text engl Desc = "Бесцветный газ с запахом горчицы. Иногда его еще называют горчиным газом."
+$Text engl = "Mustard gas"
+$Text engl Desc = "A colorless gas with the smell of mustard. Sometimes it is also called mustard gas."

@@ -43,4 +43,4 @@ DisableEgg = True
 $Text russ = "MSP"
 $Text russ Desc = "Кустарная копия австралийского ручного пулемёта Metal Storm 'Purifier'. Особенность его состоит в том, что безгильзовая аммуниция заряжается в нём в ствол, патроны стоят в нём один за другим и приводятся в действие электрическим зарядом. Отличается особой надёжностью и скорострельностью. Мин. сила: 6."
 $Text engl = "MS 'Purifier'"
-$Text engl Desc = "Кустарная копия австралийского ручного пулемёта Metal Storm 'Purifier'. Особенность его состоит в том, что безгильзовая аммуниция заряжается в нём в ствол, патроны стоят в нём один за другим и приводятся в действие электрическим зарядом. Отличается особой надёжностью и скорострельностью. Мин. сила: 6."
+$Text engl Desc = "A homemade copy of the Australian Metal Storm 'Purifier' machine gun. Its peculiarity is that caseless ammunition is loaded directly into the barrel, with rounds stacked one behind another and fired by an electric charge. Notable for its exceptional reliability and rate of fire. Min. strength: 6."

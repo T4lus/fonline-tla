@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Отчёты Доктора Эдварда"
 $Text russ Desc = "Отчёт Дока Эдварда об успехах агитационной работы в Арройо. Доставить Томасу Муру для передачи начальству. Из записей можно понять, что агитация о присоединении к Городу-Убежищу - это и есть основная цель командировки доктора. Чтож, они даже не пытаются это скрывать."
-$Text engl = "Отчёты Доктора Эдварда"
-$Text engl Desc = "Отчёт Дока Эдварда об успехах агитационной работы в Арройо. Доставить Томасу Муру для передачи начальству. Из записей можно понять, что агитация о присоединении к Городу-Убежищу - это и есть основная цель командировки доктора. Чтож, они даже не пытаются это скрывать."
+$Text engl = "Doctor Edward's Reports"
+$Text engl Desc = "Doc Edward's report on the progress of the propaganda campaign in Arroyo. To be delivered to Thomas Moore for handing over to his superiors. From the notes one can tell that campaigning for joining Vault City is the real purpose of the doctor's assignment. Well, they don't even bother to hide it."

@@ -16,5 +16,5 @@ DisableEgg = True
 
 $Text russ = "Письмо Синди"
 $Text russ Desc = "Ответ Синди на письмо Кэссиди. Она рассказывает, что с баром у неё всё хорошо, он по-прежнему популярен среди жителей Пригорода, а солдаты из Города не досаждают обысками. В конце приписка: 'Кэсс, дико хочется тебя увидеть, приезжай в гости! Чмоки, Синди.'"
-$Text engl = "Письмо Кэссиди"
-$Text engl Desc = "Письмо Кэссиди к его подруге Синди, присматривающей сейчас за его баром в Городе-Убежище. Простое дружеское письмо, в котором он интересуется, как у неё дела. Вы не находите в нём ни тайных шифров, ни странных подтекстов, ни предупреждений о том, что мир гибнет и надо призвать Избранного. Да, это действительно простое дружеское письмо, хватит уже читать чужую переписку."
+$Text engl = "Letter to Cassidy"
+$Text engl Desc = "A letter from Cassidy to his friend Sindy, who is now looking after his bar in Vault City. A simple friendly letter in which he asks how she's doing. You find in it no secret ciphers, no strange subtexts, no warnings that the world is dying and the Chosen One must be summoned. Yes, it's truly just a simple friendly letter, stop reading other people's correspondence already."

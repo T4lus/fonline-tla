@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Газетный автомат"
 $Text russ Desc = "Все газеты уже расхватали, чёрт!"
-$Text engl = "Газетный автомат"
-$Text engl Desc = "Все газеты уже расхватали, чёрт!"
+$Text engl = "Newspaper Dispenser"
+$Text engl Desc = "All the newspapers have already been snatched up, damn it!"

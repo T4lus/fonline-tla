@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Послание Тодду Стьюарду"
 $Text russ Desc = "Послание Первой Гражданки Линнет И/О Научного Советника Арройо Тодду Стюарду. Новенький голодиск непонятного формата с разъёмами необычной конфигурации. Дааа, такой не прочитать на стандартном пип-бое."
-$Text engl = "Послание Тодду Стьюарду."
-$Text engl Desc = "Послание Первой Гражданки Линнет И/О Научного Советника Арройо Тодду Стюарду. Новенький голодиск непонятного формата с разъёмами необычной конфигурации. Дааа, такой не прочитать на стандартном пип-бое."
+$Text engl = "Message to Todd Stewart."
+$Text engl Desc = "A message from First Citizen Lynette to the Acting Science Advisor of Arroyo, Todd Stewart. A brand-new holodisk of an unfamiliar format with connectors of an unusual configuration. Yeah, you won't be reading this one on a standard Pip-Boy."

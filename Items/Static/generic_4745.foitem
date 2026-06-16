@@ -13,4 +13,4 @@ IsScenery = True
 Corner = EastWest
 
 $Text russ = "Стена"
-$Text engl = "Стена"
+$Text engl = "Wall"

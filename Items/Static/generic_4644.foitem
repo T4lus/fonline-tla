@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Вышка"
 $Text russ Desc = "Старая покосившаяся радиовышка, когда то она была покрашена в красные и белые цвета. Несмотря на преклонный возраст она неплохо сохранилась, на ней видны следы ремонта и новое оборудование."
-$Text engl = "вышка"
-$Text engl Desc = "Старая покосившаяся радиовышка, когда то она была покрашена в красные и белые цвета. Несмотря на преклонный возраст она неплохо сохранилась, на ней видны следы ремонта и новое оборудование."
+$Text engl = "Tower"
+$Text engl Desc = "An old leaning radio tower, once painted in red and white. Despite its advanced age it has held up well; you can see signs of repair and new equipment on it."

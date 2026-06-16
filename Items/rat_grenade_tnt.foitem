@@ -14,5 +14,5 @@ InitScript = RatGrenade::RatGrenadeInit
 
 $Text russ = "Падишах"
 $Text russ Desc = "Крыса-шахид. Самонаводящаяся, мощность взрыва 1 кг в тротиловом эквиваленте. Может использоваться в качестве метательного оружия."
-$Text engl = "Падишах"
-$Text engl Desc = "Крыса-шахид. Самонаводящаяся, мощность взрыва 1 кг в тротиловом эквиваленте. Может использоваться в качестве метательного оружия."
+$Text engl = "Padishah"
+$Text engl Desc = "A suicide-bomber rat. Self-guided, with a blast yield of 1 kg of TNT equivalent. Can be used as a throwing weapon."

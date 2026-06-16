@@ -14,5 +14,5 @@ DisableEgg = True
 
 $Text russ = "Мотоцикл"
 $Text russ Desc = "Не смотря на отличный внешний вид, этот мотоцикл не на ходу."
-$Text engl = "Мотоцикл"
-$Text engl Desc = "Не смотря на отличный внешний вид, этот мотоцикл не на ходу."
+$Text engl = "Motorcycle"
+$Text engl Desc = "Despite its excellent appearance, this motorcycle isn't running."

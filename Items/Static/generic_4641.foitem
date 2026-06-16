@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "Тень"
 $Text russ Desc = "Тень от вышки."
-$Text engl = "тень"
-$Text engl Desc = "Тень от вышки."
+$Text engl = "shadow"
+$Text engl Desc = "The shadow of a tower."

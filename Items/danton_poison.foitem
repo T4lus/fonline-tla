@@ -18,5 +18,5 @@ DisableEgg = True
 
 $Text russ = "Концентрированный токсин"
 $Text russ Desc = "Необходимый ингридиент для производства супертоксина."
-$Text engl = "Концентрированный токсин"
-$Text engl Desc = "Необходимый ингридиент для производства супертоксина."
+$Text engl = "Concentrated Toxin"
+$Text engl Desc = "A necessary ingredient for producing supertoxin."

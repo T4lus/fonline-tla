@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "Камни"
 $Text russ Desc = "Эти камни покрыты сажей."
-$Text engl = "Камни"
-$Text engl Desc = "Эти камни покрыты сажей."
+$Text engl = "Stones"
+$Text engl Desc = "These stones are covered in soot."

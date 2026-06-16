@@ -14,4 +14,4 @@ Corner = EastWest
 DisableEgg = True
 
 $Text russ = "Лодка"
-$Text engl = "Лодка"
+$Text engl = "Boat"

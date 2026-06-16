@@ -13,5 +13,5 @@ Corner = EastWest
 
 $Text russ = "Мемориал"
 $Text russ Desc = "Вы видите: Мемориал Рыцарей Пустоши."
-$Text engl = "Мемориал"
-$Text engl Desc = "Вы видите: Мемориал Рыцарей Пустоши."
+$Text engl = "Memorial"
+$Text engl Desc = "You see: Memorial of the Knights of the Wasteland."

@@ -20,5 +20,5 @@ InitScript = Hunter::LureInit
 
 $Text russ = "Приманка"
 $Text russ Desc = "Банка с субстанцией, запах которой по идее должен привлекать кротокрысов. Вонь просачивается даже через крышку."
-$Text engl = "Приманка"
-$Text engl Desc = "Банка с субстанцией, запах которой по идее должен привлекать кротокрысов. Вонь просачивается даже через крышку."
+$Text engl = "Lure"
+$Text engl Desc = "A jar of a substance whose smell is supposed to attract molerats. The stench seeps through even the lid."

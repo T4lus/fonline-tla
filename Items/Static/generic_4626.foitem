@@ -13,5 +13,5 @@ IsScenery = True
 
 $Text russ = "Брызги крови"
 $Text russ Desc = "Стены забрызганы кровью."
-$Text engl = "Брызги крови"
-$Text engl Desc = "Стены забрызганы кровью."
+$Text engl = "Blood Splatter"
+$Text engl Desc = "The walls are spattered with blood."

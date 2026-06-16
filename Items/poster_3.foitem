@@ -12,5 +12,5 @@ Corner = EastWest
 
 $Text russ = "Плакат"
 $Text russ Desc = "Мисс Январь 2058."
-$Text engl = "Плакат"
-$Text engl Desc = "Мисс Январь 2058."
+$Text engl = "Poster"
+$Text engl Desc = "Miss January 2058."

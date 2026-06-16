@@ -16,5 +16,5 @@ Stackable = True
 
 $Text russ = "Статуэтка"
 $Text russ Desc = "Статуэтка рыцаря тонкой ручной работы, выполненную из светлого металла. В основании выгравировано: 'Рыцари Пустоши'."
-$Text engl = "Статуэтка"
-$Text engl Desc = "Статуэтка рыцаря тонкой ручной работы, выполненную из светлого металла. В основании выгравировано: 'Рыцари Пустоши'."
+$Text engl = "Statuette"
+$Text engl Desc = "A finely handcrafted statuette of a knight, made of light-colored metal. Engraved on the base: 'Knights of the Wasteland'."

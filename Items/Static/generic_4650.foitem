@@ -15,5 +15,5 @@ Corner = EastWest
 
 $Text russ = "Отверстие"
 $Text russ Desc = "Сюда сбрасывают добытые дрова."
-$Text engl = "Отверстие"
-$Text engl Desc = "Сюда сбрасывают добытые дрова."
+$Text engl = "Hole"
+$Text engl Desc = "Gathered firewood is dumped down here."

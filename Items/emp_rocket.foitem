@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "ЕМП-ракета"
 $Text russ Desc = "Электромагнитная импульсная ракета. Применяется для поражения электронных схем управления и процессоров роботов любого типа. На человека не действует."
-$Text engl = "ЕМП-ракета"
-$Text engl Desc = "Электромагнитная импульсная ракета. Применяется для поражения электронных схем управления и процессоров роботов любого типа. На человека не действует."
+$Text engl = "EMP Rocket"
+$Text engl Desc = "An electromagnetic pulse rocket. Used to disable the control circuits and processors of robots of any type. Has no effect on humans."

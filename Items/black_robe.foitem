@@ -28,5 +28,5 @@ DisableEgg = True
 
 $Text russ = "Серая роба"
 $Text russ Desc = "Серая роба - одежда неофитов хабологов. Похоже, получена из простой сиреневой путём длительного воздержания от стирки."
-$Text engl = "Серая роба"
-$Text engl Desc = "Серая роба - одежда неофитов хабологов. Похоже, получена из простой сиреневой путём длительного воздержания от стирки."
+$Text engl = "Gray Robe"
+$Text engl Desc = "A gray robe - the garb of Hubologist neophytes. It seems to have been made from a plain lilac one through a long abstinence from washing."

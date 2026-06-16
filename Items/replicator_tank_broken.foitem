@@ -10,5 +10,5 @@ PicMap = art/scenery/GTANK02.FRM
 
 $Text russ = "Сломанный репликатор"
 $Text russ Desc = "Если система управления выходит из-под контроля, нет средства лучше, чем пластид, чтобы решить эту проблему."
-$Text engl = "Сломанный репликатор"
-$Text engl Desc = "Если система управления выходит из-под контроля, нет средства лучше, чем пластид, чтобы решить эту проблему."
+$Text engl = "Broken replicator"
+$Text engl Desc = "When a control system gets out of hand, there's no better remedy than plastic explosive to solve the problem."

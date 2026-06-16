@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "Дыра"
 $Text russ Desc = "Провал с обильными следами крови по краям. Дна не видно, а снизу доносится какой-то ужасный запах."
-$Text engl = "Дыра"
-$Text engl Desc = "Провал с обильными следами крови по краям. Дна не видно, а снизу доносится какой-то ужасный запах."
+$Text engl = "Hole"
+$Text engl Desc = "A pit with heavy traces of blood around its edges. The bottom is out of sight, and a horrible smell rises from below."

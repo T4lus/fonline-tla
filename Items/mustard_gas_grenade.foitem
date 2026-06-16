@@ -38,5 +38,5 @@ DisableEgg = True
 
 $Text russ = "Граната с горчичным газом"
 $Text russ Desc = "Мгновенно высвобождает облако едкого газа, воздействующего на кожный покров и слизистые оболочки. Чем дольше цель находится в области поражения, тем серьезнее последствия воздействия газа на огранизм."
-$Text engl = "Граната с горчичным газом"
-$Text engl Desc = "Мгновенно высвобождает облако едкого газа, воздействующего на кожный покров и слизистые оболочки. Чем дольше цель находится в области поражения, тем выше шансы нанести серьезный урон, вплоть до летального исхода."
+$Text engl = "Mustard gas grenade"
+$Text engl Desc = "Instantly releases a cloud of caustic gas that affects the skin and mucous membranes. The longer the target stays in the affected area, the higher the chance of dealing serious damage, up to and including a lethal outcome."

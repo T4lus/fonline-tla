@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Решётка."
 $Text russ Desc = "Эта решётка выглядит очень прочной."
-$Text engl = "Решётка."
-$Text engl Desc = "Эта решётка выглядит очень прочной."
+$Text engl = "Grate."
+$Text engl Desc = "This grate looks very sturdy."

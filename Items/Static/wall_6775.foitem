@@ -5,4 +5,4 @@ $Parent = base_wall
 PicMap = art/walls/VLTWD007.FRM
 
 $Text russ = "Стена"
-$Text engl = "Стена"
+$Text engl = "Wall"

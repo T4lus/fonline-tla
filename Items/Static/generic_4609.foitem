@@ -14,5 +14,5 @@ DisableEgg = True
 
 $Text russ = "Цистерна"
 $Text russ Desc = "Резервуар для хранения жидкостей. Под него можно было бы поставить ведро и наполнить чем-нибудь, если бы он не был пустой."
-$Text engl = "Цистерна"
-$Text engl Desc = "Резервуар для хранения жидкостей. Под него можно было бы поставить ведро и наполнить чем-нибудь, если бы он не был пустой."
+$Text engl = "Tank"
+$Text engl Desc = "A reservoir for storing liquids. You could put a bucket under it and fill it with something, if only it weren't empty."

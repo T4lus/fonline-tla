@@ -13,5 +13,5 @@ Corner = West
 
 $Text russ = "Решётка"
 $Text russ Desc = "Прочные металлические ставни. Поговорить с хабологом за стеклом через них можно, а вот достать до него чем-нибудь уже не получится."
-$Text engl = "Решётка"
-$Text engl Desc = "Прочные металлические ставни. Поговорить с хабологом за стеклом через них можно, а вот достать до него чем-нибудь уже не Floorучится."
+$Text engl = "Grate"
+$Text engl Desc = "Sturdy metal shutters. You can talk to the Hubologist behind the glass through them, but reaching him with anything is out of the question."

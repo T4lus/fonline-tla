@@ -11,5 +11,5 @@ DisableEgg = True
 
 $Text russ = "Мясорубка"
 $Text russ Desc = "Мясорубка поражающих размеров. Изнутри доносятся мерные металлические звуки работающего механизма."
-$Text engl = "Мясорубка"
-$Text engl Desc = "Мясорубка поражающих размеров. Изнутри доносятся мерные металлические звуки работающего механизма."
+$Text engl = "Meat Grinder"
+$Text engl Desc = "A meat grinder of staggering size. Steady metallic sounds of a working mechanism come from within."

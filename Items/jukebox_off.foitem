@@ -12,5 +12,5 @@ Corner = EastWest
 
 $Text russ = "Музыкальный автомат"
 $Text russ Desc = "Чудом сохранившийся музыкальный автомат. Выключен."
-$Text engl = "Музыкальный автомат"
-$Text engl Desc = "Чудом сохранившийся музыкальный автомат. Выключен."
+$Text engl = "Jukebox"
+$Text engl Desc = "A miraculously preserved jukebox. Switched off."

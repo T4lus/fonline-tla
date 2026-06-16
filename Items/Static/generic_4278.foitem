@@ -15,5 +15,5 @@ Corner = EastWest
 
 $Text russ = "Верстак Ши"
 $Text russ Desc = "С помощью приспособлений, установленных на этом верстаке, можно собрать что угодно. Одна неприятность, часто заканчивается сжатый воздух для пневматических тисков. В этом случае придется ждать, пока техник Ши заправит баллон."
-$Text engl = "Верстак Ши"
-$Text engl Desc = "С помощью приспособлений, установленных на этом верстаке, можно собрать что угодно. Одна неприятность, часто заканчивается сжатый воздух для пневматических тисков. В этом случае придется ждать, пока техник Ши заправит баллон."
+$Text engl = "Shi Workbench"
+$Text engl Desc = "With the fixtures mounted on this workbench, you can assemble just about anything. One nuisance: the compressed air for the pneumatic vise often runs out. When that happens, you'll have to wait until a Shi technician refills the tank."

@@ -26,5 +26,5 @@ DisableEgg = True
 
 $Text russ = "Мотоцикл"
 $Text russ Desc = "Отличный мощный байк. В хорошем техническом состоянии."
-$Text engl = "Мотоцикл"
-$Text engl Desc = "Отличный мощный байк. В хорошем техническом состоянии."
+$Text engl = "Motorcycle"
+$Text engl Desc = "An excellent, powerful bike. In good working condition."

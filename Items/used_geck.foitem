@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Пустой ГЕКК"
 $Text russ Desc = "Этот ГЕКК израсходован. Ну, как чемоданчик всё равно прикольный."
-$Text engl = "Пустой ГЕКК"
-$Text engl Desc = "Этот ГЕКК израсходован. Ну, как чемоданчик всё равно прикольный."
+$Text engl = "Empty GECK"
+$Text engl Desc = "This GECK is used up. Well, as a briefcase it's still kind of cool."

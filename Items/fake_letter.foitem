@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Подложные документы"
 $Text russ Desc = "Мерзкое порождение извращенного ума Линетт. Нужно подбросить их  МакКлюру."
-$Text engl = "Подложные документы"
-$Text engl Desc = "Мерзкое порождение извращенного ума Линетт. Нужно подбросить их  МакКлюру."
+$Text engl = "Forged Documents"
+$Text engl Desc = "A vile creation of Lynette's twisted mind. They need to be planted on  McClure."

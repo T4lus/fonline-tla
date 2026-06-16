@@ -17,5 +17,5 @@ InitScript = Jukebox::JukeBoxInit
 
 $Text russ = "Музыкальный автомат"
 $Text russ Desc = "Легендарный Wurlitzer ‘1015’ образца 1946 г. Первый вопрос, который возникает при взгляде на него: какого дьявола эта штука до сих пор работает? Второй вопрос, не менее важный: куда пропадают монетки, опущенные в монетоприемник?"
-$Text engl = "Музыкальный автомат"
-$Text engl Desc = "Легендарный Wurlitzer ‘1015’ образца 1946 г. Первый вопрос, который возникает при взгляде на него: какого дьявола эта штука до сих пор работает? Второй вопрос, не менее важный: куда пропадают монетки, опущенные в монетоприемник?"
+$Text engl = "Jukebox"
+$Text engl Desc = "The legendary Wurlitzer ‘1015’, 1946 model. The first question that comes to mind when looking at it: how the hell does this thing still work? The second question, no less important: where do the coins dropped into the coin slot disappear to?"

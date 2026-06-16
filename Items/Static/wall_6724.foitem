@@ -6,4 +6,4 @@ PicMap = art/walls/SHIP22B.FRM
 Corner = EastWest
 
 $Text russ = "Стена"
-$Text engl = "Стена"
+$Text engl = "Wall"

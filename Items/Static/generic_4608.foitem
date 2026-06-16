@@ -15,5 +15,5 @@ DisableEgg = True
 
 $Text russ = "Тумбочка"
 $Text russ Desc = "Тумбочка с чьими-то вещами на ней."
-$Text engl = "Тумбочка"
-$Text engl Desc = "Тумбочка с чьими-то вещами на ней."
+$Text engl = "Nightstand"
+$Text engl Desc = "A nightstand with someone's belongings on it."

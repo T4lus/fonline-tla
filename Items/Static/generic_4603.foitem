@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Машина"
 $Text russ Desc = "Эту машину занесло песком. Внутри можно разглядеть скелет в фуражке с надписью 'Почтовая служба Соединённых Штатов'."
-$Text engl = "Машина"
-$Text engl Desc = "Эту машину занесло песком. Внутри можно разглядеть скелет в фуражке с надписью 'Почтовая служба Соединённых Штатов'."
+$Text engl = "Car"
+$Text engl Desc = "This car has been buried in sand. Inside you can make out a skeleton wearing a cap that reads 'United States Postal Service'."

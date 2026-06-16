@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Тротил"
 $Text russ Desc = "Он же тол, он же тринитротолуол или просто ТНТ, любимец публики. Упакован в жестяную баночку."
-$Text engl = "Тротил"
-$Text engl Desc = "Он же тол, он же тринитротолуол или просто ТНТ, любимец публики. Упакован в жестяную баночку."
+$Text engl = "TNT"
+$Text engl Desc = "Also known as trotyl, also known as trinitrotoluene, or just plain TNT, the crowd favorite. Packed in a tin can."

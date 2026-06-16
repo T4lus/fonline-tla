@@ -20,4 +20,4 @@ DisableEgg = True
 $Text russ = "Карта-пропуск"
 $Text russ Desc = "На этой карточке есть магнитная полоска."
 $Text engl = "Security Card"
-$Text engl Desc = "На этой карточке есть магнитная полоска."
+$Text engl Desc = "This card has a magnetic strip."

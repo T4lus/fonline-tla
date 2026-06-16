@@ -29,5 +29,5 @@ InitScript = RatGrenade::RatGrenadeInit
 
 $Text russ = "Токсичная крыса"
 $Text russ Desc = "Укус этой крысы очень опасен. Высокотоксичный яд, который по непонятным причинам, не убивает саму крысу, попадает при укусе в организм жертвы и зачастую приводит к летальному исходу. Может использоваться в качестве метательного оружия."
-$Text engl = "Токсичная крыса"
-$Text engl Desc = "Укус этой крысы очень опасен. Высокотоксичный яд, который по непонятным причинам, не убивает саму крысу, попадает при укусе в организм жертвы и зачастую приводит к летальному исходу. Может использоваться в качестве метательного оружия."
+$Text engl = "Toxic rat"
+$Text engl Desc = "The bite of this rat is very dangerous. A highly toxic venom, which for some unclear reason does not kill the rat itself, enters the victim's body through the bite and often leads to a lethal outcome. Can be used as a throwing weapon."

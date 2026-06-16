@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Робот"
 $Text russ Desc = "Мистер Хенди. Когда-то он мог помогать по дому и выгуливать собаку."
-$Text engl = "Робот"
-$Text engl Desc = "Мистер Хенди. Когда-то он мог помогать по дому и выгуливать собаку."
+$Text engl = "Robot"
+$Text engl Desc = "A Mister Handy. It used to be able to help around the house and walk the dog."

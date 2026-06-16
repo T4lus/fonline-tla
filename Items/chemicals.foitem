@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Химикаты"
 $Text russ Desc = "Какие-то опасные ядовитые химикаты. Не пробуйте на вкус!"
-$Text engl = "Химикаты"
-$Text engl Desc = "Какие-то опасные ядовитые химикаты. Не пробуйте на вкус!"
+$Text engl = "Chemicals"
+$Text engl Desc = "Some dangerous, poisonous chemicals. Don't taste them!"

@@ -6,4 +6,4 @@ PicMap = art/walls/PAC5000.FRM
 Corner = EastWest
 
 $Text russ = "Стена"
-$Text engl = "Стена"
+$Text engl = "Wall"

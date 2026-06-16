@@ -17,5 +17,5 @@ DisableEgg = True
 
 $Text russ = "Шприц"
 $Text russ Desc = "Пустой шприц, найдённый в кармане одного из учеников военной школы Арройо."
-$Text engl = "Шприц"
-$Text engl Desc = "Пустой шприц, найдённый в кармане одного из учеников военной школы Арройо."
+$Text engl = "Syringe"
+$Text engl Desc = "An empty syringe, found in the pocket of one of the students of the Arroyo military school."

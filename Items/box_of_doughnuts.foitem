@@ -21,5 +21,5 @@ DisableEgg = True
 
 $Text russ = "Коробка пончиков"
 $Text russ Desc = "Коробка пончиков 'Пончики вкусные'. 5 штук в упаковке."
-$Text engl = "Коробка пончиков"
-$Text engl Desc = "Коробка пончиков 'Пончики вкусные'. 5 штук в упаковке."
+$Text engl = "Box of Doughnuts"
+$Text engl Desc = "A box of 'Tasty Doughnuts'. 5 to a pack."

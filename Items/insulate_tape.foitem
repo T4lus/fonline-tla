@@ -17,5 +17,5 @@ Stackable = True
 
 $Text russ = "Изолента"
 $Text russ Desc = "Прочная и безопасная изоляционная лента. Не гниет, не деформируется."
-$Text engl = "Изолента"
-$Text engl Desc = "Прочная и безопасная изоляционная лента. Не гниет, не деформируется."
+$Text engl = "Insulating Tape"
+$Text engl Desc = "Sturdy, safe insulating tape. Doesn't rot, doesn't deform."

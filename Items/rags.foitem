@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Кусок ткани"
 $Text russ Desc = "Такие симпатичные полосочки ткани образуются обычно после того, как бедняки раздевают труп какого-нибудь несчастного и вырезают из его одежды куски материи, которые ещё можно использовать."
-$Text engl = "Кусок ткани."
-$Text engl Desc = "Такие симпатичные полосочки ткани образуются обычно после того, как бедняки раздевают труп какого-нибудь несчастного и вырезают из его одежды куски материи, которые ещё можно использовать."
+$Text engl = "Piece of cloth."
+$Text engl Desc = "Such nice little strips of cloth usually turn up after the poor strip the corpse of some unfortunate and cut out the pieces of fabric from his clothes that can still be used."

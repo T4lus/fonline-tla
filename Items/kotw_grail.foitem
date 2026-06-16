@@ -23,5 +23,5 @@ Stackable = True
 
 $Text russ = "Пиво 'Гамма-глоток'"
 $Text russ Desc = "Священный Грааль. Честно."
-$Text engl = "Пиво 'Гамма-глоток'"
-$Text engl Desc = "Священный Грааль. Честно."
+$Text engl = "Gamma Gulp Beer"
+$Text engl Desc = "The Holy Grail. Honestly."

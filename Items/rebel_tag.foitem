@@ -16,5 +16,5 @@ DisableEgg = True
 
 $Text russ = "Солдатский жетон рейнджера"
 $Text russ Desc = "Имя владельца этого жетона стерто."
-$Text engl = "Солдатский жетон рейнджера"
-$Text engl Desc = "Имя владельца этого жетона стерто."
+$Text engl = "Ranger's dog tag"
+$Text engl Desc = "The name of this tag's owner has been worn away."

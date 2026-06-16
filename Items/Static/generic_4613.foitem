@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Бочка с кровью"
 $Text russ Desc = "Бочка с кровью. Интересно, сколько тел понадобилось, чтобы её наполнить?"
-$Text engl = "Бочка с кровью"
-$Text engl Desc = "Бочка с кровью. Интересно, сколько тел понадобилось, чтобы её наFloorнить?"
+$Text engl = "Barrel of Blood"
+$Text engl Desc = "A barrel of blood. Wonder how many bodies it took to fill it?"

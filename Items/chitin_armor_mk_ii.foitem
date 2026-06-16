@@ -35,4 +35,4 @@ DisableEgg = True
 $Text russ = "Хитиновая броня мод. 2"
 $Text russ Desc = "Усовершенствованная версия хитиновой брони. За счет использования дополнительных армирующих элементов повышена устойчивость к повреждениям."
 $Text engl = "Chitin armor M2"
-$Text engl Desc = "Усовершенствованная версия хитиновой брони. За счет использования дополнительных армирующих элементов повышена устойчивость к повреждениям."
+$Text engl Desc = "An improved version of the chitin armor. Thanks to additional reinforcing elements, its resistance to damage has been increased."

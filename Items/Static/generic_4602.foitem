@@ -13,5 +13,5 @@ DisableEgg = True
 
 $Text russ = "Газетный автомат"
 $Text russ Desc = "Если в отверстие сверху бросить монетку, но она тут же вывалится снизу. Попробуйте, этим можно заниматься часами."
-$Text engl = "Газетный автомат"
-$Text engl Desc = "Если в отверстие сверху бросить монетку, но она тут же вывалится снизу. Попробуйте, этим можно заниматься часами."
+$Text engl = "Newspaper Dispenser"
+$Text engl Desc = "If you drop a coin into the slot on top, it immediately falls right back out the bottom. Try it - you could do this for hours."

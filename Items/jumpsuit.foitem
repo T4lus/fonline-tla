@@ -22,5 +22,5 @@ DisableEgg = True
 
 $Text russ = "Костюм Убежища"
 $Text russ Desc = "Стандартный с виду костюм Убежища 13, но при ближайшем рассмотрении видно, что он покрыт множеством плохо отмытых пятен крови и заштопанных пулевых отверстий. Один рукав, судя по всему, пришит позднее. Сильно поношен, на вид ему больше ста лет. Неужели это... Тот Самый Костюм?"
-$Text engl = "Костюм Убежища"
-$Text engl Desc = "Стандартный с виду костюм Убежища 13, но при ближайшем рассмотрении видно, что он покрыт множеством плохо отмытых пятен крови и заштопанных пулевых отверстий. Один рукав, судя по всему, пришит позднее. Сильно поношен, на вид ему больше ста лет. Неужели это... Тот Самый Костюм?"
+$Text engl = "Vault Suit"
+$Text engl Desc = "A seemingly standard Vault 13 suit, but on closer inspection you can see it's covered with many poorly washed-out bloodstains and darned bullet holes. One sleeve, by the looks of it, was sewn on later. Heavily worn, it looks over a hundred years old. Could this be... The Suit?"

@@ -39,5 +39,5 @@ IsNoBarter = True
 
 $Text russ = "Гвардеец"
 $Text russ Desc = "Боец Гвардии ГУ"
-$Text engl = "Гвардеец"
-$Text engl Desc = "Боец Гвардии ГУ"
+$Text engl = "Guardsman"
+$Text engl Desc = "Vault City Guard soldier"

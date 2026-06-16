@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Мешок"
 $Text russ Desc = "Вместительный мешок из грубой ткани. Подходит для хранения и переноски чего угодно от съестного до бездыханных тел партнёров по бизнесу."
-$Text engl = "Мешок"
-$Text engl Desc = "Вместительный мешок из грубой ткани. Подходит для хранения и переноски чего угодно от съестного до бездыханных тел партнёров по бизнесу."
+$Text engl = "Sack"
+$Text engl Desc = "A roomy sack of coarse cloth. Suitable for storing and carrying anything from food to the lifeless bodies of business partners."

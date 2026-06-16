@@ -18,5 +18,5 @@ DisableEgg = True
 
 $Text russ = "Вакцина"
 $Text russ Desc = "Шприц наполнен какой-то жидкостью."
-$Text engl = "Вакцина"
-$Text engl Desc = "Шприц наполнен какой-то жидкостью."
+$Text engl = "Vaccine"
+$Text engl Desc = "The syringe is filled with some kind of liquid."

@@ -38,5 +38,5 @@ DisableEgg = True
 
 $Text russ = "Дымовая граната"
 $Text russ Desc = "Обеспечивает большое количество густого дыма за короткий промежуток времени. Помогает сократить область обзора противнику и занять лучшую боевую позицию под прикрытием дыма."
-$Text engl = "Дымовая граната"
-$Text engl Desc = "Обеспечивает большое количество густого дыма за короткий промежуток времени. Помогает сократить область обзора противнику и занять лучшую боевую позицию под прикрытием дыма."
+$Text engl = "Smoke grenade"
+$Text engl Desc = "Produces a large amount of thick smoke in a short span of time. Helps reduce the enemy's field of view and lets you take a better combat position under cover of the smoke."

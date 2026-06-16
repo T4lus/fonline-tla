@@ -28,5 +28,5 @@ InitScript = RatGrenade::RatGrenadeInit
 
 $Text russ = "Парализованная крыса"
 $Text russ Desc = "Мутировавшая крыса, обработанная ультразвуковым гипносвистком. Может использоваться в качестве метательного оружия."
-$Text engl = "Парализованная крыса"
-$Text engl Desc = "Мутировавшая крыса, обработанная ультразвуковым гипносвистком. Может использоваться в качестве метательного оружия."
+$Text engl = "Paralyzed rat"
+$Text engl Desc = "A mutated rat treated with an ultrasonic hypno-whistle. Can be used as a throwing weapon."

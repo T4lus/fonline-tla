@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Кусок взрывчатки"
 $Text russ Desc = "Кусок пластида без детонатора. Если его не кидать в огонь, он не опасней пластилина."
-$Text engl = "Кусок взрывчатки"
-$Text engl Desc = "Кусок пластида без детонатора. Если его не кидать в огонь, он не опасней пластилина."
+$Text engl = "Lump of explosives"
+$Text engl Desc = "A lump of plastic explosive without a detonator. As long as you don't throw it into a fire, it's no more dangerous than modeling clay."

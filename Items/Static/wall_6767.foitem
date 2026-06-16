@@ -6,4 +6,4 @@ PicMap = art/walls/VLTEX036.FRM
 Corner = EastWest
 
 $Text russ = "Дверной проём"
-$Text engl = "Дверной проём"
+$Text engl = "Doorway"

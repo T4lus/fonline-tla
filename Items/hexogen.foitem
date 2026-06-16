@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Гексоген"
 $Text russ Desc = "Популярное за относительную простоту изготовления взрывчатое вещевство, используемое подрывниками по всей Калифорнии. Порошкообразен, упакован в мешочек."
-$Text engl = "Гексоген"
-$Text engl Desc = "Популярное за относительную простоту изготовления взрывчатое вещевство, используемое подрывниками по всей Калифорнии. Порошкообразен, упакован в мешочек."
+$Text engl = "Hexogen"
+$Text engl Desc = "An explosive popular for its relative ease of manufacture, used by demolitionists all across California. Powdered, packed in a pouch."

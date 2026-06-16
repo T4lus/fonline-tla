@@ -19,5 +19,5 @@ DisableEgg = True
 
 $Text russ = "Шкурка огненного гекко"
 $Text russ Desc = "Шкурка огненного гекко. Огнеупорна, из неё получатся отличные перчатки."
-$Text engl = "Шкурка огненного гекко"
-$Text engl Desc = "Шкурка огненного гекко. Огнеупорна, из неё Floorучатся отличные перчатки."
+$Text engl = "Fire Gecko Pelt"
+$Text engl Desc = "A fire gecko pelt. Fireproof, it would make excellent gloves."

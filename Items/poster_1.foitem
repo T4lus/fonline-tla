@@ -17,5 +17,5 @@ InitScript = Poster::BundleInit
 
 $Text russ = "Плакат"
 $Text russ Desc = "Этот изношенный плакат будет прилично смотреться на любой стене. С его помощью можно закрыть пятно на обоях или скрытый стенной сейф."
-$Text engl = "Плакат"
-$Text engl Desc = "Этот изношенный плакат будет прилично смотреться на любой стене. С его помощью можно закрыть пятно на обоях или скрытый стенной сейф."
+$Text engl = "Poster"
+$Text engl Desc = "This worn-out poster will look decent on any wall. It can be used to cover a stain on the wallpaper or a hidden wall safe."

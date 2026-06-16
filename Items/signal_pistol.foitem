@@ -24,5 +24,5 @@ InitScript = SignalRocket::PistolInit
 
 $Text russ = "Сигнальный пистолет"
 $Text russ Desc = "Если вы хотите сообщить окружающему миру, где прячетесь, лучше способа не придумать, чем запустить пару сигнальных ракет."
-$Text engl = "Сигнальный пистолет"
-$Text engl Desc = "Если вы хотите сообщить окружающему миру, где прячетесь, лучше способа не придумать, чем запустить пару сигнальных ракет."
+$Text engl = "Signal pistol"
+$Text engl Desc = "If you want to tell the whole world where you're hiding, there's no better way than to fire off a couple of signal flares."

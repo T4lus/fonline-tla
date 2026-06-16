@@ -17,5 +17,5 @@ InitScript = Hunter::FluteInit
 
 $Text russ = "Ультразвуковой свисток"
 $Text russ Desc = "Загадочная хреновина, которую Хьюз и Лоуренс называли то дудкой, то ультразвуковым гипнотизатором."
-$Text engl = "Ультразвуковой свисток"
-$Text engl Desc = "Загадочная хреновина, которую Хьюз и Лоуренс называли то дудкой, то ультразвуковым гипнотизатором."
+$Text engl = "Ultrasonic Whistle"
+$Text engl Desc = "A mysterious doohickey that Hughes and Lourence called either a pipe or an ultrasonic hypnotizer."
