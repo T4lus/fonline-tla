@@ -64,21 +64,21 @@ Speech 8 # Спрашивай, спрашивай [Ухмыляется]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 2*}{}{видел автомат}
-{Speech 2}{}{Привет, бродяга.@@Что тебе нужно, бродяга?@@Чего ищешь, бродяга?@@Кто это тут у нас?}
-{Speech 2 Answer 3}{}{Что это за штуки у стены?}
-{Speech 2 Answer 5}{}{Откуда эти автоматы?}
-{Speech 3}{}{Ха! Дикар@sex@|ь|ка|! Это же музыкальный автомат. Бросаешь монетку, слушаешь музыку. Попробуй, там вон, один, включен.}
-{Speech 3 Answer 4}{}{А зачем тебе столько этих автоматов?}
-{Speech 3 Answer 5}{}{А где вы их взяли?}
-{Speech 4}{}{Хм, ну, мне-то, собственно, ни к чему. Это собственность мистера Элдриджа. А я за ними присматриваю.}
-{Speech 4 Answer 8}{}{Ясно, спрошу у Элдриджа, не продаст ли один.}
-{Speech 4 Answer 5}{}{А где вы их взяли?}
-{Speech 5}{}{Долгая история. Если вкратце, пришел к нам тут один, в броне анклава, но, по разговору сразу видно, не анклавовец. Вооружен до зубов. Избранным представился. Рассказал, что нашел довоенный склад с кучей барахла. Продал Элдриджу координаты и слинял куда-то. Мы туда целый рейд собрали, даже тачка была.}
-{Speech 5 Answer 6}{}{И что на складе, оружие?}
-{Speech 6}{}{Да нет. Если бы. Либо Избранный оттуда все вынес. Либо не было там ничего толкового. Взяли один автомат музыкальный, Элдридж хотел дурачка своего, Элджернона потешить. Все равно не работал ни хрена.}
-{Speech 6 Answer 7}{}{Но тут их больше одного!}
-{Speech 7}{}{Да! Представляешь, чудак-то наш, Элджернон! Починил автомат! Ну Элдридж его тут же впарил кому-то из Бишопов. А мы обратно рванули, остальные привезли. Вот, это все, что остались. Захочешь купить, говори с Элдриджем.}
-{Speech 7 Answer 4}{}{А зачем тебе столько этих автоматов?}
-{Speech 7 Answer Exit}{}{Ага, спасибо.}
-{Speech 8}{}{Спрашивай, спрашивай [Ухмыляется]}
+{Speech 1 Answer 2*}{}{saw the jukebox}
+{Speech 2}{}{Hey, drifter.@@What do you need, drifter?@@What are you looking for, drifter?@@Who do we have here?}
+{Speech 2 Answer 3}{}{What are those things by the wall?}
+{Speech 2 Answer 5}{}{Where did these machines come from?}
+{Speech 3}{}{Ha! @sex@|Savage|Savage|! It's a jukebox. You toss in a coin, you listen to music. Give it a try, that one over there is switched on.}
+{Speech 3 Answer 4}{}{And why do you need so many of these machines?}
+{Speech 3 Answer 5}{}{And where did you get them?}
+{Speech 4}{}{Hmm, well, me, I've got no use for them. They're Mister Eldridge's property. I just keep an eye on them.}
+{Speech 4 Answer 8}{}{I see, I'll ask Eldridge whether he'll sell one.}
+{Speech 4 Answer 5}{}{And where did you get them?}
+{Speech 5}{}{Long story. In short, this guy came to us, in Enclave armor, but from the way he talked you could tell right off he was no Enclave man. Armed to the teeth. Introduced himself as the Chosen One. Said he'd found a prewar warehouse full of junk. Sold Eldridge the coordinates and slipped off somewhere. We put together a whole raid out there, even had a car.}
+{Speech 5 Answer 6}{}{So what was in the warehouse, weapons?}
+{Speech 6}{}{No. Wish there had been. Either the Chosen One had hauled it all out. Or there was nothing worthwhile there to begin with. We took one jukebox, Eldridge wanted to please his fool, Algernon. It didn't work for shit anyway.}
+{Speech 6 Answer 7}{}{But there's more than one here!}
+{Speech 7}{}{Yeah! Can you believe it, that weirdo of ours, Algernon! He fixed the jukebox! Well, Eldridge palmed it off right away on one of the Bishops. And we tore back out there, brought the rest. Here, this is all that's left. If you want to buy, talk to Eldridge.}
+{Speech 7 Answer 4}{}{And why do you need so many of these machines?}
+{Speech 7 Answer Exit}{}{Yeah, thanks.}
+{Speech 8}{}{Ask away, ask away [Smirks]}

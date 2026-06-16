@@ -109,39 +109,39 @@ Speech 13 # [Смеется вам прямо в лицо] Ха! Продать?
 {DescAliveFull}{}{You see a strong man in his middle ages with the remains of hair on his head.}
 {DescAliveFull}{}{You see Mason. He carefully watches over you.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 10}{}{знаком}
-{Speech 1 Answer 9}{}{дурак}
-{Speech 2}{}{@sex@|Ты пришел не в то место, дикарь. Убирайся|Тут не порностудия. Убирайся|.}
-{Speech 2 Answer 3}{}{Что за этой дверью?}
-{Speech 2 Answer Exit}{}{Что ж, хорошо. Я ухожу.}
-{Speech 3}{}{[Ядовито.] За этой дверью? Вот за этой дверью? Там комната мистера САЛЬВАТОРЕ. А теперь ПРОВАЛИВАЙ.}
-{Speech 3 Answer 4}{}{Мне нужен мистер Сальваторе. Я ищу работу.}
-{Speech 3 Answer 5}{}{Слушай, гондон... ты хочешь здесь завтра еще работать? У меня есть информация о другой семье в Рино, которую мистер Сальваторе захочет услышать. Так что дай мне с ним поговорить СЕЙЧАС.}
-{Speech 3 Answer Exit}{}{Что ж, хорошо. Я ухожу.}
-{Speech 4}{}{@sex@|Слушай, может, ты не СЛЫШАЛ, дикарь, но это дом Сальваторе. МОЯ работа - обеспечить, чтобы босса не беспокоили тявкающие псы типа тебя. А теперь беги обратно в свое племя и сготовь там одного из своих на ужин|Послушай, девочка, если мистеру Сальваторе понадобится шлюха, я тебе свисну. А сейчас, пошла вон|.}
-{Speech 4 Answer Exit}{}{[Тихо уйти.]}
-{Speech 5}{}{@sex@|Мальчик, ты, наверное, тупее ЖОПЫ, раз так со мной говоришь. Еще одно слово, только еще ОДНО слово, и я из тебя факел сделаю|Девочка, ты, наверное, тупее ЖОПЫ, раз так со мной говоришь. Еще одно слово, только еще ОДНО слово, и я из тебя факел сделаю|.}
-{Speech 5 Answer Exit}{}{[Тихо уйти.]}
-{Speech 5 Answer 13}{}{У меня есть информация. Я хочу ее продать.}
-{Speech 6}{}{Я ПРЕДУПРЕДИЛ тебя, чмо, теперь тебе... (Мэйсон внезапно перестает говорить, слушает что-то, что вы не можете услышать. Через мгновение он скрипит зубами.) Мистер Сальваторе говорит, что ты можешь зайти...}
-{Speech 6 Answer Exit}{}{О, я-то войду. После того, как убью тебя.}
-{Speech 6 Answer 7}{}{Спасибо, чмолио, обязательно упомяну твои манеры при мистере Сальваторе.}
-{Speech 6 Answer 7*}{}{Тогда ладно.}
-{Speech 7}{}{[Мэйсон останавливает вас.] @sex@|Послушай... [Наклоняется к вам, понижает голос.] ...несколько основных правил, парень.|Послушай... [Наклоняется к вам, понижает голос.] ...несколько основных правил, девочка.| Не трать время мистера Сальваторе впустую и не ври ему, или ответишь передо мной.}
-{Speech 7 Answer 8}{}{Понятно.}
-{Speech 7 Answer 8*}{}{Да, да, что угодно. А теперь уйди с дороги.}
-{Speech 8}{}{[Мэйсон опять вас останавливает.] Я еще не ЗАКОНЧИЛ. Прояви УВАЖЕНИЕ. Называй его всегда *мистер Сальваторе*, а когда он говорит, *заткнись и слушай.* Понятно?}
-{Speech 8 Answer 10}{}{Понятно.}
-{Speech 8 Answer 10*}{}{Последний шанс, Мэйсон: убирайся с моей дороги.}
-{Speech 9}{}{@sex@|Ты пришел не в то место, дикарь. Убирайся|Тут не порностудия. Убирайся|.}
-{Speech 9 Answer 11}{}{Стать умнея.}
-{Speech 9 Answer 11*}{}{Мы сюда дела ходить.}
-{Speech 9 Answer 10}{}{[Оставить штуку в покое.]}
-{Speech 10}{}{Ты можешь войти... на ЭТОТ раз.}
-{Speech 11}{}{Убирайся, тормоз. Я тебе повторять не собираюсь.}
-{Speech 11 Answer 10}{}{ЧЕ моя повторять?}
-{Speech 11 Answer Exit}{}{[Оставить штуку в покое.]}
-{Speech 13}{}{[Смеется вам прямо в лицо] Ха! Продать? Ты? Мы не имеем дела с отбросами вроде тебя. Возвращайся в ту помойную яму, откуда выбрал@sex@|ся|ась|, и ищи покупателя там.}
-{Speech 13 Answer Exit}{}{Вы не понимаете, от чего отказываетесь!}
-{Speech 13 Answer 6}{}{Ну... Если Сальваторе не интересно, кто взял в заложники одного из Райтов... Я, пожалуй, пойду.}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 10}{}{acquainted}
+{Speech 1 Answer 9}{}{fool}
+{Speech 2}{}{@sex@|You came to the wrong place, savage. Get out|This isn't a porn studio. Get out|.}
+{Speech 2 Answer 3}{}{What's behind this door?}
+{Speech 2 Answer Exit}{}{Well, fine. I'm leaving.}
+{Speech 3}{}{[Venomously.] Behind this door? Behind this very door? That's the room of Mister SALVATORE. And now BEAT IT.}
+{Speech 3 Answer 4}{}{I need Mister Salvatore. I'm looking for work.}
+{Speech 3 Answer 5}{}{Listen, you rubber... you want to still be working here tomorrow? I have information about another family in Reno that Mister Salvatore will want to hear. So let me talk to him NOW.}
+{Speech 3 Answer Exit}{}{Well, fine. I'm leaving.}
+{Speech 4}{}{@sex@|Listen, maybe you didn't HEAR, savage, but this is the house of Salvatore. MY job is to make sure the boss isn't bothered by yapping mutts like you. Now run back to your tribe and cook one of your own for dinner|Listen, girl, if Mister Salvatore needs a whore, I'll whistle for you. And now, get out|.}
+{Speech 4 Answer Exit}{}{[Quietly leave.]}
+{Speech 5}{}{@sex@|Boy, you must be dumber than an ASS to talk to me like that. One more word, just one MORE word, and I'll make a torch out of you|Girl, you must be dumber than an ASS to talk to me like that. One more word, just one MORE word, and I'll make a torch out of you|.}
+{Speech 5 Answer Exit}{}{[Quietly leave.]}
+{Speech 5 Answer 13}{}{I have information. I want to sell it.}
+{Speech 6}{}{I WARNED you, scum, now you... (Mason suddenly stops talking, listens to something you can't hear. After a moment he grinds his teeth.) Mister Salvatore says you can come in...}
+{Speech 6 Answer Exit}{}{Oh, I'll come in all right. After I kill you.}
+{Speech 6 Answer 7}{}{Thanks, scumling, I'll be sure to mention your manners to Mister Salvatore.}
+{Speech 6 Answer 7*}{}{Fine, then.}
+{Speech 7}{}{[Mason stops you.] @sex@|Listen... [Leans toward you, lowers his voice.] ...a few basic rules, kid.|Listen... [Leans toward you, lowers his voice.] ...a few basic rules, girl.| Don't waste Mister Salvatore's time and don't lie to him, or you'll answer to me.}
+{Speech 7 Answer 8}{}{Understood.}
+{Speech 7 Answer 8*}{}{Yeah, yeah, whatever. Now get out of the way.}
+{Speech 8}{}{[Mason stops you again.] I'm not FINISHED yet. Show RESPECT. Always call him *Mister Salvatore*, and when he talks, *shut up and listen.* Got it?}
+{Speech 8 Answer 10}{}{Understood.}
+{Speech 8 Answer 10*}{}{Last chance, Mason: get out of my way.}
+{Speech 9}{}{@sex@|You came to the wrong place, savage. Get out|This isn't a porn studio. Get out|.}
+{Speech 9 Answer 11}{}{Become smarter.}
+{Speech 9 Answer 11*}{}{We come here to do business.}
+{Speech 9 Answer 10}{}{[Leave the thing alone.]}
+{Speech 10}{}{You can come in... THIS time.}
+{Speech 11}{}{Get out, slowpoke. I'm not going to repeat myself.}
+{Speech 11 Answer 10}{}{WHA me repeat?}
+{Speech 11 Answer Exit}{}{[Leave the thing alone.]}
+{Speech 13}{}{[Laughs right in your face] Ha! Sell? You? We don't deal with trash like you. Go back to that cesspit you crawled out of and look for a buyer there.}
+{Speech 13 Answer Exit}{}{You don't understand what you're turning down!}
+{Speech 13 Answer 6}{}{Well... If Salvatore isn't interested in who took one of the Wrights hostage... I think I'll be going.}

@@ -53,20 +53,20 @@ Speech 6 # Жители Пустоши!  Внедряйте культурку! 
 
 [Text engl]
 {Name}{}{Salvador}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{тупица}
-{Speech 1 Answer 3}{}{нетупица}
-{Speech 1 Answer 6}{}{В свободном состоянии должен временами говорить}
-{Speech 2}{}{О боже. Двуногие брамины атакуют!@@А ты умеешь разговаривать?@@Господи, да откуда вы лезете!@@В дурдоме день открытых дверей?@@вернись к себе в стойло!@@Откуда здесь столько придурков?}
-{Speech 3}{}{@sex@|Мистер! |Мэм!| Позвольте предложить вам многосисячные... эээ... многокрасочные плакаты для украшения вашего жилища! Отлично выглядят! Облагораживают интерьер! Закрывают дыры и щели в стенах!}
-{Speech 3 Answer 4}{}{Плакаты? А как ими пользоваться?}
-{Speech 3 Answer Barter}{}{Ну давай посмотрим, что у тебя есть...}
-{Speech 3 Answer 5}{}{Пошел в жопу со своими плакатами}
-{Speech 3 Answer Exit}{}{Спасибо, я лучше так похожу}
-{Speech 4}{}{Очень просто. Обратная сторона плаката с липким слоем. Выбираете у себя в доме стену, которую хотели бы украсить, и клеите на неё плакат. Любой справится, ничего сложного! }
-{Speech 4 Answer Barter}{}{Отлично, давай посмотрим, что там у тебя.}
-{Speech 4 Answer Exit}{}{Вот и налепи их себе на ... лоб, придурок.}
-{Speech 4 Answer Exit*}{}{Благодарю, на сегодня хватит}
-{Speech 5}{}{Угу. Я вас тоже люблю.}
-{Speech 6}{}{Жители Пустоши!\nВнедряйте культурку!\nВешайте постеры на сухую штукатурку!\nНалетай - торопись, покупай живопись!}
-{100000001}{}{Примечание для игрока:Плакаты Сальвадора можно вешать только на стены заброшенного склада.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{dummy}
+{Speech 1 Answer 3}{}{not dummy}
+{Speech 1 Answer 6}{}{Should speak from time to time when idle}
+{Speech 2}{}{Oh god. The two-legged brahmin are attacking!@@So you can talk?@@Lord, where do you all keep crawling out from!@@Is it open house day at the loony bin?@@get back in your pen!@@Where do all these idiots come from?}
+{Speech 3}{}{@sex@|Mister! |Ma'am!| Allow me to offer you some many-titted... uh... many-colored posters to decorate your home! They look great! They class up the interior! They cover up holes and cracks in the walls!}
+{Speech 3 Answer 4}{}{Posters? And how do you use them?}
+{Speech 3 Answer Barter}{}{Well, let's see what you've got...}
+{Speech 3 Answer 5}{}{Shove your posters up your ass}
+{Speech 3 Answer Exit}{}{Thanks, I'd rather walk around as I am}
+{Speech 4}{}{Very simple. The back of the poster has a sticky layer. You pick a wall in your house you'd like to decorate, and stick the poster on it. Anyone can do it, nothing to it! }
+{Speech 4 Answer Barter}{}{Great, let's see what you've got there.}
+{Speech 4 Answer Exit}{}{Then go stick them on your... forehead, you idiot.}
+{Speech 4 Answer Exit*}{}{Thanks, that's enough for today}
+{Speech 5}{}{Yeah. I love you too.}
+{Speech 6}{}{Wasteland dwellers!\nBring in some culture!\nHang posters on the dry plaster!\nStep right up, hurry, buy some art!}
+{100000001}{}{Note for the player: Salvador's posters can only be hung on the walls of the abandoned warehouse.}

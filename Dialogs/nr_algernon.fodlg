@@ -77,26 +77,26 @@ Speech 9 # [Он не встает. И даже не дышит]
 {DescAliveFull}{}{You see dirty, garrulos man. He's swaying on his heels and whistling under his nose.}
 {DescAliveFull}{}{You see Algernon. It seems he's playing Missile Command in his mind.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 5}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 2}{}{[Парень с внешностью дебила смотрит на вас, улыбаясь беззубым ртом. На его рубашке вы видите нашивку, на которой рукописным шрифтом написано "Элджернон".] Бум! [Когда он замечает ваше оружие, он восхищенно на него показывает.] Бум!}
-{Speech 2 Answer 4}{}{Э... хочешь посмотреть на оружие?}
-{Speech 2 Answer Exit}{}{Э, нет, сейчас "бум" не надо, спасибо. Пока.}
-{Speech 3}{}{[Элджернон смотрит на вас и улыбается беззубым ртом.] Бум! [Когда он замечает ваше оружие, он восхищенно на него показывает.] Бум!\n}
-{Speech 3 Answer 4}{}{Да, и тебе тоже "бум". Элджернон, ты сможешь усовершенствовать что-нибудь из этого?}
-{Speech 3 Answer Exit}{}{Э, нет, сейчас "бум" не надо, спасибо. Пока.}
-{Speech 4}{}{[Что вы хотите ему дать?]}
-{Speech 4 Answer Exit}{}{Прости, мне нечего сейчас тебе дать, Эл. Может, в следующий раз.}
-{Speech 5}{}{Бум!}
-{Speech 5 Answer 6}{}{Бум!}
-{Speech 5 Answer Exit}{}{[Отойти]}
-{Speech 6}{}{Ха! Ха-ха! [Элджернон издает булькающий смех, а потом наводит на вас палец, как пистолет.] Бам-бам!}
-{Speech 6 Answer 7}{}{Не попал, не попал! Получи! [Навести на него палец, как пистолет.] ПИФ-ПАФ!}
-{Speech 6 Answer Exit}{}{У. Моя сдох. Моя пошел куда получше.}
-{Speech 7}{}{[Лицо Элджернона принимает потрясенное выражение. Он медленно переводит взгляд на то место, куда в него "попали". Внезапно он пошатывается, закатывает глаза и падает мертвым.]}
-{Speech 7 Answer 8}{}{Э, Эл? Твоя окей?}
-{Speech 7 Answer 9}{}{О-о.}
-{Speech 8}{}{[Он не двигается.]}
-{Speech 8 Answer 9}{}{Похлопать по лицу.}
-{Speech 9}{}{[Он не встает. И даже не дышит.]}
+{Speech 1 Answer 5}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 2}{}{[A guy with a moron's look stares at you, smiling with a toothless mouth. On his shirt you see a patch with "Algernon" written in cursive.] Boom! [When he notices your weapon, he points at it admiringly.] Boom!}
+{Speech 2 Answer 4}{}{Uh... wanna take a look at the weapon?}
+{Speech 2 Answer Exit}{}{Uh, no, no "boom" right now, thanks. Bye.}
+{Speech 3}{}{[Algernon stares at you and smiles with a toothless mouth.] Boom! [When he notices your weapon, he points at it admiringly.] Boom!\n}
+{Speech 3 Answer 4}{}{Yeah, and "boom" to you too. Algernon, can you upgrade any of this?}
+{Speech 3 Answer Exit}{}{Uh, no, no "boom" right now, thanks. Bye.}
+{Speech 4}{}{[What do you want to give him?]}
+{Speech 4 Answer Exit}{}{Sorry, I've got nothing to give you right now, Al. Maybe next time.}
+{Speech 5}{}{Boom!}
+{Speech 5 Answer 6}{}{Boom!}
+{Speech 5 Answer Exit}{}{[Walk away]}
+{Speech 6}{}{Ha! Ha-ha! [Algernon lets out a gurgling laugh, then points his finger at you like a pistol.] Bang-bang!}
+{Speech 6 Answer 7}{}{Missed, missed! Take that! [Point your finger at him like a pistol.] BANG-BANG!}
+{Speech 6 Answer Exit}{}{Ugh. Me dead. Me go somewhere better.}
+{Speech 7}{}{[Algernon's face takes on a shocked expression. He slowly turns his gaze to the spot where he was "hit". Suddenly he staggers, rolls his eyes and falls dead.]}
+{Speech 7 Answer 8}{}{Uh, Al? You okay?}
+{Speech 7 Answer 9}{}{Uh-oh.}
+{Speech 8}{}{[He doesn't move.]}
+{Speech 8 Answer 9}{}{Pat his face.}
+{Speech 9}{}{[He doesn't get up. He's not even breathing.]}

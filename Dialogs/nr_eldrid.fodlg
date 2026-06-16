@@ -151,49 +151,49 @@ Speech 16 # В разумных пределах. Все, ждите, через
 {DescAliveFull}{}{You see a heavily-armed man, covered in sweat. He examines his weaponry collection on the walls and smiles dreamily.}
 {DescAliveFull}{}{You see Eldridge. He examines his collection of weaponry and smiles dreamily.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 9}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 4}{}{знаком}
+{Speech 1 Answer 9}{}{fool}
+{Speech 1 Answer 2}{}{unknown}
+{Speech 1 Answer 4}{}{known}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Смотря что вы продаете.}
-{Speech 2 Answer 10}{}{Мистер Элдридж, я бы хотел купить у вас музыкальный автомат. Они продаются?}
-{Speech 2 Answer 11}{}{Мистер Элдридж, я бы хотел купить у вас музыкальный автомат. Они продаются?}
-{Speech 3}{}{Здесь, в оружейной Рено есть все новейшее оружие и все средства защиты, чтобы усмирить любого сукиного сына.}
-{Speech 3 Answer 6}{}{Я представитель Джеймса, он хотел бы пополнить запасы оружия.}
-{Speech 3 Answer Barter}{}{Вы тот человек, которого я ищу. Можно посмотреть что у вас есть?}
-{Speech 3 Answer 5}{}{Вы можете модифицировать или улучшить оружие?}
-{Speech 3 Answer Exit}{}{Мне ничего не надо прямо сейчас.}
-{Speech 4}{}{Привет снова, друг. Чем могу служить?}
-{Speech 4 Answer 6}{}{Я представитель Джеймса, он хотел бы пополнить запасы оружия.}
-{Speech 4 Answer Barter}{}{Можно посмотреть, что у вас есть?}
-{Speech 4 Answer 5}{}{Вы можете модифицировать или улучшить оружие?}
-{Speech 4 Answer Exit}{}{Нет не сегодня, спасибо.}
-{Speech 4 Answer 10}{}{Мистер Элдридж, я бы хотел купить у вас музыкальный автомат. Они продаются?}
-{Speech 4 Answer 11}{}{Мистер Элдридж, я бы хотел купить у вас музыкальный автомат. Они продаются?}
-{Speech 5}{}{Нет, в данный момент мой обслуживающий персонал находится в отпуске.}
+{Speech 2 Answer 3}{}{Depends on what you're selling.}
+{Speech 2 Answer 10}{}{Mister Eldridge, I'd like to buy a jukebox from you. Are they for sale?}
+{Speech 2 Answer 11}{}{Mister Eldridge, I'd like to buy a jukebox from you. Are they for sale?}
+{Speech 3}{}{Here, at the Reno gun shop, we have all the newest weapons and all the protective gear to tame any son of a bitch.}
+{Speech 3 Answer 6}{}{I'm James's representative, he'd like to restock on weapons.}
+{Speech 3 Answer Barter}{}{You're just the man I'm looking for. Can I see what you've got?}
+{Speech 3 Answer 5}{}{Can you modify or upgrade weapons?}
+{Speech 3 Answer Exit}{}{I don't need anything right now.}
+{Speech 4}{}{Hello again, friend. How can I serve you?}
+{Speech 4 Answer 6}{}{I'm James's representative, he'd like to restock on weapons.}
+{Speech 4 Answer Barter}{}{Can I see what you've got?}
+{Speech 4 Answer 5}{}{Can you modify or upgrade weapons?}
+{Speech 4 Answer Exit}{}{No, not today, thanks.}
+{Speech 4 Answer 10}{}{Mister Eldridge, I'd like to buy a jukebox from you. Are they for sale?}
+{Speech 4 Answer 11}{}{Mister Eldridge, I'd like to buy a jukebox from you. Are they for sale?}
+{Speech 5}{}{No, at the moment my service staff is on vacation.}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 8}{}{Вот деньги.}
-{Speech 6 Answer 7}{}{У меня нет таких денег сейчас.}
-{Speech 6 Answer Exit}{}{Мне ничего не нужно.}
-{Speech 7}{}{Очень жаль.}
-{Speech 8}{}{Вот тут все, что тебе нужно. Передай привет Джеймсу. }
-{Speech 9}{}{Добро пожаловать @sex@|мистер|мисс|! Мое имя Элдридж. Вы хотите наполнить свой мешок железом?}
-{Speech 9 Answer Barter}{}{Наполнять! Наполнять!!}
-{Speech 9 Answer Exit}{}{Нет мешок... неа.}
-{Speech 10}{}{Увы. Все, распроданы все автоматы... Остался последний, но продавать его не буду.}
-{Speech 10 Answer Exit}{}{Жаль.}
-{Speech 11}{}{Да, продаются. Но, сам@sex@||а| понимаешь, вещь раритетная. Стоит дорого. Да и продам не каждому. Только тому, у кого надежное место есть для автомата.}
-{Speech 11 Answer Exit}{}{Пожалуй, это не мой случай.}
-{Speech 11 Answer 12}{}{У меня есть надежное место. Укромное, надежное. Бывший военный склад. У нас там база. Автомат будет в целости и сохранности, гарантирую.}
-{Speech 11 Answer 13}{}{У меня есть надежное место. Укромное, надежное. Бывший военный склад. У нас там база. Автомат будет в целости и сохранности, гарантирую.}
-{Speech 12}{}{Эй, да я же это место знаю! Там уже стоит один наш автомат. Нет, не продам второй. Слишком редкая вещь.}
-{Speech 12 Answer Exit}{}{Жаль...}
-{Speech 13}{}{Это хорошо. Автомат стоит 200 000 монет. Даже не вздумай торговаться. Знаешь, как сложно было их найти? А потом отреставрировать?}
-{Speech 13 Answer Exit}{}{Да, но двести косых, это все-таки куча денег! Мне нужно подумать.}
-{Speech 13 Answer 14}{}{По рукам. Как мне его забрать? [Отдать деньги]}
-{Speech 14}{}{Эй, так не пойдет. Ты мне даешь координаты твоей базы, мои люди автомат сами установят. Иначе мало ли, сломается что, а у нас страховки не предусмотрено. [Ухмыляется]}
-{Speech 14 Answer 15}{}{А склад наш не обчистите?}
-{Speech 15}{}{[Делает обиженный вид] Да за кого ты меня принимаешь? Все будет в порядке. В крайнем случае, ты же знаешь, где меня искать.}
-{Speech 15 Answer 16}{}{Да, но все равно, осторожность не помешает.}
-{Speech 16}{}{В разумных пределах. Все, ждите, через день-другой доставим.}
-{Speech 16 Answer Exit}{}{\nОтлично.}
+{Speech 6 Answer 8}{}{Here's the money.}
+{Speech 6 Answer 7}{}{I don't have that kind of money right now.}
+{Speech 6 Answer Exit}{}{I don't need anything.}
+{Speech 7}{}{Too bad.}
+{Speech 8}{}{Here's everything you need. Say hello to James. }
+{Speech 9}{}{Welcome @sex@|mister|miss|! My name is Eldridge. Do you want to fill your sack with iron?}
+{Speech 9 Answer Barter}{}{Fill it up! Fill it up!!}
+{Speech 9 Answer Exit}{}{No sack... nope.}
+{Speech 10}{}{Alas. That's it, all the jukeboxes are sold out... There's one left, but I won't be selling it.}
+{Speech 10 Answer Exit}{}{Pity.}
+{Speech 11}{}{Yes, they're for sale. But, you understand@sex@|||, it's a rare item. Costs a lot. And I won't sell to just anyone. Only to someone who's got a safe place for the jukebox.}
+{Speech 11 Answer Exit}{}{This probably isn't for me.}
+{Speech 11 Answer 12}{}{I have a safe place. Secluded, secure. A former military depot. We've got a base there. The jukebox will be safe and sound, I guarantee it.}
+{Speech 11 Answer 13}{}{I have a safe place. Secluded, secure. A former military depot. We've got a base there. The jukebox will be safe and sound, I guarantee it.}
+{Speech 12}{}{Hey, I know that place! There's already one of our jukeboxes there. No, I won't sell a second one. Too rare an item.}
+{Speech 12 Answer Exit}{}{Pity...}
+{Speech 13}{}{That's good. The jukebox costs 200,000 coins. Don't even think about haggling. You know how hard it was to find them? And then to restore them?}
+{Speech 13 Answer Exit}{}{Yeah, but two hundred grand, that's still a pile of money! I need to think about it.}
+{Speech 13 Answer 14}{}{Deal. How do I get it? [Hand over the money]}
+{Speech 14}{}{Hey, that won't work. You give me the coordinates of your base, my people will install the jukebox themselves. Otherwise, who knows, something might break, and we don't offer any insurance. [Grins]}
+{Speech 14 Answer 15}{}{You're not going to clean out our depot, are you?}
+{Speech 15}{}{[Puts on an offended look] Who do you take me for? Everything will be fine. Worst case, you know where to find me.}
+{Speech 15 Answer 16}{}{Yes, but still, caution doesn't hurt.}
+{Speech 16}{}{Within reason. All right, wait, we'll deliver it in a day or two.}
+{Speech 16 Answer Exit}{}{\nExcellent.}

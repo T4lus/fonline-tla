@@ -58,19 +58,19 @@ Speech 7 # Я вам не верю... Вы... Ты страшн@sex@|ый|ая|.
 
 [Text engl]
 {Name}{}{Jowey}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 6}{}{Мальчика ведут под белы рученьки.}
-{Speech 2}{}{Чего надо, @sex@| мистер|тётя|?}
-{Speech 2 Answer 3}{}{Подойди, парень. Тебя не Джоуи зовут?}
-{Speech 2 Answer 5}{}{Уши надо тебе надрать, вот чего надо.}
-{Speech 3}{}{Ну, Джоуи. А что? Если вы насчет той рации из машины, то это не я.\n}
-{Speech 3 Answer 4}{}{Нет. Черт с ней с рацией. Меня отправила за тобой твоя мама.}
-{Speech 4}{}{[бросается вас обнимать] Вы не шутите, @sex@| мистер|тётя|? Вы отведете меня домой?\n}
-{Speech 4 Answer Exit}{}{Отведу,  парень. Держись ближе ко мне, и пошли.}
-{Speech 4 Answer Exit*}{}{Да. Но не прямо сейчас. Оставайся здесь, я скоро вернусь.}
-{Speech 4 Answer 7}{}{Отведу,  парень. Держись ближе ко мне, и пошли.}
-{Speech 5}{}{Догони сначала\n}
-{Speech 6}{}{Ох, только бы отец мне не всыпал...@@А в Рино весело... Я бы точно стал гангстером.@@Стыдно... Больше никогда не убегу от мамы...@@Скорее бы домой...@@Отец меня выпорет опять, я знаю.@@Ничего, я подрасту еще немного, и точно стану настоящим мафиози с огромной пушкой!@@Ля-ля-ля!@@Отстань!}
-{Speech 7}{}{Я тебе не верю... Ты... Ты страшн@sex@|ый|ая|.}
-{Speech 7 Answer Exit}{}{Да стой ты на месте, черт тебя подери!}
+{Speech 1 Answer 6}{}{The boy is being led away by the hand.}
+{Speech 2}{}{What do you want, @sex@| mister|lady|?}
+{Speech 2 Answer 3}{}{Come here, kid. Isn't your name Jowey?}
+{Speech 2 Answer 5}{}{You need your ears boxed, that's what you need.}
+{Speech 3}{}{Well, Jowey. So what? If you're here about that radio from the car, it wasn't me.\n}
+{Speech 3 Answer 4}{}{No. Forget the radio. Your mom sent me to fetch you.}
+{Speech 4}{}{[rushes to hug you] You're not joking, @sex@| mister|lady|? You'll take me home?\n}
+{Speech 4 Answer Exit}{}{I will, kid. Stay close to me, and let's go.}
+{Speech 4 Answer Exit*}{}{Yes. But not right now. Stay here, I'll be back soon.}
+{Speech 4 Answer 7}{}{I will, kid. Stay close to me, and let's go.}
+{Speech 5}{}{Catch me first\n}
+{Speech 6}{}{Oh, I just hope dad doesn't whip me...@@Reno is fun though... I'd definitely become a gangster.@@I'm ashamed... I'll never run away from mom again...@@Can't wait to get home...@@Dad's gonna spank me again, I know it.@@Never mind, I'll grow a bit more, and I'll definitely become a real mobster with a huge gun!@@La-la-la!@@Leave me alone!}
+{Speech 7}{}{I don't believe you... You... You're scary@sex@|||.}
+{Speech 7 Answer Exit}{}{Stand still, damn you!}

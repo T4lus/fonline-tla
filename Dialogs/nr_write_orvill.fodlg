@@ -229,72 +229,72 @@ Speech 28 # Вот это я называю отличной работой, @pn
 {DescAliveFull}{}{You see a well-dressed gentleman. He looks very apprehensive. Could be the reason his hair tips turned grey.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 1 Answer 16}{}{квест на спасение сына }
-{Speech 1 Answer 3}{}{квест на спасение сына не выполнен. Локация доступна. Игрок нагрубил нпц}
-{Speech 1 Answer 17}{}{квест взят, не доделан}
-{Speech 2}{}{Говори, дикарь. Кто ты и что тебе нужно?}
-{Speech 2 Answer Exit}{}{Эээ... Я уже ухожу.}
-{Speech 3}{}{[Хмурится] Уйди с глаз моих. Еще раз здесь увижу - застрелю, слышишь?@@Знаешь, лучше тебе УБИРАТЬСЯ, и побыстрее. Даю тебе пять секунд, потом стреляю.}
-{Speech 3 Answer 4}{}{Ты, старик, слишком высокого о себе мнения! Я поставлю тебя на место.}
-{Speech 3 Answer Exit}{}{Ну ладно. Я, наверное, пойду.}
-{Speech 4}{}{Дети! У нас тут посетитель, ищет место на Голгофе! Идите сюда!}
-{Speech 5}{}{Я не обеспокоен, о нет. Я в ярости! Этот лоботряс снова угодил в ту же ловушку. Черт его подери.}
-{Speech 5 Answer 6}{}{О чем вы, сэр?}
-{Speech 6}{}{[Хмурится и оценивает вас взглядом] О чем? А откуда ты так@sex@|ой|ая| любопытн@sex@|ый|ая| взял@sex@|ся|ась|?}
-{Speech 6 Answer 7}{}{Да просто, мимо проходил@sex@||а|, решил@sex@||а| заглянуть.}
-{Speech 6 Answer 9}{}{Я наслышан@sex@||а| о Райтах, и глубоко уважаю вашу семью. Если я только смогу чем-то помочь..}
-{Speech 7}{}{Ага, похоже, у тебя дурная привычка бегать туда-сюда. Наверное, нам стоит поработать над этой твоей проблемой.}
-{Speech 7 Answer Exit}{}{Я ухожу.}
-{Speech 7 Answer 8}{}{О чем вы го...?}
-{Speech 8}{}{Ну прям моя мысль. Готовься к смерти.}
-{Speech 9}{}{Ну ладно, допустим. Возможно, то, что ты не в семье, это и хорошо. Так случилось, что МОЯ семья - ЭТО семья Райт. Мы сильны тем, что помним о своем родстве...}
-{Speech 9 Answer 10}{}{Хватит этой пурги. Ближе к делу.}
-{Speech 9 Answer 11}{}{Понимаю... Ну, гм, мне кажется, что понимаю.}
-{Speech 10}{}{[Лицо мистера Райта искажается гневом, и он начинает орать] Ты действуешь мне на нервы! Вон! Убирайся отсюда!}
-{Speech 10 Answer Exit}{}{Ухожу, прошу прощения.}
-{Speech 11}{}{Один из моих сыновей попал в переплет. Его взяли в заложники. Опять. Грязные подонки, они даже не представляют, с кем связались!}
-{Speech 11 Answer Exit}{}{Мне это неинтересно.}
-{Speech 11 Answer 12}{}{"Опять"? Это происходит не впервые?}
-{Speech 11 Answer 13}{}{Можете рассказать подробнее, что случилось, мистер Райт?}
-{Speech 12}{}{Да, но к делу это не относится. Если хочешь помочь Райтам, спаси моего сына. Я хорошо отблагодарю тебя.}
-{Speech 12 Answer 13}{}{Будет сделано. Где мне его искать?}
-{Speech 13}{}{Мой сын отправился в Пустошь, по важному делу. Подробности дела тебя не касаются. На месте его уже ждали мародеры Пустоши. Их оказалось слишком много. Они схватили моего сына, потом связались со мной и потребовали выкуп.}
-{Speech 13 Answer 14}{}{Сколько нужно денег?}
-{Speech 14}{}{Райты никогда не заплатят шантажисту. И дело не в деньгах. Их нужно проучить. Если справишься с ними, я заплачу тебе те 5 000, что они просили. Если, конечно, мой сын останется жив.}
-{Speech 14 Answer Exit}{}{Это слишком опасно, я не готов@sex@||а| рисковать своей жизнью.}
-{Speech 14 Answer 15}{}{Нет проблем. Где мне искать вашего сына?}
-{Speech 15}{}{Это палаточный лагерь, глубоко в Пустоши. Вот здесь. Поспеши, времени очень мало.}
-{Speech 15 Answer Exit}{}{Да, займусь этим прямо сейчас.}
-{Speech 16}{}{[Морщины покрывают лицо этого старика... похоже, с него никогда не сходило раздраженное выражение. В его густой седой шевелюре осталось лишь несколько каштановых волосков]}
-{Speech 16 Answer 5}{}{Мистер Райт, возможно, это не мое дело, но вы выглядите чем-то обеспокоенным. Что случилось?}
-{Speech 16 Answer 3}{}{Эй, Райт, выкладывай, что за проблема у тебя!}
-{Speech 16 Answer 3*}{}{Я приш@sex@|ел|ла| за работой. И ты мне ее дашь, ясно?}
-{Speech 17}{}{Есть новости?}
-{Speech 17 Answer 18}{}{Пока нет...}
-{Speech 17 Answer 19}{}{Мистер Райт. Ваш сын в безопасности.}
-{Speech 17 Answer 23}{}{У меня плохие новости, сэр.}
-{Speech 17 Answer 25}{}{У меня плохие новости, сэр.}
-{Speech 17 Answer 28}{}{Все в порядке, мистер Райт. Ваш сын скоро должен быть здесь. Мародеры отправлены на небеса.}
-{Speech 18}{}{[Выражение надежды на лице Райта сменяет разочарование] Проклятье! Нельзя было поручать такое чужаку не из Семьи. Прочь с глаз моих...}
-{Speech 18 Answer Exit}{}{Не все еще потеряно, я работаю над этой проблемой.}
-{Speech 19}{}{А что с рейдерами? Они мертвы?}
-{Speech 19 Answer 20}{}{Да. Все до единого! Это была форменная бойня!}
-{Speech 19 Answer 21}{}{Они были слишком сильны. Предо мной стоял выбор, вступить в бой или уйти с миром. Слишком высок был шанс потерять вашего сына, Мистер Райт.}
-{Speech 20}{}{[Райт багровеет и выплевывает через сжатые зубы] Ты! Вздумал@sex@||а|! Обмануть! Меня?! Орвила Райта?! Я все, все знаю! Убирайся отсюда!}
-{Speech 20 Answer Exit}{}{Эй, что за дела! А где деньги?}
-{Speech 21}{}{Проклятье! Черт бы побрал этого мальчишку, и тебя, и мародеров! Это же такой удар по репутации Райтов!}
-{Speech 21 Answer 22}{}{Сэр, вы считаете, мы должны были рисковать?}
-{Speech 22}{}{Да, черт возьми, да! Да кому я это объясняю? Ты - не Райт, и никогда им не станешь. Ладно. Сын жив, это главное. Вот твоя награда. И больше здесь не появляйся.}
-{Speech 22 Answer Exit}{}{Без проблем.}
-{Speech 23}{}{Так. Говори.}
-{Speech 23 Answer 24}{}{Ваш сын мертв. Эти сволочи оказались мне не по зубам.}
-{Speech 24}{}{[Райт мрачнеет и отводит взгляд] Больше ничего не говори. Уходи.}
-{Speech 24 Answer Exit}{}{[Уйти]}
-{Speech 25}{}{Так. Говори.}
-{Speech 25 Answer 26}{}{Ваш сын мертв.}
-{Speech 26}{}{Что с мародерами?}
-{Speech 26 Answer 27}{}{Мародеры убиты, мистер Райт. Но с задачей я не справил@sex@|ся|ась|...}
-{Speech 27}{}{Это тяжелый день для Райтов. Но, я ценю, что тебе удалось разобраться с мародерами. Ты получишь награду.}
-{Speech 27 Answer Exit}{}{Не было никакой возможности его спасти, сэр...}
-{Speech 28}{}{Вот это я называю отличной работой, @pname@! Я очень доволен! Думаю, что смогу заплатить тебе немного больше.}
-{Speech 28 Answer Exit}{}{Спасибо. Эти подонки заслуживали смерти.}
+{Speech 1 Answer 16}{}{quest to rescue the son }
+{Speech 1 Answer 3}{}{quest to rescue the son not completed. Location available. Player was rude to the NPC}
+{Speech 1 Answer 17}{}{quest taken, not finished}
+{Speech 2}{}{Speak, savage. Who are you and what do you want?}
+{Speech 2 Answer Exit}{}{Uhh... I'm already leaving.}
+{Speech 3}{}{[Frowns] Get out of my sight. If I see you here again, I'll shoot you, you hear me?@@You know, you'd better GET OUT, and quickly. I'll give you five seconds, then I shoot.}
+{Speech 3 Answer 4}{}{You think too highly of yourself, old man! I'll put you in your place.}
+{Speech 3 Answer Exit}{}{All right then. I'll be going, I suppose.}
+{Speech 4}{}{Kids! We've got a visitor here looking for a spot on Golgotha! Get over here!}
+{Speech 5}{}{I'm not worried, oh no. I'm furious! That dimwit got himself caught in the same trap again. Damn him.}
+{Speech 5 Answer 6}{}{What do you mean, sir?}
+{Speech 6}{}{[Frowns and sizes you up] What about? And where did such a nosy one come from anyway?}
+{Speech 6 Answer 7}{}{Oh, just passing by, thought I'd drop in.}
+{Speech 6 Answer 9}{}{I've heard a lot about the Wrights, and I deeply respect your family. If there's anything I can do to help..}
+{Speech 7}{}{Yeah, looks like you've got a bad habit of running back and forth. Maybe we should work on that problem of yours.}
+{Speech 7 Answer Exit}{}{I'm leaving.}
+{Speech 7 Answer 8}{}{What are you talk...?}
+{Speech 8}{}{That's just what I was thinking. Prepare to die.}
+{Speech 9}{}{All right, let's say so. Maybe it's a good thing you're not family. It just so happens that MY family - IS the Wright family. We are strong because we remember our kinship...}
+{Speech 9 Answer 10}{}{Enough of this drivel. Get to the point.}
+{Speech 9 Answer 11}{}{I understand... Well, um, I think I understand.}
+{Speech 10}{}{[Mr. Wright's face contorts with rage, and he starts yelling] You're getting on my nerves! Out! Get out of here!}
+{Speech 10 Answer Exit}{}{I'm leaving, my apologies.}
+{Speech 11}{}{One of my sons got into a jam. He's been taken hostage. Again. The filthy scum, they don't even realize who they're dealing with!}
+{Speech 11 Answer Exit}{}{I'm not interested in this.}
+{Speech 11 Answer 12}{}{"Again"? This isn't the first time it's happened?}
+{Speech 11 Answer 13}{}{Can you tell me more about what happened, Mr. Wright?}
+{Speech 12}{}{Yes, but that's beside the point. If you want to help the Wrights, save my son. I'll reward you well.}
+{Speech 12 Answer 13}{}{It'll be done. Where do I look for him?}
+{Speech 13}{}{My son set off into the Wasteland on important business. The details of the business are none of your concern. The Wasteland marauders were already waiting for him there. There turned out to be too many of them. They seized my son, then contacted me and demanded a ransom.}
+{Speech 13 Answer 14}{}{How much money is needed?}
+{Speech 14}{}{The Wrights will never pay a blackmailer. And it's not about the money. They need to be taught a lesson. If you deal with them, I'll pay you the 5,000 they asked for. As long as my son stays alive, of course.}
+{Speech 14 Answer Exit}{}{This is too dangerous, I'm not ready to risk my life.}
+{Speech 14 Answer 15}{}{No problem. Where do I look for your son?}
+{Speech 15}{}{It's a tent camp, deep in the Wasteland. Right here. Hurry, there's very little time.}
+{Speech 15 Answer Exit}{}{Yes, I'll get on it right now.}
+{Speech 16}{}{[Wrinkles cover this old man's face... it seems an irritated expression has never left it. In his thick gray mane only a few chestnut hairs remain]}
+{Speech 16 Answer 5}{}{Mr. Wright, maybe it's none of my business, but you look troubled by something. What happened?}
+{Speech 16 Answer 3}{}{Hey, Wright, out with it, what's the problem you've got!}
+{Speech 16 Answer 3*}{}{I came for work. And you're going to give it to me, got it?}
+{Speech 17}{}{Any news?}
+{Speech 17 Answer 18}{}{Not yet...}
+{Speech 17 Answer 19}{}{Mr. Wright. Your son is safe.}
+{Speech 17 Answer 23}{}{I have bad news, sir.}
+{Speech 17 Answer 25}{}{I have bad news, sir.}
+{Speech 17 Answer 28}{}{Everything's fine, Mr. Wright. Your son should be here soon. The marauders have been sent to heaven.}
+{Speech 18}{}{[The look of hope on Wright's face gives way to disappointment] Damn it! I shouldn't have entrusted this to an outsider, not from the Family. Get out of my sight...}
+{Speech 18 Answer Exit}{}{Not all is lost yet, I'm working on this problem.}
+{Speech 19}{}{What about the raiders? Are they dead?}
+{Speech 19 Answer 20}{}{Yes. Every last one of them! It was an outright slaughter!}
+{Speech 19 Answer 21}{}{They were too strong. I faced a choice, to join battle or to leave in peace. The chance of losing your son was too high, Mr. Wright.}
+{Speech 20}{}{[Wright turns crimson and spits out through clenched teeth] You! You dared! To deceive! Me?! Orville Wright?! I know everything, everything! Get out of here!}
+{Speech 20 Answer Exit}{}{Hey, what's the deal! Where's the money?}
+{Speech 21}{}{Damn it! Curse that boy, and you, and the marauders! This is such a blow to the Wrights' reputation!}
+{Speech 21 Answer 22}{}{Sir, do you think we should have risked it?}
+{Speech 22}{}{Yes, damn it, yes! Who am I even explaining this to? You're not a Wright, and you never will be. Fine. My son's alive, that's the main thing. Here's your reward. And don't show up here again.}
+{Speech 22 Answer Exit}{}{No problem.}
+{Speech 23}{}{So. Speak.}
+{Speech 23 Answer 24}{}{Your son is dead. Those bastards were too much for me.}
+{Speech 24}{}{[Wright darkens and looks away] Don't say anything more. Leave.}
+{Speech 24 Answer Exit}{}{[Leave]}
+{Speech 25}{}{So. Speak.}
+{Speech 25 Answer 26}{}{Your son is dead.}
+{Speech 26}{}{What about the marauders?}
+{Speech 26 Answer 27}{}{The marauders are killed, Mr. Wright. But I didn't manage the task...}
+{Speech 27}{}{It's a hard day for the Wrights. But I appreciate that you managed to deal with the marauders. You'll get your reward.}
+{Speech 27 Answer Exit}{}{There was no way to save him, sir...}
+{Speech 28}{}{Now that's what I call excellent work, @pname@! I'm very pleased! I think I can pay you a little more.}
+{Speech 28 Answer Exit}{}{Thank you. Those scumbags deserved to die.}

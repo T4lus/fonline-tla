@@ -30,6 +30,6 @@ Speech 2 # Чем могу помочь, амиго? Это запрещенна
 {DescAliveFull}{}{You see one of Myron's bodyguards. He looks like he wants to be anywhere but here.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Чем могу помочь, амиго? Это запрещенная зона.}
-{Speech 2 Answer Exit}{}{Сейчас тебе придется плохо [Атаковать]}
-{Speech 2 Answer Exit*}{}{Извини, я уже ухожу.}
+{Speech 2}{}{How can I help you, amigo? This is a restricted area.}
+{Speech 2 Answer Exit}{}{Now you're in for a world of hurt [Attack]}
+{Speech 2 Answer Exit*}{}{Sorry, I'm already leaving.}

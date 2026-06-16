@@ -37,11 +37,11 @@ Speech 4 # Отойди, от тебя воняет.
 {DescAliveFull}{}{You see an attractive young woman, wearing a leather suit.}
 {DescAliveFull}{}{You see Angela Bishop. She looks at you and starts licking her lips.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{дурак}
+{Speech 1 Answer 4}{}{fool}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Я Анжела БИШОП. Мой отец - ГЛАВА семьи Бишоп. Ты же не думаешь, что Я буду разговаривать с таким как ты?}
-{Speech 2 Answer 3}{}{Почему нет?}
-{Speech 2 Answer Exit}{}{Оу. Нет, конечно нет. До свидания, Анжела.}
-{Speech 3}{}{Потому, что если мне захочется развлечься, я тебе свисну. @sex@|Усек?|Ясно милая?|}
-{Speech 3 Answer Exit}{}{Простите. До свидания.}
-{Speech 4}{}{Отойди, от тебя воняет.}
+{Speech 2}{}{I'm Angela BISHOP. My father is the HEAD of the Bishop family. You don't really think I'd talk to someone like you, do you?}
+{Speech 2 Answer 3}{}{Why not?}
+{Speech 2 Answer Exit}{}{Oh. No, of course not. Goodbye, Angela.}
+{Speech 3}{}{Because if I feel like having some fun, I'll whistle for you. @sex@|Got it?|Clear, sweetie?|}
+{Speech 3 Answer Exit}{}{Sorry. Goodbye.}
+{Speech 4}{}{Step back, you stink.}

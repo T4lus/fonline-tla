@@ -172,64 +172,64 @@ Speech 18 # [Фыркает] Мутант? Ну, я даже не знаю. Эт
 {Name}{}{Kitty}
 {DescAliveShort}{}{You see a good-looking woman.}
 {DescAliveFull}{}{You see a burning hot woman in a sexy evening dress. Unfortunately, she's not for sale.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 12}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 6}{}{знаком}
-{Speech 2}{}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается] О, новое лицо! Меня зовут мисс Китти... добро пожаловать в Кошачью лапку.}
-{Speech 2 Answer 3}{}{Я ищу способ... развлечься.}
-{Speech 2 Answer 4}{}{Мне нужно кое-что для кое-кого.}
-{Speech 2 Answer Exit}{}{Пока. [Уйти]}
-{Speech 3}{}{[Улыбается и подмигивает] Правда? Тогда вы пришли по адресу. Чего бы вы ни хотели, какие бы у вас ни были фантазии, мы все это обеспечим... и не стесняйтесь говорить, мы уже все это слышали. Ну, чего бы вам хотелось?}
-{Speech 3 Answer 5}{}{Мм, извините за прямолинейность, но мне хотелось бы поближе познакомиться с ВАМИ. Во сколько вы освобождаетесь? Э, я имею в виду от работы.}
-{Speech 3 Answer 8}{}{Это зависит от того... что в меню?}
-{Speech 3 Answer 6}{}{Мне бы хотелось спросить вас кое о чем.}
-{Speech 3 Answer Exit}{}{Вообще-то я передумал. Стесняюсь и все такое. До свидания.}
-{Speech 4}{}{Вот возьми.}
-{Speech 4 Answer Exit}{}{[Взять и уйти]}
-{Speech 5}{}{Я польщена, но... нет. Я не могу.}
-{Speech 5 Answer 7}{}{О, ну что вы. Просто выпьем. Ничего больше. Мы хорошо проведем время.}
-{Speech 5 Answer 6}{}{Тогда ладно. Я хотел бы задать несколько вопросов...}
-{Speech 5 Answer Exit}{}{Прошу прощения, не хотите как хотите. Всего доброго.}
-{Speech 6}{}{Да?}
-{Speech 6 Answer 8}{}{Я ищу способ... развлечься.}
-{Speech 6 Answer 4}{}{Мне нужно кое-что для кое-кого.}
-{Speech 6 Answer Exit}{}{Оу. Нет ничего. Я пожалуй пойду.}
-{Speech 6 Answer 17}{}{У меня несколько необычная просьба. У вас девушки работают на выезде?}
-{Speech 7}{}{[Оглядывается, затем наклоняется и шепчет] Знаете что... в другой раз, ладно?}
-{Speech 7 Answer 6}{}{Тогда ладно. У меня были еще вопросы...}
-{Speech 7 Answer Exit}{}{Ну что ж, увидимся.}
-{Speech 8}{}{Ну...[Начинает загибать пальцы] у нас есть медовая любовь, глубокий вихрь, жужжащее занятие и разная другая экзотика. [Улыбается] Вопрос в том, в каком ВЫ настроении?}
-{Speech 8 Answer 11}{}{Мне хотелось бы... орального внимания.}
-{Speech 8 Answer 11*}{}{Просто обычный, низкий, грязный секс это то что надо.}
-{Speech 8 Answer 11**}{}{Мне хотелось бы полную проработку верхней и нижней зон тела.}
-{Speech 8 Answer 9}{}{А ничего, если я просто, ну знаете, поговорю с ними?}
-{Speech 8 Answer 11***}{}{У меня особая... драматическая... просьба.}
-{Speech 8 Answer 14}{}{Парикмахер?}
-{Speech 8 Answer 15}{}{Я не откажусь от парикмахера.}
-{Speech 8 Answer Exit}{}{Вообще-то я передумал@sex@||а|. Стесняюсь и все такое. До свидания.}
-{Speech 9}{}{Ну конечно, можно. Мы называем это "особый кестинг."}
-{Speech 9 Answer 10}{}{Почему вы так это называете?}
-{Speech 9 Answer 6}{}{Может, в другой раз. Я хочу задать несколько вопросов...}
-{Speech 10}{}{Ну... ходят слухи, что здесь был однажды сотрудник одной известной компьютерной компании, который развлекался беседами с другими людьми. [Пожимает плечами] Так совпало, что он вообще не зарабатывал денег, так что мог позволить себе только разговоры.}
-{Speech 10 Answer 6}{}{Думаю, я пас. Я хочу задать вам несколько вопросов...}
-{Speech 11}{}{Оу...Вы знаете, девочки разучились, подойдите попозже.}
-{Speech 11 Answer 6}{}{Какое разочарование. Пожалуй, я задам еще несколько вопросов.}
-{Speech 11 Answer Exit}{}{Ну вот. А мне так хотелось... До свидания.}
-{Speech 12}{}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается] О, Добро пожаловать! Меня зовут мисс Китти. @sex@|Что вы пожелаете, сэр?|Что вы пожелаете, мисс?|}
-{Speech 12 Answer 13}{}{Пошилаете?}
-{Speech 12 Answer Exit}{}{Джордж гаварит, што у нас будит сваих телок и што мне нада подальше от тебе держаться, а то он не даст мине играть с кроликами так што я пайду.}
-{Speech 13}{}{[Красивая тетя кладет руку вам на лоб] Ах ты бедняжка... ты можешь остаться здесь, пока не пройдет жар, только ненадолго, ладно? Обещай мне.}
-{Speech 13 Answer Exit}{}{Харашо красивый тетя, шпасибо.}
-{Speech 14}{}{Извините, но наш парикмахер не обслуживает таких неряшлевых людей как вы.}
-{Speech 14 Answer 6}{}{Какое разочарование. Пожалуй, я задам еще несколько вопросов.}
-{Speech 14 Answer Exit}{}{Ну вот. А мне так хотелось... До свидания.}
-{Speech 15}{}{Всего за 400 монет специально обученная девушка, подстригет, завьет и сделает вам прическу.}
-{Speech 15 Answer Exit}{}{Звучит заманчиво. [Даете 400 монет]}
-{Speech 15 Answer Exit*}{}{Только подровняйте. [Даете 400 монет]}
-{Speech 15 Answer Exit**}{}{Вообще-то я @sex@|передумал|передумала|. Стесняюсь и все такое. До свидания.}
-{Speech 15 Answer 6}{}{Может, в другой раз. Я хочу задать несколько вопросов...}
-{Speech 17}{}{Да, конечно. Любой каприз за ваши деньги.}
-{Speech 17 Answer 18}{}{Любой? Ну и отлично. У меня есть хороший приятель…он мутант…и надо бы..}
-{Speech 18}{}{[Фыркает] Мутант? Ну, я даже не знаю. Это уж дело личных предпочтений. Попробуйте сами с девочками поговорить, я не стану им указывать.}
-{Speech 18 Answer Exit}{}{Ладно, я поговорю.[Выход]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 12}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 6}{}{acquainted}
+{Speech 2}{}{[The woman before you is stunningly beautiful. When you address her, she looks up from her work and smiles] Oh, a new face! My name is Miss Kitty... welcome to the Cat's Paw.}
+{Speech 2 Answer 3}{}{I'm looking for a way to... have some fun.}
+{Speech 2 Answer 4}{}{I need something for someone.}
+{Speech 2 Answer Exit}{}{Bye. [Leave]}
+{Speech 3}{}{[Smiles and winks] Really? Then you've come to the right place. Whatever you want, whatever fantasies you have, we'll provide it all... and don't be shy to speak up, we've heard it all before. So, what would you like?}
+{Speech 3 Answer 5}{}{Mm, forgive me for being blunt, but I'd like to get to know YOU better. What time do you get off? Uh, I mean get off work.}
+{Speech 3 Answer 8}{}{That depends on... what's on the menu?}
+{Speech 3 Answer 6}{}{I'd like to ask you about something.}
+{Speech 3 Answer Exit}{}{Actually, I've changed my mind. I'm shy and all that. Goodbye.}
+{Speech 4}{}{Here, take this.}
+{Speech 4 Answer Exit}{}{[Take it and leave]}
+{Speech 5}{}{I'm flattered, but... no. I can't.}
+{Speech 5 Answer 7}{}{Oh, come on now. Just a drink. Nothing more. We'll have a good time.}
+{Speech 5 Answer 6}{}{All right then. I'd like to ask a few questions...}
+{Speech 5 Answer Exit}{}{Excuse me, suit yourself. Have a good day.}
+{Speech 6}{}{Yes?}
+{Speech 6 Answer 8}{}{I'm looking for a way to... have some fun.}
+{Speech 6 Answer 4}{}{I need something for someone.}
+{Speech 6 Answer Exit}{}{Oh. Nothing then. I think I'll be going.}
+{Speech 6 Answer 17}{}{I have a somewhat unusual request. Do your girls work on call?}
+{Speech 7}{}{[Looks around, then leans in and whispers] You know what... another time, okay?}
+{Speech 7 Answer 6}{}{All right then. I had some more questions...}
+{Speech 7 Answer Exit}{}{Well then, see you around.}
+{Speech 8}{}{Well...[Starts counting on her fingers] we've got honey love, the deep whirl, the buzzing job and all sorts of other exotic things. [Smiles] The question is, what mood are YOU in?}
+{Speech 8 Answer 11}{}{I'd like some... oral attention.}
+{Speech 8 Answer 11*}{}{Just plain, low, dirty sex is what hits the spot.}
+{Speech 8 Answer 11**}{}{I'd like a full workout of the upper and lower body zones.}
+{Speech 8 Answer 9}{}{Is it all right if I just, you know, talk with them?}
+{Speech 8 Answer 11***}{}{I have a special... dramatic... request.}
+{Speech 8 Answer 14}{}{A hairdresser?}
+{Speech 8 Answer 15}{}{I wouldn't say no to a hairdresser.}
+{Speech 8 Answer Exit}{}{Actually, I've changed my mind@sex@|||. I'm shy and all that. Goodbye.}
+{Speech 9}{}{Well, of course you can. We call it "special casting."}
+{Speech 9 Answer 10}{}{Why do you call it that?}
+{Speech 9 Answer 6}{}{Maybe another time. I want to ask a few questions...}
+{Speech 10}{}{Well... rumor has it there was once an employee of a certain famous computer company who amused himself by chatting with other people. [Shrugs] As it happened, he made no money at all, so all he could afford was conversation.}
+{Speech 10 Answer 6}{}{I think I'll pass. I want to ask you a few questions...}
+{Speech 11}{}{Oh...You know, the girls are out of practice, come back a bit later.}
+{Speech 11 Answer 6}{}{What a disappointment. I think I'll ask a few more questions.}
+{Speech 11 Answer Exit}{}{Oh well. And I wanted it so badly... Goodbye.}
+{Speech 12}{}{[The woman before you is stunningly beautiful. When you address her, she looks up from her work and smiles] Oh, welcome! My name is Miss Kitty. @sex@|What would you like, sir?|What would you like, miss?|}
+{Speech 12 Answer 13}{}{You willsh?}
+{Speech 12 Answer Exit}{}{George shays we gonna have our own chicks and that I gotta keep away from you, or he won't let me play with the rabbits, sho I'll be goin'.}
+{Speech 13}{}{[The beautiful lady puts her hand on your forehead] Oh you poor thing... you can stay here until the fever passes, just not for long, okay? Promise me.}
+{Speech 13 Answer Exit}{}{Okeey pretty lady, thankee.}
+{Speech 14}{}{Sorry, but our hairdresser does not serve such scruffy people as you.}
+{Speech 14 Answer 6}{}{What a disappointment. I think I'll ask a few more questions.}
+{Speech 14 Answer Exit}{}{Oh well. And I wanted it so badly... Goodbye.}
+{Speech 15}{}{For just 400 coins a specially trained girl will cut, curl and style your hair.}
+{Speech 15 Answer Exit}{}{Sounds tempting. [Give 400 coins]}
+{Speech 15 Answer Exit*}{}{Just a trim. [Give 400 coins]}
+{Speech 15 Answer Exit**}{}{Actually, I've @sex@|changed my mind|changed my mind|. I'm shy and all that. Goodbye.}
+{Speech 15 Answer 6}{}{Maybe another time. I want to ask a few questions...}
+{Speech 17}{}{Yes, of course. Any whim for your money.}
+{Speech 17 Answer 18}{}{Any? Well, that's great. I have a good buddy…he's a mutant…and I'd need..}
+{Speech 18}{}{[Snorts] A mutant? Well, I don't even know. That's a matter of personal preference. Try talking to the girls yourself, I won't tell them what to do.}
+{Speech 18 Answer Exit}{}{All right, I'll talk to them.[Exit]}

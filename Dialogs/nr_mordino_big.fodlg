@@ -25,5 +25,5 @@ Speech 2 # Человек поворачивает свое лицо к вам. 
 {DescAliveFull}{}{You see Big Jesus Mordino. He's covered in sweat and is breathing is panting for breath.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Человек поворачивает свое лицо к вам. Он выглядит больным. [Пот стекает по лицу проступает пятнами на одежде] }
-{Speech 2 Answer Exit}{}{Извините, я уже ухожу}
+{Speech 2}{}{The man turns his face toward you. He looks sick. [Sweat runs down his face and shows in stains on his clothes] }
+{Speech 2 Answer Exit}{}{Sorry, I'm already leaving}

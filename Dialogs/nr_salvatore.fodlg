@@ -79,22 +79,22 @@ Speech 9 # Какое несчастье! [Ухмыляется] За такую
 {DescAliveFull}{}{You see Louis Salvatore.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{[Старик псмотрит сквозь вас. Его лицо мрачно и покрыто пятнами. Он держит дыхательную маску, которая подсоединена к кислородному балону сбоку] Что... вы хотите от меня?}
-{Speech 2 Answer 3}{}{Я ищу работу.}
-{Speech 2 Answer 4}{}{Мистер Сальваторе, мне стало известно, что один из сыновей Райта попал в щекотливое положение.}
-{Speech 2 Answer 9}{}{Мистер Сальваторе, сын Райта мертв.}
-{Speech 3}{}{Нет у меня никакой работы. А теперь убирайся вон!}
-{Speech 3 Answer Exit}{}{До свидания.}
-{Speech 4}{}{[Хмурит брови] Что ты имеешь в виду?}
-{Speech 4 Answer 5}{}{Не берите в голову. }
-{Speech 4 Answer 6}{}{Группа мародеров из Пустоши захватила его в заложники, и теперь они требуют выкуп с Орвила Райта.}
-{Speech 5}{}{Мэйсон. Разберись с этим.}
-{Speech 6}{}{Интересно... Но что мне с того?}
-{Speech 6 Answer 7}{}{Райт поручил мне разобраться с этой проблемой. Я подумал, что, может быть от вас последуют альтернативные указания, мистер Сальваторе.}
-{Speech 7}{}{Пожалуй... Если сын Райта не выберется живым от шантажистов... Я оценю это... В 5000 монет...}
-{Speech 7 Answer Exit}{}{Меня это устраивает. Я убедюсь, что Райт не вернется домой.}
-{Speech 7 Answer 8}{}{5000 мне предложил Райт за выполнение этого дела. Мне нужен более весомый стимул, чтобы выполнить вашу просьбу...}
-{Speech 8}{}{Хм, делец... [Тяжело вздыхает через свой аппарат] А просьбы никакой и нет. Есть вознаграждение. 7000 монет. 2000 получишь авансом.}
-{Speech 8 Answer Exit}{}{Думаю, мы поняли друг друга, мистер Сальваторе. Я вернусь, когда все закончится.}
-{Speech 9}{}{Какое несчастье! [Ухмыляется] За такую горькую весть я готов заплатить 5000 монет.}
-{Speech 9 Answer Exit}{}{Да, все мы сейчас сочувствуем семье Райтов... }
+{Speech 2}{}{[The old man looks through you. His face is grim and blotchy. He holds a breathing mask that's connected to an oxygen tank at his side.] What... do you want from me?}
+{Speech 2 Answer 3}{}{I'm looking for work.}
+{Speech 2 Answer 4}{}{Mr. Salvatore, it has come to my attention that one of Wright's sons has gotten himself into a delicate situation.}
+{Speech 2 Answer 9}{}{Mr. Salvatore, Wright's son is dead.}
+{Speech 3}{}{I don't have any work for you. Now get out!}
+{Speech 3 Answer Exit}{}{Goodbye.}
+{Speech 4}{}{[Furrows his brow.] What do you mean?}
+{Speech 4 Answer 5}{}{Never mind. }
+{Speech 4 Answer 6}{}{A band of raiders from the Wasteland took him hostage, and now they're demanding a ransom from Orville Wright.}
+{Speech 5}{}{Mason. Deal with this.}
+{Speech 6}{}{Interesting... But what's in it for me?}
+{Speech 6 Answer 7}{}{Wright tasked me with handling this problem. I thought that perhaps you might have alternative instructions, Mr. Salvatore.}
+{Speech 7}{}{Perhaps... If Wright's son doesn't make it out alive from the blackmailers... I'll value that... At 5000 coins...}
+{Speech 7 Answer Exit}{}{That works for me. I'll make sure Wright doesn't return home.}
+{Speech 7 Answer 8}{}{Wright already offered me 5000 to do this job. I'll need a more substantial incentive to fulfill your request...}
+{Speech 8}{}{Hmm, a dealmaker... [Sighs heavily through his apparatus.] And there's no request at all. There's a reward. 7000 coins. You'll get 2000 up front.}
+{Speech 8 Answer Exit}{}{I think we understand each other, Mr. Salvatore. I'll be back when it's all done.}
+{Speech 9}{}{What a misfortune! [Smirks.] For such bitter news I'm willing to pay 5000 coins.}
+{Speech 9 Answer Exit}{}{Yes, we all feel for the Wright family right now... }

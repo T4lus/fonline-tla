@@ -65,22 +65,22 @@ Speech 7 # Кыш!
 {DescAliveFull}{}{You see a stern-looking man, wearing leather armor. His body is covered with numerous scars and bullet wounds.}
 {DescAliveFull}{}{You see one of Bishop's bodyguards. He is looking around, holding his finger on the trigger.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 7}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 2}{}{@sex@|Что тебе нужно, приятель? Выкладывай скорее.|Что тебе нужно, девочка? Выкладывай скорее.|}
-{Speech 2 Answer 4}{}{Что находится наверху?}
-{Speech 2 Answer 5}{}{Мне нужно встретиться с мистером Бишопом.}
-{Speech 2 Answer Exit}{}{Простите, кажется, меня угораздило попасть не туда. Я, пожалуй, пойду.}
-{Speech 3}{}{Снова ты. Что тебе нужно на этот раз, черт возьми?}
-{Speech 3 Answer 4}{}{Что находится наверху?}
-{Speech 3 Answer 5}{}{Мне нужно встретиться с мистером Бишопом.}
-{Speech 3 Answer Exit}{}{Простите, я пожалуй пойду.}
-{Speech 4}{}{Если ты не знаешь, то тебе и НЕ НУЖНО знать. А теперь сваливай.}
-{Speech 4 Answer Exit}{}{Простите.}
-{Speech 5}{}{Нет, я знаю расписание мистера Бишопа, и твоего имени там нет.}
-{Speech 5 Answer 6}{}{Он ждет меня. Передай ему, что я здесь.}
-{Speech 5 Answer Exit}{}{Хорошо. До свидания.}
-{Speech 6}{}{Конечно, ждет он тебя. Иди от сюда, пока еще можешь.}
-{Speech 6 Answer Exit}{}{Хорошо. До свидания.}
-{Speech 7}{}{Кыш!}
+{Speech 1 Answer 7}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 2}{}{@sex@|What do you need, pal? Spit it out, quick.|What do you need, girl? Spit it out, quick.|}
+{Speech 2 Answer 4}{}{What's up there?}
+{Speech 2 Answer 5}{}{I need to meet with Mister Bishop.}
+{Speech 2 Answer Exit}{}{Sorry, looks like I ended up in the wrong place. I think I'll be going.}
+{Speech 3}{}{You again. What the hell do you need this time?}
+{Speech 3 Answer 4}{}{What's up there?}
+{Speech 3 Answer 5}{}{I need to meet with Mister Bishop.}
+{Speech 3 Answer Exit}{}{Sorry, I think I'll be going.}
+{Speech 4}{}{If you don't know, then you DON'T NEED to know. Now get lost.}
+{Speech 4 Answer Exit}{}{Sorry.}
+{Speech 5}{}{No, I know Mister Bishop's schedule, and your name isn't on it.}
+{Speech 5 Answer 6}{}{He's expecting me. Tell him I'm here.}
+{Speech 5 Answer Exit}{}{Alright. Goodbye.}
+{Speech 6}{}{Sure he's expecting you. Get out of here while you still can.}
+{Speech 6 Answer Exit}{}{Alright. Goodbye.}
+{Speech 7}{}{Shoo!}

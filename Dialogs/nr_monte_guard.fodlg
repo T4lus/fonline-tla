@@ -30,6 +30,6 @@ Speech 2 # Я бью людей, которых показывает Монте@
 {DescAliveFull}{}{You see Rico, Monte's bodyguard. He seems dull-witted.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Я бью людей, которых показывает Монте@@Я бью людей@@Я бью людей не хуже, чем некоторые молотят по барабанам@@Мне нравится драться}
-{Speech 2 Answer Exit}{}{Ударь меня, дебил [Атаковать]}
-{Speech 2 Answer Exit*}{}{Пока, придурок}
+{Speech 2}{}{I beat up the people Monte points out@@I beat up people@@I beat up people as well as some folks beat on drums@@I like to fight}
+{Speech 2 Answer Exit}{}{Hit me, you moron [Attack]}
+{Speech 2 Answer Exit*}{}{Later, jerk}

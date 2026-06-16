@@ -146,56 +146,56 @@ Speech 16 # Кыш! Тебя тут только не хватало!
 {DescAliveShort}{}{You see Pretty Boy Lloyd.}
 {DescAliveFull}{}{You see Pretty Boy Lloyd. He's looking at you cautiously.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 16}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 2}{}{Кто ты? Что ты здесь делаешь?!}
-{Speech 2 Answer 4}{}{Что ТЫ здесь делаешь?}
-{Speech 2 Answer 4*}{}{Успокойся, друг, а ПОТОМ поговорим. Все в порядке?}
-{Speech 2 Answer Exit}{}{Ничего. Просто осматриваюсь. Пока.}
-{Speech 3}{}{Опять ты?! Что ты здесь делаешь?!}
-{Speech 3 Answer 4}{}{Что ТЫ здесь делаешь?}
-{Speech 3 Answer 4*}{}{Успокойся, друг, а ПОТОМ поговорим. Все в порядке?}
-{Speech 3 Answer Exit}{}{Ничего. Просто проходил мимо. Пока.}
-{Speech 4}{}{Не твое дело...друг. Предлагаю тебе просто подняться по этой лестнице и забыть, что мы встречались.}
-{Speech 4 Answer 5}{}{Мне твое предложение по барабану...друг. Что тут за проблемы?}
-{Speech 4 Answer 15}{}{Похоже, у тебя проблемы. Я мог бы тебе помочь.}
-{Speech 4 Answer 7}{}{Ты похож на человека, который ценит свое уединение. Для такого болтуна, как я, забыть про тебя было бы очень дорогим удовольствием.}
-{Speech 4 Answer Exit}{}{Тогда ладно. Извини за беспокойство.}
-{Speech 5}{}{@sex@|Проблемы? Проблем нет, друг, совсем нет. Просто ищу уединения, вот и все|Проблемы? Проблем нет, милочка, совсем нет. Просто ищу уединения, вот и все|.}
-{Speech 5 Answer 6}{}{По-моему, у тебя ЕСТЬ проблема. Понимаешь, все это уединение не позволяет никому слышать, что тут происходит. Может, я тебя просто убью, а?}
-{Speech 5 Answer 15}{}{Похоже, у тебя проблемы. Я мог бы тебе помочь.}
-{Speech 5 Answer 7}{}{Для такого болтуна, как я, твое уединение может дорого стоить.}
-{Speech 5 Answer Exit}{}{Тогда ладно. Извини за беспокойство.}
-{Speech 6}{}{Э...эй, слушай...нет, э, необходимости в этом разговоре. Может, поговорим о чем-нибудь ДРУГОМ: какой суммой твой друг Ллойд может тебе помочь.}
-{Speech 6 Answer 7}{}{Интересно. Продолжай.}
-{Speech 6 Answer Exit}{}{Забудь, Ллойд. Твое время вышло. Приготовься умереть.}
-{Speech 6 Answer Exit*}{}{Не интересуюсь. Я ухожу отсюда.}
-{Speech 7}{}{У меня есть бабки...может, немного денег разрядит обстановку, удержит все на достойном уровне?}
-{Speech 7 Answer 8}{}{Чудненько. Давай все, что есть.}
-{Speech 7 Answer Exit}{}{Забудь, Ллойд. Твое время вышло. Приготовься умереть.}
-{Speech 7 Answer Exit*}{}{Оставь себе свои деньги. Я пошел отсюда.}
-{Speech 8}{}{Ну ладно, ладно...[Лезет в карман, вынимает несколько монет, протягивает их вам.]...так как насчет того, чтобы взять деньги, подняться наверх и повесилиться за счет Ллойда, а?}
-{Speech 8 Answer 9}{}{Может, ты глухой. Я же СКАЗАЛ, давай все, что есть.}
-{Speech 8 Answer Exit}{}{Ладно. После того, как убью тебя.}
-{Speech 8 Answer Exit*}{}{Ну ладно. Я пошел.}
-{Speech 9}{}{Э, слушай...это вообще все, что у меня есть, друг. У меня больше ничего нет, я правда тебе все отдал.}
-{Speech 9 Answer 10}{}{Не вешай мне лапшу на уши, Ллойд. Я ЗНАЮ, что у тебя есть еще, ты умный парень. Последний шанс: где все остальное?}
-{Speech 10}{}{Я...Я сказал...э-э...ну ладно...я знаю, где ты можешь найти еще денег...они не мои, понимаешь, они не стоят тех проблем, которые там будут, но если ты их хочешь, забирай.}
-{Speech 10 Answer 11}{}{Продолжай, причем так же интересно.}
-{Speech 10 Answer Exit}{}{Вообще-то, я просто пошутил насчет второго шанса, Ллойд. Я тебя просто убью, и пусть духи разбираются.}
-{Speech 10 Answer Exit*}{}{Мне не интересна эта дерьмовая болтовня. Я ухожу отсюда.}
-{Speech 11}{}{Ну ладно...они на Голгофской равнине, к югу от Рино, закопаны в одной из могил. Правда, только я знаю, где она.}
-{Speech 11 Answer 12}{}{Расскажи мне.}
-{Speech 11 Answer Exit}{}{Это самая большая куча...о черт, я тебя просто убью, Ллойд, и пусть духи разбираются.}
-{Speech 11 Answer Exit*}{}{А ладно, ну его все на хер. Я ухожу отсюда.}
-{Speech 12}{}{Смотришь на указатель на перекрестке Голгофы, идешь на северо-запад до третьей могилы, потом на северо-восток до первого столба. Тебе нужна соседняя могила, на которой написано "Арч Стэнтон". Копай примерно на шесть футов, и найдешь их.}
-{Speech 12 Answer 13}{}{Смотрю на указатель, иду на северо-восток мимо трех могил, иду на северо-восток до первого столба, потом ищу "Арча Стэнтона"...ну ладно, пошли, Ллойд. Не самому же копать, в конце концов.}
-{Speech 12 Answer Exit}{}{Это все, что мне надо было знать...утром тебя закопают в этой могиле.}
-{Speech 12 Answer Exit*}{}{Ну ладно. Я ухожу отсюда. Не попадайся мне на глаза.}
-{Speech 13}{}{Ллойд как будто хочет что-то сказать, еще раз все взвешивает, затем кивает.) Ну ладно. Похоже, у меня нет выбора. Пошли.}
-{Speech 13 Answer 14}{}{Мне сперва кое о чем надо позаботиться. Жди здесь, я скоро.}
-{Speech 14}{}{Хозяин-барин.}
-{Speech 15}{}{Гммм. Знаешь, боюсь не в твоих силах мне помочь, друг. Но, все равно, спасибо за предложение.}
-{Speech 15 Answer Exit}{}{Ясно. Тогда удачи.}
-{Speech 16}{}{Кыш! Тебя тут только не хватало!}
+{Speech 1 Answer 16}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 2}{}{Who are you? What are you doing here?!}
+{Speech 2 Answer 4}{}{What are YOU doing here?}
+{Speech 2 Answer 4*}{}{Calm down, friend, and THEN we'll talk. Is everything all right?}
+{Speech 2 Answer Exit}{}{Nothing. Just looking around. Bye.}
+{Speech 3}{}{You again?! What are you doing here?!}
+{Speech 3 Answer 4}{}{What are YOU doing here?}
+{Speech 3 Answer 4*}{}{Calm down, friend, and THEN we'll talk. Is everything all right?}
+{Speech 3 Answer Exit}{}{Nothing. Just passing by. Bye.}
+{Speech 4}{}{None of your business...friend. I suggest you just go up these stairs and forget that we ever met.}
+{Speech 4 Answer 5}{}{I don't give a damn about your suggestion...friend. What's the trouble here?}
+{Speech 4 Answer 15}{}{Looks like you've got problems. I could help you out.}
+{Speech 4 Answer 7}{}{You look like a man who values his privacy. For a chatterbox like me, forgetting about you would be a very expensive pleasure.}
+{Speech 4 Answer Exit}{}{All right then. Sorry to bother you.}
+{Speech 5}{}{@sex@|Problems? There are no problems, friend, none at all. Just looking for some privacy, that's all|Problems? There are no problems, sweetie, none at all. Just looking for some privacy, that's all|.}
+{Speech 5 Answer 6}{}{The way I see it, you DO have a problem. See, all this privacy means nobody can hear what goes on out here. Maybe I'll just kill you, eh?}
+{Speech 5 Answer 15}{}{Looks like you've got problems. I could help you out.}
+{Speech 5 Answer 7}{}{For a chatterbox like me, your privacy could cost a pretty penny.}
+{Speech 5 Answer Exit}{}{All right then. Sorry to bother you.}
+{Speech 6}{}{Uh...hey, listen...no, uh, there's no need for this conversation. Maybe we could talk about something ELSE: what sum your friend Lloyd could help you out with.}
+{Speech 6 Answer 7}{}{Interesting. Go on.}
+{Speech 6 Answer Exit}{}{Forget it, Lloyd. Your time's up. Get ready to die.}
+{Speech 6 Answer Exit*}{}{Not interested. I'm out of here.}
+{Speech 7}{}{I've got some dough...maybe a little money would ease the tension, keep things at a decent level?}
+{Speech 7 Answer 8}{}{Splendid. Hand over everything you've got.}
+{Speech 7 Answer Exit}{}{Forget it, Lloyd. Your time's up. Get ready to die.}
+{Speech 7 Answer Exit*}{}{Keep your money. I'm leaving.}
+{Speech 8}{}{Okay, okay...[Reaches into his pocket, pulls out a few coins, holds them out to you.]...so how about you take the money, go upstairs and have some fun on Lloyd's tab, eh?}
+{Speech 8 Answer 9}{}{Maybe you're deaf. I SAID, hand over everything you've got.}
+{Speech 8 Answer Exit}{}{Fine. After I kill you.}
+{Speech 8 Answer Exit*}{}{All right then. I'm off.}
+{Speech 9}{}{Uh, listen...that's really all I've got, friend. I don't have anything else, I really gave you everything.}
+{Speech 9 Answer 10}{}{Don't feed me that line, Lloyd. I KNOW you've got more, you're a smart guy. Last chance: where's the rest?}
+{Speech 10}{}{I...I said...uh...all right...I know where you can find more money...it's not mine, you understand, it's not worth the trouble you'll find there, but if you want it, take it.}
+{Speech 10 Answer 11}{}{Go on, and keep it just as interesting.}
+{Speech 10 Answer Exit}{}{Actually, I was just joking about that second chance, Lloyd. I'm just gonna kill you, and let the spirits sort it out.}
+{Speech 10 Answer Exit*}{}{I'm not interested in this crappy chatter. I'm out of here.}
+{Speech 11}{}{All right...they're on the Golgotha plain, south of Reno, buried in one of the graves. Trouble is, only I know which one.}
+{Speech 11 Answer 12}{}{Tell me.}
+{Speech 11 Answer Exit}{}{That's the biggest pile of...oh hell, I'm just gonna kill you, Lloyd, and let the spirits sort it out.}
+{Speech 11 Answer Exit*}{}{Ah, screw it all to hell. I'm out of here.}
+{Speech 12}{}{You look at the signpost at the Golgotha crossroads, walk northwest to the third grave, then northeast to the first post. You want the next grave over, the one that says "Arch Stanton." Dig down about six feet, and you'll find them.}
+{Speech 12 Answer 13}{}{Look at the signpost, walk northeast past three graves, walk northeast to the first post, then look for "Arch Stanton"...all right, let's go, Lloyd. I'm not gonna do the digging myself, after all.}
+{Speech 12 Answer Exit}{}{That's all I needed to know...come morning they'll bury you in that grave.}
+{Speech 12 Answer Exit*}{}{All right then. I'm out of here. Don't let me catch sight of you.}
+{Speech 13}{}{Lloyd looks like he wants to say something, weighs it all over again, then nods.) All right. Looks like I've got no choice. Let's go.}
+{Speech 13 Answer 14}{}{First I've got something to take care of. Wait here, I'll be back soon.}
+{Speech 14}{}{Whatever you say, boss.}
+{Speech 15}{}{Hmmm. You know, I'm afraid it's not in your power to help me, friend. But thanks all the same for the offer.}
+{Speech 15 Answer Exit}{}{I see. Good luck then.}
+{Speech 16}{}{Shoo! You're the last thing we needed here!}

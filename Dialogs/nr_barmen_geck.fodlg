@@ -139,41 +139,41 @@ Speech 14 # Можно приступать? Хорошо. Вы останете
 {DescAliveShort}{}{You see a bartender.}
 {DescAliveFull}{}{You see a corpulent man, managing the bar. He nods at you.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Не нанят, игрок не может нанять}
-{Speech 1 Answer 4}{}{дурак}
+{Speech 1 Answer 2}{}{Not hired, player can't hire}
+{Speech 1 Answer 4}{}{fool}
 {Speech 1 Answer 3}{}{-}
-{Speech 1 Answer 5}{}{приглашение\n}
-{Speech 1 Answer 12}{}{потерял бармена ранее}
-{Speech 1 Answer 13}{}{бармен в пути}
-{Speech 2}{}{Эй, если тебе нужен бармен, ты не по адресу. Я здесь другими вещами занимаюсь.}
-{Speech 2 Answer Exit}{}{Пардон.}
-{Speech 3}{}{Чем траванешься, приятель?}
-{Speech 3 Answer Barter}{}{Что у вас есть выпить?}
-{Speech 3 Answer Exit}{}{Нет, спасибо.}
-{Speech 4}{}{Чем траванешься, приятель?}
-{Speech 4 Answer Barter}{}{Тра-виться - хорошо!}
-{Speech 4 Answer Exit}{}{Травиться? Моя не травиться!}
-{Speech 5}{}{Да, отец ввёл меня в курс дела. Но хотелось бы услышать подробности...}
-{Speech 5 Answer 6}{}{Мы построили в пустоши небольшой городок. Отличный проект, современная застойка, электричество, водопровод. Сейчас создаем инфраструктуру. В том числе и бар. Какой город без бара. Так что, если ты готов, сможешь заняться делом...\n}
-{Speech 5 Answer 10}{}{Да чо болтать. Пошли уже...\n}
-{Speech 6}{}{Ну звучит вроде неплохо, но у меня есть пара условий...\n}
-{Speech 6 Answer 7}{}{Внимательно слушаю...\n}
-{Speech 6 Answer 10}{}{Каких ещё в задницу условий...\n}
-{Speech 7}{}{Так, бар полностью мой. Единая и неделимая собственность. Никто не лезет в управление баром, никто не диктует мне цен, никто не указывает, как и с кем мне обходиться. Походит?\n\n}
-{Speech 7 Answer 8}{}{Приемлемо...\n}
-{Speech 7 Answer 10}{}{А не слишком ли ты губу раскатал?\n}
-{Speech 8}{}{Ну а я уж обеспечу людей весельем, выпивкой и развлечениями. Вы не пожалеете.\n}
-{Speech 8 Answer 9}{}{Звучит неплохо. Ты готов приступить , я вижу.\n}
-{Speech 9}{}{Да , готов. Со своими я уже попрощался. Если ты не против, можно идти сразу.\n}
-{Speech 9 Answer 11}{}{Хорошо, идем.}
-{Speech 9 Answer Exit}{}{Хорошо, идем.\n}
-{Speech 9 Answer Exit*}{}{У меня тут ещё дела. Дождись меня.\n}
-{Speech 10}{}{Да иди ты...\n}
-{Speech 11}{}{А ты вообще подумал@sex@||а|, как мы пойдем? Да мы с тобой дальше выхода из бара не продвинемся!}
-{Speech 12}{}{Знаешь что, @sex@|парень|подруга|? У тебя был шанс со мной договориться. Но ты его упустил. Не подходи ко мне больше.}
-{Speech 12 Answer Exit}{}{Зря ты так, Топлер.}
-{Speech 13}{}{Эта работа - хороший шанс твердо стать на ноги. Отец будет доволен.}
-{Speech 13 Answer Exit}{}{Рад@sex@||а| за тебя.}
-{Speech 13 Answer 14}{}{Вот это и есть твой бар!}
-{Speech 14}{}{Можно приступать? Хорошо. Вы останетесь мной довольны, гарантирую.}
-{Speech 14 Answer Exit}{}{Не сомневаюсь.}
+{Speech 1 Answer 5}{}{invitation\n}
+{Speech 1 Answer 12}{}{lost the bartender earlier}
+{Speech 1 Answer 13}{}{bartender on the way}
+{Speech 2}{}{Hey, if you need a bartender, you've come to the wrong place. I do other things here.}
+{Speech 2 Answer Exit}{}{Pardon me.}
+{Speech 3}{}{What'll you poison yourself with, pal?}
+{Speech 3 Answer Barter}{}{What have you got to drink?}
+{Speech 3 Answer Exit}{}{No, thanks.}
+{Speech 4}{}{What'll you poison yourself with, pal?}
+{Speech 4 Answer Barter}{}{Poison - good!}
+{Speech 4 Answer Exit}{}{Poison? Me no poison!}
+{Speech 5}{}{Yeah, my father filled me in. But I'd like to hear the details...}
+{Speech 5 Answer 6}{}{We built a small town in the wasteland. Great project, modern construction, electricity, plumbing. Right now we're building up the infrastructure. Including a bar. What's a town without a bar. So, if you're ready, you can get to work...\n}
+{Speech 5 Answer 10}{}{Enough talking. Let's go already...\n}
+{Speech 6}{}{Well, sounds pretty good, but I've got a couple of conditions...\n}
+{Speech 6 Answer 7}{}{I'm listening carefully...\n}
+{Speech 6 Answer 10}{}{What conditions, for crying out loud...\n}
+{Speech 7}{}{So, the bar is entirely mine. Sole and indivisible property. Nobody meddles in running the bar, nobody dictates my prices, nobody tells me how or with whom to deal. Does that suit you?\n\n}
+{Speech 7 Answer 8}{}{Acceptable...\n}
+{Speech 7 Answer 10}{}{Aren't you asking for a bit too much?\n}
+{Speech 8}{}{And I'll provide the folks with fun, drinks and entertainment. You won't regret it.\n}
+{Speech 8 Answer 9}{}{Sounds good. You're ready to start, I can see.\n}
+{Speech 9}{}{Yeah, I'm ready. I've already said my goodbyes. If you don't mind, we can go right now.\n}
+{Speech 9 Answer 11}{}{Alright, let's go.}
+{Speech 9 Answer Exit}{}{Alright, let's go.\n}
+{Speech 9 Answer Exit*}{}{I've still got things to do here. Wait for me.\n}
+{Speech 10}{}{Go to hell...\n}
+{Speech 11}{}{Have you even thought@sex@||| about how we're going to get there? You and I won't get any farther than the bar exit!}
+{Speech 12}{}{You know what, @sex@|guy|girl|? You had a chance to make a deal with me. But you blew it. Don't come near me again.}
+{Speech 12 Answer Exit}{}{That's not fair, Topler.}
+{Speech 13}{}{This job is a good chance to get firmly on your feet. Father will be pleased.}
+{Speech 13 Answer Exit}{}{Good@sex@||| for you.}
+{Speech 13 Answer 14}{}{This here is your bar!}
+{Speech 14}{}{Can I start? Good. You'll be satisfied with me, I guarantee it.}
+{Speech 14 Answer Exit}{}{No doubt.}

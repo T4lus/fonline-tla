@@ -37,9 +37,9 @@ Speech 3 # Чего тебе?
 {DescAliveFull}{}{You see an old man wearing enormous glasses. He sighs crossly.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 1 Answer 2*}{}{Низкая инта.}
-{Speech 1 Answer 3}{}{Норма.}
-{Speech 2}{}{Иди к черту.@@Вали отсюда, или я застрелю тебя. Дважды.@@ВАЛИ отсюда.}
-{Speech 3}{}{Чего тебе?}
-{Speech 3 Answer Barter}{}{Хочу купить.}
-{Speech 3 Answer Exit}{}{Уже ухожу.}
+{Speech 1 Answer 2*}{}{Low intelligence.}
+{Speech 1 Answer 3}{}{Normal.}
+{Speech 2}{}{Go to hell.@@Get out of here, or I'll shoot you. Twice.@@GET out of here.}
+{Speech 3}{}{What do you want?}
+{Speech 3 Answer Barter}{}{I want to buy something.}
+{Speech 3 Answer Exit}{}{I'm leaving already.}

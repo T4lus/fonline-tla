@@ -19,12 +19,12 @@ Speech 2 # [улыбается]
 {Speech 2}{}{[улыбается]}
 
 [Text engl]
-{Name}{}{Cody. Коди}
-{DescAliveShort}{}{You see Cody. Вы видите Коди.}
+{Name}{}{Cody}
+{DescAliveShort}{}{You see Cody.}
 {DescAliveFull}{}{You see neglected orphan. On his teared shirt remains is written "Cody".}
 {DescAliveFull}{}{You see Cody. He silently looks at you.}
 {DescAliveFull}{}{You see Cody. His look can force a mountain to move from it's place.}
 {DescAliveFull}{}{You see Cody. His name is written on remains of his shirt.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{[улыбается]}
+{Speech 2}{}{[smiles]}

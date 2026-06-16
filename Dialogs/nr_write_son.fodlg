@@ -29,5 +29,5 @@ Speech 2 # Ты знаешь 'У него в руках был целый мир
 {DescAliveFull}{}{You see one of the Wright sons. He's just finished doing something.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Ты знаешь 'У него в руках был целый мир'?}
-{Speech 2 Answer Exit}{}{Иди маленький засранец играй дальше.}
+{Speech 2}{}{Do you know 'He's Got the Whole World in His Hands'?}
+{Speech 2 Answer Exit}{}{Go play somewhere else, you little brat.}

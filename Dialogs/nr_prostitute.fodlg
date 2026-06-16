@@ -82,19 +82,19 @@ Speech 7 # Не сейчас.@@Подожди немного, @sex@|красав
 {DescAliveFull}{}{You see a prostitute. She's assessing you as a professional jeweller.}
 {DescAliveFull}{}{You see a prostitute. Her ripped garment is attractively wrapped around her body.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{2}
-{Speech 1 Answer 7}{}{чей-то мерк}
-{Speech 2}{}{Ищешь, с кем бы переспать?}
-{Speech 2 Answer Exit}{}{В другой раз, крошка!}
-{Speech 2 Answer 3}{}{Здравствуйте. Вы не могли бы оказать профессиональную помощь моему другу? Он мутант…}
-{Speech 2 Answer 4}{}{Здравствуйте. Вы не могли бы оказать профессиональную помощь моему другу? Он мутант…}
-{Speech 3}{}{Да ты обалдел совсем что ли? Уйди!@@Ещё чего предложишь? Вали отсюда.@@А среди браминов у тебя нет друзей?@@Отвали, маньяк! }
-{Speech 4}{}{Мутант, вот как? Мутант… Да что тут такого, в конце концов. Я не ханжа и не ксенофоб. Я пединститут закончила, в конце концов. И потом, это же моя работа…}
-{Speech 4 Answer 5}{}{Да? Отлично! Тогда идем в Брокенхилл. Он сам рассчитается с вами за услуги.}
-{Speech 4 Answer 6}{}{Да? Отлично! Тогда идем в Брокен Хиллс. Он сам рассчитается с вами за услуги.}
-{Speech 5}{}{Так. Ты доставляешь меня до места бережно, как хрустальную вазу. Всё понятно? А обратно уж я сама. Ну что, идем?}
-{Speech 5 Answer Exit}{}{Да, пойдем}
-{Speech 5 Answer Exit*}{}{Минутку. Я только доделаю кое-какие дела в Рино.}
-{Speech 6}{}{Еще чего. Ты посмотри на себя! Тебе сам@sex@|ому|ой| проводник потребуется. Не пойду, даже не думай.}
-{Speech 6 Answer Exit}{}{Да ладно тебе! Все пройдет отлично!}
-{Speech 7}{}{Не сейчас.@@Подожди немного, @sex@|красавчик|красотка|, я занята.@@О, какие мы горячие! В другой раз, радость моя.@@Когда-нибудь, это все закончится... Вот тогда найди меня.@@Я не смогу ничем тебе помочь, пока мы не доберемся до этого мутанта.@@Вот ты как думаешь, спать с мутантом - это нормально для современной девушки?@@Я уже и не рада, что в это ввязалась...@@Оставь меня в покое!@@Лучшие девочки - только в "Кошачьей лапке"! И что я здесь делаю...@@Боже! Как мне все это надоело!}
+{Speech 1 Answer 2}{}{not a merc}
+{Speech 1 Answer 7}{}{someone's merc}
+{Speech 2}{}{Looking for someone to sleep with?}
+{Speech 2 Answer Exit}{}{Another time, babe!}
+{Speech 2 Answer 3}{}{Hello there. Could you give some professional help to my friend? He's a mutant…}
+{Speech 2 Answer 4}{}{Hello there. Could you give some professional help to my friend? He's a mutant…}
+{Speech 3}{}{Have you completely lost it? Get lost!@@What else are you going to offer? Beat it.@@Got no friends among the brahmin?@@Buzz off, you maniac! }
+{Speech 4}{}{A mutant, is that so? A mutant… Well, what's the big deal, after all. I'm no prude and no xenophobe. I graduated from teacher's college, after all. And besides, it's my job…}
+{Speech 4 Answer 5}{}{Yeah? Great! Then let's go to Broken Hills. He'll settle up with you for your services himself.}
+{Speech 4 Answer 6}{}{Yeah? Great! Then let's go to Broken Hills. He'll settle up with you for your services himself.}
+{Speech 5}{}{All right. You deliver me to the spot as carefully as a crystal vase. Got it? I'll get back on my own. So, shall we go?}
+{Speech 5 Answer Exit}{}{Yes, let's go}
+{Speech 5 Answer Exit*}{}{One moment. I just have to finish up some things in Reno.}
+{Speech 6}{}{No way. Look at yourself! You'll be needing a guide yourself. I'm not going, don't even think about it.}
+{Speech 6 Answer Exit}{}{Oh come on! It'll go just fine!}
+{Speech 7}{}{Not now.@@Hold on a bit, @sex@|handsome|gorgeous|, I'm busy.@@Oh, aren't we hot! Another time, sweetie.@@Someday, all this will end... Then come find me.@@I won't be able to help you with anything until we reach this mutant.@@So what do you think, is sleeping with a mutant normal for a modern girl?@@I'm already sorry I got mixed up in this...@@Leave me alone!@@The best girls are only at the "Cat's Paw"! And what am I doing here...@@God! I'm so sick of all this!}

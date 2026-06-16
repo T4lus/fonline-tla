@@ -87,32 +87,32 @@ Speech 9 # Зайди попозже.
 {DescAliveFull}{}{You see an attractive middle-aged woman. She looks bored.}
 {DescAliveFull}{}{You see Mrs.Bishop. She gaze into the distance.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 9}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 4}{}{знаком}
-{Speech 2}{}{[Женщина поворачивается к вам. Она довольно привлекательна, одета в платье с глубоким вырезом из шкур золотого геккона. Она изучает вас какое-то время, потом хмурится.] Да, в чем дело?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer Exit}{}{Извините, обознался. До свидания.}
-{Speech 3}{}{[Приподнимает бровь.] Полагаю, это Я должна задать этот вопрос. [Скрещивает руки на груди.] Я Лесли Энн Бишоп. Мой муж - глава семьи Бишопов, здесь, в Нью-Рено. А ты...}
-{Speech 3 Answer 4}{}{Меня зовут @pname@.}
-{Speech 3 Answer 8}{}{Я простой путешественник.}
-{Speech 3 Answer Exit}{}{Послушайте, я, наверно, пойду. До свидания.}
-{Speech 4}{}{@pname@... хм... что, скажи на милость, я могу для тебя сделать?}
-{Speech 4 Answer 5}{}{Не могли бы вы рассказать мне о Мистере Бишопе?}
-{Speech 4 Answer 7}{}{Не могли бы вы рассказать мне о Семье Бишопов?}
-{Speech 4 Answer Exit}{}{Ничего, спасибо. Я пойду.}
-{Speech 5}{}{О моем муже? Он глава семьи Бишопов. В вопросах бизнеса, дипломатии, криминальных делах он обладает определенной животной ловкостью, которой невозможно не восхищаться, как бы ни были достойны презрения остальные его качества.}
-{Speech 5 Answer 6}{}{Остальные качества?}
-{Speech 5 Answer 4}{}{Понятно. Я хочу спросить о другом...}
-{Speech 5 Answer Exit}{}{Извините, миссис Бишоп. Я не хотел совать свой нос в ваши дела. Я пойду.}
-{Speech 6}{}{[Хмурится.] Предоставлю это твоему воображению. Это все?}
-{Speech 6 Answer 4}{}{Вообще-то у меня были еще вопросы...}
-{Speech 6 Answer Exit}{}{Да, это все. До свидания.}
-{Speech 7}{}{Нет, не сейчас.}
-{Speech 7 Answer 4}{}{Ладно, у меня есть еще вопросы...}
-{Speech 7 Answer Exit}{}{Жаль. До свидания.}
-{Speech 8}{}{[Хмурится.] Простой путешественник. Какая открытость и доверчивость. И что, скажи на милость, я могу для тебя сделать, "простой путешественник"?}
-{Speech 8 Answer 5}{}{Не могли бы вы рассказать мне о мистере Бишопе?}
-{Speech 8 Answer 7}{}{Не могли бы вы рассказать мне о Семье Бишопов?}
-{Speech 8 Answer Exit}{}{Ничего, спасибо. Я пойду.}
-{Speech 9}{}{Зайди попозже.}
+{Speech 1 Answer 9}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 4}{}{acquainted}
+{Speech 2}{}{[The woman turns to you. She is quite attractive, dressed in a low-cut gown made of golden gecko hides. She studies you for a while, then frowns.] Yes, what is it?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer Exit}{}{Sorry, mistaken identity. Goodbye.}
+{Speech 3}{}{[Raises an eyebrow.] I believe I'm the one who should be asking that question. [Crosses her arms over her chest.] I'm Leslie Anne Bishop. My husband is the head of the Bishop family, here in New Reno. And you are...}
+{Speech 3 Answer 4}{}{My name is @pname@.}
+{Speech 3 Answer 8}{}{I'm just a traveler.}
+{Speech 3 Answer Exit}{}{Listen, I think I'll be going. Goodbye.}
+{Speech 4}{}{@pname@... hmm... what, pray tell, can I do for you?}
+{Speech 4 Answer 5}{}{Could you tell me about Mister Bishop?}
+{Speech 4 Answer 7}{}{Could you tell me about the Bishop Family?}
+{Speech 4 Answer Exit}{}{Nothing, thanks. I'll be going.}
+{Speech 5}{}{About my husband? He's the head of the Bishop family. In matters of business, diplomacy, and criminal affairs he possesses a certain animal cunning that one cannot help but admire, however contemptible the rest of his qualities may be.}
+{Speech 5 Answer 6}{}{The rest of his qualities?}
+{Speech 5 Answer 4}{}{I see. I'd like to ask about something else...}
+{Speech 5 Answer Exit}{}{Sorry, Mrs. Bishop. I didn't mean to stick my nose into your affairs. I'll be going.}
+{Speech 6}{}{[Frowns.] I'll leave that to your imagination. Is that all?}
+{Speech 6 Answer 4}{}{Actually, I had a few more questions...}
+{Speech 6 Answer Exit}{}{Yes, that's all. Goodbye.}
+{Speech 7}{}{No, not now.}
+{Speech 7 Answer 4}{}{Alright, I have a few more questions...}
+{Speech 7 Answer Exit}{}{Pity. Goodbye.}
+{Speech 8}{}{[Frowns.] Just a traveler. Such openness and trust. And what, pray tell, can I do for you, "just a traveler"?}
+{Speech 8 Answer 5}{}{Could you tell me about Mister Bishop?}
+{Speech 8 Answer 7}{}{Could you tell me about the Bishop Family?}
+{Speech 8 Answer Exit}{}{Nothing, thanks. I'll be going.}
+{Speech 9}{}{Come back later.}

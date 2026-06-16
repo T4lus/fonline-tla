@@ -58,19 +58,19 @@ Speech 7 # [Кашляет]@@[Смотрит на бармена]@@[Делает
 {DescAliveShort}{}{You see Bill.}
 {DescAliveFull}{}{You see a shriveled man with thick white eyebrows. He looks like he could use some drink.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 6}{}{Дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 7}{}{знаком}
-{Speech 2}{}{[Человек даже не поднимает на вас глаз, когда вы подходите к нему. Он смотрит на стену за барной стойкой.]}
-{Speech 2 Answer 4}{}{Э, привет. Не знаешь последних сплетен?}
-{Speech 2 Answer 3}{}{Эй, тебе никогда не приходилось кого-нибудь убивать?}
-{Speech 3}{}{Это что еще за идиотский вопрос?}
-{Speech 3 Answer 5}{}{Успокойся. Просто любопытно.}
-{Speech 3 Answer Exit}{}{Хорошо, тогда проехали.}
-{Speech 4}{}{[Делает вам знак заткнуться и не мешать ему пить.]}
-{Speech 4 Answer Exit}{}{[Оставить его в покое.]}
-{Speech 5}{}{Тебе надо, ты и успокаивайся.}
-{Speech 5 Answer Exit}{}{Только после того, как я душу из тебя вытрясу.}
-{Speech 5 Answer Exit*}{}{Оу. Ладно. Я пойду.}
-{Speech 6}{}{@sex@|Отстань, идиот.|Отстань, дура.|}
-{Speech 7}{}{[Кашляет]@@[Смотрит на бармена]@@[Делает знак принести еще выпить]@@[Смотрит в пустоту]}
+{Speech 1 Answer 6}{}{Fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 7}{}{acquainted}
+{Speech 2}{}{[The man doesn't even raise his eyes to you when you approach him. He stares at the wall behind the bar counter.]}
+{Speech 2 Answer 4}{}{Uh, hi. You know any of the latest gossip?}
+{Speech 2 Answer 3}{}{Hey, you ever had to kill anyone?}
+{Speech 3}{}{What kind of idiotic question is that?}
+{Speech 3 Answer 5}{}{Calm down. Just curious.}
+{Speech 3 Answer Exit}{}{Fine, never mind then.}
+{Speech 4}{}{[Signals for you to shut up and not get in the way of his drinking.]}
+{Speech 4 Answer Exit}{}{[Leave him alone.]}
+{Speech 5}{}{You're the one who needs it, so you calm down.}
+{Speech 5 Answer Exit}{}{Only after I shake the soul out of you.}
+{Speech 5 Answer Exit*}{}{Oh. All right. I'll go.}
+{Speech 6}{}{@sex@|Get lost, idiot.|Get lost, fool.|}
+{Speech 7}{}{[Coughs]@@[Looks at the bartender]@@[Signals to bring another drink]@@[Stares into space]}

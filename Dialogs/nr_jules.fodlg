@@ -141,57 +141,57 @@ Speech 15 # Нью-Рино - опасное место, @sex@|друг|сест
 {DescAliveShort}{}{You see a black man in a worn suit. When he catches your eye, he smiles, flashing his golden tooth.}
 {DescAliveFull}{}{You see Jules.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 15}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 14}{}{знаком}
-{Speech 2}{}{@sex@|Меня звать Хулио, и я был бы КРАЙНЕ рад познакомиться с тобой, показать тебе все и достать тебе все, что ты ищешь.|Меня звать Хулио, и могу я сказать, что НИКОГДА до этого момента не видел более красивой женщины, шагающей по этой улице. МНЕ доставит огромное удовольствие прокатить тебя по Рино и обеспечить ВСЕМ, что ты ищешь.|}
-{Speech 2 Answer 3}{}{Ну ладно. Что ты можешь для меня сделать?}
-{Speech 2 Answer 3*}{}{Ну, у меня есть парочка вопросов...}
-{Speech 2 Answer Exit}{}{Ничего, спасибо. Увидимся, Хулио.}
-{Speech 3}{}{@sex@|Я могу достать тебе ЧТО УГОДНО, братишка. Если хочешь полетать, оторваться, скатиться вниз в сочный хо, Хулио знает, куда идти. Вопрос таков: у меня есть все на любой вкус, так каков он, ТВОЙ вкус?|Все, что ты хочешь, Хулио - то, ЧТО НАДО, сестренка. Если хочешь полетать, оторваться, раздвинуть ножки, Хулио знает, куда идти. Вопрос таков: у меня есть все на любой вкус, так каков он, ТВОЙ вкус?|}
-{Speech 3 Answer 4}{}{Ты не можешь рассказать мне немного о Нью-Рино?}
-{Speech 3 Answer 8}{}{Где я могу достать наркотики?}
-{Speech 3 Answer 11}{}{Я хочу купить тяжелое вооружение.}
-{Speech 3 Answer 12}{}{Мне нужны припасы.}
-{Speech 3 Answer 13}{}{Я хочу трахаться.}
-{Speech 3 Answer Exit}{}{Сегодня ничем, спасибо.}
-{Speech 4}{}{Может ли Хулио рассказать о Нью-Рино? Да, черт возьми! ПЕРВОЕ, что тебе надо знать: всем в Рино заправляют четыре семьи: Мордино, Сальваторе, Бишопы и Райты. У каждой из них свой кусок нью-риновского пирога.}
-{Speech 4 Answer 5}{}{А закон тут есть?}
-{Speech 4 Answer 3}{}{Вообще-то у меня были другие вопросы...}
-{Speech 4 Answer Exit}{}{Интересно. Спасибо за разговор.}
-{Speech 5}{}{Никакого закона, никакой полиции, никакого шерифа, никакого правительства. ТОЛЬКО семьи.}
-{Speech 5 Answer 6}{}{Кто же тогда следит за порядком в Рино?}
-{Speech 5 Answer 3}{}{Понятно. Я хочу спросить о другом...}
-{Speech 5 Answer Exit}{}{Интересно. Спасибо за разговор.}
-{Speech 6}{}{Семьи следят, чтобы все было гладко. Им не НАДО проблем в Рино, потому что это бьет по туризму и торговле, а значит и по их карману. Не создавай проблем и расплачивайся по игорным долгам, и ты не попадешь на Голгофу.}
-{Speech 6 Answer 7}{}{На Голгофу?}
-{Speech 7}{}{Ага, кладбище такое за городом. Туда свозят должников и тех, кто перешел семьям дорогу. Там их распинают и оставляют долго умирать на солнце. Меня такая смерть не прельщает. Там воняет как в аду.}
-{Speech 7 Answer 3}{}{Интересно. Послушай, у меня есть к тебе еще пара вопросов...}
-{Speech 7 Answer Exit}{}{Звучит здорово. Спасибо за информацию.}
-{Speech 8}{}{@sex@|Дурь на ЛЮБОЙ вкус. У меня есть шняга, которая заведет тебя, заведет твою женщину, сделает так, что у тебя встанет, сделает тебя счастливым, сделает тебя сильным, сделает тебя умным и красивым... и конечно же, у меня есть ТОТ САМЫЙ винт, шняга, с которой ты будешь ЛЕТАТЬ... От винта!|Дурь на ЛЮБОЙ вкус. У меня есть шняга, которая заведет тебя, сделает тебя мокрой, высушит, успокоит, возбудит, сделает тебя сильной, сделает тебя умной и красивой... и конечно же, у меня есть ТА САМАЯ шняга, с которой ты будешь ЛЕТАТЬ... Винт.|}
-{Speech 8 Answer Barter}{}{Звучит здорово. Давай!}
-{Speech 8 Answer 9}{}{Откуда взялся винт? Он всегда был?}
-{Speech 8 Answer Exit}{}{Ясно. Буду иметь ввиду. Спасибо и до свидания, Хулио.}
-{Speech 9}{}{Ну... э-э... Винт взялся отсюда... из Рино, я имею в виду. Он появился лет пять назад, но на него большой СПРОС, понимаешь, что я говорю? [Подмигивает.] Причина номер один, по которой к нам едут туристы типа тебя.}
-{Speech 9 Answer Barter}{}{Ну, я хочу купить немного наркотиков. Давай поторгуем.}
-{Speech 9 Answer 10}{}{Но почему винт взялся именно отсюда?}
-{Speech 9 Answer 3}{}{Ясно. У меня есть еще несколько вопросов..}
-{Speech 9 Answer Exit}{}{Спасибо за информацию. Увидимся.}
-{Speech 10}{}{Гм... видишь ли, семья Мордино срубила джекпот, когда они нашли одного маленького умника Майрона. Он просто самородок, когда дело касается производства наркотиков. Он ПРИДУМАЛ винт.}
-{Speech 10 Answer 3}{}{Ясно. У меня есть еще несколько вопросов...}
-{Speech 10 Answer Exit}{}{Спасибо за информацию. Увидимся.}
-{Speech 11}{}{@sex@|Я тебя слышу, брат, слышу. Хочешь достать лучшее, иди к моему человеку Элдриджу на Западную сторону. У него такие пушки есть, вынесут даже людей, с которыми ты еще не ВСТРЕЧАЛСЯ. Скажи ему, что ты от меня.|Я тебя слышу, сестричка, слышу. Хочешь достать лучшее, иди к моему человеку Элдриджу на Западную сторону. У него такие пушки есть, вынесут даже людей, с которыми ты еще не ВСТРЕЧАЛАСЬ. Скажи ему, что ты от меня.|}
-{Speech 11 Answer 3}{}{Ясно. Можно еще спросить?}
-{Speech 11 Answer Exit}{}{Спасибо за совет. Я лучше пойду.}
-{Speech 12}{}{Нужны припасы? Ну, ты МОЖЕШЬ пойти к Ренеско на Западную сторону... но предупреждаю: не покупай у него наркотики, они НЕБЕЗОПАСНЫ. У него все есть, но если тебе нужна дурь, обращайся ко мне.}
-{Speech 12 Answer 3}{}{Я запомню это. Слушай, у меня были еще вопросы...}
-{Speech 12 Answer Exit}{}{Его наркотики небезопасны, да? Ну, спасибо за совет, я думаю, мне пора.}
-{Speech 13}{}{@sex@|Я слышу тебя, брат. Понимаешь, большинство ТУРИСТОВ несутся на Девичью улицу, где им за два бакса отсасывает какая-нибудь шлюха. У тебя есть класс, поэтому иди в Кошачью лапку через дорогу. Скажи им, что ты от Хулио.|Я слышу тебя, сестричка. Понимаешь, большинство ТУРИСТОВ несутся на Девичью улицу, где их за два бакса ублажает какой-нибудь немытый деятель. У тебя есть класс, поэтому иди в Кошачью лапку через дорогу. Скажи им, что ты от Хулио.|}
-{Speech 13 Answer 3}{}{О, спасибо, Хулио. Слушай, у меня были еще вопросы...}
-{Speech 13 Answer Exit}{}{Ну, спасибо за совет. Думаю, я лучше пойду.}
-{Speech 14}{}{Нью-Рино - опасное место, @sex@|друг|сестричка|. Позволь мне просветить тебя по поводу того, что полезно и что нет.}
-{Speech 14 Answer 3}{}{О, спасибо, Хулио. Просвещай...}
-{Speech 14 Answer Exit}{}{Оу, нет, ничего. Я лучше пойду.}
-{Speech 15}{}{Нью-Рино - опасное место, @sex@|друг|сестричка|. Позволь мне просветить тебя по поводу того, что полезно и что нет.}
-{Speech 15 Answer Barter}{}{Летать!!! ЛЕТАААТЬ!!!}
-{Speech 15 Answer Exit}{}{Ой-ой. Не сюда.}
+{Speech 1 Answer 15}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 14}{}{acquainted}
+{Speech 2}{}{@sex@|Name's Julio, and I'd be MOST delighted to make your acquaintance, show you around and get you whatever you're looking for.|Name's Julio, and may I say I have NEVER until this very moment seen a more beautiful woman walking down this street. It would give ME great pleasure to show you around Reno and provide you with ALL that you seek.|}
+{Speech 2 Answer 3}{}{All right then. What can you do for me?}
+{Speech 2 Answer 3*}{}{Well, I've got a couple of questions...}
+{Speech 2 Answer Exit}{}{Nothing, thanks. See you around, Julio.}
+{Speech 3}{}{@sex@|I can get you ANYTHING, little brother. If you wanna fly, get loose, slide down into some juicy ho, Julio knows where to go. The question is: I've got something for every taste, so what's YOUR taste?|Anything you want, Julio's got just WHAT YOU NEED, little sister. If you wanna fly, get loose, spread those legs, Julio knows where to go. The question is: I've got something for every taste, so what's YOUR taste?|}
+{Speech 3 Answer 4}{}{Can't you tell me a little about New Reno?}
+{Speech 3 Answer 8}{}{Where can I get drugs?}
+{Speech 3 Answer 11}{}{I want to buy heavy weapons.}
+{Speech 3 Answer 12}{}{I need supplies.}
+{Speech 3 Answer 13}{}{I want to get laid.}
+{Speech 3 Answer Exit}{}{Nothing today, thanks.}
+{Speech 4}{}{Can Julio tell you about New Reno? Hell yeah! The FIRST thing you need to know: everything in Reno is run by four families: the Mordinos, the Salvatores, the Bishops and the Wrights. Each of them has their own slice of the New Reno pie.}
+{Speech 4 Answer 5}{}{Is there any law here?}
+{Speech 4 Answer 3}{}{Actually, I had other questions...}
+{Speech 4 Answer Exit}{}{Interesting. Thanks for the talk.}
+{Speech 5}{}{No law, no police, no sheriff, no government. ONLY the families.}
+{Speech 5 Answer 6}{}{So who keeps order in Reno then?}
+{Speech 5 Answer 3}{}{I see. I want to ask about something else...}
+{Speech 5 Answer Exit}{}{Interesting. Thanks for the talk.}
+{Speech 6}{}{The families make sure everything runs smooth. They don't WANT trouble in Reno, because it hurts tourism and trade, and that means it hurts their pockets. Don't make trouble and pay off your gambling debts, and you won't end up on Golgotha.}
+{Speech 6 Answer 7}{}{On Golgotha?}
+{Speech 7}{}{Yeah, it's this cemetery outside town. They cart off debtors and folks who crossed the families there. They crucify them and leave them to die slow in the sun. That kind of death don't appeal to me. It stinks like hell out there.}
+{Speech 7 Answer 3}{}{Interesting. Listen, I've got a couple more questions for you...}
+{Speech 7 Answer Exit}{}{Sounds great. Thanks for the info.}
+{Speech 8}{}{@sex@|Dope for EVERY taste. I've got stuff that'll get you going, get your woman going, make you hard, make you happy, make you strong, make you smart and handsome... and of course, I've got THE real Jet, the stuff that'll make you FLY... Jet!|Dope for EVERY taste. I've got stuff that'll get you going, make you wet, dry you out, calm you down, turn you on, make you strong, make you smart and beautiful... and of course, I've got THAT very stuff that'll make you FLY... Jet.|}
+{Speech 8 Answer Barter}{}{Sounds great. Let's do it!}
+{Speech 8 Answer 9}{}{Where did Jet come from? Has it always been around?}
+{Speech 8 Answer Exit}{}{Got it. I'll keep it in mind. Thanks and goodbye, Julio.}
+{Speech 9}{}{Well... uh... Jet came from here... from Reno, I mean. It showed up about five years ago, but there's big DEMAND for it, you know what I'm saying? [Winks.] The number one reason tourists like you come to us.}
+{Speech 9 Answer Barter}{}{Well, I want to buy some drugs. Let's trade.}
+{Speech 9 Answer 10}{}{But why did Jet come from here in particular?}
+{Speech 9 Answer 3}{}{Got it. I have a few more questions..}
+{Speech 9 Answer Exit}{}{Thanks for the info. See you around.}
+{Speech 10}{}{Hmm... you see, the Mordino family hit the jackpot when they found this little smart-ass Myron. He's a real natural when it comes to making drugs. He INVENTED Jet.}
+{Speech 10 Answer 3}{}{Got it. I have a few more questions...}
+{Speech 10 Answer Exit}{}{Thanks for the info. See you around.}
+{Speech 11}{}{@sex@|I hear you, brother, I hear you. You wanna get the best, go to my man Eldridge on the West side. He's got guns that'll take out folks you haven't even MET yet. Tell him I sent you.|I hear you, little sister, I hear you. You wanna get the best, go to my man Eldridge on the West side. He's got guns that'll take out folks you haven't even MET yet. Tell him I sent you.|}
+{Speech 11 Answer 3}{}{Got it. Can I ask something else?}
+{Speech 11 Answer Exit}{}{Thanks for the advice. I'd better be going.}
+{Speech 12}{}{Need supplies? Well, you CAN go to Renesco on the West side... but I'm warning you: don't buy drugs from him, they're NOT SAFE. He's got everything, but if you need dope, come to me.}
+{Speech 12 Answer 3}{}{I'll remember that. Listen, I had some more questions...}
+{Speech 12 Answer Exit}{}{His drugs aren't safe, huh? Well, thanks for the advice, I think it's time for me to go.}
+{Speech 13}{}{@sex@|I hear you, brother. You see, most TOURISTS rush off to Virgin Street, where some whore blows them for two bucks. You've got class, so go to the Cat's Paw across the road. Tell them Julio sent you.|I hear you, little sister. You see, most TOURISTS rush off to Virgin Street, where some unwashed fellow services them for two bucks. You've got class, so go to the Cat's Paw across the road. Tell them Julio sent you.|}
+{Speech 13 Answer 3}{}{Oh, thanks, Julio. Listen, I had some more questions...}
+{Speech 13 Answer Exit}{}{Well, thanks for the advice. I think I'd better be going.}
+{Speech 14}{}{New Reno's a dangerous place, @sex@|friend|sister|. Let me enlighten you about what's good for you and what's not.}
+{Speech 14 Answer 3}{}{Oh, thanks, Julio. Enlighten away...}
+{Speech 14 Answer Exit}{}{Oh, no, never mind. I'd better be going.}
+{Speech 15}{}{New Reno's a dangerous place, @sex@|friend|sister|. Let me enlighten you about what's good for you and what's not.}
+{Speech 15 Answer Barter}{}{Fly!!! FLYYYY!!!}
+{Speech 15 Answer Exit}{}{Uh-oh. Not here.}

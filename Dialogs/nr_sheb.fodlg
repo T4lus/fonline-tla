@@ -23,5 +23,5 @@ Speech 2 # Блюда, Блюда, ... !@@Пойдем, любитель еды!
 {DescAliveFull}{}{You see a skinny man, dressed in blue. His gear is lowkey, also he mumbles at the top of his breath.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Блюда, Блюда, ... !@@Пойдем, любитель еды!@@Купите один кусок блюда по обычной цене, вы получите следующий кусок по более низкой цене!}
-{Speech 2 Answer Exit}{}{Извини, но мне некогда.}
+{Speech 2}{}{Meals, Meals, ... !@@Come on, food lover!@@Buy one portion of a meal at the regular price, and you'll get the next portion at a lower price!}
+{Speech 2 Answer Exit}{}{Sorry, but I don't have time.}

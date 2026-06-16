@@ -30,7 +30,7 @@ Speech 3 # Да, конечно. [Улыбается] Я Миссис Энтил
 {DescAliveFull}{}{You see Mrs. Wright. She seems to be in a cheerful mood and humming some song.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{[Женщина подпрыгивает] О, боже! Так меня напугали! [Смотрит на вас] Да, да?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 3}{}{Да, конечно. [Улыбается] Я Миссис Энтил Райт, глава Благотворительного Дома здесь в Нью Рено. А вы кто?}
-{Speech 3 Answer Exit}{}{Я простой путешественник. Сожалею, но мне пора.}
+{Speech 2}{}{[The woman jumps] Oh, my! You startled me so! [Looks at you] Yes, yes?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 3}{}{Yes, of course. [Smiles] I'm Mrs. Entil Wright, head of the Charity House here in New Reno. And who are you?}
+{Speech 3 Answer Exit}{}{I'm just a traveler. I'm sorry, but I have to go.}

@@ -37,11 +37,11 @@ Speech 4 # @sex@|Еще один идиот.|"Кошачья лапка" в др
 {DescAliveFull}{}{You see a strong man in his middle age.}
 {DescAliveFull}{}{You see Mr.Bishop. He looks pretty gloomy.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{дурак}
+{Speech 1 Answer 4}{}{fool}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Какого ч..? Кто ты и что, ЧЕРТ ВОЗЬМИ, тебе нужно?}
-{Speech 2 Answer 3}{}{У вас нет для меня работы?}
-{Speech 2 Answer Exit}{}{Извините, я ошибся дверью.}
-{Speech 3}{}{Работы? А ну @sex@|пошел от сюда|катись от сюда шлюха|!}
-{Speech 3 Answer Exit}{}{Извините. До свидания.}
-{Speech 4}{}{@sex@|Еще один идиот.|"Кошачья лапка" в другой части города.|}
+{Speech 2}{}{What the h..? Who are you and what the HELL do you want?}
+{Speech 2 Answer 3}{}{Don't you have any work for me?}
+{Speech 2 Answer Exit}{}{Sorry, wrong door.}
+{Speech 3}{}{Work? Now @sex@|get out of here|get lost, whore|!}
+{Speech 3 Answer Exit}{}{Sorry. Goodbye.}
+{Speech 4}{}{@sex@|Another idiot.|The "Cat's Paw" is in another part of the city.|}

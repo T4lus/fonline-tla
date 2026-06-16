@@ -365,133 +365,133 @@ Speech 40 # Ништяк! Это дерьмо еще приносит доход
 {DescAliveFull}{}{You see Little Jesus Mordino.}
 {DescAliveFull}{}{You see Little Jesus Mordino. He's wearing black leather, and playing with one of his knives.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 25}{}{плох отношения}
-{Speech 1 Answer 25*}{}{Тупой}
-{Speech 1 Answer 2}{}{не знаком муж}
-{Speech 1 Answer 3}{}{не знаком жен}
-{Speech 1 Answer 4}{}{знаком жен}
-{Speech 1 Answer 5}{}{знаком жен}
-{Speech 2}{}{Да? Что-то нужно амиго?}
-{Speech 2 Answer 37}{}{Эй, я слышал у вас можно наркотой затариться? Хотел бы приобрести партию для моего друга Флика.}
-{Speech 2 Answer 6}{}{Кто вы?}
-{Speech 2 Answer Exit}{}{Извините, я думал, что здесь еще кто-то.}
+{Speech 1 Answer 25}{}{bad relations}
+{Speech 1 Answer 25*}{}{Stupid}
+{Speech 1 Answer 2}{}{not acquainted male}
+{Speech 1 Answer 3}{}{not acquainted female}
+{Speech 1 Answer 4}{}{acquainted female}
+{Speech 1 Answer 5}{}{acquainted female}
+{Speech 2}{}{Yeah? You need something, amigo?}
+{Speech 2 Answer 37}{}{Hey, I heard you can score some drugs here? I'd like to buy a batch for my friend Flick.}
+{Speech 2 Answer 6}{}{Who are you?}
+{Speech 2 Answer Exit}{}{Sorry, I thought somebody else was here.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 37}{}{Эй, я слышал@sex@||а| у вас можно наркотой затариться? Хотел бы приобрести партию для моего друга Флика.}
-{Speech 3 Answer 6}{}{Кто вы?}
-{Speech 3 Answer Exit}{}{Извините, я думал, что здесь еще кто-то.}
-{Speech 4}{}{Опять вы? Что вам на этот раз нужно?}
-{Speech 4 Answer 37}{}{Эй, я слышал@sex@||а| у вас можно наркотой затариться? Хотел бы приобрести партию для моего друга Флика.}
-{Speech 4 Answer 7}{}{У меня есть несколько вопросов...}
-{Speech 4 Answer Exit}{}{Не беспокойтесь, извините. }
+{Speech 3 Answer 37}{}{Hey, I heard@sex@||| you can score some drugs here? I'd like to buy a batch for my friend Flick.}
+{Speech 3 Answer 6}{}{Who are you?}
+{Speech 3 Answer Exit}{}{Sorry, I thought somebody else was here.}
+{Speech 4}{}{You again? What do you need this time?}
+{Speech 4 Answer 37}{}{Hey, I heard@sex@||| you can score some drugs here? I'd like to buy a batch for my friend Flick.}
+{Speech 4 Answer 7}{}{I've got a few questions...}
+{Speech 4 Answer Exit}{}{Don't worry, sorry. }
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 5 Answer 37}{}{Эй, я слышал@sex@||а| у вас можно наркотой затариться? Хотел бы приобрести партию для моего друга Флика.}
-{Speech 5 Answer 7}{}{У меня есть несколько вопросов...}
-{Speech 5 Answer Exit}{}{Не беспокойтесь, извините. }
-{Speech 6}{}{Я? Ну если спрашиваете... Я Иисус. Иисус Мордино. Так же, как и мой отец. Только он Большой Иисус, глава всей семьи Мордино здесь, в Нью Рено. Так что большинство зовет меня Маленьким Иисусом. Чтобы не путать, понятно?}
-{Speech 6 Answer 8}{}{Что вы сказали о Семье Мордино?@@Что это за семья Мордино, о которой вы говорили?}
-{Speech 6 Answer 20}{}{Я слышал о вашей семье. Я слышал также, что ваши парни - это сила, с которой нужно считаться.}
-{Speech 6 Answer 21}{}{Мне нужна работа. Семья Мордино не нанимает людей?}
-{Speech 6 Answer 17}{}{Не знаете, куда можно сходить в городе, чтобы отдохнуть?}
-{Speech 6 Answer 7}{}{Понятно. У меня есть еще несколько вопросов...}
+{Speech 5 Answer 37}{}{Hey, I heard@sex@||| you can score some drugs here? I'd like to buy a batch for my friend Flick.}
+{Speech 5 Answer 7}{}{I've got a few questions...}
+{Speech 5 Answer Exit}{}{Don't worry, sorry. }
+{Speech 6}{}{Me? Well, if you're asking... I'm Jesus. Jesus Mordino. Same as my father. Only he's Big Jesus, the head of the whole Mordino family here in New Reno. So most folks call me Little Jesus. To keep things from getting confused, see?}
+{Speech 6 Answer 8}{}{What did you say about the Mordino Family?@@What's this Mordino family you were talking about?}
+{Speech 6 Answer 20}{}{I heard about your family. I also heard your boys are a force to be reckoned with.}
+{Speech 6 Answer 21}{}{I need work. Doesn't the Mordino family hire people?}
+{Speech 6 Answer 17}{}{Do you know where I could go in town to have some fun?}
+{Speech 6 Answer 7}{}{I see. I've got a few more questions...}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 34}{}{Я от Джоя из Дена, чтобы забрать партию наркоты.}
-{Speech 7 Answer 8}{}{Что вы сказали о Семье Мордино?@@Что это за семья Мордино, о которой вы говорили?}
-{Speech 7 Answer 20}{}{Мне нужна работа. Семья Мордино не нанимает людей?}
-{Speech 7 Answer 21}{}{Мне нужна работа.}
-{Speech 7 Answer 17}{}{Есть ли в Рено место, где можно поразвлечься?}
-{Speech 7 Answer 24}{}{Не можете научить меня драться на ножах?}
-{Speech 7 Answer Exit}{}{Не беспокойтесь, увидимся попозже.}
+{Speech 7 Answer 34}{}{I'm from Joey in the Den, here to pick up a batch of drugs.}
+{Speech 7 Answer 8}{}{What did you say about the Mordino Family?@@What's this Mordino family you were talking about?}
+{Speech 7 Answer 20}{}{I need work. Doesn't the Mordino family hire people?}
+{Speech 7 Answer 21}{}{I need work.}
+{Speech 7 Answer 17}{}{Is there a place in Reno where I can have some fun?}
+{Speech 7 Answer 24}{}{Can't you teach me to fight with knives?}
+{Speech 7 Answer Exit}{}{Don't worry, see you later.}
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 8 Answer 20}{}{Похоже, что семья Мордино одна из самых достойных семей, я хотел бы с вами иметь дело.}
-{Speech 8 Answer 21}{}{Мне нужна работа. Семья Мордино не нанимает людей?}
-{Speech 8 Answer 23}{}{Вы Мординос много говорите, но у вас немного связей. Что на это скажете, Маленький Иисус?}
-{Speech 8 Answer 10}{}{А что вы сказали о Реддинге?}
-{Speech 8 Answer 9}{}{Реддинг? Где это?}
-{Speech 8 Answer 7}{}{Похоже, что у Мординос счастливое будущее. У меня к вам несколько вопросов...}
+{Speech 8 Answer 20}{}{Sounds like the Mordino family is one of the most worthy families. I'd like to do business with you.}
+{Speech 8 Answer 21}{}{I need work. Doesn't the Mordino family hire people?}
+{Speech 8 Answer 23}{}{You Mordinos talk big, but you've got few connections. What do you say to that, Little Jesus?}
+{Speech 8 Answer 10}{}{And what did you say about Redding?}
+{Speech 8 Answer 9}{}{Redding? Where's that?}
+{Speech 8 Answer 7}{}{Sounds like the Mordinos have a bright future. I've got a few questions for you...}
 {Speech 9}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 9 Answer 11}{}{А что вы сказали о Реддинге?}
-{Speech 9 Answer 7}{}{У меня еще вопросы.}
-{Speech 9 Answer 12}{}{Там толпа наркоманов?}
-{Speech 9 Answer Exit}{}{Мне пора, Иисус...}
-{Speech 10}{}{Толпа шахтеров, копается в грязи, но любят ЛЕТАТЬ, понятно, что я имею в виду?}
-{Speech 10 Answer 11}{}{Не совсем. Что вы имеете в виду?}
-{Speech 11}{}{Они добывают золото, но мы даем им гораздо лучшее, чем золото, понятно? Они отдают ВСЕ золото, лишь бы получить хоть НЕМНОГО Джета. Все счастливы.}
-{Speech 11 Answer 7}{}{Похоже на то, у меня есть еще несколько вопросов...}
-{Speech 12}{}{Окей, когда они первый раз пробуют Джет, им уже не справиться с тягой потом. Вы никогда не можете выпить только раз.}
-{Speech 12 Answer 13}{}{Откуда взялся Джет?}
-{Speech 12 Answer 7}{}{Я понимаю. Послушайте, у меня еще несколько вопросов...}
-{Speech 13}{}{Джет? Отсюда. Видите ли, мы не добываем золото, мы делаем его: жидкое золото. Джет. К счастью для шахтеров, он почти ничего не стоит в производстве. Мы отправляем его в Реддинг, они напиваются, летают, отгружают нам золото. Это просто.}
-{Speech 13 Answer 14}{}{Как долго это продолжается? Похоже, вы могли бы контролировать всю Северную Калифорнию, если Джет настолько силен.}
-{Speech 14}{}{Вы правы, видите ли, у нас Джет был не всегда. Но мы нашли этого парня - он посмотрел на то дерьмо, что мы продавали и сказал, что мог бы сделать и лучше. И сделал. Теперь он работает на нас. Это просто.}
-{Speech 14 Answer 15}{}{Кто этот парень и где он?}
-{Speech 15}{}{Его зовут Мирон. А что насчет того, где он, так вам не нужно знать.}
-{Speech 15 Answer 23}{}{Почему бы вам не быть умницей и не сказать мне все равно?}
-{Speech 15 Answer 7}{}{Понятно. У меня есть еще несколько вопросов...}
-{Speech 16}{}{Его зовут Мирон. Мы его держим на конюшнях, к северу от города, он тестирует наши наркотики. Можете пойти и посмотреть на него, если нужно, но он занят почти все время... либо с наркотиками, либо с женщинами.}
-{Speech 16 Answer 7}{}{Мирон? Xорошо, Иисус. Спасибо за разговор.}
+{Speech 9 Answer 11}{}{And what did you say about Redding?}
+{Speech 9 Answer 7}{}{I've got more questions.}
+{Speech 9 Answer 12}{}{Is there a crowd of junkies there?}
+{Speech 9 Answer Exit}{}{I gotta go, Jesus...}
+{Speech 10}{}{A bunch of miners, digging in the dirt, but they love to FLY, you know what I mean?}
+{Speech 10 Answer 11}{}{Not really. What do you mean?}
+{Speech 11}{}{They mine gold, but we give them something much better than gold, see? They hand over ALL their gold just to get even a LITTLE Jet. Everybody's happy.}
+{Speech 11 Answer 7}{}{Sounds like it, I've got a few more questions...}
+{Speech 12}{}{Okay, the first time they try Jet, they can't handle the craving afterward. You can never use it just once.}
+{Speech 12 Answer 13}{}{Where did Jet come from?}
+{Speech 12 Answer 7}{}{I understand. Listen, I've got a few more questions...}
+{Speech 13}{}{Jet? From here. See, we don't mine gold, we make it: liquid gold. Jet. Lucky for the miners, it costs almost nothing to produce. We ship it to Redding, they get high, they fly, they ship us the gold. It's simple.}
+{Speech 13 Answer 14}{}{How long has this been going on? Sounds like you could control all of Northern California if Jet is that powerful.}
+{Speech 14}{}{You're right, see, we didn't always have Jet. But we found this guy - he looked at the crap we were selling and said he could make it better. And he did. Now he works for us. It's simple.}
+{Speech 14 Answer 15}{}{Who is this guy and where is he?}
+{Speech 15}{}{His name is Myron. As for where he is, that's something you don't need to know.}
+{Speech 15 Answer 23}{}{Why don't you be a good boy and tell me anyway?}
+{Speech 15 Answer 7}{}{I see. I've got a few more questions...}
+{Speech 16}{}{His name is Myron. We keep him at the stables, north of town, testing our drugs. You can go take a look at him if you need to, but he's busy almost all the time... either with the drugs or with women.}
+{Speech 16 Answer 7}{}{Myron? Alright, Jesus. Thanks for the talk.}
 {Speech 17}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 17 Answer 7}{}{У меня еще вопросы.}
-{Speech 17 Answer Exit}{}{Спасибо за совет, спасибо.}
-{Speech 18}{}{Так и хотите расслабиться, чика? Xе... почему бы нам не поговорить о любви?}
-{Speech 18 Answer 19}{}{Соблазнительно, но у меня нет и десяти секунд для вашей любви сейчас, Маленький Иисус.}
-{Speech 18 Answer 7}{}{Я польщена, но спасибо. У меня есть еще несколько вопросов...}
-{Speech 18 Answer Exit}{}{Почему бы вам не начать без меня? Мне пора идти.}
-{Speech 19}{}{Да? О чем ты говоришь? [Встает] Ты гребаная шлюха! Тебе лучше убраться отсюда, пока я не разрезал тебя на столько кусочков, что твоя мама тебя не узнает.@@Да? О чем ты говоришь? [Встает] Тебе лучше убраться отсюда, пока я не разрезал тебя на столько кусочков, что твоя мама тебя не узнает.}
-{Speech 19 Answer 28}{}{Только попробуй и получишь столько шрамов на свою морду, что будешь похож на лабиринт.}
-{Speech 19 Answer 7}{}{Успокойтесь. У меня есть еще несколько вопросов...}
-{Speech 19 Answer Exit}{}{Успокойтесь... я просто пошутила.}
-{Speech 20}{}{[Оглядывает вас, кивает] Нам всегда нужны люди... которые могут проливать кровь, понятно, я надеюсь. Идите наверх, поговорите с моим папой, скажите, что я вас послал, и может быть мы будем вместе работать.}
-{Speech 20 Answer 7}{}{Может и так. У меня есть еще несколько вопросов...}
-{Speech 20 Answer Exit}{}{Я тогда к нему поднимусь. Встретимся еще, Иисус.}
-{Speech 21}{}{[Осматривает вас, качает головой] Мы не нанимаем девушек, кроме как на специальные должности. Поговорите с отцом, скажите. что я вас к нему послал. Может быть, он и согласится.}
-{Speech 21 Answer 7}{}{Может и так. У меня есть еще несколько вопросов...}
-{Speech 21 Answer Exit}{}{Я тогда к нему поднимусь. Встретимся еще, Иисус.}
+{Speech 17 Answer 7}{}{I've got more questions.}
+{Speech 17 Answer Exit}{}{Thanks for the advice, thanks.}
+{Speech 18}{}{So you want to relax, chica? Heh... why don't we talk about love?}
+{Speech 18 Answer 19}{}{Tempting, but I don't have ten seconds for your love right now, Little Jesus.}
+{Speech 18 Answer 7}{}{I'm flattered, but thanks. I've got a few more questions...}
+{Speech 18 Answer Exit}{}{Why don't you start without me? I gotta go.}
+{Speech 19}{}{Yeah? What are you talking about? [Stands up] You fucking whore! You'd better get out of here before I cut you into so many pieces your mama won't recognize you.@@Yeah? What are you talking about? [Stands up] You'd better get out of here before I cut you into so many pieces your mama won't recognize you.}
+{Speech 19 Answer 28}{}{Just try it and you'll get so many scars on your mug you'll look like a maze.}
+{Speech 19 Answer 7}{}{Calm down. I've got a few more questions...}
+{Speech 19 Answer Exit}{}{Calm down... I was just joking.}
+{Speech 20}{}{[Looks you over, nods] We always need people... who can shed blood, you understand, I hope. Go upstairs, talk to my pop, tell him I sent you, and maybe we'll work together.}
+{Speech 20 Answer 7}{}{Maybe so. I've got a few more questions...}
+{Speech 20 Answer Exit}{}{I'll head up to him then. See you again, Jesus.}
+{Speech 21}{}{[Looks you over, shakes his head] We don't hire girls, except for special positions. Talk to my father, tell him I sent you to him. Maybe he'll agree.}
+{Speech 21 Answer 7}{}{Maybe so. I've got a few more questions...}
+{Speech 21 Answer Exit}{}{I'll head up to him then. See you again, Jesus.}
 {Speech 22}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 22 Answer 7}{}{Xрошо, у меня тогда еще несколько вопросов...}
-{Speech 22 Answer Exit}{}{Нет, спасибо. Мне лучше пойти.}
-{Speech 23}{}{Отвали. Убирайся из моего казино, пока я не вырезал свои инициалы на твоем мертвом теле.}
-{Speech 23 Answer 27}{}{Не угрожай мне, Иисус.}
-{Speech 23 Answer Exit}{}{Успокойся, Иисус. Я ухожу.}
-{Speech 24}{}{[Маленький Иисус смотрит на нож в вашей руке, трясет головой]Тихо. Не знаешь, как его нужно держать, @sex@|приятель|чика|? Вот так... [Показывает, как нужно схватиться] Вам нужно все еще объяснить.}
-{Speech 24 Answer 26}{}{На самом деле? Вы не можете обучить меня?}
-{Speech 24 Answer 7}{}{На самом деле, у меня для вас несколько вопросов, Иисус...}
-{Speech 24 Answer Exit}{}{Может быть в другое время, спасибо.}
-{Speech 25}{}{Уходите.@@Придете сюда еще, и я так вас напичкаю свинцом, что даже Супермен не сможет видеть сквозь вас.@@::Угрожающе поигрывает своим ножом::@@::Плюет под ноги вам::@@Похожи на тех, кто не знают, что они скоро умрут.@@Убирайтесь, пока я за вас не принялся.@@Только придите сюда еще раз и вас прирежу.}
+{Speech 22 Answer 7}{}{Alright, I've got a few more questions then...}
+{Speech 22 Answer Exit}{}{No thanks. I'd better go.}
+{Speech 23}{}{Get lost. Get out of my casino before I carve my initials into your dead body.}
+{Speech 23 Answer 27}{}{Don't threaten me, Jesus.}
+{Speech 23 Answer Exit}{}{Calm down, Jesus. I'm leaving.}
+{Speech 24}{}{[Little Jesus looks at the knife in your hand, shakes his head]Easy. Don't you know how to hold it, @sex@|buddy|chica|? Like this... [Shows how to grip it] You still need explaining.}
+{Speech 24 Answer 26}{}{Really? Can't you train me?}
+{Speech 24 Answer 7}{}{Actually, I've got a few questions for you, Jesus...}
+{Speech 24 Answer Exit}{}{Maybe another time, thanks.}
+{Speech 25}{}{Leave.@@Come here again, and I'll fill you with so much lead even Superman won't be able to see through you.@@::Threateningly toys with his knife::@@::Spits at your feet::@@You look like someone who doesn't know they're about to die.@@Get out before I deal with you.@@Just come here one more time and I'll gut you.}
 {Speech 26}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 26 Answer 30}{}{Я дам вам 100 долларов.}
-{Speech 26 Answer 29}{}{Я дам вам 200 долларов.}
-{Speech 26 Answer 32}{}{Мой стиль в постели тоже искусство. Xотите обменяться?}
-{Speech 26 Answer 7}{}{На самом деле, у меня несколько вопросов...}
-{Speech 26 Answer Exit}{}{Может быть в другое время... когда у меня будет достаточно денег, чтобы заставить вас передумать.}
-{Speech 27}{}{О, так что же тогда делает это все лучше? [Он плюет на ваш ботинок] Убирайтесь отсюда, пока я не изуродовал вас.}
-{Speech 27 Answer Exit}{}{Только попробуй, МАЛЕНЬКИЙ Иисус.}
-{Speech 27 Answer Exit*}{}{Ты плюнул на мой ботинок? Дерьмо! Надо тебе преподать урок манер, придурок!}
-{Speech 28}{}{Xа! Все хорошо, чика. Все нормально. Маленький Иисус проследит за вами... не то, чтобы я не мог себе помочь, но... Чем могу служить?}
-{Speech 28 Answer Exit}{}{У меня есть несколько вопросов...}
-{Speech 29}{}{Xммм... 200 и по рукам.}
-{Speech 29 Answer 32}{}{Хорошо, во деньги.}
-{Speech 29 Answer 7}{}{Забудьте. У меня есть еще несколько вопросов...}
-{Speech 30}{}{Нет... я думал кое о чем еще, понимаете? [Его глаза ползут по вашему телу, облизывает свои губы]}
-{Speech 30 Answer 29}{}{Пожалуйста, скажите, что вы имели в виду 200 долларов, пожалуйста, скажите, что вы имели в виду 200 долларов.}
-{Speech 30 Answer 32}{}{Окей. Давайте займемся этим. Все за то, чтобы добавить мастерства во владении ножом.}
-{Speech 30 Answer Exit}{}{О, вы думаете о сексе? Окей, продолжайте думать, потому что этого не случится.}
-{Speech 31}{}{Xммм... хорошо, я это сделаю. Похоже, у вас способности к этому. Послушайте, но первым делом вы должны сделать...}
-{Speech 31 Answer Exit}{}{[Маленький Иисус показывает вам некоторые необычные трюки с ножом. Вы стали более умелым бойцом на ножах.]}
-{Speech 32}{}{[Улыбается, демонстрируя гнилые зубы] Xорошо, я сделаю это. У вас есть немного времени прямо сейчас? Приступим?}
-{Speech 32 Answer 33}{}{Xорошо...}
-{Speech 32 Answer Exit}{}{Нет!}
-{Speech 33}{}{[Ценой своей гордости, вы стали более умелым бойцом на ножах. Вам также срочно нужен душ]}
-{Speech 34}{}{Вот как? Конечно, все здесь. С вас 1000 монет.}
-{Speech 34 Answer 35}{}{Ухх, он не сказал про деньги! Ладно, окей.}
-{Speech 34 Answer 36}{}{У меня нет столько денег.}
-{Speech 34 Answer 7}{}{Я лучше спрошу.}
-{Speech 34 Answer Exit}{}{Не хочу покупать это прямо сейчас.}
-{Speech 35}{}{Вот ваш товар. [Иисус передает вам коробку]}
+{Speech 26 Answer 30}{}{I'll give you 100 dollars.}
+{Speech 26 Answer 29}{}{I'll give you 200 dollars.}
+{Speech 26 Answer 32}{}{My style in bed is an art too. Want to trade?}
+{Speech 26 Answer 7}{}{Actually, I've got a few questions...}
+{Speech 26 Answer Exit}{}{Maybe another time... when I've got enough money to make you change your mind.}
+{Speech 27}{}{Oh, so what would make it all better then? [He spits on your boot] Get out of here before I disfigure you.}
+{Speech 27 Answer Exit}{}{Just try it, LITTLE Jesus.}
+{Speech 27 Answer Exit*}{}{You spat on my boot? Shit! I need to teach you some manners, asshole!}
+{Speech 28}{}{Ha! It's all good, chica. It's all fine. Little Jesus will watch out for you... not that I couldn't help myself, but... What can I do for you?}
+{Speech 28 Answer Exit}{}{I've got a few questions...}
+{Speech 29}{}{Hmmm... 200 and we've got a deal.}
+{Speech 29 Answer 32}{}{Alright, here's the money.}
+{Speech 29 Answer 7}{}{Forget it. I've got a few more questions...}
+{Speech 30}{}{No... I was thinking about something else, you understand? [His eyes crawl over your body, he licks his lips]}
+{Speech 30 Answer 29}{}{Please tell me you meant 200 dollars, please tell me you meant 200 dollars.}
+{Speech 30 Answer 32}{}{Okay. Let's do this. Anything to add some skill in handling a knife.}
+{Speech 30 Answer Exit}{}{Oh, you're thinking about sex? Okay, keep thinking, because it's not gonna happen.}
+{Speech 31}{}{Hmmm... alright, I'll do it. Looks like you've got a knack for this. Listen, but first you have to do...}
+{Speech 31 Answer Exit}{}{[Little Jesus shows you some unusual tricks with the knife. You've become a more skilled knife fighter.]}
+{Speech 32}{}{[Smiles, showing his rotten teeth] Alright, I'll do it. Have you got a little time right now? Shall we get started?}
+{Speech 32 Answer 33}{}{Alright...}
+{Speech 32 Answer Exit}{}{No!}
+{Speech 33}{}{[At the cost of your pride, you've become a more skilled knife fighter. You also urgently need a shower]}
+{Speech 34}{}{Is that so? Sure, it's all here. That'll be 1000 coins.}
+{Speech 34 Answer 35}{}{Ugh, he didn't say anything about money! Fine, okay.}
+{Speech 34 Answer 36}{}{I don't have that much money.}
+{Speech 34 Answer 7}{}{I'd better ask.}
+{Speech 34 Answer Exit}{}{I don't want to buy this right now.}
+{Speech 35}{}{Here's your merchandise. [Jesus hands you a box]}
 {Speech 36}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 37}{}{Для этого недоумка Флика? Как его еще земля носит... Да вот наркота, должно хватить на несколько доз. Бери, отдам за 1500.}
-{Speech 37 Answer 40}{}{Вот деньги.}
-{Speech 37 Answer 38}{}{У меня нет столько денег.}
-{Speech 37 Answer 39}{}{Я пока не хочу это покупать.}
-{Speech 38}{}{Тогда отваливай.}
-{Speech 39}{}{Надумаешь приходи.}
-{Speech 40}{}{Ништяк! Это дерьмо еще приносит доход. Вот держи пакет и проваливай.}
+{Speech 37}{}{For that moron Flick? How does the earth still carry him... Yeah, here's the drugs, should be enough for a few doses. Take it, I'll let it go for 1500.}
+{Speech 37 Answer 40}{}{Here's the money.}
+{Speech 37 Answer 38}{}{I don't have that much money.}
+{Speech 37 Answer 39}{}{I don't want to buy this just yet.}
+{Speech 38}{}{Then get lost.}
+{Speech 39}{}{Come back if you change your mind.}
+{Speech 40}{}{Sweet! This shit still turns a profit. Here, take the package and beat it.}

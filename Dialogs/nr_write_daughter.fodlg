@@ -31,5 +31,5 @@ Speech 2 # Не думай сделать ЧТО-НИБУДЬ нехорошее
 {DescAliveFull}{}{You see one of the Wright daughters. She's more dreadful than a gun she's holding. It amuses you.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Не думай сделать ЧТО-НИБУДЬ нехорошее. Мы, Райты, тебя быстро поставим на место.}
-{Speech 2 Answer Exit}{}{Окей.}
+{Speech 2}{}{Don't even think about doing ANYTHING bad. We Wrights will put you in your place real quick.}
+{Speech 2 Answer Exit}{}{Okay.}
