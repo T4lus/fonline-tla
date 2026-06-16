@@ -1173,7 +1173,7 @@
             int index = 0;
             while (index < needTools.length()) {
                 if (index != 0) {
-                    text += needTools[index + 2] == 1 ? "или " : "и ";
+                    text += needTools[index + 2] == 1 ? "or " : "and ";
                 }
                 text += MsgStr::GetItemText(MsgStr::ItemTextId(hstring(needTools[index]), 1));
                 text += ", " + needTools[index + 1] + "\\n";
@@ -1470,7 +1470,7 @@
             int index = 0;
             while (index < needTools.length()) {
                 if (index != 0) {
-                    text += needTools[index + 2] == 1 ? "или " : "и ";
+                    text += needTools[index + 2] == 1 ? "or " : "and ";
                 }
                 text += MsgStr::GetItemText(MsgStr::ItemTextId(hstring(needTools[index]), 1));
                 text += ", " + needTools[index + 1] + "\\n";
