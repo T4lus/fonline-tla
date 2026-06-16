@@ -35,10 +35,10 @@ Speech 4 # Поговорите лучше с моим мужем. Я пытаю
 {DescAliveFull}{}{You see Huana Cruz and Vikki Goldman, the two most famous movie stars in New Reno.}
 {DescAliveFull}{}{1433000}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{Моя нада ба раххлооо!}
+{Speech 1 Answer 4}{}{Me wanna ba rahhlooo!}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Единственный вопрос: с кем здесь можно пообщаться кроме вашего мужа?}
-{Speech 3}{}{Вы могли бы побеседовать с Гарри Рокетом, там, наверху. Может ему нужна помощь. Или вы могли бы поговорить с АXС-7 или АXС-9. Обычно они знают, чем всех занять.}
-{Speech 3 Answer Exit}{}{Пока.}
+{Speech 2 Answer 3}{}{Just one question: who else can I talk to here besides your husband?}
+{Speech 3}{}{You could talk to Harry Rocket, up there. Maybe he needs some help. Or you could talk to AHS-7 or AHS-9. They usually know how to keep everyone busy.}
+{Speech 3 Answer Exit}{}{Bye.}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}

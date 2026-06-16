@@ -153,54 +153,54 @@ Speech 20 # Точно не знаю. То ли 15, толи 16... А может
 
 [Text engl]
 {Name}{}{Punk}
-{DescAliveShort}{}{You see a man, yeasty on tanker.}
+{DescAliveShort}{}{You see a man wandering around the tanker.}
 {DescAliveFull}{}{You see a punk.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Uuugh!}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Самая классная вещь в том, чтобы быть кочевником, это то, что ты сам себе хозяин.@@Я без комплексов, а?@@Не отвлекайте меня разговорами.}
-{Speech 2 Answer Barter}{}{Поторговать не желаешь?}
-{Speech 2 Answer Exit}{}{Умри, вонючий панк! [Атаковать]}
-{Speech 2 Answer Exit*}{}{эээ... Мне пора. [Выход]}
-{Speech 2 Answer 4}{}{Я ищу Сида. Не в курсе, где его можно найти?@@Мне нужен Сид. Ты его знаешь?@@Ты с Сидом знаком?}
-{Speech 2 Answer 9}{}{Я ищу Сида. Не в курсе, где его можно найти?@@Мне нужен Сид. Ты его знаешь?@@Ты с Сидом знаком?}
-{Speech 2 Answer 17}{}{Я ищу Сида. Не в курсе, где его можно найти?@@Мне нужен Сид. Ты его знаешь?@@Ты с Сидом знаком?}
+{Speech 2}{}{The coolest thing about being a nomad is that you're your own master.@@I've got no hang-ups, eh?@@Don't distract me with talk.}
+{Speech 2 Answer Barter}{}{Care to do some trading?}
+{Speech 2 Answer Exit}{}{Die, you stinking punk! [Attack]}
+{Speech 2 Answer Exit*}{}{uhh... I gotta go. [Exit]}
+{Speech 2 Answer 4}{}{I'm looking for Sid. Any idea where I can find him?@@I need Sid. Do you know him?@@Are you acquainted with Sid?}
+{Speech 2 Answer 9}{}{I'm looking for Sid. Any idea where I can find him?@@I need Sid. Do you know him?@@Are you acquainted with Sid?}
+{Speech 2 Answer 17}{}{I'm looking for Sid. Any idea where I can find him?@@I need Sid. Do you know him?@@Are you acquainted with Sid?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4}{}{Сид? Этот подонок? Уж не @sex@|дружок|подруга| ли ты ему?}
-{Speech 4 Answer 5}{}{Можно и так сказать...}
-{Speech 4 Answer 8}{}{Еще чего. Он денег одному моему знакомому должен. Вот, пытаюсь разобраться, куда Сид пропал. Не знаешь, где можно его найти?}
-{Speech 5}{}{Ага! Хорошо, что ты ко мне заглянул@sex@||а|. Сид торчит мне 100 баксов. И, раз уж вы с ним "друзья", ты мне и вернешь должок!}
-{Speech 5 Answer 6}{}{Сид и тебе успел задолжать? Я здесь не причем!}
-{Speech 6}{}{Очень даже причем. Нужно отвечать за своих приятелей! Гони монеты!}
-{Speech 6 Answer Exit}{}{Обойдешься! С Сида долг тряси!}
-{Speech 6 Answer 7}{}{Да подавись, зараза. [Отдать деньги]}
-{Speech 7}{}{[Успокаивается] Вот и прекрасно. Я уж думал, будешь сопротивляться. Пришлось бы тебя прикончить.}
-{Speech 7 Answer Exit}{}{Кто кого прикончил бы еще...}
-{Speech 8}{}{А... Ну мне он тоже сотню торчит... Нет, не знаю, сам хочу найти мерзавца.}
-{Speech 8 Answer Exit}{}{Жаль. Ну, если что-то выясню, дам тебе знать. Пока.}
-{Speech 9}{}{А зачем тебе Сид? С какой целью интересуешься? [Панк хмурится].}
-{Speech 9 Answer 10}{}{Они с Нэнси пропали куда-то. Во Фриско ничего о ребятах не слышно уже пару недель. Кое-кто очень хочет узнать, что с ними случилось.}
-{Speech 10}{}{Этот кое-кто, случайно, не бармен Слим? [Лыбится]}
-{Speech 10 Answer 11}{}{Предположим, он, ну и что?}
-{Speech 10 Answer 13}{}{Нет, конечно. Это старый знакомый Сида, просто не хочет имя свое светить.}
-{Speech 10 Answer 14}{}{Нет, конечно. Это старый знакомый Сида, просто не хочет имя свое светить.}
-{Speech 11}{}{Тогда я ничего не знаю. Убирайся вон.}
-{Speech 11 Answer 12}{}{Эй, эй, я пошутил! Это не Слим!}
-{Speech 12}{}{Я ничего тебе не скажу. Проваливай.}
-{Speech 13}{}{Старый знакомый... Что за бред. Какие старые знакомые у нарков могут быть? Такие же нарки. Если он о Сиде не знает, значит и не должен знать. Катись отсюда, пока я не рассердился!}
-{Speech 13 Answer Exit}{}{Вот и поговорили, блин.}
-{Speech 14}{}{Старый знакомый... Что за бред. Какие старые знакомые у нарков могут быть? [Задумывается] С другой стороны, почему бы и нет.}
-{Speech 14 Answer 15}{}{Ну, так что мне знакомому передать?}
-{Speech 15}{}{Увы, не смогу я тебе помочь, и твоему старому знакомому. Знаю только, последний раз, как видели их, собирались они на побережье. Дилеры какие-то новые, в город не хотят заходить, хибару заняли чуть севернее Фриско.}
-{Speech 15 Answer 16}{}{Хм, интересно. Постараюсь этих дилеров найти.}
-{Speech 16}{}{Попробуй. Привет Сиду передавай, как найдешь.}
-{Speech 16 Answer Exit}{}{Обязательно.}
-{Speech 17}{}{Всем вдруг срочно потребовался Сид. Что с ним случилось?}
-{Speech 17 Answer 18}{}{Так я не перв@sex@|ый|ая| о нем спрашиваю? Кто-то его еще ищет?}
-{Speech 18}{}{Неважно. В любом случае, ничего сказать не могу. Сам давно Сида не видел. У Нэнси спроси, он ее парень.}
-{Speech 18 Answer 19}{}{Нэнси тоже пропала. Они вместе куда-то вышли из Фриско, и не вернулись. Боюсь, что-то неладно у них.}
-{Speech 19}{}{Да, подозрительно... Боюсь, ничем не смогу помочь. Попробуй на их волну выйти, может, удастся их засечь?}
-{Speech 19 Answer 20}{}{А на какой волне они сидят?}
-{Speech 20}{}{Точно не знаю. То ли 45, толи 54... А может и 48. Можно вообще весь диапазон проверить. От 45 до 55.}
-{Speech 20 Answer Exit}{}{Ладно, и на этом спасибо. Если что-то выясню, тебе сообщу.}
-{100000001}{}{Один из панков на танкере посоветовал вам попробовать выйти на радиоволну для связи с Сидом. Номер канала неизвестен, но скорее всего они используют канал от 15 до 20.}
+{Speech 4}{}{Sid? That scumbag? You're not his @sex@|buddy|girlfriend|, are you?}
+{Speech 4 Answer 5}{}{You could say that...}
+{Speech 4 Answer 8}{}{No way. He owes money to an acquaintance of mine. So I'm trying to figure out where Sid disappeared to. Don't you know where I can find him?}
+{Speech 5}{}{Aha! Good thing you dropped by. Sid owes me 100 bucks. And since you two are "friends", you'll pay back his debt for him!}
+{Speech 5 Answer 6}{}{Sid managed to owe you too? I've got nothing to do with it!}
+{Speech 6}{}{You've got plenty to do with it. You have to answer for your buddies! Hand over the coins!}
+{Speech 6 Answer Exit}{}{Forget it! Shake the debt out of Sid!}
+{Speech 6 Answer 7}{}{Choke on it, you pest. [Give money]}
+{Speech 7}{}{[Calms down] That's just fine. I thought you'd put up a fight. I'd have had to finish you off.}
+{Speech 7 Answer Exit}{}{We'll see who'd finish off who...}
+{Speech 8}{}{Ah... Well, he owes me a hundred too... No, I don't know, I want to find the bastard myself.}
+{Speech 8 Answer Exit}{}{Pity. Well, if I find anything out, I'll let you know. Bye.}
+{Speech 9}{}{And why do you need Sid? What's your purpose in asking? [The punk frowns].}
+{Speech 9 Answer 10}{}{He and Nancy disappeared somewhere. In Frisco nobody's heard anything about them for a couple of weeks now. Someone really wants to know what happened to them.}
+{Speech 10}{}{This someone, wouldn't happen to be Slim the bartender? [Grins]}
+{Speech 10 Answer 11}{}{Suppose it is, so what?}
+{Speech 10 Answer 13}{}{Of course not. It's an old acquaintance of Sid's, he just doesn't want to give away his name.}
+{Speech 10 Answer 14}{}{Of course not. It's an old acquaintance of Sid's, he just doesn't want to give away his name.}
+{Speech 11}{}{Then I don't know anything. Get out of here.}
+{Speech 11 Answer 12}{}{Hey, hey, I was joking! It's not Slim!}
+{Speech 12}{}{I won't tell you anything. Beat it.}
+{Speech 13}{}{An old acquaintance... What nonsense. What kind of old acquaintances can junkies have? Same junkies. If he doesn't know about Sid, then he shouldn't know. Get lost before I get angry!}
+{Speech 13 Answer Exit}{}{Well, that was a great talk, damn it.}
+{Speech 14}{}{An old acquaintance... What nonsense. What kind of old acquaintances can junkies have? [Ponders] Then again, why not.}
+{Speech 14 Answer 15}{}{Well, so what should I tell my acquaintance?}
+{Speech 15}{}{Alas, I can't help you, or your old acquaintance. All I know is, the last time they were seen, they were heading for the coast. Some new dealers, they don't want to come into town, took over a shack a little north of Frisco.}
+{Speech 15 Answer 16}{}{Hmm, interesting. I'll try to find these dealers.}
+{Speech 16}{}{Give it a shot. Say hi to Sid when you find him.}
+{Speech 16 Answer Exit}{}{I sure will.}
+{Speech 17}{}{Everyone suddenly urgently needs Sid. What happened to him?}
+{Speech 17 Answer 18}{}{So I'm not the first to ask about him? Someone else is looking for him too?}
+{Speech 18}{}{Doesn't matter. In any case, I can't tell you anything. I haven't seen Sid myself in a long time. Ask Nancy, he's her boyfriend.}
+{Speech 18 Answer 19}{}{Nancy disappeared too. They went out of Frisco somewhere together and didn't come back. I'm afraid something's wrong with them.}
+{Speech 19}{}{Yeah, suspicious... I'm afraid I won't be able to help. Try to reach out on their wavelength, maybe you'll manage to pick them up?}
+{Speech 19 Answer 20}{}{And what wavelength are they on?}
+{Speech 20}{}{I don't know exactly. Either 45, or 54... Maybe even 48. You could just check the whole range. From 45 to 55.}
+{Speech 20 Answer Exit}{}{Alright, thanks for that anyway. If I find anything out, I'll let you know.}
+{100000001}{}{One of the punks on the tanker advised you to try reaching out on a radio wavelength to contact Sid. The channel number is unknown, but most likely they use a channel from 15 to 20.}

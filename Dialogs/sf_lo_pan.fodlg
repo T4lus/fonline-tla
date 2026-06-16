@@ -165,51 +165,51 @@ Speech 18 # Я не ошибся. Ты - тряпка, и не стоишь мо
 {Name}{}{Lo Pan}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Что тебе нужно от меня?}
-{Speech 2 Answer 14}{}{Грязюка-зюка-зюка!@@ГРР!}
-{Speech 2 Answer 3}{}{Вы кто?}
-{Speech 2 Answer 5}{}{У вас есть какая-нибудь работа для меня?}
-{Speech 2 Answer Exit}{}{Уже ухожу.}
-{Speech 2 Answer 7}{}{Я слышал@sex@||а| что у тебя можно нанять персонального телохранителя?}
-{Speech 2 Answer 13}{}{Я выполнил твое задание. Вот деньги крестьян. Две тысячи монет.}
-{Speech 2 Answer 15}{}{Деньги жителей города собраны! Вот 2000.}
-{Speech 2 Answer 17}{}{У меня есть вопросы о той работе, что ты приказал сделать.}
-{Speech 3}{}{Я Ло Пэн. Я лучший боец в городе.}
-{Speech 3 Answer 4}{}{Я хочу вызвать вас на бой.}
-{Speech 4}{}{Пош@sex@|ел вон, кретин|ла вон, жаба|. Мне не о чем с тобой говорить.}
-{Speech 4 Answer Exit}{}{Ты боишься? Ха!}
-{Speech 5}{}{Нет, не думаю. Ты слишком "хорош@sex@|ий|ая|" и "правильн@sex@|ый|ая|". Пош@sex@|ел|ла| вон.}
-{Speech 5 Answer Exit}{}{Что за...?!}
-{Speech 5 Answer 6}{}{Так вы плохой?}
-{Speech 6}{}{Плохой? Едва ли. Просто умный. Может быть, если ты так носишься с тем, чтобы поступать "хорошо" и "правильно", тебе стоит обратиться к Дракону? Он любит таких жеманных неженок.}
-{Speech 6 Answer Exit}{}{Ладно, забыли.}
-{Speech 7}{}{Может быть, да. А может быть, и нет.}
-{Speech 7 Answer 8}{}{Сколько это стоит?}
-{Speech 8}{}{С чего ты решил@sex@||а|, что я буду с тобой разговаривать, лао вай?}
-{Speech 8 Answer 9}{}{Я проучу тебя за дрезость, Ло Пэн. Будем драться насмерть}
-{Speech 8 Answer Exit}{}{C тобой сложно разговаривать...}
-{Speech 8 Answer 10}{}{У меня есть деньги. Много денег. Ты же любишь золото?}
-{Speech 9}{}{Это большая ошибка, безмозглая шавка. Я посмеюсь, когда ты будешь умирать.}
-{Speech 10}{}{Я не имею никаких дел с теми, кому я не доверяю. Убирайся! }
-{Speech 10 Answer Exit}{}{Ты еще пожалеешь об этом, Ло Пэн.}
-{Speech 10 Answer 11}{}{Стой! Я готов@sex@||а| заслужить твое доверие! Что мне нужно сделать?}
-{Speech 11}{}{Тебе придется доказать, что ты досто@sex@|ен|йна| того, чтобы тебя охраняли мои люди. Я держу в страхе всех этих крестьян, и сегодня, как раз день, когда они должны платить мне за то, что все еще смотрят на это солнце. Ты долж@sex@|ен|на| собрать плату за мои услуги с крестьян Ши. И вернуться ко мне с деньгами. Ты долж@sex@|ен|на| принести 2000 монет.}
-{Speech 11 Answer Exit}{}{Как-то слишком хлопотно. До встречи.}
-{Speech 11 Answer 12}{}{Что я буду им говорить?}
-{Speech 12}{}{Ты скажешь, что тебя послал Ло Пэн. Что пришло время платить. Если кто-то посмеет сопротивляться, убей наглеца. Запомни, если вмешается охрана, я не причем. Если все сделаешь правильно, мы вернемся к разговору о телохранителях.}
-{Speech 12 Answer Exit}{}{Договорились. Я скоро вернусь.}
-{Speech 12 Answer Exit*}{}{Нет, это неправильно, я не собираюсь работать на тебя.}
-{Speech 13}{}{Хорошо. Ты досто@sex@|ин|на| доверия. Мы сможем сотрудничать. Если тебе нужен наемник, поговори с ним. А меня оставь в покое.}
-{Speech 13 Answer Exit}{}{Увидимся, Ло Пэн.}
-{Speech 14}{}{Ой, смотрите, идиот. Я не собираюсь с тобой разговаривать. Проваливай.}
-{Speech 14 Answer Exit}{}{Щасс-с...}
-{Speech 15}{}{Что ты сказал@sex@||а|? Повтори!}
-{Speech 15 Answer 16}{}{Деньги жителей города собраны! Вот 2000.}
-{Speech 15 Answer Exit}{}{Моя ошибка... Я вернусь.}
-{Speech 16}{}{[Смеется во весь голос] Ты думаешь, что я слеп? У меня на улицах - тысячи глаз и ушей. Я в курсе всего, что происходит в городе. И я знаю, что ты меня хочешь обмануть. Не знаю, откуда у тебя эти деньги, это не важно. Лжецы получают по заслугам!}
-{Speech 16 Answer Exit}{}{Одну минуту! Я все объясню!}
-{Speech 17}{}{Что за вопросы?}
-{Speech 17 Answer Exit}{}{Лучше я задам их в следующий раз.}
-{Speech 17 Answer 18}{}{Тебе не кажется, что это слишком жестоко, отбирать последнее у этих несчастных?}
-{Speech 18}{}{Я не ошибся. Ты - тряпка, и не стоишь моего времени. Убирайся вон, немедленно! Иначе, тобой займутся мои люди.}
-{Speech 18 Answer Exit}{}{Ты меня не правильно понял...}
+{Speech 2}{}{What do you want from me?}
+{Speech 2 Answer 14}{}{Mud-mud-mud!@@GRR!}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 5}{}{Do you have any work for me?}
+{Speech 2 Answer Exit}{}{I'm leaving now.}
+{Speech 2 Answer 7}{}{I've heard@sex@||| that I can hire a personal bodyguard from you?}
+{Speech 2 Answer 13}{}{I've completed your task. Here's the peasants' money. Two thousand caps.}
+{Speech 2 Answer 15}{}{The townsfolk's money has been collected! Here's 2000.}
+{Speech 2 Answer 17}{}{I have questions about that job you ordered me to do.}
+{Speech 3}{}{I am Lo Pan. I am the best fighter in town.}
+{Speech 3 Answer 4}{}{I want to challenge you to a fight.}
+{Speech 4}{}{Get @sex@|lost, you cretin|out, you toad|. I have nothing to talk about with you.}
+{Speech 4 Answer Exit}{}{Are you scared? Ha!}
+{Speech 5}{}{No, I don't think so. You're too "good@sex@|||" and "righteous@sex@|||". Get lost.}
+{Speech 5 Answer Exit}{}{What the...?!}
+{Speech 5 Answer 6}{}{So you're the bad guy?}
+{Speech 6}{}{Bad? Hardly. Just smart. Maybe, if you're so obsessed with doing things "good" and "right", you should turn to the Dragon? He loves prissy little softies like that.}
+{Speech 6 Answer Exit}{}{Fine, forget it.}
+{Speech 7}{}{Maybe yes. And maybe no.}
+{Speech 7 Answer 8}{}{How much does it cost?}
+{Speech 8}{}{What made you @sex@|think||| that I would even talk to you, lao wai?}
+{Speech 8 Answer 9}{}{I'll teach you a lesson for your insolence, Lo Pan. We'll fight to the death.}
+{Speech 8 Answer Exit}{}{You're hard to talk to...}
+{Speech 8 Answer 10}{}{I have money. Lots of money. You love gold, don't you?}
+{Speech 9}{}{That's a big mistake, you brainless mutt. I'll laugh while you're dying.}
+{Speech 10}{}{I have no dealings with those I don't trust. Get out! }
+{Speech 10 Answer Exit}{}{You'll regret this, Lo Pan.}
+{Speech 10 Answer 11}{}{Wait! I'm @sex@|ready||| to earn your trust! What do I need to do?}
+{Speech 11}{}{You'll have to prove that you're @sex@|worthy||| of being guarded by my men. I keep all these peasants in fear, and today is the very day they must pay me for still being allowed to look at this sun. You @sex@|must||| collect the fee for my services from the Shi peasants. And return to me with the money. You @sex@|must||| bring 2000 caps.}
+{Speech 11 Answer Exit}{}{This is too much trouble. See you around.}
+{Speech 11 Answer 12}{}{What do I tell them?}
+{Speech 12}{}{You'll tell them Lo Pan sent you. That it's time to pay. If anyone dares to resist, kill the insolent fool. Remember, if the guards get involved, I have nothing to do with it. If you do everything right, we'll return to the matter of bodyguards.}
+{Speech 12 Answer Exit}{}{Agreed. I'll be back soon.}
+{Speech 12 Answer Exit*}{}{No, this is wrong, I'm not going to work for you.}
+{Speech 13}{}{Good. You're @sex@|worthy||| of trust. We can cooperate. If you need a mercenary, talk to him. And leave me alone.}
+{Speech 13 Answer Exit}{}{See you, Lo Pan.}
+{Speech 14}{}{Oh, look, an idiot. I'm not going to talk to you. Get lost.}
+{Speech 14 Answer Exit}{}{Yeah, right...}
+{Speech 15}{}{What did you @sex@|say|||? Say it again!}
+{Speech 15 Answer 16}{}{The townsfolk's money has been collected! Here's 2000.}
+{Speech 15 Answer Exit}{}{My mistake... I'll be back.}
+{Speech 16}{}{[Laughs at the top of his voice] You think I'm blind? I have thousands of eyes and ears on the streets. I know everything that happens in town. And I know you want to cheat me. I don't know where you got this money, it doesn't matter. Liars get what they deserve!}
+{Speech 16 Answer Exit}{}{One minute! I'll explain everything!}
+{Speech 17}{}{What questions?}
+{Speech 17 Answer Exit}{}{I'd better ask them next time.}
+{Speech 17 Answer 18}{}{Don't you think it's too cruel, taking the last they have from these poor wretches?}
+{Speech 18}{}{I was not mistaken. You're a rag, and not worth my time. Get out, now! Otherwise, my men will deal with you.}
+{Speech 18 Answer Exit}{}{You misunderstood me...}

@@ -125,42 +125,42 @@ Speech 13 # Хорошо, согласен.
 [Text engl]
 {Name}{}{Wey}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{игрок не сделал квест. Наемник не нанят никем.}
-{Speech 1 Answer 5}{}{Служит другому игроку}
-{Speech 1 Answer 3}{}{Не работает, Игрок сделал квест}
-{Speech 1 Answer 4}{}{Игрок служит этому игроку}
-{Speech 2}{}{Ты чё тут трешься, а? А ну отвали, не зли меня.}
-{Speech 2 Answer Exit}{}{[Уйти]}
-{Speech 3}{}{Ну? У тебя дело какое-то, или просто поздороваться хотел?}
-{Speech 3 Answer Exit}{}{Моя ошибка, мне пора.}
-{Speech 3 Answer 13}{}{Ты хочешь поработать на меня? Сколько стоят твои услуги?}
-{Speech 3 Answer 7}{}{Каким оружием владеешь?}
-{Speech 4}{}{Ну, это. Пока нормально всё. Что дальше делаем?}
-{Speech 4 Answer 7}{}{Каким оружием владеешь?}
-{Speech 4 Answer Exit}{}{Все как обычно. Поговорим позже.}
-{Speech 4 Answer 8}{}{Прикрывай меня, если кто-то рыпнется, ок?}
-{Speech 4 Answer 9}{}{Не вмешивайся пока, если начнутся серьезные разборки, ладно?}
-{Speech 4 Answer 10}{}{Вот интересно, сработаемся? Ты что вообще думаешь о работе на меня?}
-{Speech 4 Answer 12}{}{Давай я тебе патронов подброшу, что скажешь?}
-{Speech 5}{}{Так, ну это, я тут на работе, вон того парня охраняю. Так что отвали.}
-{Speech 5 Answer Exit}{}{Ясно. Жаль.}
-{Speech 6}{}{Ну, 5000 прошу, да. Ну, чисто для тебя только. Обычно больше беру.}
-{Speech 6 Answer Exit}{}{Слишком дорого.}
-{Speech 6 Answer 7}{}{Каким оружием владеешь?}
-{Speech 6 Answer Exit*}{}{Меня это устраивает. Вот деньги. [Нанять Брюса телохранителем]}
-{Speech 7}{}{Ну, рукопашным, ну ещё ножи любые, биты там, кувалды. С пекаля стреляю.}
-{Speech 7 Answer Exit}{}{У меня еще есть вопросы...}
-{Speech 8}{}{Хэ, ну ясно, я ж телохранитель типа.}
-{Speech 8 Answer Exit}{}{Вот и прекрасно!}
-{Speech 9}{}{Да? Ну это, как скажешь.}
-{Speech 9 Answer Exit}{}{Угу, договорились.}
-{Speech 10}{}{Ну, а че, неплохо. И при деле, и деньги, опять же…}
-{Speech 10 Answer Exit}{}{Ну можно и так сказать.}
-{Speech 10 Answer 11}{}{А о себе что можешь рассказать?}
-{Speech 11}{}{Да чё особо рассказывать. Отца не помню. Вырос считай на улице. Стал постарше, вступил в банду. Там и драться научился. Потом один тип посоветовал телохранитем работать… Ну и вот я с тобой.}
-{Speech 11 Answer Exit}{}{Я так и думал@sex@||а|.}
-{Speech 12}{}{А, да. Можно, давай меняться.}
-{Speech 12 Answer Barter}{}{[Бартер]}
-{Speech 12 Answer Exit}{}{Продолжим позже.}
-{Speech 13}{}{Хэ, работать? Ну можно вообще, да. Меня конечно тут пригласили уже тренером по кунг фу работать, но могу и тебя охранять, пока там школу строят.}
-{Speech 13 Answer 6}{}{Сколько стоят твои услуги?}
+{Speech 1 Answer 2}{}{the player hasn't done the quest. The merc is not hired by anyone.}
+{Speech 1 Answer 5}{}{Serves another player}
+{Speech 1 Answer 3}{}{Not working, the player has done the quest}
+{Speech 1 Answer 4}{}{The player serves this player}
+{Speech 2}{}{What are you hanging around here for, huh? Get lost, don't make me angry.}
+{Speech 2 Answer Exit}{}{[Leave]}
+{Speech 3}{}{Well? You got some business, or did you just want to say hello?}
+{Speech 3 Answer Exit}{}{My mistake, I gotta go.}
+{Speech 3 Answer 13}{}{You want to work for me? How much do your services cost?}
+{Speech 3 Answer 7}{}{What weapons do you use?}
+{Speech 4}{}{Well, so. Everything's fine for now. What do we do next?}
+{Speech 4 Answer 7}{}{What weapons do you use?}
+{Speech 4 Answer Exit}{}{Same as always. We'll talk later.}
+{Speech 4 Answer 8}{}{Cover me if somebody makes a move, okay?}
+{Speech 4 Answer 9}{}{Don't get involved for now if things turn into a serious brawl, alright?}
+{Speech 4 Answer 10}{}{So I'm curious, will we get along? What do you think about working for me anyway?}
+{Speech 4 Answer 12}{}{Let me toss you some ammo, what do you say?}
+{Speech 5}{}{So, well, I'm working here, guarding that guy over there. So get lost.}
+{Speech 5 Answer Exit}{}{Got it. Too bad.}
+{Speech 6}{}{Well, I'm asking 5000, yeah. Just for you, only. Usually I take more.}
+{Speech 6 Answer Exit}{}{Too expensive.}
+{Speech 6 Answer 7}{}{What weapons do you use?}
+{Speech 6 Answer Exit*}{}{That suits me. Here's the money. [Hire Bruce as a bodyguard]}
+{Speech 7}{}{Well, hand-to-hand, and also any knives, bats there, sledgehammers. I shoot with a pistol.}
+{Speech 7 Answer Exit}{}{I still have some questions...}
+{Speech 8}{}{Heh, well that's clear, I'm a bodyguard, like.}
+{Speech 8 Answer Exit}{}{That's just fine!}
+{Speech 9}{}{Yeah? Well, whatever you say.}
+{Speech 9 Answer Exit}{}{Yep, it's a deal.}
+{Speech 10}{}{Well, what of it, not bad. Both occupied and getting paid, again…}
+{Speech 10 Answer Exit}{}{Well, you could put it that way.}
+{Speech 10 Answer 11}{}{And what can you tell me about yourself?}
+{Speech 11}{}{Not much to tell, really. Don't remember my father. Grew up on the street, you could say. Got older, joined a gang. That's where I learned to fight. Then some guy advised me to work as a bodyguard… And so here I am with you.}
+{Speech 11 Answer Exit}{}{That's just what I thought@sex@||.}
+{Speech 12}{}{Ah, yeah. Sure, let's trade.}
+{Speech 12 Answer Barter}{}{[Barter]}
+{Speech 12 Answer Exit}{}{Let's continue later.}
+{Speech 13}{}{Heh, work? Well, sure, why not. They've already invited me here to work as a kung fu trainer, but I can guard you too while they build that school.}
+{Speech 13 Answer 6}{}{How much do your services cost?}

@@ -101,41 +101,41 @@ Speech 11 # Дракон не может вечно летать в небеса
 
 [Text engl]
 {Name}{}{Master Khung}
-{DescAliveShort}{}{Какой-то китаец.}
-{DescAliveShort}{}{Это не просто китаец. Это Мастер Хунг.}
-{DescAliveShort}{}{Воинственного вида китаец.}
-{DescAliveShort}{}{Мастер Хунг нахмурился.}
-{DescAliveFull}{}{Телохранитель ходит кругами и напевает китайскую песенку: "@#% [символы данной кодировки отсутствуют].}
-{DescAliveFull}{}{Мастер Хунг показывает свою татуировку "дракон пожирающий солнце". Видимо, при её нанесении использованы радиоактивные краски, солнце действительно то светится, то исчезает.}
-{DescAliveFull}{}{Мастер Хунг рассержен. Пинает песок, ругается и делает неприличные китайские жесты.}
-{DescAliveFull}{}{Очень необычный телохранитель.}
+{DescAliveShort}{}{Some Chinese guy.}
+{DescAliveShort}{}{This isn't just some Chinese guy. This is Master Khung.}
+{DescAliveShort}{}{A warlike-looking Chinese man.}
+{DescAliveShort}{}{Master Khung frowned.}
+{DescAliveFull}{}{The bodyguard paces in circles and hums a Chinese song: "@#% [characters of this encoding are missing].}
+{DescAliveFull}{}{Master Khung shows off his tattoo, "the dragon devouring the sun". Apparently radioactive inks were used when it was applied, the sun really does flicker on and off.}
+{DescAliveFull}{}{Master Khung is angry. He kicks the sand, curses, and makes obscene Chinese gestures.}
+{DescAliveFull}{}{A very unusual bodyguard.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 3}{}{Кунг служит другому игроку}
-{Speech 1 Answer 4}{}{Кунг служит этому игроку}
-{Speech 1 Answer 5}{}{Квест сделан. Кунг никому не служит.}
-{Speech 2}{}{Ты похож на большую тростниковую жабу: противен лицом и смердив духом, а главное - мне не  \nинтересен!@@Ты назойлив как глупая стрекоза. Лети отсюда и не тревожь воинов.@@Моя не хочет иметь дел с тобой, негоже дракону тратить своё время на жаб.@@Уйди, у меня чайная церемония.}
-{Speech 2 Answer Exit}{}{Уже ухожу.}
-{Speech 3}{}{Я размышляю о вечном.. Если хочешь говорить, говори с @arg mastername@.@@Ещё одна тростниковая жаба!}
-{Speech 3 Answer Exit}{}{Мда.@@Ладно, прощай.}
-{Speech 4}{}{Я готов говорить с тобой, ведь ты мне платишь деньги.}
-{Speech 4 Answer Exit}{}{В другой раз.@@Не сейчас.@@Будь настороже. Поговорим позже.}
-{Speech 4 Answer 7}{}{Расскажи, каким оружием ты владеешь.}
-{Speech 4 Answer 8}{}{Если меня обидят, убей обидчика!}
-{Speech 4 Answer 9}{}{Не вмешивайся, если меня атакуют.@@Держись в стороне, в бой не вступай.}
-{Speech 4 Answer 10}{}{Сколько ты еще будешь работать на меня?}
-{Speech 5}{}{Не думай, что мы поладим. Того, что ты сделал для Мастера мало, чтобы покорить дракона!}
-{Speech 5 Answer 6}{}{Сколько стоят твои услуги?}
-{Speech 6}{}{Мои Услуги бесценны.. но для тебя моя сделать скидку!@@Разве возможно оценить великое мастерство мудрого война? Через полгода я собираюсь покинуть это место и отправиться в забытый храм огненных драконов, на дорогу мне не хватает 5000 монет.@@За 5000 монет гордый дракон поможет полгода влачить арбу твоей опасной жизни.@@Деньги помогут слабому одеть ошейник на сильного. Я готов служить тебе полгода за 5000 монет. Деньги давать вперёд!}
-{Speech 6 Answer Exit}{}{Не сейчас.@@Когда я найду нужную сумму, то вернусь.}
-{Speech 6 Answer 11}{}{У меня найдется нужная сумма, да.@@Отлично, я тебе плачу - ты на меня работаешь. [Отдать 5000 монет]}
-{Speech 7}{}{Моё тело - моё оружие. Я могу голыми руками оторвать хвост мутировавшему скорпиону. А также я могу убивать врагов лучами своего гнева [похлопывает рукой по прикладу лазерной винтовки].@@Всё что находится на расстоянии вытянутой руки - рискует умереть от моего кулака. Всё что находится дальше - будет испепелено моим гневом [похлопывает рукой по прикладу лазерной винтовки].@@Я могу сражаться любой частью своего тела, но стрелять могу только из лазерной винтовки.}
-{Speech 7 Answer Exit}{}{Отлично.}
-{Speech 8}{}{Я буду выплёскивать свой гнев на всех кто осмелится тебя тронуть.@@Мой глаз разгадает врагов, а моя рука их покарает.@@Кто наступит на хвост змеи - познает укус её зубов.}
-{Speech 8 Answer Exit}{}{Верно.@@Именно так.}
-{Speech 9}{}{Хорошо, я буду стоять в стороне и делать вид что совсем тебя не знаю.@@Этот приём мы называем "старая черепаха забывшая путь".@@Хорошо, я дам тебе шанс доказать что ты тоже воин. Попробуй справиться без меня.}
-{Speech 9 Answer Exit}{}{Да. Годится.}
-{Speech 10}{}{Всему есть начало и конец. Начало уже было, значит моя работа скоро закончится.@@Если ты не разозлишь меня то ещё @arg days@ дней.@@Если никто из нас не умрёт раньше времени, то @arg days@ дней.   }
-{Speech 10 Answer Exit}{}{Надеюсь, и дальше все будет так же хорошо, как сейчас.@@Возможно, ты передумаешь, и мы продлим контракт.}
-{Speech 11}{}{Дракон не может вечно летать в небесах, иногда ему надо и в болоте поваляться.@@Мы оба приобрели что-то. Тебе от меня достался опыт а мне от тебя - монеты.}
-{Speech 11 Answer Exit}{}{Чего?@@О чем ты?}
+{Speech 1 Answer 3}{}{Khung serves another player}
+{Speech 1 Answer 4}{}{Khung serves this player}
+{Speech 1 Answer 5}{}{Quest done. Khung serves no one.}
+{Speech 2}{}{You look like a big cane toad: foul of face and reeking of spirit, and most of all - you do not  \ninterest me!@@You are as annoying as a foolish dragonfly. Fly away from here and do not trouble the warriors.@@Me no want to deal with you, it is not fitting for a dragon to waste his time on toads.@@Go away, I am having a tea ceremony.}
+{Speech 2 Answer Exit}{}{Already leaving.}
+{Speech 3}{}{I am pondering the eternal.. If you wish to speak, speak with @arg mastername@.@@Another cane toad!}
+{Speech 3 Answer Exit}{}{Hmm.@@Fine, farewell.}
+{Speech 4}{}{I am ready to speak with you, for you pay me money.}
+{Speech 4 Answer Exit}{}{Another time.@@Not now.@@Stay alert. We'll talk later.}
+{Speech 4 Answer 7}{}{Tell me what weapons you know how to use.}
+{Speech 4 Answer 8}{}{If anyone wrongs me, kill the offender!}
+{Speech 4 Answer 9}{}{Do not get involved if I am attacked.@@Keep your distance, do not enter the fight.}
+{Speech 4 Answer 10}{}{How much longer will you work for me?}
+{Speech 5}{}{Do not think we will get along. What you did for the Master is too little to tame the dragon!}
+{Speech 5 Answer 6}{}{How much do your services cost?}
+{Speech 6}{}{My Services are priceless.. but for you my make a discount!@@Is it even possible to measure the great mastery of a wise warrior? In half a year I intend to leave this place and journey to the forgotten temple of the fire dragons, and I am 5000 coins short for the road.@@For 5000 coins the proud dragon will help drag the cart of your dangerous life for half a year.@@Money helps the weak put a collar on the strong. I am ready to serve you for half a year for 5000 coins. Money up front!}
+{Speech 6 Answer Exit}{}{Not now.@@When I find the sum I need, I will return.}
+{Speech 6 Answer 11}{}{I will have the sum I need, yes.@@Excellent, I pay you - you work for me. [Give 5000 coins]}
+{Speech 7}{}{My body is my weapon. I can tear the tail off a mutated scorpion with my bare hands. And I can also slay enemies with the rays of my wrath [pats his hand on the stock of a laser rifle].@@Everything within arm's reach - risks dying from my fist. Everything beyond that - will be incinerated by my wrath [pats his hand on the stock of a laser rifle].@@I can fight with any part of my body, but I can only shoot with a laser rifle.}
+{Speech 7 Answer Exit}{}{Excellent.}
+{Speech 8}{}{I will pour out my wrath on all who dare to touch you.@@My eye will see through enemies, and my hand will punish them.@@He who steps on a snake's tail - will know the bite of its fangs.}
+{Speech 8 Answer Exit}{}{Right.@@Exactly so.}
+{Speech 9}{}{Very well, I will stand aside and pretend I do not know you at all.@@We call this technique "the old turtle that forgot the way".@@Very well, I will give you a chance to prove that you too are a warrior. Try to manage without me.}
+{Speech 9 Answer Exit}{}{Yes. That'll do.}
+{Speech 10}{}{Everything has a beginning and an end. The beginning has already been, so my work will soon be over.@@If you do not anger me, then @arg days@ more days.@@If neither of us dies before our time, then @arg days@ days.   }
+{Speech 10 Answer Exit}{}{I hope things will keep going as well as they do now.@@Perhaps you will change your mind, and we will extend the contract.}
+{Speech 11}{}{A dragon cannot fly in the heavens forever, sometimes it must wallow in the swamp too.@@We both gained something. You got experience from me, and I got coins from you.}
+{Speech 11 Answer Exit}{}{What?@@What are you talking about?}

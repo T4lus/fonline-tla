@@ -97,27 +97,27 @@ Speech 11 # Нет, не слышала. Ты если хочешь с ними 
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 3}{}{Ууугы!}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Клянусь мы могли бы привести это место в порядок.@@Посмотрите на всех этих новых панков. Шуты.}
-{Speech 2 Answer Barter}{}{Желаете обменятся вещами?}
-{Speech 2 Answer Exit}{}{Я убью тебя, грязная шлюха! [Атаковать]}
-{Speech 2 Answer Exit*}{}{Мне пора.}
-{Speech 2 Answer 4}{}{Ты знакома с Нэнси?@@Ты знаешь что-нибудь о Нэнси?@@Знаешь такую девчонку, Нэнси?}
-{Speech 2 Answer 6}{}{Ты знакома с Нэнси?@@Ты знаешь что-нибудь о Нэнси?@@Знаешь такую девчонку, Нэнси?}
-{Speech 2 Answer 9}{}{Ты знакома с Нэнси?@@Ты знаешь что-нибудь о Нэнси?@@Знаешь такую девчонку, Нэнси?}
+{Speech 2}{}{I swear we could put this place in order.@@Look at all these new punks. Clowns.}
+{Speech 2 Answer Barter}{}{Care to trade some things?}
+{Speech 2 Answer Exit}{}{I'll kill you, you dirty whore! [Attack]}
+{Speech 2 Answer Exit*}{}{I have to go.}
+{Speech 2 Answer 4}{}{Do you know Nancy?@@Do you know anything about Nancy?@@Know a girl named Nancy?}
+{Speech 2 Answer 6}{}{Do you know Nancy?@@Do you know anything about Nancy?@@Know a girl named Nancy?}
+{Speech 2 Answer 9}{}{Do you know Nancy?@@Do you know anything about Nancy?@@Know a girl named Nancy?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4}{}{Нэнси? А ты кто так@sex@|ой|ая|, чтобы я с тобой разговаривала?}
-{Speech 4 Answer 5}{}{А тебе что, ответить жалко? @sex@|Дружок|Подруга| я ей}
-{Speech 5}{}{Никогда не слышала, чтобы Нэнси говорила о тебе. Проваливай! Все Сиду расскажу! Он тебе навешает!}
-{Speech 5 Answer 6}{}{Не кипятись.@@Да ладно тебе...@@И что вы все такие дерганые...}
-{Speech 6}{}{Ну, кто же не знает милашку Нэнси. А что с ней? Сторчалась? [Хихикает]}
-{Speech 6 Answer 7}{}{Да вот и мне интересно, что с ней случилось. Вторую неделю никто ее не видел... Хочу найти девчонку.}
-{Speech 7}{}{Вряд ли я тебе помогу. Я с ней и не дружу особо. Слишком они с Сидом отчаянные. От таких лучше подальше держаться.}
-{Speech 7 Answer 8}{}{Понятно. Ну ладно, извини за беспокойство.}
-{Speech 8}{}{Да ничего страшного. Ты меня не напрягаешь. Пока не напрягаешь... [Многозначительно смотрит вам в глаза]}
-{Speech 8 Answer Exit}{}{И не собираюсь, счастливо.}
-{Speech 9}{}{Нэнси? Ее давно не видно. Может быть, Сид в курсе, где она? Спроси у Сида - это ее парень.}
-{Speech 9 Answer 10}{}{Сид тоже пропал. Мне нужно найти их, возможно, они в беде.}
-{Speech 10}{}{Очень может быть. Эти нарки всегда на грани ходят. Что угодно могло с ними произойти.}
-{Speech 10 Answer 11}{}{Так ты не слышала ничего о них последнее время?}
-{Speech 11}{}{Нет, не слышала. }
-{Speech 11 Answer Exit}{}{Ладно, спрошу у кого-нибудь еще.}
+{Speech 4}{}{Nancy? And who are you to talk to me?}
+{Speech 4 Answer 5}{}{Come on, would it hurt you to answer? @sex@|Pal|Honey| I'm a friend of hers}
+{Speech 5}{}{I've never heard Nancy talk about you. Get lost! I'll tell Sid everything! He'll beat you up!}
+{Speech 5 Answer 6}{}{Don't get worked up.@@Come on, take it easy...@@Why are you all so jumpy...}
+{Speech 6}{}{Well, who doesn't know cute little Nancy. What about her? Did she OD? [Giggles]}
+{Speech 6 Answer 7}{}{Yeah, I'm wondering myself what happened to her. No one's seen her for two weeks now... I want to find the girl.}
+{Speech 7}{}{I doubt I can help you. I'm not really friends with her. She and Sid are too reckless. Better to keep your distance from such people.}
+{Speech 7 Answer 8}{}{I see. Well, all right, sorry for bothering you.}
+{Speech 8}{}{No problem at all. You're not bothering me. Not yet, anyway... [Looks meaningfully into your eyes]}
+{Speech 8 Answer Exit}{}{And I don't intend to, take care.}
+{Speech 9}{}{Nancy? She hasn't been seen for a while. Maybe Sid knows where she is? Ask Sid - he's her boyfriend.}
+{Speech 9 Answer 10}{}{Sid is gone too. I need to find them, maybe they're in trouble.}
+{Speech 10}{}{Very likely. These junkies always walk on the edge. Anything could have happened to them.}
+{Speech 10 Answer 11}{}{So you haven't heard anything about them lately?}
+{Speech 11}{}{No, I haven't. }
+{Speech 11 Answer Exit}{}{All right, I'll ask someone else.}

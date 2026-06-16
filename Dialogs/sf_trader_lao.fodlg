@@ -84,7 +84,7 @@ Speech 8 # Чем могу быть полезен?
 {DescAliveFull}{}{You see Lao Chou a trader.}
 {DescAliveFull}{}{You see a human in a comfortable, spacious clothes.}
 {Speech 1}{}{}
-{Speech 1 Answer 8}{}{Ууугы!}
+{Speech 1 Answer 8}{}{Ugh!}
 {Speech 1 Answer 2}{}{}
 {Speech 1 Answer 3}{}{}
 {Speech 2}{}{}
@@ -110,5 +110,5 @@ Speech 8 # Чем могу быть полезен?
 {Speech 7 Answer 6}{}{}
 {Speech 7 Answer Exit}{}{}
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 8 Answer Barter}{}{Моя нада ба раххлооо!}
-{Speech 8 Answer Exit}{}{Ууугы!}
+{Speech 8 Answer Barter}{}{Me wanna ba rahhlooo!}
+{Speech 8 Answer Exit}{}{Ugh!}

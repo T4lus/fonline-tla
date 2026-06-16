@@ -34,9 +34,9 @@ Speech 4 # Не сейчас. И не ко мне.
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Добро пожаловать в Фриско. Это бункер Братства Стали.}
-{Speech 2 Answer 3}{}{Что происходит в Сан-Франциско? Я слышал@sex@||а| разговоры о каких-то нападениях...}
-{Speech 2 Answer Exit}{}{Ага, я так и думал@sex@||а|.}
-{Speech 3}{}{На Доки прут полчища этих здоровенных крабов. Болотники никого не щадят. Загляни к нашим паладинам на Пристани, им нужна помощь.}
-{Speech 3 Answer 4}{}{А подробнее можно, что это за болотники?}
-{Speech 4}{}{Не сейчас. И не ко мне. }
+{Speech 2}{}{Welcome to Frisco. This is the Brotherhood of Steel bunker.}
+{Speech 2 Answer 3}{}{What's happening in San Francisco? I've heard@sex@||| talk of some kind of attacks...}
+{Speech 2 Answer Exit}{}{Yeah, that's what I thought.}
+{Speech 3}{}{Hordes of these huge crabs are swarming the Docks. The swamp creatures spare no one. Stop by our paladins at the Pier, they need help.}
+{Speech 3 Answer 4}{}{Can you tell me more, what are these swamp creatures?}
+{Speech 4}{}{Not now. And not to me. }

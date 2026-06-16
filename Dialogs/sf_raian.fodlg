@@ -37,11 +37,11 @@ Speech 4 # А карумба! Налгас кон кьесо!
 {DescAliveFull}{}{You see Ryan, Grand Sage.}
 {DescAliveFull}{}{You see a laughing, impertinent punk.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Stupid}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{А карумба! Налгас кон кьесо!}
-{Speech 2 Answer 3}{}{Что ты несешь.}
-{Speech 3}{}{У-ху-ху!}
-{Speech 3 Answer Exit}{}{::Похоже, что он тронулся умом:: [Выход]}
-{Speech 4}{}{А карумба! Налгас кон кьесо!}
-{Speech 4 Answer Exit}{}{Ууугы!}
+{Speech 2}{}{Ah carumba! Nalgas con queso!}
+{Speech 2 Answer 3}{}{What are you blabbering about?}
+{Speech 3}{}{Hoo-hoo-hoo!}
+{Speech 3 Answer Exit}{}{::It seems he's gone out of his mind:: [Leave]}
+{Speech 4}{}{Ah carumba! Nalgas con queso!}
+{Speech 4 Answer Exit}{}{Ugh!}

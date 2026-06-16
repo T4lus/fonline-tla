@@ -50,15 +50,15 @@ Speech 5 # Кто ВЫ? И что ВЫ здесь делаете?
 {DescAliveFull}{}{You see Harry, he serves spacecrafts.}
 {DescAliveFull}{}{You see a bald guy, he concerned somewhat.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 5}{}{Ууугы!}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 4}{}{знаком}
-{Speech 2}{}{Кто ВЫ? И что ВЫ здесь делаете?}
-{Speech 2 Answer 3}{}{Я @pname@. У меня здесь дела. Ну а вы, собственно, кто?}
-{Speech 2 Answer Exit}{}{Я здесь, чтобы уничтожить вашу дурацкую секту! [Атаковать]}
-{Speech 3}{}{Я - Гарри. Я главный специалист по космическим кораблям.}
-{Speech 3 Answer Exit}{}{Мне пора. [Выход]}
-{Speech 4}{}{Я занимаюсь подготовкой корабля к долгому полету к Звезному-Отцу. Работа почти закончена.}
-{Speech 4 Answer Exit}{}{Не буду тебе мешать.}
+{Speech 1 Answer 5}{}{Stupid}
+{Speech 1 Answer 2}{}{unfamiliar}
+{Speech 1 Answer 4}{}{familiar}
+{Speech 2}{}{Who are YOU? And what are YOU doing here?}
+{Speech 2 Answer 3}{}{I'm @pname@. I have business here. And who exactly are you?}
+{Speech 2 Answer Exit}{}{I'm here to destroy your stupid cult! [Attack]}
+{Speech 3}{}{I'm Harry. I'm the chief specialist on spacecraft.}
+{Speech 3 Answer Exit}{}{I have to go. [Leave]}
+{Speech 4}{}{I'm preparing the ship for the long flight to the Star Father. The work is almost done.}
+{Speech 4 Answer Exit}{}{I won't keep you.}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 5 Answer Exit}{}{Ууугы!}
+{Speech 5 Answer Exit}{}{Ugh!}

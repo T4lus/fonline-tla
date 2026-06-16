@@ -52,17 +52,17 @@ Speech 5 # Привет, незнакомец. Вы что-то хотели?
 {DescAliveShort}{}{You see a woman with a beautiful figure.}
 {DescAliveFull}{}{You see Susie.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 5}{}{Ууугы!}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 2}{}{Привет, незнакомец. Вы что-то хотели?}
-{Speech 2 Answer 3}{}{Меня зовут @pname@. Можно задать пару вопросов?}
-{Speech 2 Answer Exit}{}{Нет. Ничего. [Выход.]}
+{Speech 1 Answer 5}{}{Stupid}
+{Speech 1 Answer 2}{}{unfamiliar}
+{Speech 1 Answer 3}{}{familiar}
+{Speech 2}{}{Hello, stranger. Did you want something?}
+{Speech 2 Answer 3}{}{My name is @pname@. Can I ask a couple of questions?}
+{Speech 2 Answer Exit}{}{No. Nothing. [Leave.]}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{Откуда вы?}
-{Speech 3 Answer Barter}{}{У вас есть что-нибудь на продажу?}
-{Speech 3 Answer Exit}{}{Умри, дура! [Атаковать]}
+{Speech 3 Answer 4}{}{Where are you from?}
+{Speech 3 Answer Barter}{}{Do you have anything for sale?}
+{Speech 3 Answer Exit}{}{Die, you fool! [Attack]}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4 Answer 3}{}{У меня еще вопросы.}
-{Speech 4 Answer Exit}{}{Потрясающе. На данный момент это все.}
+{Speech 4 Answer 3}{}{I have more questions.}
+{Speech 4 Answer Exit}{}{Amazing. That's all for now.}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}

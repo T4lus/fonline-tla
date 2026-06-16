@@ -82,31 +82,31 @@ Speech 9 # Чем могу быть полезен, мамаша?@@Чем мог
 {DescAliveFull}{}{You see Makr.}
 {DescAliveFull}{}{You see a friendly adapt punk.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 9}{}{Ууугы!}
+{Speech 1 Answer 9}{}{Dumb}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Чем могу быть полезен, мамаша?@@Чем могу полезен быть, мамаша?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer 4}{}{Что это за место?}
-{Speech 2 Answer Exit}{}{Мне пора. [Выход.]}
+{Speech 2}{}{What can I do for you, mama?@@How can I be of use, mama?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{What is this place?}
+{Speech 2 Answer Exit}{}{I have to go. [Exit.]}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{Что это за место?}
-{Speech 3 Answer 6}{}{Откуда вы все?}
-{Speech 3 Answer Exit}{}{Мне надо идти. [Выход.]}
-{Speech 4}{}{Это Морской Корабль Посейдон Валдез - также называемый МКП Валдез. Xотите узнать о нем побольше, обратитесь к Капитану.}
-{Speech 4 Answer 5}{}{Капитану? Кто это?}
-{Speech 4 Answer 3}{}{Вы капитан?}
-{Speech 5}{}{Капитан - старая армейская задница. Сидит там наверху и приглядывает за этим местом. Он очень много знает об этом корабле.}
-{Speech 5 Answer 2}{}{У меня есть еще вопросы.}
-{Speech 5 Answer Exit}{}{Мне пора. [Выход.]}
-{Speech 6}{}{О, да из всех областей. Мы слышали о Сан Франциско от стариков. У некоторых из нас до войны здесь жили предки. Xотите услышать об этом поподробнее?}
-{Speech 6 Answer 7}{}{Да.}
-{Speech 6 Answer 2}{}{Нет, но хочу спросить вас о кое-чем другом.}
-{Speech 6 Answer Exit}{}{Нет, с меня хватит. [Выход.]}
+{Speech 3 Answer 4}{}{What is this place?}
+{Speech 3 Answer 6}{}{Where are you all from?}
+{Speech 3 Answer Exit}{}{I need to go. [Exit.]}
+{Speech 4}{}{This is the Sea Ship Poseidon Valdez - also called SSP Valdez. If you want to know more about it, ask the Captain.}
+{Speech 4 Answer 5}{}{The Captain? Who is that?}
+{Speech 4 Answer 3}{}{Are you the captain?}
+{Speech 5}{}{The Captain is an old army hardass. Sits up there and keeps an eye on this place. He knows a great deal about this ship.}
+{Speech 5 Answer 2}{}{I have more questions.}
+{Speech 5 Answer Exit}{}{I have to go. [Exit.]}
+{Speech 6}{}{Oh, from all sorts of regions. We heard about San Francisco from the old folks. Some of us had ancestors who lived here before the war. Want to hear more about it?}
+{Speech 6 Answer 7}{}{Yes.}
+{Speech 6 Answer 2}{}{No, but I want to ask you about something else.}
+{Speech 6 Answer Exit}{}{No, I've had enough. [Exit.]}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 7 Answer 8}{}{Да.}
-{Speech 7 Answer 2}{}{Нет, но хочу спросить вас о кое-чем другом.}
-{Speech 7 Answer Exit}{}{Нет, с меня хватит. [Выход.]}
+{Speech 7 Answer 8}{}{Yes.}
+{Speech 7 Answer 2}{}{No, but I want to ask you about something else.}
+{Speech 7 Answer Exit}{}{No, I've had enough. [Exit.]}
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 8 Answer Exit}{}{До свидания.}
-{Speech 9}{}{Чем могу быть полезен, мамаша?@@Чем могу полезен быть, мамаша?}
-{Speech 9 Answer Exit}{}{Ууугы!}
+{Speech 8 Answer Exit}{}{Goodbye.}
+{Speech 9}{}{What can I do for you, mama?@@How can I be of use, mama?}
+{Speech 9 Answer Exit}{}{Uuugh!}

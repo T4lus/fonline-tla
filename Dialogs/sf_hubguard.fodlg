@@ -35,10 +35,10 @@ Speech 4 # Добро пожаловать, путник.@@ Приветству
 {DescAliveFull}{}{You see a Habolog guard.}
 {DescAliveFull}{}{You see a well-armed man with a cruel look.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{Тупой}
+{Speech 1 Answer 4}{}{Stupid}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Чем вы занимаетесь?}
-{Speech 3}{}{Xаб нанял нас, чтобы мы присматривали за его паствой.}
-{Speech 3 Answer Exit}{}{Понятно.}
-{Speech 4}{}{Добро пожаловать, путник.@@ Приветствую вас.}
+{Speech 2 Answer 3}{}{What do you do here?}
+{Speech 3}{}{The Hub hired us to keep an eye on his flock.}
+{Speech 3 Answer Exit}{}{I see.}
+{Speech 4}{}{Welcome, traveler.@@ Greetings to you.}

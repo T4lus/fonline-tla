@@ -111,44 +111,44 @@ Speech 12 # Чем могу помочь?
 {DescAliveFull}{}{You see Mai Da Chiang, 	owner of Red 888 Guns.}
 {DescAliveFull}{}{You see a fat Shi, it seems he didn't sleep for several days.}
 {Speech 1}{}{}
-{Speech 1 Answer 12}{}{Ууугы!}
+{Speech 1 Answer 12}{}{Stupid}
 {Speech 1 Answer 2}{}{}
-{Speech 2}{}{}
-{Speech 2 Answer 3}{}{}
-{Speech 2 Answer 6}{}{}
-{Speech 2 Answer Exit}{}{}
-{Speech 3}{}{}
-{Speech 3 Answer Barter}{}{}
-{Speech 3 Answer 4}{}{}
-{Speech 4}{}{}
-{Speech 4 Answer 5}{}{}
-{Speech 4 Answer Exit}{}{}
-{Speech 5}{}{}
-{Speech 5 Answer 3}{}{}
-{Speech 5 Answer 6}{}{}
-{Speech 5 Answer Exit}{}{}
-{Speech 6}{}{}
-{Speech 6 Answer 7}{}{}
-{Speech 6 Answer Exit}{}{}
-{Speech 7}{}{}
-{Speech 7 Answer 8}{}{}
-{Speech 7 Answer 9}{}{}
-{Speech 7 Answer 5}{}{}
-{Speech 7 Answer Exit}{}{}
-{Speech 8}{}{}
-{Speech 8 Answer 9}{}{}
-{Speech 8 Answer 5}{}{}
-{Speech 8 Answer Exit}{}{}
-{Speech 9}{}{}
-{Speech 9 Answer 10}{}{}
-{Speech 9 Answer 5}{}{}
-{Speech 9 Answer Exit}{}{}
-{Speech 10}{}{}
-{Speech 10 Answer 11}{}{}
-{Speech 10 Answer 5}{}{}
-{Speech 10 Answer Exit}{}{}
-{Speech 11}{}{}
-{Speech 11 Answer Exit}{}{}
+{Speech 2}{}{Hi there! Welcome to Red 888 Guns! I'm Mai Da Chiang, owner of this establishment. How can I help you?}
+{Speech 2 Answer 3}{}{I need a weapon.}
+{Speech 2 Answer 6}{}{Tell me about this place.}
+{Speech 2 Answer Exit}{}{Never mind.}
+{Speech 3}{}{Ahh, weapons, eh? Well, here's what we've got.}
+{Speech 3 Answer Barter}{}{-more-}
+{Speech 3 Answer 4}{}{Enough shopping.}
+{Speech 4}{}{Great, great. Thanks for your business. Come again!}
+{Speech 4 Answer 5}{}{More questions!}
+{Speech 4 Answer Exit}{}{Goodbye!}
+{Speech 5}{}{Do you need anything else?}
+{Speech 5 Answer 3}{}{I need some weapons.}
+{Speech 5 Answer 6}{}{Tell me about this place.}
+{Speech 5 Answer Exit}{}{Never mind.}
+{Speech 6}{}{We've lived here for years, but we haven't always lived here. Doctor Fung knows the whole history. I swear\n we know what you need.}
+{Speech 6 Answer 7}{}{Yeah.}
+{Speech 6 Answer Exit}{}{No, actually I'm interested in history. I'll go find Fung. Bye.}
+{Speech 7}{}{Well, actually most of us are fishermen and scientists. Our fishermen catch fish. Our scientists work on projects that, they say, will change the world.}
+{Speech 7 Answer 8}{}{How will it change the world?}
+{Speech 7 Answer 9}{}{What else is new in town?}
+{Speech 7 Answer 5}{}{Hmm. Interesting. I have a couple more questions.}
+{Speech 7 Answer Exit}{}{Thanks. Goodbye.}
+{Speech 8}{}{I don't know. They keep their secrets closely guarded.}
+{Speech 8 Answer 9}{}{I see. What else is new in town?}
+{Speech 8 Answer 5}{}{I see. I have a couple more questions for you.}
+{Speech 8 Answer Exit}{}{Thanks. Goodbye.}
+{Speech 9}{}{We have two martial arts masters in town. There's Lo Pan, who loves only himself, and the Dragon, who loves others. They say whoever wins will determine the future of martial arts.}
+{Speech 9 Answer 10}{}{I see. Anything else?}
+{Speech 9 Answer 5}{}{I see. I have a couple more questions for you.}
+{Speech 9 Answer Exit}{}{Thanks.}
+{Speech 10}{}{A gang of drifters has settled on the Poseidon Oil Tanker. Monsters used to live there, but now the drifters have driven them down to the lower decks. Even though they're scum, we're grateful to those drifters for what they did.}
+{Speech 10 Answer 11}{}{More news?}
+{Speech 10 Answer 5}{}{I see. I have a couple more questions for you.}
+{Speech 10 Answer Exit}{}{Thanks. Goodbye.}
+{Speech 11}{}{Looks like that's all the news I had. Have a nice day.}
+{Speech 11 Answer Exit}{}{Have a nice day.}
 {Speech 12}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 12 Answer Barter}{}{Ууугы!}
-{Speech 12 Answer Exit}{}{Ууугы!}
+{Speech 12 Answer Barter}{}{Me wanna baaarteeer!}
+{Speech 12 Answer Exit}{}{Ugh!}

@@ -33,9 +33,9 @@ Speech 3 # Мы следим за вами.@@Относитесь к нашим 
 {DescAliveFull}{}{You see a Palace Guard.}
 {DescAliveFull}{}{You see a Palace Guard with dangerous weapon.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Stupid}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer Exit}{}{Ясно. Пока.}
-{Speech 2 Answer Exit*}{}{Сейчас ты у меня попляшешь. [Атаковать.]}
+{Speech 2 Answer Exit}{}{I see. Bye.}
+{Speech 2 Answer Exit*}{}{Now I'll make you dance. [Attack]}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}

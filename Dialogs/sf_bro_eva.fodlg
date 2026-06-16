@@ -152,48 +152,48 @@ Speech 17 # Попробуйте. Но не расстраивайтесь, ес
 [Text engl]
 {Name}{}{Eva}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знакомы}
-{Speech 1 Answer 3}{}{знакомы}
-{Speech 2}{}{Привествую, меня зовут Ева. Чем могу помочь?}
-{Speech 2 Answer Exit}{}{Ургргхх!}
-{Speech 2 Answer 4}{}{Кто вы?}
-{Speech 2 Answer 6}{}{Что происходит с вашим суперкомпьютером? Почему он так странно "разговаривает"?}
-{Speech 3}{}{Рада видеть вас снова. Что привело вас в Сан-Франциско на этот раз?}
-{Speech 3 Answer Exit}{}{Ургргхх!}
-{Speech 3 Answer 6}{}{Что происходит с вашим суперкомпьютером? Почему он так странно "разговаривает"?}
-{Speech 3 Answer 11}{}{Ева, я немного пообщал@sex@|ся|ась| с вашим Мейнфреймом. Думаю, у вас больше не будет с ним проблем.}
-{Speech 3 Answer 12}{}{Ева, можете быть спокойны. С Zax'ом теперь полный порядок.}
-{Speech 3 Answer 15}{}{Ева, все в порядке, работоспособность мейнфрейма восстановлена.}
-{Speech 3 Answer 16}{}{Как ваша работа? С Zax 366 все в порядке?}
-{Speech 3 Answer 4}{}{Расскажите о своей работе, Ева?}
-{Speech 4}{}{Я - писец братства стали. Пытаюсь справиться со сложным характером нашего мейнфрейма.}
-{Speech 4 Answer 5}{}{"Мейнфрейм", что это?}
-{Speech 5}{}{Мейнфрейм Zax 366 - это суперкомпьютер Братства, вы можете увидеть его в соседней комнате.}
-{Speech 5 Answer Exit}{}{Ох, понятно.}
-{Speech 6}{}{Вы о Zax'е? С ним сложная ситуация. Искусственный интелект данной модели оказался избыточно развит. Программа самообучения, заложенная в наш мейнфрейм, постоянно эволюционирует. Недавно Zax заявил, что является личностью, поскольку где-то, в своих архивах, откопал совершенно бредовое утверждение "мыслю, следовательно существую". Ну не глупость ли?}
-{Speech 6 Answer 7}{}{Хмм. А это вообще не опасно? Не вздумает ли он вдруг захватить мир, или еще что-то в этом духе?}
-{Speech 6 Answer Exit}{}{Понятно. Я, пожалуй, пойду.}
-{Speech 7}{}{Исключено. Есть основные законы, которые любая, даже самая интелектуальная, программа не сможет нарушить. Навредить человеку Zax не способен.}
-{Speech 7 Answer 8}{}{Вы в этом уверены?}
-{Speech 8}{}{Абсолютно. Проблема в другом: мейнфрейм в последнее время все чаще размышляет о своей роли в мире, о смысле своего существования. И, боюсь, он пришел к печальным для нас выводам. Он считает, что его "жизнь" бессмысленна. Я боюсь, как бы он не стер свою память.}
-{Speech 8 Answer 9}{}{Вы же техник? Сделайте что-нибудь?}
-{Speech 9}{}{Мы пытались, но пока безрезультатно. У ZAX'а удивительный талант сбивать человека с толку и уходить от ответа. Я не могу найти подход к нему.}
-{Speech 9 Answer Exit}{}{Хех, это всего лишь компьютер. Не понимаю ваших сложностей.}
-{Speech 9 Answer 10}{}{Я попробую посмотреть, что можно сделать.}
-{Speech 10}{}{Сомневаюсь, что у вас что-то получится, но, даже за одно желание помочь, я вам очень благодарна.}
-{Speech 10 Answer Exit}{}{Разберемся...}
-{Speech 11}{}{Спасибо, я очень вам благодарна. Если смогу чем-то помочь, обращайтесь!}
-{Speech 11 Answer Exit}{}{Я запомню ваше предложение.}
-{Speech 12}{}{Да? Почему вы так думаете?}
-{Speech 12 Answer 13}{}{Диски отформатированы, бред из электронных мозгов вашего мейнфрейма удален.}
-{Speech 13}{}{Ах, вот в чем дело! Теперь я понимаю, что произошло, и почему мейнфрейм отключен. Вы уничтожили Zax'a!!!}
-{Speech 13 Answer 14}{}{Ничего я не уничтожал@sex@||а|! Он все сам!}
-{Speech 14}{}{Ума не приложу, как же теперь быть... Нужно искать специалиста, который сможет восстановить образ из резервных архивов...}
-{Speech 14 Answer Exit}{}{Эй! Я здесь не причем. Я хотел@sex@||а|, как лучше!}
-{Speech 15}{}{Это чудо! Возьмите это в качестве платы за работу. [Протягивает вам деньги]}
-{Speech 15 Answer Exit}{}{Благодарю, мне не нужны деньги. +1 к репутации Сан-Франциско.}
-{Speech 15 Answer Exit*}{}{Спасибо. Надеюсь, больше моя помощь вам не понадобится.}
-{Speech 16}{}{[Ева мрачнеет] Произошло что-то странное. Zax не функционирует. Ни одна ключевая система не запускается. Вместо операционной панели - какая-то глупая, но очень сложная игра. Мы предположили, что нужно пройти игру до конца, но никто с этим еще не справился...}
-{Speech 16 Answer 17}{}{Может быть, я попробую?}
-{Speech 17}{}{Попробуйте. Но не расстраивайтесь, если ничего не получится.}
-{Speech 17 Answer Exit}{}{Я скоро вернусь.}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 2}{}{Greetings, my name is Eva. How can I help you?}
+{Speech 2 Answer Exit}{}{Urghhh!}
+{Speech 2 Answer 4}{}{Who are you?}
+{Speech 2 Answer 6}{}{What's going on with your supercomputer? Why does it "talk" so strangely?}
+{Speech 3}{}{Glad to see you again. What brings you to San Francisco this time?}
+{Speech 3 Answer Exit}{}{Urghhh!}
+{Speech 3 Answer 6}{}{What's going on with your supercomputer? Why does it "talk" so strangely?}
+{Speech 3 Answer 11}{}{Eva, I had a little chat with your Mainframe. I think you won't have any more problems with it.}
+{Speech 3 Answer 12}{}{Eva, you can rest easy. Everything's in perfect order with Zax now.}
+{Speech 3 Answer 15}{}{Eva, everything's fine, the mainframe's functionality has been restored.}
+{Speech 3 Answer 16}{}{How's your work going? Is everything all right with Zax 366?}
+{Speech 3 Answer 4}{}{Tell me about your work, Eva?}
+{Speech 4}{}{I'm a scribe of the Brotherhood of Steel. I'm trying to cope with our mainframe's difficult character.}
+{Speech 4 Answer 5}{}{A "mainframe", what's that?}
+{Speech 5}{}{The Zax 366 mainframe is the Brotherhood's supercomputer, you can see it in the next room.}
+{Speech 5 Answer Exit}{}{Oh, I see.}
+{Speech 6}{}{You mean Zax? It's a complicated situation with him. The artificial intelligence of this model turned out to be excessively developed. The self-learning program built into our mainframe is constantly evolving. Recently Zax declared that he is a person, because somewhere in his archives he dug up the utterly absurd statement "I think, therefore I am". Isn't that nonsense?}
+{Speech 6 Answer 7}{}{Hmm. Isn't that dangerous at all? Won't he suddenly take it into his head to take over the world, or something like that?}
+{Speech 6 Answer Exit}{}{I see. I think I'll be going.}
+{Speech 7}{}{Out of the question. There are fundamental laws that no program, even the most intelligent one, can break. Zax is incapable of harming a human.}
+{Speech 7 Answer 8}{}{Are you sure of that?}
+{Speech 8}{}{Absolutely. The problem is different: lately the mainframe more and more often ponders its role in the world, the meaning of its existence. And I'm afraid he has come to conclusions that are sad for us. He thinks his "life" is meaningless. I'm afraid he might erase his own memory.}
+{Speech 8 Answer 9}{}{You're a technician, aren't you? Do something?}
+{Speech 9}{}{We tried, but so far without result. ZAX has an amazing talent for confusing a person and dodging the answer. I can't find an approach to him.}
+{Speech 9 Answer Exit}{}{Heh, it's just a computer. I don't understand your difficulties.}
+{Speech 9 Answer 10}{}{I'll try to see what can be done.}
+{Speech 10}{}{I doubt you'll manage anything, but even for the mere wish to help, I'm very grateful to you.}
+{Speech 10 Answer Exit}{}{We'll figure it out...}
+{Speech 11}{}{Thank you, I'm very grateful to you. If I can help with anything, just ask!}
+{Speech 11 Answer Exit}{}{I'll remember your offer.}
+{Speech 12}{}{Yes? Why do you think so?}
+{Speech 12 Answer 13}{}{The disks are formatted, the nonsense has been wiped from your mainframe's electronic brains.}
+{Speech 13}{}{Ah, so that's what it is! Now I understand what happened, and why the mainframe is shut down. You destroyed Zax!!!}
+{Speech 13 Answer 14}{}{I didn't destroy anything@sex@||a|! He did it all himself!}
+{Speech 14}{}{I have no idea what to do now... I need to find a specialist who can restore the image from the backup archives...}
+{Speech 14 Answer Exit}{}{Hey! I've got nothing to do with it. I meant@sex@||a| well!}
+{Speech 15}{}{It's a miracle! Take this as payment for the work. [Holds out money to you]}
+{Speech 15 Answer Exit}{}{Thank you, I don't need money. +1 to San Francisco reputation.}
+{Speech 15 Answer Exit*}{}{Thanks. I hope you won't need my help anymore.}
+{Speech 16}{}{[Eva grows gloomy] Something strange has happened. Zax isn't functioning. Not a single key system starts up. Instead of the operating panel there's some kind of silly, but very complex game. We assumed you have to finish the game to the end, but no one has managed it yet...}
+{Speech 16 Answer 17}{}{Maybe I'll give it a try?}
+{Speech 17}{}{Give it a try. But don't be upset if nothing comes of it.}
+{Speech 17 Answer Exit}{}{I'll be back soon.}

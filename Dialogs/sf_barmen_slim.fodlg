@@ -196,7 +196,7 @@ Speech 17 # Самоубийство... Никогда бы не подумал,
 {DescAliveFull}{}{You see Slim, barman.}
 {DescAliveFull}{}{You see a barmen. He wear an apron, he holds a glass and all the washing and washing it, and the case spitting it and wiping with dry cloth. He had a look, as if he spit at all.}
 {Speech 1}{}{}
-{Speech 1 Answer 6}{}{Ууугы!}
+{Speech 1 Answer 6}{}{Uuugh!}
 {Speech 1 Answer 2}{}{}
 {Speech 1 Answer 5}{}{}
 {Speech 2}{}{}
@@ -206,50 +206,50 @@ Speech 17 # Самоубийство... Никогда бы не подумал,
 {Speech 3}{}{}
 {Speech 3 Answer 4}{}{}
 {Speech 3 Answer Exit}{}{}
-{Speech 3 Answer 202}{}{Слушай, я хотел@sex@||а| спросить, ты не видел одного человека?@@Слушай, я хотел@sex@||а| узнать, ты ничего не слышал об одном человеке?@@Я ищу одного человека, ничего не слышал о нем?}
+{Speech 3 Answer 202}{}{Listen, I wanted@sex@||| to ask, have you seen a certain man?@@Listen, I wanted@sex@||| to find out, have you heard anything about a certain man?@@I'm looking for a certain man, have you heard anything about him?}
 {Speech 4}{}{}
 {Speech 4 Answer Barter}{}{}
 {Speech 4 Answer 5}{}{}
 {Speech 5}{}{}
 {Speech 5 Answer 4}{}{}
 {Speech 5 Answer Exit}{}{}
-{Speech 5 Answer 7}{}{Расскажи, как обстоят дела на вашей посудине?}
-{Speech 5 Answer 10}{}{Ты можешь предположить, где сейчас Нэнси или Сид?}
-{Speech 5 Answer 11}{}{Слим, я поймал сообщение от Нэнси с помощью своей рации.}
-{Speech 5 Answer 14}{}{Слим, Нэнси мертва... Где Сид - я не знаю.}
-{Speech 6}{}{Что будете пить?}
-{Speech 6 Answer Exit}{}{Ууугы!}
-{Speech 200}{}{Кто тебя интересует?..@@Назови имя...@@Кого ты ищешь?..}
-{Speech 200 Answer Exit}{}{Я лучше пойду.}
-{Speech 200 Answer 201}{}{Где я могу найти этого человека?}
-{Speech 201}{}{Эта информация стоит денег... за три сотни я расскажу тебе то что знаю.}
-{Speech 201 Answer Exit}{}{Я лучше пойду.}
-{Speech 201 Answer 202}{}{По рукам, вот деньги.}
-{Speech 202}{}{Так, кто тебя интересует?..@@Напомни имя...@@Кого ты ищешь?..}
-{Speech 202 Answer Exit}{}{Ну, я пойду...}
-{Speech 7}{}{О, привет. Хорошо, что спрашиваешь. Может быть, сумеешь мне помочь?}
-{Speech 7 Answer Exit}{}{Ну, уж нет, я здесь для того, чтобы поразвлечься, а не для того, чтобы поработать!}
-{Speech 7 Answer 8}{}{В чем дело, Слим? Я слушаю.}
-{Speech 8}{}{Да вот, хочу разузнать про двух ребят... Были у нас такие, Нэнси и Сид. Давно уже вместе... Хорошая пара, если, конечно, можно так говорить про людей, которые вместе закидываются.}
-{Speech 8 Answer 9}{}{Что значит "закидываются"?}
-{Speech 9}{}{На джете сидят, чего непонятного? Короче. Их уже пару недель нет. Ни слуху, ни духу. Может, найдешь? А то Сид мне деньги торчит, а Нэнси... Ну, а про Нэнси не буду ничего говорить пока...}
-{Speech 9 Answer 10}{}{Хм, ну Земля - круглая, Калифорния - не Юпитер... А где искать, хоть что-то известно?}
-{Speech 9 Answer Exit}{}{Слим, я тебя уважаю. Но связываться с твоими наркоманами не хочу, прости.}
-{Speech 10}{}{Если бы... Вообще ничего. Может у парней поспрашивать, мало ли, кто-то что-то слышал. Мне не говорят, знают, что Сид мой должник. Я тебе хорошо заплачу, если найдешь, или что-нибудь про них узнаешь.}
-{Speech 10 Answer Exit}{}{Ладно, я попробую выяснить, куда пропали Нэнси и Сид.}
-{Speech 11}{}{О! Это уже кое-что. И что она говорит? Где Нэнси, и, главное, где Сид?}
-{Speech 11 Answer 12}{}{Сложно сказать, она упоминула какую-то "палатку наркоторговцев", или что-то в этом духе.}
-{Speech 12}{}{Да, я знаю об этих новых дилерах, которые толкают наркоту за чертой города. Сам их не видел, но люди говорят, что они чуть севернее Фриско расположились.}
-{Speech 12 Answer 13}{}{Я так понимаю, они расстались, и Сид куда-то ушел...}
-{Speech 13}{}{Сид? Ушел? Куда? Ничего не понимаю. Они же неразлучны. В любом случае, этого мало. Попробуй их отыскать?}
-{Speech 13 Answer Exit}{}{Ладно, мне уже само@sex@|му|й| интересно, что же с ними произошло.}
-{Speech 14}{}{Нэнси погибла?! Что случилось?}
-{Speech 14 Answer 15}{}{Да, я опоздал@sex@||а|... Сида рядом не было, к тому же Нэнси когда я поймал@sex@||а| ее морзянку, упомянула, что "Сид ушел". Я считаю, они повздорили, и он пырнул ее ножом, а потом бросил умирать.}
-{Speech 14 Answer 16}{}{Когда я наш@sex@|ел|ла| ее тело, обнаружил@sex@||а| нескольких дилеров, тех, о которых ты говорил. Они сразу атаковали меня. Я думаю, это они убили Нэнси, и, возможно, также Сида. Но тело Сида найти не удалось.}
-{Speech 14 Answer 17}{}{Увы, @sex@|приятель|красавчик|. Когда я наш@sex@|ел|ла| эту лачугу, Нэнси уже скончалась от потери крови. Рядом ошивались несколько дилеров, пришлось с ними разобраться. Там повсюду разбросаны шприцы, пустые банки из под джета... Я думаю, она переторчалась и покончила собой. Самоубийство...}
-{Speech 15}{}{Невероятно... Кто бы мог подумать... Если я его еще, хотя бы раз, увижу, он пожалеет, что родился на свет, жалкий наркоман! Вот, возьми это в качестве платы за услуги... Очень жаль девчонку...}
-{Speech 15 Answer Exit}{}{Да, очень. }
-{Speech 16}{}{Проклятые подонки! Уверен, ты совершенно прав@sex@||а|! Это они прикончили наших панков! Ничего, я придумаю, как им отомстить. Благодарю тебя за помощь, @pname@. Пожалуйста, возьми эти деньги.}
-{Speech 16 Answer Exit}{}{Благодарю.}
-{Speech 17}{}{Самоубийство... Никогда бы не подумал, что наша девочка на это способна. Да, у них бывали проблемы, но все же... Вот до чего доводят наркотики! Возьми в качестве платы за помощь эти монеты.}
-{Speech 17 Answer Exit}{}{Спасибо, удачи тебе.}
+{Speech 5 Answer 7}{}{Tell me, how are things going on your old tub?}
+{Speech 5 Answer 10}{}{Can you guess where Nancy or Sid might be now?}
+{Speech 5 Answer 11}{}{Slim, I caught a message from Nancy with my radio.}
+{Speech 5 Answer 14}{}{Slim, Nancy is dead... Where Sid is, I don't know.}
+{Speech 6}{}{What'll you have to drink?}
+{Speech 6 Answer Exit}{}{Uuugh!}
+{Speech 200}{}{Who are you interested in?..@@Name the name...@@Who are you looking for?..}
+{Speech 200 Answer Exit}{}{I'd better be going.}
+{Speech 200 Answer 201}{}{Where can I find this man?}
+{Speech 201}{}{This information costs money... for three hundred I'll tell you what I know.}
+{Speech 201 Answer Exit}{}{I'd better be going.}
+{Speech 201 Answer 202}{}{Deal, here's the money.}
+{Speech 202}{}{So, who are you interested in?..@@Remind me of the name...@@Who are you looking for?..}
+{Speech 202 Answer Exit}{}{Well, I'll be going...}
+{Speech 7}{}{Oh, hi. Good that you're asking. Maybe you can help me out?}
+{Speech 7 Answer Exit}{}{Oh no, I'm here to have fun, not to work!}
+{Speech 7 Answer 8}{}{What's the matter, Slim? I'm listening.}
+{Speech 8}{}{Well, I want to find out about a couple of folks... We had two of 'em, Nancy and Sid. Been together a long time... A good pair, if you can say that about people who get high together.}
+{Speech 8 Answer 9}{}{What do you mean "get high"?}
+{Speech 9}{}{They're on jet, what's not to understand? Anyway. They've been gone for a couple of weeks now. Not a word, not a trace. Maybe you'll find them? Sid owes me money, and Nancy... Well, I won't say anything about Nancy for now...}
+{Speech 9 Answer 10}{}{Hmm, well the Earth is round, California isn't Jupiter... So where do I look, is anything at all known?}
+{Speech 9 Answer Exit}{}{Slim, I respect you. But I don't want to get mixed up with your junkies, sorry.}
+{Speech 10}{}{If only... Nothing at all. Maybe ask the boys around, who knows, somebody might've heard something. They won't tell me, they know Sid is my debtor. I'll pay you well if you find them, or learn something about them.}
+{Speech 10 Answer Exit}{}{Alright, I'll try to find out where Nancy and Sid disappeared to.}
+{Speech 11}{}{Oh! Now that's something. And what does she say? Where's Nancy, and most importantly, where's Sid?}
+{Speech 11 Answer 12}{}{Hard to say, she mentioned some kind of "drug dealers' tent", or something like that.}
+{Speech 12}{}{Yeah, I know about these new dealers who push dope outside the city limits. I haven't seen them myself, but people say they've set up a bit north of Frisco.}
+{Speech 12 Answer 13}{}{The way I understand it, they split up, and Sid went off somewhere...}
+{Speech 13}{}{Sid? Left? Where to? I don't get it at all. They're inseparable. In any case, that's not enough. Try to track them down?}
+{Speech 13 Answer Exit}{}{Alright, now I'm curious myself what happened to them.}
+{Speech 14}{}{Nancy is dead?! What happened?}
+{Speech 14 Answer 15}{}{Yes, I was too late@sex@|||... Sid wasn't around, and besides, when I caught@sex@||| her Morse code, Nancy mentioned that "Sid left". I think they had a fight, and he stabbed her with a knife, then left her to die.}
+{Speech 14 Answer 16}{}{When I found@sex@||| her body, I discovered@sex@||| several dealers, the ones you talked about. They attacked me right away. I think they killed Nancy, and maybe Sid too. But I couldn't find Sid's body.}
+{Speech 14 Answer 17}{}{Alas, @sex@|buddy|gorgeous|. When I found@sex@||| this shack, Nancy had already died from blood loss. A few dealers were hanging around, I had to deal with them. Syringes scattered everywhere, empty jet cans... I think she overdosed and ended her own life. Suicide...}
+{Speech 15}{}{Incredible... Who would've thought... If I ever see him even once more, he'll regret he was ever born, the miserable junkie! Here, take this as payment for your services... Such a shame about the girl...}
+{Speech 15 Answer Exit}{}{Yes, very. }
+{Speech 16}{}{Damned scum! I'm sure you're absolutely right@sex@|||! They're the ones who finished off our punks! Never mind, I'll think of a way to get revenge on them. Thank you for your help, @pname@. Please, take this money.}
+{Speech 16 Answer Exit}{}{My thanks.}
+{Speech 17}{}{Suicide... I'd never have thought our girl was capable of that. Yeah, they had their problems, but still... See where drugs lead! Take these coins as payment for your help.}
+{Speech 17 Answer Exit}{}{Thanks, good luck to you.}

@@ -38,9 +38,9 @@ Speech 3 # [Техник открыл вам доступ к разделам с
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 3}{}{[Выход]}
-{Speech 2}{}{[Перед вами один из компьютеров Ши. Вы не имеете представления, каким образом можно получить доступ к документам]}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 3}{}{[Техник открыл вам доступ к разделам с довоенными программами по пластической хирургии]}
-{Speech 3 Answer Exit}{}{[Скачать всю информацию на голодиск]}
-{Speech 3 Answer Exit*}{}{[Выход]}
+{Speech 1 Answer 3}{}{Quest "mirror, mirror"}
+{Speech 2}{}{[Before you is one of the Shi computers. You have no idea how you might gain access to the documents]}
+{Speech 2 Answer Exit}{}{[Leave]}
+{Speech 3}{}{[The technician has granted you access to the sections with pre-war plastic surgery programs]}
+{Speech 3 Answer Exit}{}{[Download all the information onto a holodisk]}
+{Speech 3 Answer Exit*}{}{[Leave]}

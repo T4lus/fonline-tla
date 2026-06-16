@@ -35,10 +35,10 @@ Speech 3 # Неплохой денек для того, чтобы выйти в
 {DescAliveFull}{}{You see a docks servant.}
 {DescAliveFull}{}{You see a Shi peasant, whose clothes are covered with fish scales, tar and salt.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Stupid}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer Barter}{}{Есть что на продажу?}
-{Speech 2 Answer Exit}{}{Пришло время попрощаться с жизнью!}
-{Speech 2 Answer Exit*}{}{Пока.}
-{Speech 3}{}{Неплохой денек для того, чтобы выйти в океан.@@Солнце, свежий воздух, морская еда. Что, кроме ванны, может еще желать человек?@@О,смотрите... Еще один турист.}
+{Speech 2 Answer Barter}{}{Got anything for sale?}
+{Speech 2 Answer Exit}{}{It's time to say goodbye to your life!}
+{Speech 2 Answer Exit*}{}{Bye.}
+{Speech 3}{}{A pretty good day to head out into the ocean.@@Sun, fresh air, seafood. What more could a man want, besides a bath?@@Oh, look... Another tourist.}

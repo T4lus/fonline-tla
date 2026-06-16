@@ -134,19 +134,19 @@ Speech 6 # Вы легко обходите защиту императора и
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Возрождение императора. Наука <=75}
-{Speech 1 Answer 3}{}{Возрождение императора. Наука <=150}
-{Speech 1 Answer 3*}{}{Возрождение императора. Наука <=230}
-{Speech 1 Answer 3**}{}{Возрождение императора. Наука <=300}
-{Speech 1 Answer 4}{}{Возрождение императора. Наука <=150 и это последний квестер}
-{Speech 1 Answer 4*}{}{Возрождение императора. Наука <=230 и это последний квестер}
-{Speech 1 Answer 4**}{}{Возрождение императора. Наука <=300 и это последний квестер}
-{Speech 1 Answer 5}{}{Формат: С. Наука<=75}
-{Speech 1 Answer 6}{}{Формат: С. Наука<=150}
-{Speech 1 Answer 6*}{}{Формат: С. Наука<=230}
-{Speech 1 Answer 6**}{}{Формат: С. Наука<=300}
-{Speech 2}{}{Вам не хватает знаний для того, чтобы восстановить информацию...}
-{Speech 3}{}{Используя научный подход вы частично восстановили информацию на жестких дисках.}
-{Speech 4}{}{Используя научный подход вы сумели восстановить последние сектора жестких дисков Императора.}
-{Speech 5}{}{Вы не достаточно хорошо подкованы, чтобы обойти систему защиты Императора.}
-{Speech 6}{}{Вы легко обходите защиту императора и уничтожаете часть важной информации.}
+{Speech 1 Answer 2}{}{Restore the Emperor. Science <=75}
+{Speech 1 Answer 3}{}{Restore the Emperor. Science <=150}
+{Speech 1 Answer 3*}{}{Restore the Emperor. Science <=230}
+{Speech 1 Answer 3**}{}{Restore the Emperor. Science <=300}
+{Speech 1 Answer 4}{}{Restore the Emperor. Science <=150 and this is the last quester}
+{Speech 1 Answer 4*}{}{Restore the Emperor. Science <=230 and this is the last quester}
+{Speech 1 Answer 4**}{}{Restore the Emperor. Science <=300 and this is the last quester}
+{Speech 1 Answer 5}{}{Format: C. Science<=75}
+{Speech 1 Answer 6}{}{Format: C. Science<=150}
+{Speech 1 Answer 6*}{}{Format: C. Science<=230}
+{Speech 1 Answer 6**}{}{Format: C. Science<=300}
+{Speech 2}{}{You lack the knowledge to restore the information...}
+{Speech 3}{}{Using a scientific approach, you partially restored the information on the hard drives.}
+{Speech 4}{}{Using a scientific approach, you managed to restore the last sectors of the Emperor's hard drives.}
+{Speech 5}{}{You are not well-versed enough to bypass the Emperor's defense system.}
+{Speech 6}{}{You easily bypass the Emperor's defenses and destroy part of the important information.}

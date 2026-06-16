@@ -53,20 +53,20 @@ Speech 7 # Ага? Чтобы мне потом влетело? Был@sex@||а|
 {Speech 7 Answer Exit}{}{Эх!}
 
 [Text engl]
-{Name}{}{Лаборант}
+{Name}{}{Lab Assistant}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{На территорию лаборатории без спецпропуска вход закрыт.@@Внутрь не пройдешь без специального разрешения.@@Проход закрыт. Тебя нет в списках.}
-{Speech 2 Answer 3}{}{Сколько мне его вообще ждать еще, Хономера?}
-{Speech 3}{}{Думаю, долго. Шуму столько было... }
-{Speech 3 Answer 4}{}{\nА что вообще случилось?}
-{Speech 4}{}{[Выпрямляется и делает суровое лицо] А тебе какое дело? Это секретная информация!}
-{Speech 4 Answer Exit}{}{Да ладно, ладно. Я просто спросилsex@|||а|.}
-{Speech 4 Answer 5}{}{Не важно. А вот что мне делать? Торчать тут все это время?}
-{Speech 5}{}{Да.}
-{Speech 5 Answer 6}{}{Эй, ну ты с ума то не сходи, а? Дай одним глазком посмотреть, что тут у вас. Никто и внимания не обратит.}
-{Speech 5 Answer 7}{}{Эй, ну ты с ума то не сходи, а? Дай одним глазком посмотреть, что тут у вас. Никто и внимания не обратит.}
-{Speech 6}{}{Хм... Ну ладно, проходи. Только ничего не трогай!}
-{Speech 6 Answer Exit}{}{Само собой.}
-{Speech 7}{}{Ага? Чтобы мне потом влетело? Был@sex@||а| бы ты хотя бы одет@sex@||а| как-то поприличнее, может быть и не обратили бы внимания... А так сразу видно - чужак! Застучат...}
-{Speech 7 Answer Exit}{}{Эх!}
+{Speech 2}{}{Entry to the laboratory grounds without a special pass is forbidden.@@You won't get inside without special permission.@@Passage closed. You're not on the lists.}
+{Speech 2 Answer 3}{}{How long am I even supposed to wait for it, Honomer?}
+{Speech 3}{}{A long time, I think. There was so much commotion... }
+{Speech 3 Answer 4}{}{\nSo what actually happened?}
+{Speech 4}{}{[Straightens up and puts on a stern face] What's it to you? That's classified information!}
+{Speech 4 Answer Exit}{}{All right, all right. I was just asking@sex@||.}
+{Speech 4 Answer 5}{}{Never mind. But what am I supposed to do? Hang around here all this time?}
+{Speech 5}{}{Yes.}
+{Speech 5 Answer 6}{}{Hey, don't lose your mind, all right? Let me take a quick peek at what you've got here. No one will even notice.}
+{Speech 5 Answer 7}{}{Hey, don't lose your mind, all right? Let me take a quick peek at what you've got here. No one will even notice.}
+{Speech 6}{}{Hmm... All right, go on through. Just don't touch anything!}
+{Speech 6 Answer Exit}{}{Of course.}
+{Speech 7}{}{Yeah? So I get chewed out afterwards? If you were at least dressed a bit more decently, maybe they wouldn't have paid attention... But like this you can tell right away - an outsider! They'll rat you out...}
+{Speech 7 Answer Exit}{}{Ugh!}

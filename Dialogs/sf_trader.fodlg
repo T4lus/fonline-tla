@@ -33,10 +33,10 @@ Speech 3 # Эй! Эй! Покупайте! Покупайте!@@Покупайт
 {DescAliveShort}{}{You see a trader.}
 {DescAliveFull}{}{You see a bustling Shi merchant. Like everyone else, in pate he seemed to be empty.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Stupid}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Эй! Эй! Покупайте! Покупайте!@@Покупайте осьминогов! Очень вкусно!@@Идите-ка сюда, посмотрите на это! Вам это понравится!@@Вам это нравится? Посмотрите-ка сюда!}
-{Speech 2 Answer Barter}{}{Покажи свой товар.}
-{Speech 2 Answer Exit}{}{Стоять! Это ограбление! [Атаковать]}
-{Speech 2 Answer Exit*}{}{Мне пора. [Выход.]}
+{Speech 2}{}{Hey! Hey! Buy! Buy!@@Buy octopuses! Very tasty!@@Come over here, look at this! You'll like it!@@Do you like it? Take a look here!}
+{Speech 2 Answer Barter}{}{Show me your wares.}
+{Speech 2 Answer Exit}{}{Stand still! This is a robbery! [Attack]}
+{Speech 2 Answer Exit*}{}{I have to go. [Leave]}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}

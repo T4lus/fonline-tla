@@ -79,7 +79,7 @@ Speech 9 # Чем могу помочь?
 {DescAliveFull}{}{You see Jenna, tradeswoman.}
 {DescAliveFull}{}{You see a pretty shop owner.}
 {Speech 1}{}{}
-{Speech 1 Answer 9}{}{Моя нада ба раххлооо!}
+{Speech 1 Answer 9}{}{Me wanna ba rahhlooo!}
 {Speech 1 Answer 2}{}{}
 {Speech 1 Answer 3}{}{}
 {Speech 2}{}{}
@@ -102,5 +102,5 @@ Speech 9 # Чем могу помочь?
 {Speech 7 Answer 6}{}{}
 {Speech 8}{}{}
 {Speech 9}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 9 Answer Barter}{}{Моя нада ба раххлооо!}
-{Speech 9 Answer Exit}{}{Ууугы!}
+{Speech 9 Answer Barter}{}{Me wanna ba rahhlooo!}
+{Speech 9 Answer Exit}{}{Ugh!}

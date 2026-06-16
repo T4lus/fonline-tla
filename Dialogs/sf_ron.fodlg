@@ -250,64 +250,64 @@ Speech 21 # Учитывай, если они почуят запах крови
 {DescAliveFull}{}{You see captain Ron Meyers.}
 {DescAliveFull}{}{You see a punk in rags and the captain's cap.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 7}{}{Ууугы!}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 6}{}{Капитан, расскажите еше раз про этот корабль.}
-{Speech 2}{}{Какого черта вам надо?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer 4}{}{Что это за корабль?}
+{Speech 1 Answer 7}{}{Dumb}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 6}{}{acquainted}
+{Speech 2}{}{What the hell do you want?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{What kind of ship is this?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{Что это за корабль?}
-{Speech 3 Answer Exit}{}{Спасибо, пока.}
-{Speech 4}{}{Этот корабль - танкер Посейдон. Он оборудован техникой, которая прошла войну. На нем установлена система ФОБ, которая обеспечивает доступ к компьютерному центру навигации, на нем также есть устройство УДВ, которое защищает танкер от орудий Посейдона.}
-{Speech 4 Answer 5}{}{Откуда вы все это знаете?}
-{Speech 5}{}{Я служил в Анклаве. Но потом я понял, что сражаюсь не за США, а за старых богатых подонков, которые не хотят расстаться со своей властью. Я дезертировал и сейчас живу здесь с более честными людьми. }
-{Speech 5 Answer 2}{}{Можно еще спросить?}
-{Speech 5 Answer Exit}{}{Спасибо, пока.}
-{Speech 6}{}{Чего тебе?}
-{Speech 6 Answer 4}{}{Капитан, расскажите еше раз про этот корабль.}
-{Speech 6 Answer 8}{}{Говорят, у вас есть проблемы с тварями в трюмах?}
-{Speech 6 Answer 19}{}{Капитан, ты был прав, все твои люди мертвы.}
-{Speech 6 Answer 13}{}{Капитан, я закончил@sex@||а| зачистку нижних палуб танкера...}
+{Speech 3 Answer 4}{}{What kind of ship is this?}
+{Speech 3 Answer Exit}{}{Thanks, bye.}
+{Speech 4}{}{This ship is the tanker Poseidon. It's equipped with technology that survived the war. It has a PMV system installed that provides access to the navigation computer center, and it also has an EPA device that protects the tanker from Poseidon's guns.}
+{Speech 4 Answer 5}{}{How do you know all this?}
+{Speech 5}{}{I served in the Enclave. But then I realized I wasn't fighting for the USA, but for old rich scum who don't want to give up their power. I deserted and now I live here with more honest people. }
+{Speech 5 Answer 2}{}{Can I ask something else?}
+{Speech 5 Answer Exit}{}{Thanks, bye.}
+{Speech 6}{}{What do you want?}
+{Speech 6 Answer 4}{}{Captain, tell me again about this ship.}
+{Speech 6 Answer 8}{}{They say you've got problems with the creatures in the holds?}
+{Speech 6 Answer 19}{}{Captain, you were right, all your people are dead.}
+{Speech 6 Answer 13}{}{Captain, I've finished clearing out the lower decks of the tanker...}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 7 Answer Exit}{}{Ууугы!}
-{Speech 8}{}{Что? Проблемы? У нас нет никаких проблем. Все эти уроды намертво запечатаны на нижних палубах.}
-{Speech 8 Answer 9}{}{А вы не пробовали от них избавиться?}
-{Speech 9}{}{Пробовали... Прямо скажу, неудачная была попытка.}
-{Speech 9 Answer 10}{}{Возможно, я смогу вам помочь?}
-{Speech 9 Answer 11}{}{Возможно, я смогу вам помочь?}
-{Speech 9 Answer 14}{}{Возможно, я смогу вам помочь?}
-{Speech 10}{}{[Оценивающе измеряет вас взглядом] Нет, даже не думай. От тебя и пижамы не останется.}
-{Speech 10 Answer Exit}{}{Ладно, возможно мы еще поговорим об этом позже.}
-{Speech 11}{}{[Оценивающе измеряет вас взглядом] Ты выглядишь достаточно крепк@sex@|им парнем|ой девчонкой|. Но, даже тебе не удастся справиться с этими тварями в одиночку.}
-{Speech 11 Answer 12}{}{Если потребуется, я найду надежных людей, которые мне помогут.}
-{Speech 11 Answer Exit}{}{Твоя правда, не стоит рисковать понапрасну.}
-{Speech 12}{}{Если ты, и твои приятели смогут зачистить трюм, мы все будем очень вам благодарны. Деньгами не поможем, а вот хорошим стволом или бронежилетом поделимся легко.}
-{Speech 12 Answer Exit}{}{Мне нужно время, чтобы подумать.}
-{Speech 12 Answer Exit*}{}{Для нас это не составит проблем, можешь поверить. Скоро трюм будет очищен от этих тварей.}
-{Speech 13}{}{Ты - крепкий орешек! Я удивлен. Эх, сколько наших ребят сгинуло уже в этих трюмах. Жаль, что мы с тобой не встретились раньше. Что выберешь в качестве премии?}
-{Speech 13 Answer Exit}{}{Турбоплазменная винтовка.}
-{Speech 13 Answer Exit*}{}{Боевая броня.}
-{Speech 14}{}{[Внимательно смотрит в ваши глаза и с легким разочарованием произносит] Ты, я чувствую, сторонишься "грязной работы". Не думаю, что ты сможешь разобраться с этими чудовищами с нижних палуб. }
-{Speech 14 Answer Exit}{}{В точку. Ладно, я ухожу.}
-{Speech 14 Answer 15}{}{Да, я не собираюсь убивать этих животных, я считаю, что даже они имеют право на существование...}
-{Speech 15}{}{Ха! Может спустишься к ним, и проверишь?}
-{Speech 15 Answer 16}{}{Запросто. Я же вернусь!}
-{Speech 16}{}{[Смеется] Да... Многое я видел на своем веку, но с подобной безрассудностью сталкиваться не приходилось. Ну что ж, если ты точно решил@sex@||а| покончить с собой таким изощренным способом, может и для меня кое-что сделаешь?}
-{Speech 16 Answer 17}{}{Запросто. Я же вернусь!}
-{Speech 17}{}{Сомневаюсь... Хотя, чем черт не шутит? Слушай меня. Недавно в трюмы спустились четверо моих парней, нужно было поднять кое-что на палубу. Они знали, чем рискуют, но все равно ушли. Уже который день от них нет слуху и духу. Я догадываюсь, что с ними произошло, но хочу получить доказательства.}
-{Speech 17 Answer 18}{}{Я найду твоих ребят и приведу сюда}
-{Speech 17 Answer Exit}{}{Ты прав, это безумие, соваться в лапы к этим ужасным существам...}
-{Speech 18}{}{Это было бы здорово, но увы. Уверен, они давно на небесах. Тем не менее, найди их тела и проверь, от чего они погибли. Я заплачу за любую информацию.}
-{Speech 18 Answer Exit}{}{По рукам!}
-{Speech 18 Answer 21}{}{Может быть, дашь какой-то совет?}
-{Speech 19}{}{Я знал... Жаль, хорошие были ребята. От чего они погибли? Меня интересует, все ли твари опасны?}
-{Speech 19 Answer Exit}{}{Мне нужно подумать, не хочу ошибиться... Скоро вернусь.}
-{Speech 19 Answer 20}{}{Их сожрали чужие. Я осмотрел@sex@||а| тела всех четверых. Они буквально были разодраны на куски...}
-{Speech 19 Answer 20*}{}{Чужие и флоатеры, вот кто убил твоих ребят. От яда флоатеров дымился пол вокруг тел панков.}
-{Speech 19 Answer 20**}{}{Насчет флоатеров не могу точно сказать. Но кентавры и чужие опасны. Это они слопали твоих парней.}
-{Speech 19 Answer 20***}{}{Мне повезло, меня пощадили. Но твоим людям досталось от всех. Я зафиксировал@sex@||а| и остаточную радиацию, и симптомы отравления на телах. Это значит, что и флоатеры, и кентавры, и чужие - все одинаково опасны.}
-{Speech 20}{}{Ясно. Нужно что-то делать с этими тварями. Однажды они смогут вырваться на верхние палубы... Вот твоя награда. [Дает деньги]}
-{Speech 20 Answer Exit}{}{Спасибо.}
-{Speech 21}{}{Учитывай, если они почуят запах крови... Их будет невозможно остановить. Так что держись от этих тварей на расстоянии и делай все быстро. }
-{Speech 21 Answer Exit}{}{Хорошо, спасибо.}
+{Speech 7 Answer Exit}{}{Uuugh!}
+{Speech 8}{}{What? Problems? We don't have any problems. All those freaks are sealed up tight on the lower decks.}
+{Speech 8 Answer 9}{}{Haven't you tried to get rid of them?}
+{Speech 9}{}{We tried... I'll tell you straight, it was a failed attempt.}
+{Speech 9 Answer 10}{}{Maybe I can help you?}
+{Speech 9 Answer 11}{}{Maybe I can help you?}
+{Speech 9 Answer 14}{}{Maybe I can help you?}
+{Speech 10}{}{[Sizes you up with an appraising look] No, don't even think about it. They wouldn't leave so much as your pajamas.}
+{Speech 10 Answer Exit}{}{Alright, maybe we'll talk about this later.}
+{Speech 11}{}{[Sizes you up with an appraising look] You look tough enough, @sex@|young man|young girl|. But even you won't be able to handle those creatures alone.}
+{Speech 11 Answer 12}{}{If need be, I'll find reliable people to help me.}
+{Speech 11 Answer Exit}{}{You're right, no point in risking it for nothing.}
+{Speech 12}{}{If you and your buddies can clear out the hold, we'll all be very grateful to you. We can't help with money, but we'd gladly share a good gun or a flak jacket.}
+{Speech 12 Answer Exit}{}{I need time to think.}
+{Speech 12 Answer Exit*}{}{It won't be a problem for us, believe me. Soon the hold will be cleared of those creatures.}
+{Speech 13}{}{You're a tough nut! I'm surprised. Ah, how many of our boys have already perished in those holds. Pity we didn't meet sooner. What will you choose as a reward?}
+{Speech 13 Answer Exit}{}{Turbo plasma rifle.}
+{Speech 13 Answer Exit*}{}{Combat armor.}
+{Speech 14}{}{[Looks intently into your eyes and says with slight disappointment] You, I sense, shy away from "dirty work". I don't think you'll be able to deal with those monsters on the lower decks. }
+{Speech 14 Answer Exit}{}{Spot on. Alright, I'm leaving.}
+{Speech 14 Answer 15}{}{Yes, I'm not going to kill those animals, I believe even they have the right to exist...}
+{Speech 15}{}{Ha! Maybe you'd go down to them and check?}
+{Speech 15 Answer 16}{}{No problem! I'm sure they won't do me any harm!}
+{Speech 16}{}{[Laughs] Yeah... I've seen a lot in my day, but I've never come across such recklessness. Well then, if you've truly decided to do yourself in in such an elaborate way, maybe you'll do something for me too?}
+{Speech 16 Answer 17}{}{Easily. I'm coming back, after all!}
+{Speech 17}{}{I doubt it... Still, who knows? Listen to me. Recently four of my boys went down into the holds, we needed to bring something up to the deck. They knew the risks, but they went anyway. It's been days now and there's been no sight nor sound of them. I have a guess what happened to them, but I want proof.}
+{Speech 17 Answer 18}{}{I'll find your boys and bring them here}
+{Speech 17 Answer Exit}{}{You're right, it's madness to walk into the clutches of those terrible creatures...}
+{Speech 18}{}{That would be great, but alas. I'm sure they've long been in heaven. Still, find their bodies and check what they died from. I'll pay for any information.}
+{Speech 18 Answer Exit}{}{Deal!}
+{Speech 18 Answer 21}{}{Maybe you'll give me some advice?}
+{Speech 19}{}{I knew it... Pity, they were good boys. What did they die from? I'm interested whether all the creatures are dangerous?}
+{Speech 19 Answer Exit}{}{I need to think, I don't want to make a mistake... I'll be back soon.}
+{Speech 19 Answer 20}{}{They were devoured by aliens. I examined the bodies of all four. They were literally torn to pieces...}
+{Speech 19 Answer 20*}{}{Aliens and floaters, that's who killed your boys. The floaters' poison made the floor smoke around the punks' bodies.}
+{Speech 19 Answer 20**}{}{As for the floaters, I can't say for sure. But the centaurs and aliens are dangerous. They're the ones who gobbled up your boys.}
+{Speech 19 Answer 20***}{}{I got lucky, they spared me. But your people got it from all of them. I detected both residual radiation and symptoms of poisoning on the bodies. That means the floaters, the centaurs, and the aliens - they're all equally dangerous.}
+{Speech 20}{}{I see. Something has to be done about these creatures. One day they could break through to the upper decks... Here's your reward. [Gives money]}
+{Speech 20 Answer Exit}{}{Thank you.}
+{Speech 21}{}{Keep in mind, if they catch the smell of blood... it'll be impossible to stop them. So keep your distance from these creatures and do everything fast. }
+{Speech 21 Answer Exit}{}{Alright, thanks.}

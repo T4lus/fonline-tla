@@ -52,16 +52,16 @@ Speech 5 # Чем я могу быть вам полезен?
 {DescAliveFull}{}{You see Dragon, the hero of many peasants of Shi.}
 {DescAliveFull}{}{You see a very strong man naked to the waist, whose hands look like a dangerous weapon.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 5}{}{Ууугы!}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
+{Speech 1 Answer 5}{}{Stupid}
+{Speech 1 Answer 2}{}{unfamiliar}
+{Speech 1 Answer 3}{}{familiar}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 4}{}{Научите меня!}
-{Speech 2 Answer Exit}{}{Отлично. До свидания.}
-{Speech 3}{}{Чем я могу быть вам полезен?}
-{Speech 3 Answer Exit}{}{Да нет, ничего. [Выход]}
+{Speech 2 Answer 4}{}{Teach me!}
+{Speech 2 Answer Exit}{}{Excellent. Goodbye.}
+{Speech 3}{}{How can I be of use to you?}
+{Speech 3 Answer Exit}{}{No, nothing. [Leave]}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4 Answer Exit}{}{Пока. [Выход]}
-{Speech 4 Answer Exit*}{}{Сейчас проверим твоё мастерство. [Атаковать]}
-{Speech 5}{}{Чем я могу быть вам полезен?}
-{Speech 5 Answer Exit}{}{Ууугы!}
+{Speech 4 Answer Exit}{}{Bye. [Leave]}
+{Speech 4 Answer Exit*}{}{Let's test your skill right now. [Attack]}
+{Speech 5}{}{How can I be of use to you?}
+{Speech 5 Answer Exit}{}{Ugh!}

@@ -167,56 +167,56 @@ Speech 19 # Нет
 {100000002}{}{Теперь в вашем городе из ГЕКК появился мобильный репликатор. Чтобы прописаться в репликаторе,после каждого возрождения сделайте соответствующую отметку в терминале ГЕКК.}
 
 [Text engl]
-{Name}{}{АХС-9}
+{Name}{}{AXS-9}
 {DescAliveShort}{}{You see a well-dressed guy.}
-{DescAliveFull}{}{You see АXС-9, Great and Terrible.}
+{DescAliveFull}{}{You see AXS-9, Great and Terrible.}
 {DescAliveFull}{}{You see a well-dressed guy.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Тупой}
+{Speech 1 Answer 3}{}{Dumb}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Я слишком занят для разговоров с такими как ты.}
-{Speech 2 Answer Exit}{}{Дьявол, вот и пришел твой конец! [Атаковать]}
-{Speech 2 Answer Exit*}{}{Извините. Я ухожу... [Выход]}
-{Speech 2 Answer 4}{}{Не хотелось бы вас беспокоить, но по словам AXS-7, я могу научиться у вас чему-то полезному.}
-{Speech 2 Answer 6}{}{Не хотелось бы вас беспокоить, но по словам AXS-7, я могу научиться у вас чему-то полезному.}
-{Speech 2 Answer 7}{}{Не могли бы вы уделить мне несколько минут? Есть вопросы о персональном репликаторе.}
-{Speech 2 Answer 8}{}{Не могли бы вы уделить мне несколько минут? Есть вопросы о персональном репликаторе.}
-{Speech 2 Answer 18}{}{Не могли бы вы уделить мне несколько минут? Есть вопросы о персональном репликаторе.}
+{Speech 2}{}{I am too busy for conversations with the likes of you.}
+{Speech 2 Answer Exit}{}{Devil, here comes your end! [Attack]}
+{Speech 2 Answer Exit*}{}{Sorry. I'm leaving... [Exit]}
+{Speech 2 Answer 4}{}{I wouldn't want to bother you, but according to AXS-7, I could learn something useful from you.}
+{Speech 2 Answer 6}{}{I wouldn't want to bother you, but according to AXS-7, I could learn something useful from you.}
+{Speech 2 Answer 7}{}{Could you spare me a few minutes? I have questions about the personal replicator.}
+{Speech 2 Answer 8}{}{Could you spare me a few minutes? I have questions about the personal replicator.}
+{Speech 2 Answer 18}{}{Could you spare me a few minutes? I have questions about the personal replicator.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer Exit}{}{Ууугы!}
-{Speech 4}{}{AXS-7? Он так говорит? Очень странно. Я выясню, что он имел в виду. А сейчас, уходи.}
-{Speech 4 Answer 5}{}{Я не уйду просто так!}
-{Speech 5}{}{Мне позвать охрану?}
-{Speech 5 Answer Exit}{}{Не хотелось бы вас беспокоить, но по словам AXS-7, я могу научиться у вас чему-то полезному.}
-{Speech 6}{}{О, боги! Опять ты! Чем бы от тебя отделаться. Хорошо, вот, изучи на досуге. [АХС-9 Передает вам методические указания по сбору плазменной гранаты] Правда, вряд ли тебе это поможет. Оборудование, необходимое для сбора гранат только у хабологов есть.}
-{Speech 6 Answer Exit}{}{Ох, спасибо!}
-{Speech 7}{}{[Хмурится] Не знаю, откуда у вас информация о персональном репликаторе. И даже знать не хочу. Забудьте. Только послушники Хаба имеют открытый допуск к этому вопросу.}
-{Speech 7 Answer 19}{}{Разве это деловой разговор? Я готов@sex@||а| на крупное пожертвование на нужды церкви! Давайте обсудим...}
-{Speech 8}{}{Хорошо, @sex@|брат|сестра|, я расскажу все, что в моих силах. Если позволит уровень вашего допуска, конечно.}
-{Speech 8 Answer 9}{}{Мы тут с ребятами построили небольшой город в Пустоши. У нас там есть все, кроме совести, денег и счастья. Ну и персонального репликатора. Заплатим любые бабки.}
-{Speech 8 Answer 10}{}{Мне хотелось бы узнать, что это вообще такое, и каково назначение персонального репликатора?}
-{Speech 8 Answer 13}{}{Я наш@sex@|ел|шла| в Пустоши удивительное поселение, созданное с помощью комплекта ГЕКК...}
-{Speech 8 Answer 14}{}{Я наш@sex@|ел|шла| в Пустоши удивительное поселение, созданное с помощью комплекта ГЕКК...}
-{Speech 9}{}{[Лицо АХС-9 багровеет] Ты думаешь, если сумел награбить в Пустоши достаточно денег, чтобы построить Город из ГЕККа, сможешь еще и церковь приплести к своей авантюре? Еретик! @sex@|Пшел|Пшла| вон! Охрана!!}
-{Speech 9 Answer Exit}{}{Эй, эй! Это же невинная шутка!}
-{Speech 10}{}{Хорошо. Название "Персональный" может ввести в заблуждение. Можно было бы предположить, что данное устройство - это предмет роскоши, доступный лишь высшим чинам Церкви, и, к сожалению, - [вздыхает] -  многие именно так и считают.}
-{Speech 10 Answer 11}{}{\nА что на самом деле?}
-{Speech 11}{}{Разумеется, "персональный", еще говорят, "мобильный", репликатор выполняет все функции стандартного. Одна личность, тысяча - не важно. К устройству подключен терминал, с помощью которого оператор составляет списки реплицируемых. При гибели человека сигнал с репликационного чипа поступает в общую сеть Хаба. Сервер содержит в памяти списки всех реплицированных, привязанных к мобильным репликаторам. Соответственно, сигнал передается на мобильный репликатор, и репликант возраждается к жизни по месту его расположения. Вот видите? Все прозрачно и честно, как стеклянные урны и камеры видеонаблюдения на избирательных участках...}
-{Speech 11 Answer 12}{}{Какие избирательные участки, о чем вы?}
-{Speech 12}{}{Не берите в голову, к слову пришлось. Я ответил на ваши вопросы?}
-{Speech 12 Answer 8}{}{Думаю, да. Но у меня есть еще один вопрос. }
-{Speech 12 Answer Exit}{}{Это все, благодарю.}
-{Speech 13}{}{Неубедительно, мой друг. Не знаю, что вы задумали, но мне это не нравится. Ах, да. Прошу меня извинить. У меня важная встреча через 15 минут.}
-{Speech 13 Answer Exit}{}{Эмм... До свидания...}
-{Speech 14}{}{Интересно. Не думал, что ГЕККи еще остались. И кто же проживает в этом прекрасном городе?}
-{Speech 14 Answer 15}{}{О, это самое ужасное. Павшие души, разбойники, негодяи, убийцы. Я посчитал@sex@||а| своим долгом наставить этих несчастных на путь истинный и рассказать им о силе Хаба. И поселил@sex@|ся|лась| с ними. Боюсь, это прозвучит слишком самоуверенно, но я несу слово Хаба ради спасения этих грязных душ...}
-{Speech 15}{}{Мне кажется, вы слегка перегибаете палку, друг мой. Но, продолжайте!}
-{Speech 15 Answer 16}{}{Вера этих людей пока еще слаба. Мне хотелось бы показать им мощь Церкви. И персональный репликатор - мне бы очень помог.}
-{Speech 16}{}{Ага. Отбросим эту псевдорелегиозную пургу, @sex@|брат|сестра|. Суть проблемы мне ясна. И она имеет простое решение. Мы действительно можем предоставить персональный репликатор для вашего поселения. Но это стоит денег. И больших. Сможет ли ваш город собрать 500 000 монет? Если да, то наши специалисты установят репликатор и помогут с его настройкой.}
-{Speech 16 Answer Exit}{}{500 000? Это же чертова куча денег! Мне нужно время, чтобы подумать.}
-{Speech 16 Answer 17}{}{Да, деньги у меня с собой.}
-{Speech 17}{}{Прекрасно. Можете передать их мне. В ближайшее время к вам прибудут техники со станции репликации, установят чан и подключат его к системе управления города.}
-{Speech 17 Answer Exit}{}{Замечательно. [Отдать деньги]}
-{Speech 18}{}{Убирайся!}
-{Speech 19}{}{Нет}
-{100000001}{}{Вы научились производить плазменные гранаты. Для производства требуется находиться рядом со специализированным верстаком Хабологов.}
+{Speech 3 Answer Exit}{}{Uuugh!}
+{Speech 4}{}{AXS-7? He says so? Very strange. I will find out what he meant. And now, leave.}
+{Speech 4 Answer 5}{}{I won't just leave!}
+{Speech 5}{}{Shall I call the guards?}
+{Speech 5 Answer Exit}{}{I wouldn't want to bother you, but according to AXS-7, I could learn something useful from you.}
+{Speech 6}{}{Oh, gods! You again! How do I get rid of you. Fine, here, study this at your leisure. [AXS-9 hands you the guidelines for assembling a plasma grenade] Though it's unlikely to help you. The equipment needed to assemble grenades is only available to the Hubologists.}
+{Speech 6 Answer Exit}{}{Oh, thank you!}
+{Speech 7}{}{[Frowns] I don't know where you got information about the personal replicator. And I don't even want to know. Forget it. Only the Hub's novices have open access to this matter.}
+{Speech 7 Answer 19}{}{Is this any way to do business? I'm @sex@|ready||| to make a large donation to the church's needs! Let's discuss...}
+{Speech 8}{}{Very well, @sex@|brother|sister|, I will tell you everything within my power. If your clearance level permits, of course.}
+{Speech 8 Answer 9}{}{Me and the boys built a small town out in the Wasteland. We have everything there, except a conscience, money and happiness. Oh, and a personal replicator. We'll pay any amount of dough.}
+{Speech 8 Answer 10}{}{I'd like to know what this even is, and what the purpose of the personal replicator is?}
+{Speech 8 Answer 13}{}{I @sex@|found||| an amazing settlement in the Wasteland, created with the help of a GECK kit...}
+{Speech 8 Answer 14}{}{I @sex@|found||| an amazing settlement in the Wasteland, created with the help of a GECK kit...}
+{Speech 9}{}{[AXS-9's face turns crimson] You think that if you managed to plunder enough money in the Wasteland to build a Town out of a GECK, you can also drag the church into your scheme? Heretic! Get @sex@|out|||! Guards!!}
+{Speech 9 Answer Exit}{}{Hey, hey! It was just an innocent joke!}
+{Speech 10}{}{Very well. The name "Personal" can be misleading. One might assume that this device is an item of luxury, available only to the highest ranks of the Church, and, unfortunately, - [sighs] -  many think exactly that.}
+{Speech 10 Answer 11}{}{\nAnd what is it really?}
+{Speech 11}{}{Of course, the "personal", also called "mobile", replicator performs all the functions of a standard one. One individual, a thousand - it doesn't matter. A terminal is connected to the device, with which the operator compiles lists of those to be replicated. When a person dies, the signal from the replication chip is sent into the Hub's common network. The server keeps in memory the lists of all the replicated, tied to mobile replicators. Accordingly, the signal is transmitted to the mobile replicator, and the replicant is reborn to life at its location. You see? Everything is transparent and honest, like glass ballot boxes and surveillance cameras at polling stations...}
+{Speech 11 Answer 12}{}{What polling stations, what are you talking about?}
+{Speech 12}{}{Never mind, it just came to mind. Did I answer your questions?}
+{Speech 12 Answer 8}{}{I think so. But I have one more question. }
+{Speech 12 Answer Exit}{}{That's all, thank you.}
+{Speech 13}{}{Unconvincing, my friend. I don't know what you're up to, but I don't like it. Ah, yes. Please excuse me. I have an important meeting in 15 minutes.}
+{Speech 13 Answer Exit}{}{Umm... Goodbye...}
+{Speech 14}{}{Interesting. I didn't think any GECKs were still left. And who lives in this wonderful town?}
+{Speech 14 Answer 15}{}{Oh, that's the worst part. Fallen souls, bandits, scoundrels, murderers. I @sex@|considered||| it my duty to set these poor wretches on the true path and tell them about the power of the Hub. And I @sex@|settled||| in with them. I'm afraid this will sound too presumptuous, but I carry the word of the Hub for the salvation of these dirty souls...}
+{Speech 15}{}{It seems to me you're overdoing it a little, my friend. But, go on!}
+{Speech 15 Answer 16}{}{The faith of these people is still weak. I'd like to show them the might of the Church. And the personal replicator would help me a great deal.}
+{Speech 16}{}{Aha. Let's drop this pseudo-religious drivel, @sex@|brother|sister|. The essence of the problem is clear to me. And it has a simple solution. We can indeed provide a personal replicator for your settlement. But it costs money. A lot of it. Can your town gather 500,000 caps? If so, then our specialists will install the replicator and help with its setup.}
+{Speech 16 Answer Exit}{}{500,000? That's a damn pile of money! I need time to think.}
+{Speech 16 Answer 17}{}{Yes, I have the money with me.}
+{Speech 17}{}{Excellent. You can hand it over to me. Soon technicians from the replication station will arrive at your place, install the vat and connect it to the town's control system.}
+{Speech 17 Answer Exit}{}{Wonderful. [Hand over the money]}
+{Speech 18}{}{Get out!}
+{Speech 19}{}{No}
+{100000001}{}{You have learned to produce plasma grenades. To produce them you must be near a specialized Hubologist workbench.}

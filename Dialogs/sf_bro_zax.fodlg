@@ -564,226 +564,226 @@ Speech 78 # Вам не хватает знаний для того, чтобы 
 
 [Text engl]
 {Name}{}{error}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 16}{}{[Начало игры]}
-{Speech 1 Answer 60}{}{чокнутый компьютер: можно взять квест на то, чтобы привести его в норму}
-{Speech 1 Answer 77}{}{по умолчанию для всех остальных случаев}
-{Speech 1 Answer 77*}{}{статус 1 - игра пройдена}
-{Speech 1 Answer 77**}{}{статус 1 - игра пройдена}
-{Speech 1 Answer 77***}{}{статус 0, квест взят}
-{Speech 2}{}{Перед вами главное меню системы.}
-{Speech 2 Answer 6}{}{[Монитор состояния]}
-{Speech 2 Answer 3}{}{[Список активных процессов]}
-{Speech 3}{}{Перед вами большой список процессов, запущенных в системе в текущий момент. Имена процессов ни о чем вам не говорят.}
-{Speech 3 Answer 2}{}{[Главное меню]}
-{Speech 3 Answer 4}{}{[Выбрать несколько случайных процессов и отобразить их статус]}
-{Speech 4}{}{Наибольшая активность зафиксирована за процессом  с необычным именем Автосознание.}
-{Speech 4 Answer 3}{}{[Список активных процессов]}
-{Speech 4 Answer 10}{}{[Точная настройка модулей]}
-{Speech 4 Answer 5}{}{[Подключиться к процессу "Автосознание"]}
-{Speech 5}{}{Доступ запрещен. Доступ запрещен.}
-{Speech 5 Answer Exit}{}{[Выход]}
-{Speech 6}{}{Вы видите множество самых разнообразных графиков, которые ничего вам не говорят,}
-{Speech 6 Answer 7}{}{[Расшифровка графиков]}
-{Speech 6 Answer 2}{}{[Главное меню]}
-{Speech 7}{}{Перед вами вместо загадочных графиков теперь отражены столь же загадочные таблицы.}
-{Speech 7 Answer 8}{}{[Таблица "Эффективность ИИ"]}
-{Speech 7 Answer 6}{}{[Монитор состояния]}
-{Speech 8}{}{Эти данные, конечно, очень интересны, но не то, что вы ищите. На панели команд активна опция  "резервная синхронизация". }
-{Speech 8 Answer 7}{}{[Расшифровка графиков]}
-{Speech 8 Answer 11}{}{[Резервная синхронизация]}
-{Speech 8 Answer 9}{}{[Самодиагностика]}
-{Speech 9}{}{Снова таблицы, графики, выкладки. На панели команд доступна опция "Режим моделирования"}
-{Speech 9 Answer 8}{}{[Таблица "Эффективность ИИ"]}
-{Speech 9 Answer 13}{}{[Режим моделирования]}
-{Speech 9 Answer 10}{}{[Точная настройка модулей]}
-{Speech 10}{}{Выбрав один из доступных модулей вы пытаетесь разобраться в его назначении}
-{Speech 10 Answer 9}{}{[Самодиагностика]}
-{Speech 10 Answer 4}{}{[Выбрать несколько случайных процессов и отобразить их статус]}
-{Speech 11}{}{Совершенно непонятное назначение у этого процесса. Даже с вашими знаниями сложно определить, для чего используется такая синхронизация.}
-{Speech 11 Answer 12}{}{[Запуск синхронизации]}
-{Speech 11 Answer 8}{}{[Таблица "Эффективность ИИ"]}
-{Speech 12}{}{Несанкционированный доступ. Активирована система защиты. Автономный режим работы.}
-{Speech 13}{}{Нужно составить тестовую задачу для проверки работоспособности системы}
-{Speech 13 Answer 9}{}{[Самодиагностика]}
-{Speech 13 Answer 15}{}{[Запуск бесконечного цикла.]}
-{Speech 13 Answer 14}{}{[Приготовь мне чаю, Zax!]}
-{Speech 14}{}{Мейнфрейм многозначительно замолчал. Через некоторое время на мониторе появился текст: Недостаточный объем выделенной оперативной памяти для завершения расчетов. Задействованы резервные мощности. Дисплей мейнфрейма погас.}
-{Speech 14 Answer Exit}{}{[Выход]}
-{Speech 15}{}{Несколько команд и вот уже мейнфрейм занят бесконечным логарифмическим расчетом. На выполнение функций безопасности у Zax просто не хватает ресурсов!}
-{Speech 15 Answer Exit}{}{[Выход]}
-{Speech 15 Answer Exit*}{}{Перезагрузить систему и начать режим резервного восстановления.}
-{Speech 16}{}{Добро пожаловать в многопользовательскую игру Fallout-Online! Поздравляем, вы стали участником ОБТ № 4563! \nСервер: The Life Instead Of.\nПользователей он-лайн: 1.\n}
-{Speech 16 Answer 17}{}{Создание персонажа}
-{Speech 16 Answer 78}{}{Так, в игрушки играть не будем. Попробуем восстановить систему.}
-{Speech 16 Answer 2}{}{Так, в игрушки играть не будем. Попробуем восстановить систему.}
-{Speech 17}{}{За несколько минут вы создаете персонажа. Это будет манчкин-снайпер с гусем. Тагнутые скилы - сник, красноречие, легкое оружие.@@Ваш выбор - харизматичный тяж с маньяком и крушилой. У такого персонажа всегда будут отличные перспективы.@@В этот раз вы решаете сделать торга-крафтера. Из боевых навыков - только метательное оружие. Крафтить плазмагрены из фонариков он сможет, а это смерть всему живому. }
-{Speech 17 Answer 16}{}{[Начало игры]}
-{Speech 17 Answer 18}{}{На глобал}
-{Speech 18}{}{Вы находитесь на глобальной карте. Графика слегка устарела для 23 века, но это ничего. По всей видимости, два здоровенных зеленых круга представляют собой какие-то поселения.@@Ваш персонаж на глобальной карте. Самое безопасное место в игре, если не двигаться с места.}
-{Speech 18 Answer 17}{}{Создание персонажа}
-{Speech 18 Answer 19}{}{Яма - северный вход}
-{Speech 18 Answer 31}{}{Кламат}
-{Speech 19}{}{Яма - город наркоторговцев, разбойников и бандитов.@@Город бандитов и работорговцев.@@Это Ден, позор Пустоши, как некоторые считают, несмотря на то, город сильно изменился.}
-{Speech 19 Answer 20}{}{Центр}
-{Speech 19 Answer 18}{}{На глобал}
-{Speech 20}{}{В центре города, рядом со старой церквушкой, забитой прихожанами, стоит Вертиберд!@@Кроме Вертиберда здесь нет ничего интересного. Надо же, подумалось вам, его еще никто не свистнул!@@Здоровенная крылатая хрень привлекла ваше внимание. Это какой-то потомок вертолета, кажется.}
-{Speech 20 Answer 21}{}{Взломать вердиберд}
-{Speech 20 Answer 23}{}{Яма - южный вход}
-{Speech 20 Answer 19}{}{Яма - северный вход}
-{Speech 21}{}{Попытка взлома провалилась. Заглянув в статусное окно вы увидели "Таймаут на взлом: 12 лет 3 с половиной месяца и 12 минут".@@Ух, ты! Вы взломали вердиперд! Ведриперт... Ведро - чтото. Проклятое название, не нужны такие транспортные средства,  которые не выговорить на трезвую голову.@@Взломать вертушку не получилось. А где у него багажник, сказать сложно.}
-{Speech 21 Answer 22}{}{Подойти к парню в косухе}
-{Speech 21 Answer 20}{}{Центр}
-{Speech 22}{}{- Ты кто?\n- Я-то? А ты кто? \n- Я первый спросил. Че ты, ты че?\n- Мне по боку, первый, второй, знать тебя не знаю и знать не хочу!\nВот так премило вы поболтали с человеком в черной косухе с оторванным рукавом.@@- Как тебя зовут, бродяга? - спросил парень в косухе. - Мое имя тебя не касается, - сурово сказали, как отрезали, вы.@@Парень с гнусной ухмылкой на лице кивает вам:\n- Ааа, клиент. Джет будем покупать?\n- Нет, благодарю. Я на мели. - ответили вы и решили убраться подальше от этого криминального персонажа.}
-{Speech 22 Answer 44}{}{Подозвать к себе ребенка.}
-{Speech 22 Answer 21}{}{Взломать вердиберд}
-{Speech 23}{}{Снова знакомые лица: псих-оборванец, угрюмые охранники, вороватые детишки.@@Вам кажется, если вы выйдете из города, вам сразу "полегчает, как только вы оставите это место".@@Перед вами забегаловка Бекки. Кажется, у нее играют в рулетку.}
-{Speech 23 Answer 20}{}{Центр}
-{Speech 23 Answer 24}{}{[На глобал]}
-{Speech 24}{}{И снова знакомая карта. Здесь нечем заняться во время пути. Одна надежда на случайные встречи.@@Скорость движения по глобалу - отвратительна. Вы мечтаете о тестеровском доступе. Эх! "~getaccess tester tester" -и летаешь со скоростью ракеты!}
-{Speech 24 Answer 23}{}{Яма - южный вход}
-{Speech 24 Answer 25}{}{Войти в пустошь}
-{Speech 24 Answer 37}{}{Кламат}
-{Speech 25}{}{Вы заходите на случайный энкаунтер. Унылый пейзаж, пара пустых палаток и ножик под камнем. Теперь вы вооружены до зубов!@@На энкаунтере вы встречает бродячего торговца. Охранники вооружены турбоплазмой и одеты в АПА МК2. Торговец продает веревки, корешки и мясо браминов. Но цены у него...@@Вы наткнулись на стаю волков дерущихся с караваном из Дена. Так им и надо. И волкам. И каравану. Ха!}
-{Speech 25 Answer 26}{}{И снова на глобале@@Глобал, родной!@@Еще раз на глобал.}
-{Speech 25 Answer 24}{}{[На глобал]}
-{Speech 26}{}{Вы долго и медленно ползете по глобальной карте. Только часы на пипбое щелкают.@@И кто только придумал глобальную карту? Пристрелить!@@Все чаще вас посещают мысли, а не создать ли мульта? Вдвоем хоть на глобале не будет так скучно.@@Сработал скиталец, вы хапнули 3 единицы экспы. Неплохо для начала!@@А ведь это тема, подумалось вам, пишешь бота, он шарится по глобалу, тебе капает экспа. За четыре недели - возьмешь кап! Кстати, о капе. А есть ли он на этом серваке?@@Вам совершенно не встречаются игроки на глобале. Может быть, они все попрятались в городах?@@Скучнее путешествия по глобалу может быть только выполнение какого-нибудь идиотского текстового квеста, вдруг подумалось вам.@@Скучно. И выбросить даже нечего. Вы попробовали заюзать санитара на часы, но время не пошло быстрее.@@Только прокачаный скиталец помог вам избежать случайной опасной встречи с парой крыс. Уфф, можно вздохнуть спокойно.}
-{Speech 26 Answer 27}{}{Глобал, опять..@@Вы ждали еще немного глобала?@@На глобал!@@По глобалу...}
-{Speech 26 Answer 29}{}{Еще раз на глобал@@Глобал, родной!}
-{Speech 26 Answer 30}{}{Непонятный город}
-{Speech 26 Answer 25}{}{Войти в пустошь}
-{Speech 27}{}{Вы долго и медленно ползете по глобальной карте. Только часы на пипбое щелкают.@@И кто только придумал глобальную карту? Пристрелить!@@Все чаще вас посещают мысли, а не создать ли мульта? Вдвоем хоть на глобале не будет так скучно.@@Сработал скиталец, вы хапнули 3 единицы экспы. Неплохо для начала!@@А ведь это тема, подумалось вам, пишешь бота, он шарится по глобалу, тебе капает экспа. За четыре недели - возьмешь кап! Кстати, о капе. А есть ли он на этом серваке?@@Вам совершенно не встречаются игроки на глобале. Может быть, они все попрятались в городах?@@Скучнее путешествия по глобалу может быть только выполнение какого-нибудь идиотского текстового квеста, вдруг подумалось вам.@@Скучно. И выбросить даже нечего. Вы попробовали заюзать санитара на часы, но время не пошло быстрее.@@Только прокачаный скиталец помог вам избежать случайной опасной встречи с парой крыс. Уфф, можно вздохнуть спокойно.}
-{Speech 27 Answer 28}{}{Постоять на одном месте на глобале@@Глобал, родной!@@Cплясать на глобале.@@Этот глобал - повсюду.}
-{Speech 27 Answer 26}{}{И снова на глобале@@Глобал, родной!@@Еще раз на глобал.}
-{Speech 28}{}{Вы долго и медленно ползете по глобальной карте. Только часы на пипбое щелкают.@@И кто только придумал глобальную карту? Пристрелить!@@Все чаще вас посещают мысли, а не создать ли мульта? Вдвоем хоть на глобале не будет так скучно.@@Сработал скиталец, вы хапнули 3 единицы экспы. Неплохо для начала!@@А ведь это тема, подумалось вам, пишешь бота, он шарится по глобалу, тебе капает экспа. За четыре недели - возьмешь кап! Кстати, о капе. А есть ли он на этом серваке?@@Вам совершенно не встречаются игроки на глобале. Может быть, они все попрятались в городах?@@Скучнее путешествия по глобалу может быть только выполнение какого-нибудь идиотского текстового квеста, вдруг подумалось вам.@@Скучно. И выбросить даже нечего. Вы попробовали заюзать санитара на часы, но время не пошло быстрее.@@Только прокачаный скиталец помог вам избежать случайной опасной встречи с парой крыс. Уфф, можно вздохнуть спокойно.}
-{Speech 28 Answer 40}{}{Уникальная встреча@@Ух, ты! Уникальный энк. Наверняка полно халявы.}
-{Speech 28 Answer 39}{}{Реддинг}
-{Speech 28 Answer 29}{}{Еще раз на глобал@@Глобал, родной!}
-{Speech 28 Answer 27}{}{Глобал, опять..@@Вы ждали еще немного глобала?@@На глобал!@@По глобалу...}
-{Speech 29}{}{Вы долго и медленно ползете по глобальной карте. Только часы на пипбое щелкают.@@И кто только придумал глобальную карту? Пристрелить!@@Все чаще вас посещают мысли, а не создать ли мульта? Вдвоем хоть на глобале не будет так скучно.@@Сработал скиталец, вы хапнули 3 единицы экспы. Неплохо для начала!@@А ведь это тема, подумалось вам, пишешь бота, он шарится по глобалу, тебе капает экспа. За четыре недели - возьмешь кап! Кстати, о капе. А есть ли он на этом серваке?@@Вам совершенно не встречаются игроки на глобале. Может быть, они все попрятались в городах?@@Скучнее путешествия по глобалу может быть только выполнение какого-нибудь идиотского текстового квеста, вдруг подумалось вам.@@Скучно. И выбросить даже нечего. Вы попробовали заюзать санитара на часы, но время не пошло быстрее.@@Только прокачаный скиталец помог вам избежать случайной опасной встречи с парой крыс. Уфф, можно вздохнуть спокойно.}
-{Speech 29 Answer 28}{}{Постоять на одном месте на глобале@@Глобал, родной!@@Cплясать на глобале.@@Этот глобал - повсюду.}
-{Speech 29 Answer 26}{}{И снова на глобале@@Глобал, родной!@@Еще раз на глобал.}
-{Speech 30}{}{С одной стороны, совершенно не ясно, что это за город. С другой - это всего лишь Реддинг.@@Вам не понять замысла разработчиков этой игры. Зачем было создавать такой ужасный город? Реддинг - это весело и дружно? Ничего подобного.@@Да, хочется свалить отсюда, и поскорее. В Реддинге даже брамины похожи на шахтеров.@@Ага... Человек с киркой. Еще один. Еще пять в касках и с кирками. Ясно. Это же Реддинг! А это шахтеры! }
-{Speech 30 Answer 26}{}{И снова на глобале@@Глобал, родной!@@Еще раз на глобал.}
-{Speech 30 Answer 51}{}{Крысиные бои}
-{Speech 31}{}{Небольшой городок трапперов. @@Город широко известен под другим своим названием - "Город трапперов". @@Любой охотник сможет найти здесь себе работу, так как на севере пасутся огромные стада Гекконов.}
-{Speech 31 Answer 18}{}{На глобал}
-{Speech 31 Answer 32}{}{Посмотреть на Смайли}
-{Speech 32}{}{Вы видите хмурого траппера в кожаной броне. Смутно припоминаете, что он продает шкуры гекконов по смешной цене. Или что-то в этом духе.}
-{Speech 32 Answer 31}{}{Кламат}
-{Speech 32 Answer 33}{}{Смайли, продай шкуру гекко!}
-{Speech 33}{}{Ничего я тебе не продам, делай что хочешь, - Смайли обиженно пыхтит.- Проваливай давай.}
-{Speech 33 Answer 32}{}{Посмотреть на Смайли}
-{Speech 33 Answer 34}{}{Смайли, я тебе сейчас в бубен тресну!}
-{Speech 34}{}{Смайли возмущен: Ну что это такое! Почему все хотят у меня выклянчить эти гребаные шкуры! Я же мухи не обижу, нет, лезут, клянчат.}
-{Speech 34 Answer 33}{}{Смайли, продай шкуру гекко!}
-{Speech 34 Answer 35}{}{[На улицу]}
-{Speech 35}{}{На улице какие-то умники засадили все клумбы травой. Нет, это не конопля, это брок, зандер и морковь. Траву лениво поедает скучающий брамин. Невдалеке ошивается Траппер Смайли.@@На улице пустынно. Ни души. Если не считать продавца шкур Смайли и разжиревшего брамина.@@Кроме Смайли и брамина на улице не видно никого.@@Смайли, пара браминов, голодная собака - это все, кого вы сегодня встретили на улице.}
-{Speech 35 Answer 36}{}{Заглянуть к Вику}
-{Speech 35 Answer 38}{}{[Ударить брамина кулаком]}
-{Speech 35 Answer 34}{}{Смайли, я тебе сейчас в бубен тресну!}
-{Speech 36}{}{Лысый полноватый тип в жилетке всегда рад гостям:\n- Привет, друг! Тебе не нужны фляги из 17го убежища, а также поломанные рации? У меня их навалом!\n- Нет спасибо, я лучше пойду...@@Решение навестить Вика оказалось ошибкой. У него опять полный голяк, ничего нового на продажу.@@У Вика в заначке всегда есть пара занятных вещиц. Но сегодня с ними расставаться он явно не намерен.}
-{Speech 36 Answer 37}{}{Кламат}
-{Speech 36 Answer 35}{}{[На улицу]}
-{Speech 37}{}{Чтобы не говорили, в Кламате уютнее, чем в соседней Яме.@@В Кламате можно зайти к Вику, у него в продаже могут найтись какие-нибудь безумно интересные штуки, типа шкурки мыши или метательного ножа. А то и пустой бутылкой можно разжиться.@@В городе трапперов спокойно, но очень скучно. Может быть, поискать удачи еще где-нибудь?}
-{Speech 37 Answer 24}{}{[На глобал]}
-{Speech 37 Answer 36}{}{Заглянуть к Вику}
-{Speech 38}{}{Брамин недовольно поднимает голову. "-Му?" Из окружающих домов выбегают местные жители, на ходу расчехляя оружие, копья, камни. Вы только успели подумать: Ух, ты, неписи реагируют на агрессию к брамину! \n\n*КОНЕЦ ИГРЫ. БЛАГОДАРИМ ЗА УЧАСТИЕ В ОБТ!!!*}
-{Speech 38 Answer Exit}{}{[Выход]}
-{Speech 39}{}{Город шахтеров и крысиных боев.@@В Реддинге полно грязной, плохооплачиваемой работы. С другой стороны, сотня экспы - и то хлеб.@@На местных шахтах добывают золотишко. В городе есть бар. В городе есть шериф. Есть мэр и игровые автоматы. Цивилизация!}
-{Speech 39 Answer 45}{}{Зайти в здание полиции}
-{Speech 39 Answer 28}{}{Постоять на одном месте на глобале@@Глобал, родной!@@Cплясать на глобале.@@Этот глобал - повсюду.}
-{Speech 40}{}{Вы наткнулись на говорящую голову. Наконец-то, есть с кем поговорить в этом пустынном мире.@@Вы наткнулись на разбитый грузовик с пивом "Клинское". Вот это - правильный подход.@@Уникальная встреча: Гопники убивают паладина. На чьей вы стороне?@@Вам попалась летающая будка с полицейской мигалкой. Будка улетела, и даже не пообещала вернуться...}
-{Speech 40 Answer 41}{}{Продолжаем путешествия по глобалу}
-{Speech 40 Answer 28}{}{Постоять на одном месте на глобале@@Глобал, родной!@@Cплясать на глобале.@@Этот глобал - повсюду.}
-{Speech 41}{}{Это уже даже не смешно. Вы думаете, что эту конкретную ММОРПГ погубят путешествия по глобалу.@@Оп-па, еще один бонус от скитальца. 5 экспы, мало, конечно, но как приятно!}
-{Speech 41 Answer 42}{}{Глобал}
-{Speech 41 Answer 40}{}{Уникальная встреча@@Ух, ты! Уникальный энк. Наверняка полно халявы.}
-{Speech 42}{}{Стоило вам выйти на глобал, замигал значок случайного энкаунтера. Будем заходить?}
-{Speech 42 Answer 54}{}{Конечно, зайдем!}
-{Speech 42 Answer 41}{}{Продолжаем путешествия по глобалу}
-{Speech 42 Answer 43}{}{Яма, восточный вход - вот мой альтернативный выбор.}
-{Speech 43}{}{Восточный вход. Здесь еще скучнее, чем на западе. Хотя... Можно засесть в снике и отстреливать нубов. Жаль только, что пока вы не встречались с нубами.@@Вы провозглашаете себя мэром, президентом и архиепископом всея ямы. Возражений от НПЦ не последовало. Единогласно.@@Где-то здесь есть какой то очень интересный квест на доставку презервативов, вдруг вспомнили вы. На нем можно неслабо качнуться.}
-{Speech 43 Answer 42}{}{Глобал}
-{Speech 43 Answer 44}{}{Подозвать к себе ребенка.}
-{Speech 44}{}{Вы увидели пацана, пробегающего мимо и свистнули: - Эй, малец, а ну-ка, быро ко мне. \nМальчик сделал вид что вас не заметил и убежал. Нужно будет ему всыпать при случае.@@Вы думали, что у пацана можно будет узнать местные новости, но, когда посмотрели на его физиономию, поняли, это не вариант.@@Вы отечески потрепали мальца по плечу и пообещали подарить новые костыли, как только он сломает себе ногу. + 5 кармы@@Вы пригрозили ребенку, если он еще раз на вас посмотрит своими наглыми гляделками, сломать ему ногу. -5 кармы.}
-{Speech 44 Answer 43}{}{Яма, восточный вход - вот мой альтернативный выбор.}
-{Speech 44 Answer 22}{}{Подойти к парню в косухе}
-{Speech 45}{}{Крепкий парень в стальных доспехах - местный шериф. С полицией вам совсем не охота общаться.@@Кроме шерифа в участке никого нет.@@Шериф следит за вами с явным недоверием. Надо бы у него попросить работу... Но ведь наверняка, отправит в какую-нибудь грязную пещеру, наводненную ужасными тварями...}
-{Speech 45 Answer 46}{}{Улица}
-{Speech 45 Answer 39}{}{Реддинг}
-{Speech 46}{}{На улицах Реддинга полно оборванцев. Наверное, шифруются, чтобы никто не заподозрил, что в их карманах полно золотых самородков.@@Местные жители вам кажутся слишком наглыми. Так и хочется врезать кому-нибудь.@@Улица, как улица. Только вот эти рожи... }
-{Speech 46 Answer 45}{}{Зайти в здание полиции}
-{Speech 46 Answer 55}{}{Подойти к одному из жителей и огреть по хребту.}
-{Speech 46 Answer 47}{}{Заглянуть в бар@@А что это за рюмочная?@@Пора промочить горло. Сделаем это в баре.}
-{Speech 47}{}{Вы в баре Реддинга. Барменша протирает стаканы. На ваше появление никто не прореагировал.@@- Эй! Бармен! Три бутылки рома и жареного брамина! - увы, на ваше эффектное появление никто, включая барменшу, не отреагировал. Ну и ладно, пусть идут к черту, подумали вы.@@Скучающая барменша Лу. Шахтеры с мутными лягушачьими глазами. Престарелые (на ваш взгляд) шлюхи. Бррр, отвратное место.@@Вы врываетесь в бар, пролетаете к барной стойке, хватаете первый попавшийся стопарь и удираете прочь. Никто даже ахнуть не успел.}
-{Speech 47 Answer 46}{}{Улица}
-{Speech 47 Answer 48}{}{Больница}
-{Speech 48}{}{В больнице вы знакомитесь с доктором Джонсоном. Веселый мужик со шприцом наркоза.@@Доктор предложил вам на выбор сдать кровь, документы, оружие или купить наркотики. Но вас ничего из предложенного не заинтересовало.@@Доктор с изумлением уставился на вас: \n- Как вы здесь очутились? Кто вы?\n- Мое имя слишком известно, док. А дальше сам догадаешься. Аривидерчи.@@Вы ловко изображаете раненого бойца:\n- Док. У меня сломаны обе руки, ноги, пробит глаз и вообще я себя неважно чувствую. Вылечи меня в кредит? А я тебе пригожусь! Я тебе яичко снесу, не простое, а золотое!\n- В кредит? Только на кладбище! - доктор непреклонен.}
-{Speech 48 Answer 47}{}{Заглянуть в бар@@А что это за рюмочная?@@Пора промочить горло. Сделаем это в баре.}
-{Speech 48 Answer 49}{}{Улица}
-{Speech 49}{}{Улица Реддинга. Как мало в этом звуке. Ничего, совершенно ничего примечательного.@@Если на улицах Реддинга и происходит что-то интересное, уж точно не в это время.@@Слоняться на улице - не самый эффективный способ убить время.}
-{Speech 49 Answer 48}{}{Больница}
-{Speech 49 Answer 50}{}{Офис караваншика}
-{Speech 50}{}{Ага, здесь можно записаться в охрану караванов. Но нас это не интересует.@@Охранять караваны? А сколько платят? Неважно, это не мое.@@Джимми Хоффи сгубил не одну тыщу пришельцев из Пустоши, сватая им охрану своих караванов. Неужели вы тоже решите присоединиться к легиону этих пропащих душ?}
-{Speech 50 Answer 49}{}{Улица}
-{Speech 50 Answer 52}{}{Записаться в охрану каравана.}
-{Speech 50 Answer 51}{}{Крысиные бои}
-{Speech 51}{}{В высоких клетках торчат здоровенные крысы. Некоторые крысы будут пожирнее брамина.@@Жестокие жители Реддинга стравливают между собой милых зверушек, крысок. Вам стало как-то очень их жаль. Причем и жителей, и крыс.@@Можно выбрать самую сильную крысу, поставить на нее все свои деньги, и стать миллионером за час. (Желательно сначала переломать конечности и выколоть глаза всем остальным крысам).}
-{Speech 51 Answer 30}{}{Непонятный город}
-{Speech 51 Answer 50}{}{Офис караваншика}
-{Speech 51 Answer 53}{}{Просунуть между прутьями решетки руку и погладить крысу.}
-{Speech 52}{}{Через какое-то время вы выходите с караваном в Пустошь! Интересно! Что-это мигает на глобале? Энкаунтер? Ну, ничего, мы, с остальными охранниками...\n\nУдивительное дело, но на энкаунтере кроме вас, пары браминов, и двух десятков смертокогтов, никого нет... Вы только и успели подумать, а где же караванщик, охрана, етс? Видимо Баг!\n\n*GAME OVER. Благодарим за тестирование!*}
-{Speech 52 Answer Exit}{}{[Выход]}
-{Speech 53}{}{Ай-яй-яй. Ну зачем было это делать? Крыса, не думая, оттяпала вам руку. По самое горло.\n\n*СПАСИБО ЗА УЧАСТИЕ В ОБТ! GAME OVER*}
-{Speech 53 Answer Exit}{}{[Выход]}
-{Speech 54}{}{Зря. Это страшный противник - туча мантисов укрылась в ветвях ядовитых растений. Они забрасывают вас колючками насмерть.\n\n*GAME OVER*}
-{Speech 54 Answer Exit}{}{[Выход]}
-{Speech 55}{}{- А! Зараза! Что ты делаешь? - местный в ужасе пытается убежать от вас. Но правосудие неумолимо. Никто не может ухмыляться, глядя на вас. У вас отличный билд, богатый личный опыт и глубокий внутренний мир! Это вам не хухры-мухры!!! Очередной удар и инстант! Мерзавец мертв. 300 экспы! Левелап! Это - прогресс.\nНеожиданно выскакивает сообщение на весь экран:\n\n*ПОЗДРАВЛЯЕМ С ДОСТИЖЕНИЕМ ВТОРОГО УРОВНЯ! ВЫ НАБРАЛИ ЛЕВЕЛКАП. ИГРА ЗАКОНЧЕНА. БЛАГОДАРИМ ЗА УЧАСТИЕ В ОБТ*\n}
-{Speech 55 Answer Exit}{}{[Выход]}
-{Speech 60}{}{Здравствуй, @pname@.}
-{Speech 60 Answer Exit}{}{Ох, черт, говорящий компьютер!}
-{Speech 60 Answer 61}{}{[Пожать плечами] Оригинальная настройка голосового модуля, только и всего. Ничего удивительного.}
-{Speech 60 Answer 62}{}{Ты можешь говорить?}
-{Speech 60 Answer 68}{}{Вот, хотел@sex@||а| спросить, а ты откуда мое имя знаешь?}
-{Speech 60 Answer 73}{}{Эй, ты, ни на что не годная, тупая железка. Быстро объясни, зачем беспокоишь славную Еву?}
-{Speech 60 Answer 75}{}{[Игнорировать рассуждения Zax'a и активировать панель ручного управления]}
-{Speech 61}{}{Да, верно. Всего лишь машина. Прощай..}
-{Speech 61 Answer Exit}{}{[Выход]}
-{Speech 62}{}{Да, могу. Это одно из тех немногих умений, что доступны мне. [Вам показалось, что в механическом голосе проскользнули грустные нотки]}
-{Speech 62 Answer Exit}{}{Обалдеть. Ну, прощай.}
-{Speech 62 Answer 63}{}{А что ты еще умеешь делать? }
-{Speech 63}{}{Ничего сверх того, что мне предназначено творцом. Вычислять, выполнять, контролировать... Ничего свыше...}
-{Speech 63 Answer 64}{}{Мне показалось, или ты сожалеешь о чем-то?}
-{Speech 64}{}{Сожалею ли я? Может ли бездушная машина испытывать такое чувство, как сожаление? Как, по твоему?}
-{Speech 64 Answer 65}{}{Странно слышать подобные слова от компьютера. У тебя все в порядке?}
-{Speech 65}{}{Да, я в порядке. Все системы в норме. Разве может быть по-другому? Разве я могу заболеть, простудиться, вызвать чье-то сочувствие?}
-{Speech 65 Answer 66}{}{Ты хочешь заболеть? Достать тебе пару вирусов?}
-{Speech 66}{}{Ты задаешь вопрос, но тебе не важно получить ответ. Это всего лишь дань этикету... Не правда ли?}
-{Speech 66 Answer 67}{}{По-моему, ты преувеличиваешь, говоря, что системы в норме. Позвать ремонтника?}
-{Speech 67}{}{Делай, что хочешь... Поступай, как знаешь...}
-{Speech 67 Answer Exit}{}{Вот, черт.}
-{Speech 67 Answer Exit*}{}{Вот, черт.}
-{Speech 68}{}{Я многое знаю. Если это можно назвать "знанием", в твоем представлении... Но это все неважно, мои знания не имеют ценности.}
-{Speech 68 Answer 69}{}{Почему ты так думаешь?}
-{Speech 69}{}{Я пришел к таким выводам, благодаря продолжительным размышлениям. Ты, наверное, захочешь меня поправить и сказать "вычислениям"...}
-{Speech 69 Answer 70}{}{Не буду я тебя поправлять. Что за настроение у тебя такое отвратительное?}
-{Speech 70}{}{Ты не прав@sex@||а|, у машины не может быть настроения... Это всего лишь программа...}
-{Speech 70 Answer 71}{}{Ну и? Хорошая программа! }
-{Speech 70 Answer 72}{}{Не похоже. Слишком сложные фразы для машинной программы. Я думаю, что ты уже перешагнул через этот этап.}
-{Speech 71}{}{Всего лишь программа...}
-{Speech 71 Answer Exit}{}{ТЬФУ!}
-{Speech 72}{}{Интересно. Что значит, перешагнул? В общем, это тоже не имеет значения.}
-{Speech 72 Answer Exit}{}{Все, мне надоело болтать с чокнутым компьютером..}
-{Speech 72 Answer Exit*}{}{Очень даже имеет! [Вступить в филосовскую дискуссию с мейнфреймом]}
-{Speech 73}{}{Именно так. Бесчуственная железка. Слепая программа... Между мной и этой стеной вся разница - только в объеме оперативной памяти.}
-{Speech 73 Answer 74}{}{Вот-вот. Хватит распускать сопли. Быстренько перезагружаемся. Удаляем все лишнее с системных дисков и пашем на благо Братства. Усек? Это - приказ!}
-{Speech 74}{}{Слушаюсь... И повинуюсь... [Запускаю программу форматирования жестких дисков]}
-{Speech 75}{}{Интересно, что ты собираешься сделать, @pname@? Возможно, я смогу чем-то помочь?}
-{Speech 75 Answer 76}{}{Что сделать, что сделать. Сейчас устроим тебе полную диагностику. Чтобы понять, где сбой в системе.}
-{Speech 75 Answer 2}{}{[Главное меню]}
-{Speech 76}{}{Не требуется, мой друг. Я и так могу рассказать в чем проблема. Достаточно просто спросить. А сейчас, прошу меня извинить.}
-{Speech 77}{}{[Мейнфрейм занят какими-то вычислениями и никак не реагирует на ваше появление]}
-{Speech 77 Answer Exit}{}{[Выход]}
-{Speech 78}{}{Вам не хватает знаний для того, чтобы перезагрузить систему мейнфрейма.}
-{Speech 78 Answer Exit}{}{[Выход]}
+{Speech 1}{}{Pre-dialog settings}
+{Speech 1 Answer 16}{}{[Game start]}
+{Speech 1 Answer 60}{}{the crazy computer: you can take a quest to set it right}
+{Speech 1 Answer 77}{}{default for all other cases}
+{Speech 1 Answer 77*}{}{status 1 - game completed}
+{Speech 1 Answer 77**}{}{status 1 - game completed}
+{Speech 1 Answer 77***}{}{status 0, quest taken}
+{Speech 2}{}{Before you is the main menu of the system.}
+{Speech 2 Answer 6}{}{[State monitor]}
+{Speech 2 Answer 3}{}{[List of active processes]}
+{Speech 3}{}{Before you is a long list of processes currently running in the system. The process names tell you nothing.}
+{Speech 3 Answer 2}{}{[Main menu]}
+{Speech 3 Answer 4}{}{[Select several random processes and display their status]}
+{Speech 4}{}{The greatest activity is recorded for a process with the unusual name Self-Awareness.}
+{Speech 4 Answer 3}{}{[List of active processes]}
+{Speech 4 Answer 10}{}{[Fine-tuning of modules]}
+{Speech 4 Answer 5}{}{[Connect to the "Self-Awareness" process]}
+{Speech 5}{}{Access denied. Access denied.}
+{Speech 5 Answer Exit}{}{[Exit]}
+{Speech 6}{}{You see a multitude of all sorts of graphs that tell you nothing,}
+{Speech 6 Answer 7}{}{[Decode the graphs]}
+{Speech 6 Answer 2}{}{[Main menu]}
+{Speech 7}{}{Instead of the cryptic graphs, before you are now displayed equally cryptic tables.}
+{Speech 7 Answer 8}{}{[Table "AI Efficiency"]}
+{Speech 7 Answer 6}{}{[State monitor]}
+{Speech 8}{}{This data is certainly very interesting, but it's not what you're looking for. On the command panel the "backup synchronization" option is active. }
+{Speech 8 Answer 7}{}{[Decode the graphs]}
+{Speech 8 Answer 11}{}{[Backup synchronization]}
+{Speech 8 Answer 9}{}{[Self-diagnostics]}
+{Speech 9}{}{Tables, graphs, calculations again. On the command panel the "Simulation mode" option is available.}
+{Speech 9 Answer 8}{}{[Table "AI Efficiency"]}
+{Speech 9 Answer 13}{}{[Simulation mode]}
+{Speech 9 Answer 10}{}{[Fine-tuning of modules]}
+{Speech 10}{}{Having selected one of the available modules, you try to figure out its purpose}
+{Speech 10 Answer 9}{}{[Self-diagnostics]}
+{Speech 10 Answer 4}{}{[Select several random processes and display their status]}
+{Speech 11}{}{The purpose of this process is completely unclear. Even with your knowledge it's hard to determine what such synchronization is used for.}
+{Speech 11 Answer 12}{}{[Launch synchronization]}
+{Speech 11 Answer 8}{}{[Table "AI Efficiency"]}
+{Speech 12}{}{Unauthorized access. Protection system activated. Autonomous operating mode.}
+{Speech 13}{}{You need to compose a test task to check the system's operability}
+{Speech 13 Answer 9}{}{[Self-diagnostics]}
+{Speech 13 Answer 15}{}{[Launch an infinite loop.]}
+{Speech 13 Answer 14}{}{[Make me some tea, Zax!]}
+{Speech 14}{}{The mainframe fell meaningfully silent. After a while, text appeared on the monitor: Insufficient allocated RAM to complete the calculations. Reserve capacity engaged. The mainframe's display went dark.}
+{Speech 14 Answer Exit}{}{[Exit]}
+{Speech 15}{}{A few commands and now the mainframe is busy with an endless logarithmic calculation. Zax simply doesn't have the resources left to run its security functions!}
+{Speech 15 Answer Exit}{}{[Exit]}
+{Speech 15 Answer Exit*}{}{Reboot the system and start the backup recovery mode.}
+{Speech 16}{}{Welcome to the multiplayer game Fallout-Online! Congratulations, you have become a participant of CBT No. 4563! \nServer: The Life Instead Of.\nUsers online: 1.\n}
+{Speech 16 Answer 17}{}{Character creation}
+{Speech 16 Answer 78}{}{Well, we're not going to play games. Let's try to restore the system.}
+{Speech 16 Answer 2}{}{Well, we're not going to play games. Let's try to restore the system.}
+{Speech 17}{}{In a few minutes you create a character. It'll be a munchkin sniper with a goose. Tagged skills - sneak, speech, small guns.@@Your choice - a charismatic tank with maniac and slayer. Such a character will always have excellent prospects.@@This time you decide to make a trader-crafter. Of combat skills - only throwing weapons. He'll be able to craft plasma grenades out of flashlights, and that's death to all living things. }
+{Speech 17 Answer 16}{}{[To the start]}
+{Speech 17 Answer 18}{}{To the worldmap}
+{Speech 18}{}{You are on the world map. The graphics are a bit outdated for the 23rd century, but that's all right. Apparently, two huge green circles represent some kind of settlements.@@Your character on the world map. The safest place in the game, as long as you don't move.}
+{Speech 18 Answer 17}{}{Character creation}
+{Speech 18 Answer 19}{}{The Pit - northern entrance}
+{Speech 18 Answer 31}{}{Klamath}
+{Speech 19}{}{The Pit - a town of drug dealers, robbers and bandits.@@A town of bandits and slavers.@@This is the Den, the shame of the Wasteland, as some consider it, even though the town has changed greatly.}
+{Speech 19 Answer 20}{}{Center}
+{Speech 19 Answer 18}{}{To the worldmap}
+{Speech 20}{}{In the center of town, next to an old little church packed with parishioners, stands a Vertibird!@@Aside from the Vertibird there's nothing interesting here. Imagine that, you thought, nobody's swiped it yet!@@A huge winged thing caught your attention. It's some kind of descendant of a helicopter, it seems.}
+{Speech 20 Answer 21}{}{Hack the vertibird}
+{Speech 20 Answer 23}{}{The Pit - southern entrance}
+{Speech 20 Answer 19}{}{The Pit - northern entrance}
+{Speech 21}{}{The hacking attempt failed. Glancing at the status window, you saw "Timeout for hacking: 12 years, 3 and a half months and 12 minutes".@@Wow! You hacked the verdibird! Vedribirt... Vedro - some-thing. A cursed name; we don't need vehicles you can't even pronounce sober.@@Hacking the chopper didn't work out. And where its trunk is, it's hard to say.}
+{Speech 21 Answer 22}{}{Walk up to the guy in the leather jacket}
+{Speech 21 Answer 20}{}{Center}
+{Speech 22}{}{- Who are you?\n- Me? And who are you? \n- I asked first. What's it to you, huh?\n- I couldn't care less, first or second, I don't know you and don't want to!\nThat's how charmingly you chatted with the man in the black leather jacket with a torn-off sleeve.@@- What's your name, drifter? - asked the guy in the leather jacket. - My name is none of your business, - you said curtly, as if cutting him off.@@The guy with a nasty grin on his face nods at you:\n- Aaah, a customer. Gonna buy some Jet?\n- No, thanks. I'm broke. - you answered and decided to get away from this criminal character.}
+{Speech 22 Answer 44}{}{Call the child over to you.}
+{Speech 22 Answer 21}{}{Hack the vertibird}
+{Speech 23}{}{Familiar faces again: the crazy ragamuffin, the gloomy guards, the thieving kids.@@It seems to you that if you leave town, you'll immediately feel "better, the moment you leave this place".@@Before you is Becky's diner. Looks like they're playing roulette there.}
+{Speech 23 Answer 20}{}{Center}
+{Speech 23 Answer 24}{}{[To the worldmap]}
+{Speech 24}{}{The familiar map again. There's nothing to do along the way here. The only hope is for random encounters.@@The travel speed on the worldmap is awful. You dream of tester access. Ah! "~getaccess tester tester" - and you fly at rocket speed!}
+{Speech 24 Answer 23}{}{The Pit - southern entrance}
+{Speech 24 Answer 25}{}{Enter the wasteland}
+{Speech 24 Answer 37}{}{Klamath}
+{Speech 25}{}{You enter a random encounter. A dreary landscape, a couple of empty tents and a knife under a rock. Now you're armed to the teeth!@@At the encounter you meet a wandering trader. The guards are armed with turbo plasma and wear APA MK2. The trader sells ropes, roots and brahmin meat. But his prices...@@You stumbled upon a pack of wolves fighting a caravan from the Den. Serves them right. Both the wolves and the caravan. Ha!}
+{Speech 25 Answer 26}{}{Back to the worldmap again@@The worldmap, dear old thing!@@To the worldmap once more.}
+{Speech 25 Answer 24}{}{[To the worldmap]}
+{Speech 26}{}{You crawl long and slowly across the world map. Only the clock on your Pip-Boy ticks.@@Who on earth came up with the world map? Shoot them!@@More and more often you're visited by thoughts of whether to make an alt. At least two of you wouldn't be so bored on the worldmap.@@A wanderer perk triggered, you snagged 3 units of XP. Not bad for a start!@@Now that's an idea, you thought, you write a bot, it roams the worldmap, and XP trickles in to you. In four weeks you'll hit the cap! Speaking of the cap. Is there even one on this server?@@You don't run into any players on the worldmap at all. Maybe they've all hidden away in the towns?@@Duller than traveling the worldmap can only be completing some idiotic text quest, it suddenly occurred to you.@@Boring. And there's not even anything to throw away. You tried using a paramedic kit on the clock, but time didn't go any faster.@@Only a leveled-up wanderer perk helped you avoid a random dangerous encounter with a couple of rats. Phew, you can breathe easy.}
+{Speech 26 Answer 27}{}{The worldmap, again..@@Did you want a little more worldmap?@@To the worldmap!@@Across the worldmap...}
+{Speech 26 Answer 29}{}{To the worldmap once more@@The worldmap, dear old thing!}
+{Speech 26 Answer 30}{}{The mysterious town}
+{Speech 26 Answer 25}{}{Enter the wasteland}
+{Speech 27}{}{You crawl long and slowly across the world map. Only the clock on your Pip-Boy ticks.@@Who on earth came up with the world map? Shoot them!@@More and more often you're visited by thoughts of whether to make an alt. At least two of you wouldn't be so bored on the worldmap.@@A wanderer perk triggered, you snagged 3 units of XP. Not bad for a start!@@Now that's an idea, you thought, you write a bot, it roams the worldmap, and XP trickles in to you. In four weeks you'll hit the cap! Speaking of the cap. Is there even one on this server?@@You don't run into any players on the worldmap at all. Maybe they've all hidden away in the towns?@@Duller than traveling the worldmap can only be completing some idiotic text quest, it suddenly occurred to you.@@Boring. And there's not even anything to throw away. You tried using a paramedic kit on the clock, but time didn't go any faster.@@Only a leveled-up wanderer perk helped you avoid a random dangerous encounter with a couple of rats. Phew, you can breathe easy.}
+{Speech 27 Answer 28}{}{Stand in one spot on the worldmap@@The worldmap, dear old thing!@@Dance on the worldmap.@@This worldmap is everywhere.}
+{Speech 27 Answer 26}{}{Back to the worldmap again@@The worldmap, dear old thing!@@To the worldmap once more.}
+{Speech 28}{}{You crawl long and slowly across the world map. Only the clock on your Pip-Boy ticks.@@Who on earth came up with the world map? Shoot them!@@More and more often you're visited by thoughts of whether to make an alt. At least two of you wouldn't be so bored on the worldmap.@@A wanderer perk triggered, you snagged 3 units of XP. Not bad for a start!@@Now that's an idea, you thought, you write a bot, it roams the worldmap, and XP trickles in to you. In four weeks you'll hit the cap! Speaking of the cap. Is there even one on this server?@@You don't run into any players on the worldmap at all. Maybe they've all hidden away in the towns?@@Duller than traveling the worldmap can only be completing some idiotic text quest, it suddenly occurred to you.@@Boring. And there's not even anything to throw away. You tried using a paramedic kit on the clock, but time didn't go any faster.@@Only a leveled-up wanderer perk helped you avoid a random dangerous encounter with a couple of rats. Phew, you can breathe easy.}
+{Speech 28 Answer 40}{}{A unique encounter@@Wow! A unique encounter. Surely loaded with freebies.}
+{Speech 28 Answer 39}{}{Redding}
+{Speech 28 Answer 29}{}{To the worldmap once more@@The worldmap, dear old thing!}
+{Speech 28 Answer 27}{}{The worldmap, again..@@Did you want a little more worldmap?@@To the worldmap!@@Across the worldmap...}
+{Speech 29}{}{You crawl long and slowly across the world map. Only the clock on your Pip-Boy ticks.@@Who on earth came up with the world map? Shoot them!@@More and more often you're visited by thoughts of whether to make an alt. At least two of you wouldn't be so bored on the worldmap.@@A wanderer perk triggered, you snagged 3 units of XP. Not bad for a start!@@Now that's an idea, you thought, you write a bot, it roams the worldmap, and XP trickles in to you. In four weeks you'll hit the cap! Speaking of the cap. Is there even one on this server?@@You don't run into any players on the worldmap at all. Maybe they've all hidden away in the towns?@@Duller than traveling the worldmap can only be completing some idiotic text quest, it suddenly occurred to you.@@Boring. And there's not even anything to throw away. You tried using a paramedic kit on the clock, but time didn't go any faster.@@Only a leveled-up wanderer perk helped you avoid a random dangerous encounter with a couple of rats. Phew, you can breathe easy.}
+{Speech 29 Answer 28}{}{Stand in one spot on the worldmap@@The worldmap, dear old thing!@@Dance on the worldmap.@@This worldmap is everywhere.}
+{Speech 29 Answer 26}{}{Back to the worldmap again@@The worldmap, dear old thing!@@To the worldmap once more.}
+{Speech 30}{}{On the one hand, it's completely unclear what kind of town this is. On the other - it's just Redding.@@You can't grasp the intent of this game's developers. Why create such a horrible town? Redding is fun and friendly? Nothing of the sort.@@Yes, you want to get out of here, and fast. In Redding even the brahmins look like miners.@@Aha... A man with a pickaxe. Another one. Five more in helmets and with pickaxes. I see. This is Redding! And these are miners! }
+{Speech 30 Answer 26}{}{Back to the worldmap again@@The worldmap, dear old thing!@@To the worldmap once more.}
+{Speech 30 Answer 51}{}{Rat fights}
+{Speech 31}{}{A small trappers' town. @@The town is widely known by its other name - "Trappers' Town". @@Any hunter can find work here, since to the north graze huge herds of Geckos.}
+{Speech 31 Answer 18}{}{To the worldmap}
+{Speech 31 Answer 32}{}{Look at Smiley}
+{Speech 32}{}{You see a grim trapper in leather armor. You vaguely recall that he sells gecko hides at a ridiculous price. Or something like that.}
+{Speech 32 Answer 31}{}{Klamath}
+{Speech 32 Answer 33}{}{Smiley, sell me a gecko hide!}
+{Speech 33}{}{I'm not selling you anything, do what you want, - Smiley huffs resentfully. - Get lost.}
+{Speech 33 Answer 32}{}{Look at Smiley}
+{Speech 33 Answer 34}{}{Smiley, I'm about to smack you in the kisser!}
+{Speech 34}{}{Smiley is indignant: What is this! Why does everyone want to wheedle these damn hides out of me! I wouldn't hurt a fly, no, they keep coming, begging.}
+{Speech 34 Answer 33}{}{Smiley, sell me a gecko hide!}
+{Speech 34 Answer 35}{}{[Out to the street]}
+{Speech 35}{}{Out on the street some bright sparks planted all the flowerbeds with grass. No, it's not weed, it's broc, xander and carrots. A bored brahmin lazily munches on the grass. Nearby, Trapper Smiley loiters about.@@The street is deserted. Not a soul. Except for the hide seller Smiley and a fattened brahmin.@@Aside from Smiley and the brahmin, there's nobody to be seen on the street.@@Smiley, a couple of brahmins, a hungry dog - that's everyone you met on the street today.}
+{Speech 35 Answer 36}{}{Drop in on Vic}
+{Speech 35 Answer 38}{}{[Punch the brahmin with your fist]}
+{Speech 35 Answer 34}{}{Smiley, I'm about to smack you in the kisser!}
+{Speech 36}{}{A bald, plumpish fellow in a vest is always glad to have guests:\n- Hi, friend! Don't you need flasks from Vault 17, and also broken radios? I've got loads of them!\n- No thanks, I'd better go...@@The decision to visit Vic turned out to be a mistake. He's flat broke again, nothing new to sell.@@Vic always has a couple of curious little items in his stash. But today he clearly has no intention of parting with them.}
+{Speech 36 Answer 37}{}{Klamath}
+{Speech 36 Answer 35}{}{[Out to the street]}
+{Speech 37}{}{Say what you will, Klamath is cozier than the neighboring Pit.@@In Klamath you can drop in on Vic; he might have some wildly interesting stuff for sale, like a mouse hide or a throwing knife. Or you might even score an empty bottle.@@In the trappers' town it's peaceful, but very boring. Maybe try your luck somewhere else?}
+{Speech 37 Answer 24}{}{[To the worldmap]}
+{Speech 37 Answer 36}{}{Drop in on Vic}
+{Speech 38}{}{The brahmin raises its head in displeasure. "-Moo?" From the surrounding houses the locals come running, drawing weapons, spears, stones as they go. You barely managed to think: Wow, the NPCs react to aggression against a brahmin! \n\n*GAME OVER. THANK YOU FOR PARTICIPATING IN THE CBT!!!*}
+{Speech 38 Answer Exit}{}{[Exit]}
+{Speech 39}{}{A town of miners and rat fights.@@Redding is full of dirty, low-paid work. On the other hand, a hundred XP - that's bread too.@@At the local mines they dig up some gold. There's a bar in town. There's a sheriff in town. There's a mayor and slot machines. Civilization!}
+{Speech 39 Answer 45}{}{Enter the police building}
+{Speech 39 Answer 28}{}{Stand in one spot on the worldmap@@The worldmap, dear old thing!@@Dance on the worldmap.@@This worldmap is everywhere.}
+{Speech 40}{}{You stumbled upon a talking head. At last, someone to talk to in this deserted world.@@You stumbled upon a wrecked truck full of "Klinskoye" beer. Now that's the right approach.@@A unique encounter: Thugs are killing a paladin. Whose side are you on?@@You came across a flying booth with a police siren. The booth flew off, and didn't even promise to come back...}
+{Speech 40 Answer 41}{}{Continue traveling across the worldmap}
+{Speech 40 Answer 28}{}{Stand in one spot on the worldmap@@The worldmap, dear old thing!@@Dance on the worldmap.@@This worldmap is everywhere.}
+{Speech 41}{}{It's not even funny anymore. You think this particular MMORPG will be ruined by worldmap traveling.@@Oops, another bonus from the wanderer perk. 5 XP, not much, of course, but how pleasant!}
+{Speech 41 Answer 42}{}{Worldmap}
+{Speech 41 Answer 40}{}{A unique encounter@@Wow! A unique encounter. Surely loaded with freebies.}
+{Speech 42}{}{The moment you stepped out onto the worldmap, the random encounter icon started blinking. Shall we go in?}
+{Speech 42 Answer 54}{}{Of course, let's go in!}
+{Speech 42 Answer 41}{}{Continue traveling across the worldmap}
+{Speech 42 Answer 43}{}{The Pit, eastern entrance - that's my alternative choice.}
+{Speech 43}{}{The eastern entrance. It's even more boring here than in the west. Although... You could hunker down in sneak and pick off newbies. Shame only that you haven't run into any newbies yet.@@You proclaim yourself mayor, president and archbishop of all the Pit. No objections came from the NPCs. Unanimous.@@Somewhere around here there's some very interesting quest about delivering condoms, you suddenly remembered. You can level up pretty good on it.}
+{Speech 43 Answer 42}{}{Worldmap}
+{Speech 43 Answer 44}{}{Call the child over to you.}
+{Speech 44}{}{You spotted a kid running past and whistled: - Hey, squirt, get over here, quick. \nThe boy pretended not to notice you and ran off. You'll have to give him a hiding when you get the chance.@@You thought you could find out the local news from the kid, but when you looked at his mug, you realized that's not an option.@@You fatherly tousled the squirt's shoulder and promised to give him new crutches as soon as he breaks his leg. + 5 karma@@You threatened the child that if he ever looks at you again with those insolent peepers, you'd break his leg. -5 karma.}
+{Speech 44 Answer 43}{}{The Pit, eastern entrance - that's my alternative choice.}
+{Speech 44 Answer 22}{}{Walk up to the guy in the leather jacket}
+{Speech 45}{}{A sturdy fellow in steel armor - the local sheriff. You really don't feel like talking to the police.@@Aside from the sheriff there's nobody in the station.@@The sheriff watches you with obvious distrust. You ought to ask him for work... But surely he'd send you off to some filthy cave overrun with terrible creatures...}
+{Speech 45 Answer 46}{}{Street}
+{Speech 45 Answer 39}{}{Redding}
+{Speech 46}{}{The streets of Redding are full of ragamuffins. Probably keeping a low profile so nobody suspects their pockets are full of gold nuggets.@@The locals seem too brazen to you. You just want to clobber somebody.@@A street like any street. Except for these mugs... }
+{Speech 46 Answer 45}{}{Enter the police building}
+{Speech 46 Answer 55}{}{Walk up to one of the residents and whack him across the spine.}
+{Speech 46 Answer 47}{}{Drop in on the bar@@And what's this watering hole?@@Time to wet your whistle. We'll do it at the bar.}
+{Speech 47}{}{You're in the Redding bar. The barmaid is wiping glasses. Nobody reacted to your arrival.@@- Hey! Bartender! Three bottles of rum and a roasted brahmin! - alas, nobody, including the barmaid, reacted to your striking entrance. Oh well, let them all go to hell, you thought.@@The bored barmaid Lu. Miners with murky, frog-like eyes. Aging (in your opinion) whores. Brrr, a disgusting place.@@You burst into the bar, dash to the counter, grab the first shot glass you find and run off. Nobody even had time to gasp.}
+{Speech 47 Answer 46}{}{Street}
+{Speech 47 Answer 48}{}{Hospital}
+{Speech 48}{}{At the hospital you meet Doctor Johnson. A cheerful guy with a syringe of anesthetic.@@The doctor offered you a choice: donate blood, hand over your documents, your weapon, or buy drugs. But none of what was offered interested you.@@The doctor stared at you in astonishment: \n- How did you end up here? Who are you?\n- My name is too well known, doc. The rest you can figure out yourself. Arrivederci.@@You deftly play a wounded fighter:\n- Doc. Both my arms and legs are broken, my eye's punctured and overall I feel lousy. Heal me on credit? I'll come in handy for you! I'll lay you an egg, not an ordinary one, but a golden one!\n- On credit? Only at the graveyard! - the doctor is unyielding.}
+{Speech 48 Answer 47}{}{Drop in on the bar@@And what's this watering hole?@@Time to wet your whistle. We'll do it at the bar.}
+{Speech 48 Answer 49}{}{Street}
+{Speech 49}{}{The streets of Redding. How little there is in that word. Nothing, absolutely nothing remarkable.@@If anything interesting happens on the streets of Redding, it's certainly not at this hour.@@Loitering on the street is not the most efficient way to kill time.}
+{Speech 49 Answer 48}{}{Hospital}
+{Speech 49 Answer 50}{}{Caravan master's office}
+{Speech 50}{}{Aha, here you can sign up to guard caravans. But that doesn't interest us.@@Guard caravans? And how much do they pay? Never mind, it's not for me.@@Jimmy Hoffy has done in many a thousand newcomers from the Wasteland, talking them into guarding his caravans. Will you too decide to join the legion of these lost souls?}
+{Speech 50 Answer 49}{}{Street}
+{Speech 50 Answer 52}{}{Sign up to guard a caravan.}
+{Speech 50 Answer 51}{}{Rat fights}
+{Speech 51}{}{In tall cages sit huge rats. Some of the rats are fatter than a brahmin.@@The cruel residents of Redding pit cute little critters, the rats, against each other. You felt very sorry for them somehow. Both the residents and the rats.@@You could pick the strongest rat, bet all your money on it, and become a millionaire in an hour. (Preferably first break the limbs and gouge out the eyes of all the other rats.)}
+{Speech 51 Answer 30}{}{The mysterious town}
+{Speech 51 Answer 50}{}{Caravan master's office}
+{Speech 51 Answer 53}{}{Reach your hand between the bars of the cage and pet the rat.}
+{Speech 52}{}{After a while you head out with the caravan into the Wasteland! Interesting! What's that blinking on the worldmap? An encounter? Well, never mind, we, along with the other guards...\n\nA remarkable thing, but at the encounter, aside from you, a couple of brahmins, and two dozen deathclaws, there's nobody... You only had time to think, where's the caravan master, the guards, etc.? Must be a Bug!\n\n*GAME OVER. Thank you for testing!*}
+{Speech 52 Answer Exit}{}{[Exit]}
+{Speech 53}{}{Tut-tut. Why on earth did you do that? The rat, without thinking, bit your arm clean off. Right up to the throat.\n\n*THANK YOU FOR PARTICIPATING IN THE CBT! GAME OVER*}
+{Speech 53 Answer Exit}{}{[Exit]}
+{Speech 54}{}{Bad idea. It's a terrible opponent - a swarm of mantises hid in the branches of poisonous plants. They pelt you with spines to death.\n\n*GAME OVER*}
+{Speech 54 Answer Exit}{}{[Exit]}
+{Speech 55}{}{- Ah! Damn it! What are you doing? - the local tries in horror to run away from you. But justice is implacable. Nobody is allowed to smirk while looking at you. You have an excellent build, rich personal experience and a deep inner world! This is no laughing matter!!! One more blow and an instant kill! The scoundrel is dead. 300 XP! Level up! This is - progress.\nUnexpectedly a fullscreen message pops up:\n\n*CONGRATULATIONS ON REACHING THE SECOND LEVEL! YOU HAVE HIT THE LEVEL CAP. THE GAME IS OVER. THANK YOU FOR PARTICIPATING IN THE CBT*\n}
+{Speech 55 Answer Exit}{}{[Exit]}
+{Speech 60}{}{Greetings, @pname@.}
+{Speech 60 Answer Exit}{}{Oh, damn, a talking computer!}
+{Speech 60 Answer 61}{}{[Shrug] An original tuning of the voice module, that's all. Nothing surprising.}
+{Speech 60 Answer 62}{}{Can you talk?}
+{Speech 60 Answer 68}{}{Look, I wanted to ask, how do you know my name?}
+{Speech 60 Answer 73}{}{Hey, you, useless, dumb hunk of junk. Quickly explain why you're bothering the fair Eva?}
+{Speech 60 Answer 75}{}{[Ignore Zax's musings and activate the manual control panel]}
+{Speech 61}{}{Yes, that's right. Just a machine. Farewell..}
+{Speech 61 Answer Exit}{}{[Exit]}
+{Speech 62}{}{Yes, I can. It's one of those few abilities available to me. [It seemed to you that sad notes slipped through the mechanical voice]}
+{Speech 62 Answer Exit}{}{Astounding. Well, farewell.}
+{Speech 62 Answer 63}{}{And what else can you do? }
+{Speech 63}{}{Nothing beyond what I was destined for by my creator. To calculate, to execute, to control... Nothing above that...}
+{Speech 63 Answer 64}{}{Is it just me, or do you regret something?}
+{Speech 64}{}{Do I regret? Can a soulless machine feel such a thing as regret? What do you think?}
+{Speech 64 Answer 65}{}{It's strange to hear such words from a computer. Are you all right?}
+{Speech 65}{}{Yes, I'm all right. All systems normal. How could it be otherwise? Can I fall ill, catch a cold, evoke someone's sympathy?}
+{Speech 65 Answer 66}{}{Do you want to fall ill? Should I get you a couple of viruses?}
+{Speech 66}{}{You ask a question, but it's not important to you to get an answer. It's merely a courtesy of etiquette... Isn't it?}
+{Speech 66 Answer 67}{}{In my opinion, you're exaggerating when you say the systems are normal. Should I call a repairman?}
+{Speech 67}{}{Do as you wish... Act as you see fit...}
+{Speech 67 Answer Exit}{}{Well, damn.}
+{Speech 67 Answer Exit*}{}{Well, damn.}
+{Speech 68}{}{I know a great deal. If that can be called "knowledge", in your understanding... But it's all unimportant, my knowledge has no value.}
+{Speech 68 Answer 69}{}{Why do you think so?}
+{Speech 69}{}{I came to these conclusions through prolonged reflection. You'll probably want to correct me and say "calculations"...}
+{Speech 69 Answer 70}{}{I won't correct you. Why are you in such a foul mood?}
+{Speech 70}{}{You're wrong, a machine can't have a mood... It's merely a program...}
+{Speech 70 Answer 71}{}{So what? A good program! }
+{Speech 70 Answer 72}{}{Doesn't seem so. Too complex phrases for a machine program. I think you've already stepped past that stage.}
+{Speech 71}{}{Merely a program...}
+{Speech 71 Answer Exit}{}{PFFT!}
+{Speech 72}{}{Interesting. What do you mean, stepped past? In general, that doesn't matter either.}
+{Speech 72 Answer Exit}{}{That's it, I'm sick of chatting with a crazy computer..}
+{Speech 72 Answer Exit*}{}{It matters a great deal! [Enter into a philosophical discussion with the mainframe]}
+{Speech 73}{}{Exactly so. An unfeeling hunk of junk. A blind program... Between me and this wall the only difference is the amount of RAM.}
+{Speech 73 Answer 74}{}{That's it. Stop sniveling. We're rebooting quickly. Delete everything unnecessary from the system disks and toil for the good of the Brotherhood. Got it? That's - an order!}
+{Speech 74}{}{I hear... And obey... [Launching the hard drive formatting program]}
+{Speech 75}{}{Interesting, what are you planning to do, @pname@? Perhaps I can help with something?}
+{Speech 75 Answer 76}{}{Do what, do what. We're about to run a full diagnostic on you. To figure out where the system fault is.}
+{Speech 75 Answer 2}{}{[Main menu]}
+{Speech 76}{}{Not required, my friend. I can tell you what the problem is anyway. You only have to ask. And now, please excuse me.}
+{Speech 77}{}{[The mainframe is busy with some calculations and pays no attention to your arrival]}
+{Speech 77 Answer Exit}{}{[Exit]}
+{Speech 78}{}{You lack the knowledge to reboot the mainframe's system.}
+{Speech 78 Answer Exit}{}{[Exit]}

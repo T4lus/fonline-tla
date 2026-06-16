@@ -64,23 +64,23 @@ Speech 7 # Да? Че вы от меня хотите?
 {DescAliveFull}{}{You see Kroket, habolog scientist.}
 {DescAliveFull}{}{You see relatively young, balding scientist. It looks like he terrible slob.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ууугы!}
+{Speech 1 Answer 3}{}{Uuugh!}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Да? Че вы от меня хотите?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer 4}{}{Что вы здесь делаете?}
-{Speech 2 Answer Barter}{}{Давайте поторгуем.}
-{Speech 2 Answer Exit}{}{Извините. [Выход]}
-{Speech 3}{}{Меня зовут Крокет. Я ученый и человек, который может починить все, что угодно. Могу я вернуться к своим делам?}
-{Speech 3 Answer 2}{}{До встречи.}
-{Speech 4}{}{Я изобретаю новые технологии и за это примазан к хвосту этого культа, если вы понимаете о чем я.}
-{Speech 4 Answer 5}{}{Так вы не Xаболог?}
-{Speech 4 Answer 6}{}{И что же новенького вы изобрели?}
-{Speech 5}{}{Эти парни ничего не знают о науке - я помогаю им поддерживать их иллюзии в обмен на приличные деньги и хороших девочек.}
-{Speech 5 Answer 2}{}{Можно еще спросить?}
-{Speech 5 Answer Exit}{}{Очень интересно. Мне пора идти.}
-{Speech 6}{}{Посмотрим... Я построил ядерный реактор для космического корабля. Я придумал, как делать силовую броню прочнее. И я умею чинить поломанные вещи.}
-{Speech 6 Answer 2}{}{Можно еще спросить?}
-{Speech 6 Answer Exit}{}{До встречи.}
-{Speech 7}{}{Да? Че вы от меня хотите?}
-{Speech 7 Answer Exit}{}{Ууугы!}
+{Speech 2}{}{Yeah? What do you want from me?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{What are you doing here?}
+{Speech 2 Answer Barter}{}{Let's do some trading.}
+{Speech 2 Answer Exit}{}{Sorry. [Exit]}
+{Speech 3}{}{My name is Kroket. I'm a scientist and a man who can fix just about anything. May I get back to my business?}
+{Speech 3 Answer 2}{}{See you.}
+{Speech 4}{}{I invent new technologies, and for that I'm hitched to the tail of this cult, if you know what I mean.}
+{Speech 4 Answer 5}{}{So you're not a Hubologist?}
+{Speech 4 Answer 6}{}{And what's the latest thing you've invented?}
+{Speech 5}{}{These guys know nothing about science - I help them maintain their illusions in exchange for decent money and pretty girls.}
+{Speech 5 Answer 2}{}{Can I ask something else?}
+{Speech 5 Answer Exit}{}{Very interesting. I have to go.}
+{Speech 6}{}{Let's see... I built a nuclear reactor for a spaceship. I figured out how to make power armor sturdier. And I know how to fix broken things.}
+{Speech 6 Answer 2}{}{Can I ask something else?}
+{Speech 6 Answer Exit}{}{See you.}
+{Speech 7}{}{Yeah? What do you want from me?}
+{Speech 7 Answer Exit}{}{Uuugh!}

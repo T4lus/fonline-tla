@@ -82,24 +82,24 @@ Speech 9 # Вечно вы, женщины, все теряете... Не сей
 {DescAliveFull}{}{You see a technician of Shi laboratory.}
 {DescAliveFull}{}{In a scientific laboratory you can see a Shi in white apparel.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{Ууугы!}
+{Speech 1 Answer 4}{}{Uuugh!}
 {Speech 1 Answer 2}{}{2}
-{Speech 1 Answer 5}{}{получили квест на пластику лица}
-{Speech 1 Answer 7}{}{Потеряли диск, не смогли прочитать и запомнить}
-{Speech 1 Answer 2*}{}{голодиск в наличии, но квест Свет мой зеркальце не сдан}
+{Speech 1 Answer 5}{}{received the quest for facial plastic surgery}
+{Speech 1 Answer 7}{}{Lost the disk, couldn't read it and memorize it}
+{Speech 1 Answer 2*}{}{the holodisk is on hand, but the Mirror Mirror quest isn't completed}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Что можете рассказать?}
+{Speech 2 Answer 3}{}{What can you tell me?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer Exit}{}{Понятно. [Выход.] }
+{Speech 3 Answer Exit}{}{I see. [Exit.] }
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 5}{}{Ой, ты что хотела?}
-{Speech 5 Answer 6}{}{Вы знаете, я ищу довоенные программы по лицевой  пластической хирургии}
-{Speech 6}{}{Да на какого дьявола они могут сейчас понадобиться? [косится на вас] Впрочем, не мое дело. Видел я в архивах что-то подобное[опять косится] Гм. Хорошо. Я дам вам доступ к этой информации. Но только к этой. Помоги вам бог.}
-{Speech 6 Answer Exit}{}{Вот спасибо. Век не забуду.}
-{Speech 7}{}{Это опять ты? Чего нужно?}
-{Speech 7 Answer 8}{}{Ой, а я диск потеряла. Можно я ещё раз копию сниму?\n}
-{Speech 7 Answer 9}{}{Ой, а я диск потеряла. Можно я ещё раз копию сниму?}
-{Speech 8}{}{Ладно. Вечно вы, женщины, всё теряете.}
-{Speech 8 Answer Exit}{}{Спасибо большое\n}
-{Speech 9}{}{Вечно вы, женщины, все теряете... Не сейчас, я слишком занят. Завтра можно попробовать.}
-{Speech 9 Answer Exit}{}{Проклятье!}
+{Speech 5}{}{Oh, what did you want?}
+{Speech 5 Answer 6}{}{You know, I'm looking for pre-war programs on facial plastic surgery}
+{Speech 6}{}{What the devil could they be needed for now? [glances at you] Then again, none of my business. I've seen something like that in the archives[glances again] Hmm. Fine. I'll give you access to this information. But only to this. God help you.}
+{Speech 6 Answer Exit}{}{Thank you so much. I'll never forget it.}
+{Speech 7}{}{It's you again? What do you need?}
+{Speech 7 Answer 8}{}{Oh, I lost the disk. Can I make a copy one more time?\n}
+{Speech 7 Answer 9}{}{Oh, I lost the disk. Can I make a copy one more time?}
+{Speech 8}{}{Fine. You women are always losing everything.}
+{Speech 8 Answer Exit}{}{Thank you very much\n}
+{Speech 9}{}{You women are always losing everything... Not now, I'm too busy. You can try tomorrow.}
+{Speech 9 Answer Exit}{}{Damn it!}

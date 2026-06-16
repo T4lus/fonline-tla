@@ -67,20 +67,20 @@ Speech 7 # [Он громко рыгает] Че вам надо?
 {Speech 1 Answer 7}{}{Ууугы!}
 {Speech 1 Answer 2}{}{2]}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer 6}{}{Где я могу найти Капитана?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 6}{}{Where can I find the Captain?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{А что вы делаете на компьютере?}
-{Speech 3 Answer 5}{}{Крутая была команда?}
-{Speech 3 Answer Exit}{}{Отлично, Баджер. Счастливо оставаться. [Выход]}
+{Speech 3 Answer 4}{}{And what do you do on the computer?}
+{Speech 3 Answer 5}{}{Was it a cool band?}
+{Speech 3 Answer Exit}{}{Great, Badzher. Take care. [Exit]}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4 Answer 2}{}{Ясно. У меня еще вопросы}
-{Speech 4 Answer Exit}{}{Ясно. Ну, я пошёл... [Выход]}
+{Speech 4 Answer 2}{}{I see. I have more questions}
+{Speech 4 Answer Exit}{}{I see. Well, I'm off... [Exit]}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 5 Answer 2}{}{Круто! Можно еще спросить?}
-{Speech 5 Answer Exit}{}{Это всё, что я хотел узнать.}
-{Speech 6}{}{Капитан обычно на мостике. Вверх по лестнице, в баре.}
-{Speech 6 Answer 2}{}{Спасибо. У меня к вам еще пара вопросов.}
-{Speech 6 Answer Exit}{}{Спасибо. Это все. [Выход]}
+{Speech 5 Answer 2}{}{Cool! Can I ask something else?}
+{Speech 5 Answer Exit}{}{That's all I wanted to know.}
+{Speech 6}{}{The Captain is usually on the bridge. Up the stairs, in the bar.}
+{Speech 6 Answer 2}{}{Thanks. I have a couple more questions for you.}
+{Speech 6 Answer Exit}{}{Thanks. That's all. [Exit]}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
 {Speech 7 Answer Exit}{}{Ууугы!}
