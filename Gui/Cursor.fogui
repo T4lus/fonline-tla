@@ -86,6 +86,8 @@
         Sprite::Sprite CursorAttack;
         Sprite::Sprite CursorUseItem;
         Sprite::Sprite CursorUseSkill;
+        Sprite::Sprite CursorMove;
+        Sprite::Sprite CursorMoveBlocked;
         Sprite::Sprite[] CursorMoveScreen = {};
 
         ucolor CurCrittersCountour;
@@ -95,24 +97,26 @@
 {
     {
         {
-            CursorDefault = Sprite::Sprite("art/intrface/cursor_default.png");
-            CursorHand = Sprite::Sprite("art/intrface/cursor_hand.png");
-            CursorWait = Sprite::Sprite("art/intrface/cursor_wait.png");
-            CursorAttack = Sprite::Sprite("art/intrface/cursor_attack.png");
-            CursorUseItem = Sprite::Sprite("art/intrface/cursor_use_item.png");
-            CursorUseSkill = Sprite::Sprite("art/intrface/cursor_use_skill.png");
+            CursorDefault = Sprite::Sprite("art/intrface/Cursors/cursor_default.png");
+            CursorHand = Sprite::Sprite("art/intrface/Cursors/cursor_hand.png");
+            CursorWait = Sprite::Sprite("art/intrface/Cursors/cursor_wait.png");
+            CursorAttack = Sprite::Sprite("art/intrface/Cursors/cursor_attack.png");
+            CursorUseItem = Sprite::Sprite("art/intrface/Cursors/cursor_use_item.png");
+            CursorUseSkill = Sprite::Sprite("art/intrface/Cursors/cursor_use_skill.png");
+            CursorMove = Sprite::Sprite("art/intrface/Cursors/cursor_move.png");
+            CursorMoveBlocked = Sprite::Sprite("art/intrface/Cursors/cursor_move_blocked.png");
             CursorMoveScreen = array<Sprite::Sprite>(8);
             for (int i = 0; i < 8; i++) {
                 CursorMoveScreen[i] = Sprite::Sprite();
             }
-            CursorMoveScreen[0].Load("art/intrface/cursor_move_screen_u.png");
-            CursorMoveScreen[1].Load("art/intrface/cursor_move_screen_ur.png");
-            CursorMoveScreen[2].Load("art/intrface/cursor_move_screen_r.png");
-            CursorMoveScreen[3].Load("art/intrface/cursor_move_screen_dr.png");
-            CursorMoveScreen[4].Load("art/intrface/cursor_move_screen_d.png");
-            CursorMoveScreen[5].Load("art/intrface/cursor_move_screen_dl.png");
-            CursorMoveScreen[6].Load("art/intrface/cursor_move_screen_l.png");
-            CursorMoveScreen[7].Load("art/intrface/cursor_move_screen_ul.png");
+            CursorMoveScreen[0].Load("art/intrface/Cursors/cursor_move_screen_u.png");
+            CursorMoveScreen[1].Load("art/intrface/Cursors/cursor_move_screen_ur.png");
+            CursorMoveScreen[2].Load("art/intrface/Cursors/cursor_move_screen_r.png");
+            CursorMoveScreen[3].Load("art/intrface/Cursors/cursor_move_screen_dr.png");
+            CursorMoveScreen[4].Load("art/intrface/Cursors/cursor_move_screen_d.png");
+            CursorMoveScreen[5].Load("art/intrface/Cursors/cursor_move_screen_dl.png");
+            CursorMoveScreen[6].Load("art/intrface/Cursors/cursor_move_screen_l.png");
+            CursorMoveScreen[7].Load("art/intrface/Cursors/cursor_move_screen_ul.png");
         }
     }
 }
@@ -223,14 +227,25 @@
                 CursorUseSkill.Draw(Game.MousePos, isize(), 0, 0);
             }
             else if (cursor == CursorType::Move) {
+                // The engine no longer draws an on-hex move cursor, so render it snapped to the hex grid here.
                 mpos targetHex;
-                if (!HasChosen) {
-                    return;
-                }
-                // CurMap.SetCursorPos(chosen, Game.MousePos, Input::IsShiftDown(), true);
-
-                if (!CurMap.GetHexAtScreenPos(Game.MousePos, targetHex)) {
+                if (!HasCurMap) {
+                    // No local map (e.g. world map): the hex move cursor doesn't apply, use the plain pointer.
                     CursorDefault.Draw(Game.MousePos, isize(), -1, -1);
+                }
+                else if (!CurMap.GetHexAtScreenPos(Game.MousePos, targetHex)) {
+                    // Off the map grid.
+                    CursorMoveBlocked.Draw(Game.MousePos, isize(), 0, 0);
+                }
+                else {
+                    ipos hexPos = CurMap.GetHexScreenPos(targetHex);
+                    bool reachable = HasChosen && CurMap.GetPathLength(Chosen, targetHex, 0) > 0;
+                    if (reachable) {
+                        CursorMove.Draw(hexPos, isize(), 0, 0);
+                    }
+                    else {
+                        CursorMoveBlocked.Draw(hexPos, isize(), 0, 0);
+                    }
                 }
             }
             else if (cursor == CursorType::Default) {
