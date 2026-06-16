@@ -8,14 +8,14 @@
 #
 # Created 21.04.08, Cvet
 #
-# В данном файле сценаристы могут создавать свои строки.
+# In this file scripters can create their own strings.
 #
 
-{1}{}{Включен nopvp режим.}
-{2}{}{Отключен nopvp режим.}
-# Плакаты
-{5}{}{Вы вешаете плакат на стену.}
-{6}{}{Вы не можете найти место, чтобы приклеить плакат.}
+{1}{}{nopvp mode enabled.}
+{2}{}{nopvp mode disabled.}
+# Plakaty
+{5}{}{You hang the poster on the wall.}
+{6}{}{You can't find a place to stick the poster.}
 
 {10}{}{Test0}
 {11}{}{Test1}
@@ -23,51 +23,51 @@
 {13}{}{Test3}
 
 #
-# Увеличение скила
+# Skill increase
 #
-{15}{}{Навык @arg skill@ увеличен на @arg value@ очков}
+{15}{}{Skill @arg skill@ increased by @arg value@ points}
 
 #
 # Signal pistol.fos
 #
-{16}{}{Чтобы использовать сигнальный пистолет, возьмите его в руки.}
-{17}{}{Сигнальная ракета открывает ваше положение на глобальной карте. В течение ближайших @arg minutes@ ждите гостей!}
+{16}{}{To use the signal pistol, take it in your hands.}
+{17}{}{The signal flare reveals your position on the world map. Expect visitors within the next @arg minutes@!}
 
 #
 # q_main_intro.fos
 #
 
-{20}{}{Вы прошли процедуру инициации.}
+{20}{}{You have completed the initiation procedure.}
 
 #
 # jukebox.fos
 #
 
-{25}{}{Музыкальный автомат пока еще не готов к повторному использованию.}
-{26}{}{Недостаточно денег. Цена прослушивания одной мелодии @arg price@$.}
+{25}{}{The jukebox is not ready to be used again yet.}
+{26}{}{Not enough money. The price to listen to one tune is @arg price@$.}
 
 #
 # q_hunter.fos
 #
-{27}{}{Вы применили ультразвуковой гипнотизатор на мутировавшую крысу. Теперь ее можно положить себе в рюкзак. Если, конечно, она не очухается.}
-{28}{}{В свистке закончились заряды. При последнем неаккуратном применении прибор был уничтожен.}
-{29}{}{Крыса не реагирует на воздействие гипнотизатора. Попробуйте найти менее устойчивый экземпляр, где-нибудь в Пустоши.}
+{27}{}{You used the ultrasonic hypnotizer on a mutated rat. Now you can put it in your backpack. As long as it doesn't come to its senses, of course.}
+{28}{}{The whistle is out of charges. During the last careless use the device was destroyed.}
+{29}{}{The rat does not react to the hypnotizer. Try to find a less resistant specimen somewhere in the Wasteland.}
 
 #
 # rat_grenade.fos
 #
-{30}{}{Одна из ваших оглушенных крыс пришла в себя и удрала из рюкзака! Черт. Чем это так пахнет, и что это за жидкость?}
-{30}{}{Одна из ваших оглушенных крыс пришла в себя и удрала из рюкзака!}
-{30}{}{Одна из ваших оглушенных крыс пришла в себя и удрала из рюкзака! Вы упустили момент и больше ее не поймать.}
-{31}{}{Одна оглушенная крыса, по всей видимости очнулась, и выскочила из рюкзака. Прикончите эту тварь немедленно.}
-{31}{}{Одна оглушенная крыса, по всей видимости очнулась, и выскочила из рюкзака.}
-{32}{}{Вы вкололи супертоксин оглушенной крысе. Теперь с каждым укусом она может отравить жертву.}
+{30}{}{One of your stunned rats came to its senses and escaped from your backpack! Damn. What's that smell, and what's this liquid?}
+{30}{}{One of your stunned rats came to its senses and escaped from your backpack!}
+{30}{}{One of your stunned rats came to its senses and escaped from your backpack! You missed your chance and won't catch it again.}
+{31}{}{One stunned rat apparently woke up and jumped out of your backpack. Finish off the creature immediately.}
+{31}{}{One stunned rat apparently woke up and jumped out of your backpack.}
+{32}{}{You injected supertoxin into the stunned rat. Now with every bite it can poison its victim.}
 #
 # q_hunter.fos
 #
-{33}{}{Неудачно выбрано место для использования приманки.}
-{34}{}{Вы открываете крышку и у вас кружится голова от ужасной вони. Вы выливаете содержимое банки на свою одежду. Теперь остается только ждать, пока появятся крысы.}
-{35}{}{Фу!!! Чем это от тебя воняет, @arg name@@??!!@@Ну и вонища!!!@@Проклятье! @arg name@!! Отойди от меня на другую сторону улицы. Или лучше вали куда подальше!@@Дерьмо! Кто-то навалил в штаны?@@Буэ... Меня сейчас вырвет! @arg name@, пошел вон!@@Что это за ужасный запах?!@@Что это за невыносимая вонь?@@*Зажимает ноздри пальцами*@@Уберите это дерьмо от меня!!}
+{33}{}{A poor spot was chosen to use the bait.}
+{34}{}{You open the lid and your head spins from the terrible stench. You pour the contents of the can onto your clothes. Now all that's left is to wait for the rats to appear.}
+{35}{}{Ugh!!! What's that stink coming off you, @arg name@@??!!@@What a reek!!!@@Damn it! @arg name@!! Get away from me to the other side of the street. Or better yet, get the hell out of here!@@Shit! Did someone crap their pants?@@Bleh... I'm gonna throw up! @arg name@, get out of here!@@What is that awful smell?!@@What is that unbearable stench?@@*Pinches nostrils with fingers*@@Get that shit away from me!!}
 
 #
 # Nuka-Cola machine
@@ -84,16 +84,16 @@
 #
 # Sandbag. Barricades stuff.
 #
-{200}{}{Мешок порвался у вас в руках - его нельзя класть в этом месте.}
-{201}{}{В этом месте больше невозможно уложить ни одного мешка. }
-{202}{}{Вы развязали мешок и высыпали песок из него на землю.}
+{200}{}{The sack tore in your hands - it can't be placed here.}
+{201}{}{No more sacks can be placed at this location. }
+{202}{}{You untied the sack and poured the sand out of it onto the ground.}
 
 #
 # Extended craft.
 #
-{300}{}{Для производства требуется находиться рядом со cпециальным станком или верстаком.}
-{301}{}{Станок или верстак в неработоспособном состоянии. Производство невозможно. Попробуйте позже.}
-{302}{}{Станок или верстак в неработоспособном состоянии. Произведен максимум возможных предметов. Производство невозможно.}
+{300}{}{To craft, you need to be near a special machine or workbench.}
+{301}{}{The machine or workbench is inoperable. Crafting is impossible. Try again later.}
+{302}{}{The machine or workbench is inoperable. The maximum number of items has been produced. Crafting is impossible.}
 
 #
 # Computer riddle
@@ -107,7 +107,7 @@ You got tries to solve: @arg num@.}
 {403}{}{Try to hack the code}
 {404}{}{Input: @arg pcode@.
 System: @arg code@.}
-{405}{}{You are now connected to еру PoseidoNET sattelite online!}
+{405}{}{You are now connected to the PoseidoNET sattelite online!}
 {406}{}{????}
 
 #
@@ -131,101 +131,101 @@ System: @arg code@.}
 # Guarded item
 #
 
-{540}{}{Отойди оттуда, @arg pname@}
-{540}{}{Не вынуждай меня применить оружие, @arg pname@}
-{540}{}{Эй, @arg pname@! Чем это ты занимаешься? Убирайся}
-{540}{}{Не трогай это, @arg pname@}
-{540}{}{@arg pname@! Немедленно перестань}
+{540}{}{Step away from there, @arg pname@}
+{540}{}{Don't make me use my weapon, @arg pname@}
+{540}{}{Hey, @arg pname@! What do you think you're doing? Get out}
+{540}{}{Don't touch that, @arg pname@}
+{540}{}{@arg pname@! Stop right now}
 
 #
 # Behemoth.fos
 #
-{600}{}{Цель подтверждена. Конечная цель маршрута @arg where@.}
-{601}{}{Цель не подтверждена. Невозможно проложить маршрут по указанным координатам.}
-{602}{}{Внимание. Последний приказ отменен.} 
-{603}{}{Приказ выполнен. Цель @arg where@ достигнута. Мои координаты: @arg x@:@arg y@.}
-{604}{}{Продолжаю движение к последней назначенной цели.}
-{605}{}{Не могу выполнить команду. Сбой в управляющем контуре.}
-{606}{}{Выполняю...}
-{607}{}{Все задания выполнены. Ожидаю приказа.}
-{608}{}{Внимание. В зоне патрулирования замечен @arg pname@.}
-{609}{}{Цель @arg pname@ уничтожена.}
-{610}{}{Сообщаю: подвергаюсь атаке от @arg pname@. Активирована защитная программа.}
-{611}{}{Приступаю к патрулированию.}
-{612}{}{Канал связи изменен.}
-{613}{}{Машине не требуется ремонт.}
-{614}{}{Вы частично устранили повреждения в системах жизнеобеспечения бегемота.}
-{615}{}{Команда отменена. Не могу найти цель для атаки.}
-{616}{}{Боевая программа активирована. Найдено целей... @arg targets@}
+{600}{}{Target confirmed. Final route destination @arg where@.}
+{601}{}{Target not confirmed. Unable to plot a route to the specified coordinates.}
+{602}{}{Attention. Last order canceled.}
+{603}{}{Order executed. Target @arg where@ reached. My coordinates: @arg x@:@arg y@.}
+{604}{}{Continuing movement to the last assigned target.}
+{605}{}{Cannot execute command. Control circuit failure.}
+{606}{}{Executing...}
+{607}{}{All tasks completed. Awaiting orders.}
+{608}{}{Attention. @arg pname@ spotted in the patrol zone.}
+{609}{}{Target @arg pname@ destroyed.}
+{610}{}{Reporting: under attack from @arg pname@. Defense program activated.}
+{611}{}{Commencing patrol.}
+{612}{}{Communication channel changed.}
+{613}{}{The machine does not require repair.}
+{614}{}{You partially repaired the damage to the behemoth's life support systems.}
+{615}{}{Command canceled. Cannot find a target to attack.}
+{616}{}{Combat program activated. Targets found... @arg targets@}
 
 #
-# Песня стража БС в яме
+# Song of the BoS guard in the pit
 #
-{630}{}{Стальное адское творенье,
-Злой механический дракон}
-{631}{}{Напал на мирное селенье и учиняет там погром!}
-{632}{}{Огнём с небес людей сжигает,
-Плюёт железом и свинцом}
-{633}{}{И воздух гулом наполняет уничтожая всё кругом...}
-{634}{}{Но Маркус,
-Славный воин света,
-Защитник выжженных земель,}
-{635}{}{Он прекратит злодейство это, спасёт от гибели людей.}
-{636}{}{И гнев во взгляде его ясном,
-Глаза решимости полны,
-А на его гербе прекрасном, три косозубых шестерни.}
-{637}{}{Поднялись славные знамёна,
-Запели звонкие рога}
-{638}{}{И минизингер для синьора пропел хвалебные слова
-Слуга копьё ему подносит и подаёт тяжелый щит
-Молитву Маркус произносит, пусть его небо защитит.}
-{639}{}{Он на коне помчался смело,
-Как смерч по выжженной земле
-И как звезда во тьме горела катушка тэсла на копье.}
-{640}{}{Как гром слова его звучали:
-"Презренный, выходи на бой! Я - паладин из Братства Стали, и я разделаюсь с тобой!"}
-{641}{}{Они сошлись в бою суровом,
-Вскипели небо и земля,
-Сметало пламенным напором предметы с линии огня.}
-{642}{}{Оплавлен щит огнём дракона,
-И славный конь погиб в бою
-И бронебойные патроны вгрызались в прочную броню.}
-{643}{}{Дракон открыто потешался,
-Пытался сбить героя с ног,
-Но Маркус до него добрался метнув копьё в железный бок.}
-{644}{}{И зверь взревел, копьём пронзённый, и стал искриться и стонать
-Разрядом тока пораженный он начал высоту терять!}
-{645}{}{Герой не зная состраданья,
-Смотрел через огонь и дым
-Как винтокрылое созданье упало оземь перед ним}
-{646}{}{Он рано праздновал победу, коварный враг ещё дышал
-И реактивную ракету навстречу Маркусу послал...}
+{630}{}{A hellish creature forged of steel,
+An evil mechanical dragon}
+{631}{}{Fell upon a peaceful village and wreaks havoc there!}
+{632}{}{It burns the people with fire from the sky,
+Spits out iron and lead}
+{633}{}{And fills the air with its roar, destroying all around...}
+{634}{}{But Marcus,
+The glorious warrior of light,
+Defender of the scorched lands,}
+{635}{}{He will put an end to this evil, and save the people from death.}
+{636}{}{And wrath burns in his clear gaze,
+His eyes are full of resolve,
+And upon his splendid crest, three beveled gears.}
+{637}{}{The glorious banners were raised,
+The ringing horns sang out}
+{638}{}{And a minstrel sang words of praise for the lord
+A servant brings him his spear and hands him a heavy shield
+Marcus speaks a prayer, may the heavens protect him.}
+{639}{}{He rode forth boldly on his steed,
+Like a whirlwind across the scorched earth
+And like a star in the dark blazed the tesla coil upon his spear.}
+{640}{}{His words rang out like thunder:
+"Wretch, come out and fight! I am a paladin of the Brotherhood of Steel, and I will be the end of you!"}
+{641}{}{They clashed in a savage battle,
+The sky and the earth boiled,
+A fiery onslaught swept all things from the line of fire.}
+{642}{}{His shield was melted by the dragon's fire,
+And his glorious steed perished in battle
+And armor-piercing rounds bit into the sturdy armor.}
+{643}{}{The dragon openly mocked him,
+Tried to knock the hero off his feet,
+But Marcus reached it and hurled his spear into its iron flank.}
+{644}{}{And the beast roared, pierced by the spear, and began to spark and moan
+Struck by an electric discharge, it started to lose altitude!}
+{645}{}{The hero, knowing no mercy,
+Watched through the fire and smoke
+As the rotor-winged creature crashed to the ground before him}
+{646}{}{He celebrated victory too soon, the cunning enemy still breathed
+And sent a rocket flying toward Marcus...}
 {647}{}{[Booooooom! Badaboom!]}
-{648}{}{Кровь по броне рекой струилась,
-Он кинул прочь разбитый шлем}
-{649}{}{Уже на минимум спустилась боеспособность всех систем}
-{650}{}{Доспех почти что уничтожен,
-Реактор начинает течь,
-Но паладин достал из ножен тяжелый энтропийный меч.}
-{651}{}{Индукционный накопитель оружье света пробудил,
-И меч взревев как истребитель набрался запредельных сил.}
-{652}{}{Герой прожог врага как масло, одним движением руки
-Змей развалился безобразно на безобразные куски.}
-{653}{}{В груди бойца зияли дыры
-Он весь истерзан, обожжен,
-Он потерял в бою все силы и был изрядно повреждён,}
-{654}{}{Броню патроны изорвали, в них обеднённый был уран,
-И, когда Маркуса подняли, в нем было три десятка ран...}
-{655}{}{О рыцарь Маркус Непреклонный,
-Оплакан сотней юных дев}
-{656}{}{Лежит под древом погребённый
-Молитвы светлые воспев}
-{657}{}{И к тому древу, над могилой, прибит его походный щит
-И дух его всё с той же силой те земли от врагов хранит!}
-{658}{}{Ла-ла-ла-ла ла-ла-лэй ла-ла-ли-ла-лей!
-Ла-ла-ла-ла ла-ла-лэй ла-ла-ли-ла-ла!}
-{659}{}{Ла-ла-ла-ла ла-ла-лэй ла-ла-ли-ла-лей!
-Ла-ла-ла-ла ла-ла-лэй ла-ла-ли-ла-ла!}
+{648}{}{Blood streamed like a river down his armor,
+He cast away his shattered helmet}
+{649}{}{The combat capability of all systems had already dropped to the minimum}
+{650}{}{His armor was almost destroyed,
+The reactor began to leak,
+But the paladin drew from its sheath a heavy entropic sword.}
+{651}{}{The induction accumulator awakened the weapon of light,
+And the sword, roaring like a fighter jet, gathered boundless power.}
+{652}{}{The hero burned through the enemy like butter, with a single sweep of his hand
+The serpent fell apart hideously into hideous pieces.}
+{653}{}{Gaping holes were torn in the warrior's chest
+He was all torn and burned,
+He had lost all his strength in battle and was gravely wounded,}
+{654}{}{Rounds had ripped through his armor, filled with depleted uranium,
+And when they lifted Marcus up, he had three dozen wounds...}
+{655}{}{O knight Marcus the Unyielding,
+Mourned by a hundred young maidens}
+{656}{}{Lies buried beneath the tree
+With bright prayers sung over him}
+{657}{}{And to that tree, above the grave, his travelling shield is nailed
+And his spirit, with the same strength, still guards these lands from foes!}
+{658}{}{La-la-la-la la-la-lay la-la-li-la-ley!
+La-la-la-la la-la-lay la-la-li-la-la!}
+{659}{}{La-la-la-la la-la-lay la-la-li-la-ley!
+La-la-la-la la-la-lay la-la-li-la-la!}
 
 #
 # Den store house
@@ -235,14 +235,14 @@ System: @arg code@.}
 {1001}{}{Hey you! Do not approach!}
 {1002}{}{Your time is coming to an end! If you don't hurry up I'll order the guard to kill you.}
 {1003}{}{Guard}
-{1004}{}{Эй, ты чего там делаешь?@@Сдохни, ворюга@@C ворами у меня разговор короткий@@Ребята, смотрите-ка, у нас воришка объявился@@Сейчас руки-то тебе поотрываю@@Вконец обнаглели. Посреди бела дня. В банке@@Очистим банки от ворья}
+{1004}{}{Hey, what do you think you're doing over there?@@Die, you thief@@I've got a short way of dealing with thieves@@Hey guys, look, we've got ourselves a little thief@@I'll tear your arms right off@@They've lost all shame. In broad daylight. In a bank@@Let's clear the bank of thieves}
 
 #
 # Den entrance messages
 #
 
-{1050}{}{Вы испытываете странное чувство полной разрухи.}
-{1051}{}{Где-то в глубине души вы очень рады, что покинули это место.}
+{1050}{}{You feel a strange sense of utter ruin.}
+{1051}{}{Somewhere deep down you are very glad to have left this place.}
 
 #
 # Den Bar Bekky boy
@@ -388,7 +388,7 @@ System: @arg code@.}
 # Slavers hunting. Using in q_slavers_hunt.fos
 #
 {2700}{}{Slavers base.}
-{2701}{}{Вы сверяетесь с картой Элизы.\nСкорее всего работорговцев нужно искать между Кламатом и Ямой.}
+{2701}{}{You consult Eliza's map.\nMost likely the slavers should be sought between Klamath and the Pit.}
 
 #
 # Dappo's lost caravan/ Using in q_dappo_lost_c_robot.fos
@@ -399,470 +399,470 @@ System: @arg code@.}
 {2803}{}{Enemy killed}
 {2804}{}{Control point reached.}
 {2805}{}{Moving next point...}
-{2806}{}{От каравана Даппо мало что осталось. Пресловутым грузом оказался боевой робот в заводской упаковке.}
-{2807}{}{Очевидно, что робот случайно активировался, выбрался на свободу и уничтожил караван. Даппо должен узнать, что произошло с его людьми. Робот не пожалел никого.}
+{2806}{}{Little remains of Dappo's caravan. The notorious cargo turned out to be a combat robot in factory packaging.}
+{2807}{}{Evidently the robot accidentally activated, broke free, and destroyed the caravan. Dappo must learn what happened to his men. The robot spared no one.}
 
 #
 # Alex holodisk. Using in q_ncr_alex_holo.fos
 #
-{2900}{}{Кажется, это то самое место, о котором говорится в голодиске. Осталось найти ящик.}
-{2901}{}{Это место не похоже на то, что указано в голодиске.}
+{2900}{}{This seems to be the very place mentioned on the holodisk. All that remains is to find the crate.}
+{2901}{}{This place does not match the one described on the holodisk.}
 
 #
 # NCR Michael. Using in ncr_michael.fos
 #
-{2910}{}{Посмотрим, что изменилось в Республике...}
-{2911}{}{Бог ты мой, это же Майкл! Майкл, какими судьбами?}
-{2912}{}{Отставить базар! Ему разрешено пройти.}
+{2910}{}{Let's see what has changed in the Republic...}
+{2911}{}{My goodness, it's Michael! Michael, what brings you here?}
+{2912}{}{Cut the chatter! He is allowed to pass.}
 
 #
 # NCR Westin. Using in ncr_westin.fos
 #
 
-{2930}{}{Тяжелый день...}
-{2931}{}{Ну вот, опять нужно куда-то идти...}
+{2930}{}{A hard day...}
+{2931}{}{Here we go, off somewhere again...}
 
 #
 # NCR Siege. Using in ncr_siege.fos
 #
 
-{2940}{}{Внимание! Говорит командир Рейнджеров НКР Элиза. Рейнджерам Республики нужна ваша помощь. Подступы к столице оккупированы бандами рейдеров и работорговцев. Мы платим за каждый вырезанный лагерь. Подробности у сержанта Кайла. Конец связи.}
-{2941}{}{Внимание! Говорит командир Рейнджеров НКР Элиза. От имени штаба Армии НКР объявляю благодарность всем, оказавшим помощь. Рейдеры ликвидированы. Повторяю. Рейдеры уничтожены. Конец связи.}
-{2942}{}{Это один из лагерей бандитов, угрожающих безопасности НКР.@@Вы нашли одно из мест, где закрепились рейдеры перед рещающей атакой на НКР.@@Здесь собрались самые отчаянные головорезы Пустоши. Они блокируют выходы из столицы Республики, убивают патрульных рейнджеров и грабят караваны НКР.}
+{2940}{}{Attention! This is NCR Ranger commander Eliza speaking. The Republic's Rangers need your help. The approaches to the capital are occupied by gangs of raiders and slavers. We pay for every camp wiped out. Details from Sergeant Kyle. Over and out.}
+{2941}{}{Attention! This is NCR Ranger commander Eliza speaking. On behalf of the NCR Army headquarters, I extend my gratitude to all who rendered aid. The raiders have been eliminated. I repeat. The raiders have been destroyed. Over and out.}
+{2942}{}{This is one of the bandit camps threatening the security of the NCR.@@You have found one of the places where the raiders dug in before their decisive attack on the NCR.@@The most desperate cutthroats of the Wasteland have gathered here. They block the exits from the Republic's capital, kill patrolling rangers, and rob NCR caravans.}
 
 #
 # NCR Invasion. Using in ncr_invasion.fos
 #
-{2950}{}{Жалкие твари. Вы все подохнете как крысы@@Рейнджеры - пи*кашляет*!!!@@Сдохните, жалкие твари!@@НКР будет нашим! Мы наведем здесь порядок!@@Пацаны, смотрите, еще один. Вали его!@@Затопим эту дыру кровью рейнджеров!@@Вы все сдохнете!@@Убивайте всех. Не жалейте ни женщин ни детей.@@Республика падет!@@Мочи! Круши! Убей!@@Эй! НКР! Вы все должны сдохнуть!@@Ха-ха-ха!@@Умри!@@C дороги, мясо}
-{2951}{}{Внимание! Всем! Всем! Говорит командир Рейнджеров НКР Элиза. На столицу Республики совершено нападение. Центр города пока в безопасности. Но на Базаре ситуация плачевная. Рейдеры закрепились на входе в город. Прорывайтесь в центр города для координации действий. Конец связи.}
+{2950}{}{Pathetic vermin. You'll all die like rats@@Rangers are pi*coughs*!!!@@Drop dead, you pathetic vermin!@@The NCR will be ours! We'll set things straight here!@@Boys, look, another one. Take him down!@@Let's drown this hole in ranger blood!@@You'll all croak!@@Kill everyone. Spare neither women nor children.@@The Republic will fall!@@Smash! Crush! Kill!@@Hey! NCR! You all have to die!@@Ha-ha-ha!@@Die!@@Out of the way, meat}
+{2951}{}{Attention! Everyone! Everyone! This is NCR Ranger commander Eliza speaking. The Republic's capital is under attack. The city center is still safe for now. But the situation at the Bazaar is dire. Raiders have entrenched themselves at the city entrance. Push through to the city center to coordinate our actions. Over and out.}
 
 #
 # NCR Diplomatic mission. Using in ncr_shaiman.fos
 #
-{2960}{}{Вы не сумели взломать кейс c официальным ответом Братства Стали для генерала Армии НКР Шеймана.}
-{2961}{}{Вы взломали замки кейса и прочитали письмо паладинов. Текст письма записан в вашем архиве.}
+{2960}{}{You failed to break into the case containing the Brotherhood of Steel's official reply to NCR Army General Shaiman.}
+{2961}{}{You picked the locks of the case and read the paladins' letter. The text of the letter has been recorded in your archive.}
 
 #
 # Hell. Using in map_hell_level1.fos
 #
-{3000}{}{Как оказалось, трос не достает до земли, и вы, оценив расстояние до неё, решили прыгнуть вниз.}
-{3001}{}{Вы не слишком удачно приземлились, сломав обе ноги.}
-{3002}{}{Вы не слишком удачно приземлились, сломав левую ногу.}
-{3003}{}{Вы не слишком удачно приземлились, сломав правую ногу.}
-{3004}{}{Приземление, хоть и оказалось жестким, обошлось для вас лишь парой синяков и ушибов.}
-{3005}{}{Вы не слишком удачно приземлились головой вниз.}
+{3000}{}{As it turns out, the cable does not reach the ground, and after gauging the distance to it, you decided to jump down.}
+{3001}{}{You landed rather badly, breaking both legs.}
+{3002}{}{You landed rather badly, breaking your left leg.}
+{3003}{}{You landed rather badly, breaking your right leg.}
+{3004}{}{The landing, though rough, cost you only a couple of bruises and scrapes.}
+{3005}{}{You landed rather badly, head first.}
 {3006}{}{A-A-A-A!!!}
 
 #
 # Hell. Using in hell_pipboys.fos
 #
-{3020}{}{Вы допущены до работы по сборке пипбоев. Когда решите выйти отсюда, привлеките внимание надзирателя.}
+{3020}{}{You have been cleared for Pip-Boy assembly work. When you decide to leave, attract the overseer's attention.}
 {3021}{}{You assembled a Pip-Boy. Total assembled: @arg pipnum@}
 {3022}{}{You earned @arg sum@ dollars.}
 {3023}{}{You earned @arg sum@ coins. Money were transferred to your replication account. Your balance is equal to: @arg bill@ dollars.}
 {3024}{}{Congratulations! You have cleared your replication debt. You can now leave the special replication station.}
-{3025}{}{У вас нет инструментов, необходимых для работы.}
-{3026}{}{Вы исчерпали месячный лимит на оплату репликационных работ наличными.}
+{3025}{}{You don't have the tools needed for the work.}
+{3026}{}{You have exhausted your monthly limit for cash payment for replication work.}
 
 #
 # Hell. Using in hell_mine_ore_reception.fos
 #
-{3030}{}{Терминал для сдачи добытой руды. Вы заглядываете в проем в стене, но ничего интересного там не видите. Оттуда лишь исходит странный гул, идущий откуда-то снизу.}
+{3030}{}{A terminal for turning in mined ore. You peer into the opening in the wall but see nothing of interest there. Only a strange hum issues from it, coming from somewhere below.}
 
 #
 # Hell. Using in hell_mine_mining.fos
 #
-{3035}{}{Вы откололи кусок руды, который кажется более увесистым, чем остальные.@@Похоже, попалось то, что нужно.@@Вам попадается кусок породы с красивыми белыми прожилками.@@Кусок отличной породы глухо падает на пол.@@Вам попадается довольно неплохой кусок породы.}
-{3036}{}{Вам попалась только пустая порода. Опять не везёт!@@Вы не добыли ничего полезного.@@Вы откалываете несколько крупных булыжников, но после осмотра понимаете, что это простой гранит.@@Вы усиленно колотите породу кувалдой, но ничего путного не попадается.}
-{3037}{}{Вы откололи кусок руды, который кажется более увесистым, чем остальные.@@Похоже, попалось то, что нужно.@@Вам попадается кусок руды с золотой прожилкой.@@Отличный золотой самородок глухо падает на пол.@@Вам попадается довольно неплохой кусок породы.}
+{3035}{}{You chipped off a chunk of ore that seems heavier than the rest.@@Looks like you got what you needed.@@You come across a piece of rock with beautiful white veins.@@A chunk of excellent rock thuds to the floor.@@You come across a fairly decent piece of rock.}
+{3036}{}{You only hit barren rock. No luck again!@@You mined nothing useful.@@You chip off a few large boulders, but on inspection you realize it's just plain granite.@@You pound away at the rock with a sledgehammer, but nothing worthwhile turns up.}
+{3037}{}{You chipped off a chunk of ore that seems heavier than the rest.@@Looks like you got what you needed.@@You come across a piece of ore with a gold vein.@@A fine gold nugget thuds to the floor.@@You come across a fairly decent piece of rock.}
 
 
 #
 # Hell. Using in hell_lumbering.fos
 #
-{3040}{}{Вы допущены до работы на лесоповале. Когда решите выйти отсюда, обратитесь к солдату охраны.}
-{3041}{}{Чтобы сдать дрова и получить награду, обратитесь к хабологам в соседнем здании.}
+{3040}{}{You have been cleared for work at the logging site. When you decide to leave, speak to the guard soldier.}
+{3041}{}{To turn in the firewood and collect your reward, speak to the Hubologists in the neighboring building.}
 
 #
 # Hell. Using in hell_level3.fos
 #
-{3045}{}{Вы не видите причин для того, чтобы лезть в эту странную дыру.}
-{3046}{}{Вам не удаётся починить генератор. Попробуйте на свежую голову.}
-{3047}{}{Покопавшись в генераторе, вы находите пару порваных проводов и быстро устраняете проблему.}
+{3045}{}{You see no reason to climb into this strange hole.}
+{3046}{}{You fail to repair the generator. Try again with a clear head.}
+{3047}{}{Rummaging around in the generator, you find a couple of torn wires and quickly fix the problem.}
 
  #
- # Доска объявлений в НКР using in ncr_common.fos
- # ** КУПЛЮ ** 3100..3109
-{3100}{}{СРОЧНО куплю Джет... и Баффаут. Доктор Трой.}
-{3101}{}{Куплю патроны к солнечному скорчеру за любую цену. Избранный}
-{3102}{}{Куплю силовую броню, 94 размера (Обращаться к Маркусу, шерифу Броукен Хиллз)}
-{3103}{}{Куплю телевизоры, холодильники, радио-ДОРОГО. Вик}
-{3104}{}{Куплю удобрение, желательно не вызывающее появление перхоти. Гарольд}
-{3105}{}{Купим железную муху и железных людей. Дети Райт. Заплатит папа (наверное). }
-{3106}{}{Куплю контактные линзы -3,5 на оба глаза, продам скобки для зубов, бу (обращаться в Главный Офис Ваут-Сити, спросить Первого Гражданина)}
-{3107}{}{Купим унитазы!! Жители Модока. Дописано ножом: Чузен ты гад!!!}
-{3108}{}{Купим резиновую куклу Чузена для отработки новых оружий. Гвардейцы АНКЛАВ}
-{3109}{}{Куплю садовых вредитилей. Заколебал растительный юмор! Тифон}
-# ** ИЩУ ** 3110..3116
-{3110}{}{Пропала роба, сиреневая с желтыми полосами, просьба вернуть за вознаграждение. Хранитель моста.}
-{3111}{}{Пропала кукла=85 см,с зевающим ртом,блондинка... нагая. Нашедшим просьба оставить у здания справа при входе в Модок.}
-{3112}{}{Нужны брамины. Желательно взрывающиеся. Хранитель моста.}
-{3113}{}{Ищем справедливость. Рэйнджеры
-Ищем рэйнджеров. *Справедливость* [под перечеркнутой надписью виднеется : "Работорговцы"]}
-{3114}{}{Ищем молодые таланты. Обращаться в офис в Нью-Рено *Golden Globes Porn*}
-{3115}{}{Ищу свой глаз. *Капрал Диксон*}
-{3116}{}{Нашедшему здоровенную металлическую задницу убедительная просиба не смеяться, никому не показывать и обязательно вернуть в ООО "Анклав"! Ф. Хорриган(верхняя часть)}
-# ** ПРОДАМ ** 3117..3130
-{3117}{}{Продаем нефть, оружие, лекарства, кроме того есть Гекк. Нефтяная вышка. Самовывоз. Просьба не взрывать. Ричардсон}
-{3118}{}{Продам Скайнет, можно на запчасти. Chosen One.}
-{3119}{}{Первое июля. 
-Куплю энерго батареи для заправки тачки. Оплата по договорённости. Chosen One.
+ # Bulletin board in the NCR using in ncr_common.fos
+ # ** BUYING ** 3100..3109
+{3100}{}{URGENTLY buying Jet... and Buffout. Doctor Troy.}
+{3101}{}{Will buy ammo for a solar scorcher at any price. The Chosen One}
+{3102}{}{Will buy power armor, size 94 (Contact Marcus, sheriff of Broken Hills)}
+{3103}{}{Will buy TVs, refrigerators, radios - GOOD MONEY. Vic}
+{3104}{}{Will buy fertilizer, preferably the kind that doesn't cause dandruff. Harold}
+{3105}{}{We'll buy an iron fly and iron men. The Wright children. Daddy will pay (probably). }
+{3106}{}{Will buy contact lenses -3.5 for both eyes, will sell dental braces, used (apply at the Vault City Main Office, ask for the First Citizen)}
+{3107}{}{We'll buy toilets!! The people of Modoc. Scratched in with a knife: Chosen, you bastard!!!}
+{3108}{}{We'll buy a rubber doll of the Chosen One for testing new weapons. The ENCLAVE guards}
+{3109}{}{Will buy garden pests. Sick of the plant humor! Typhon}
+# ** LOOKING FOR ** 3110..3116
+{3110}{}{Lost a robe, lilac with yellow stripes, please return for a reward. The Bridgekeeper.}
+{3111}{}{Lost a doll=85 cm, with a yawning mouth, blonde... naked. Whoever finds it, please leave it by the building to the right at the entrance to Modoc.}
+{3112}{}{Brahmin needed. Preferably the exploding kind. The Bridgekeeper.}
+{3113}{}{We seek justice. The Rangers
+We seek rangers. *Justice* [beneath the crossed-out text can be seen: "Slavers"]}
+{3114}{}{Seeking young talent. Apply at the office in New Reno *Golden Globes Porn*}
+{3115}{}{Looking for my eye. *Corporal Dixon*}
+{3116}{}{Whoever finds a huge metal backside is earnestly requested not to laugh, not to show anyone, and to be sure to return it to "Enclave" LLC! F. Horrigan (upper part)}
+# ** SELLING ** 3117..3130
+{3117}{}{Selling oil, weapons, medicine, and we also have a GECK. The oil rig. Pickup only. Please do not blow up. Richardson}
+{3118}{}{Selling Skynet, parts only is fine. Chosen One.}
+{3119}{}{The first of July. 
+Will buy energy cells to fuel my car. Payment negotiable. Chosen One.
 
-Тринадцатое июля. 
-Продам трофеи. В том числе: гранаты, пистолеты, пулемёты, ружья, базуки, холодное оружие, броню, медикаменты, патроны (в том числе энеро батареи). Дёшево! (Хорошо по пустыне погулял! Блин, куда же всё это сбагрить?) Chosen One.}
-{3120}{}{В связи с некоторыми геополитическими изменениями срочно продам благоустроенную нефтяную вышку с действующим атомным реактором. Президент Ричардсон.}
-{3121}{}{Токсичные отходы самовывозом, по оптовым ценам. Смайли.}
-{3122}{}{Продаю базу со всем ее содержимым и персоналом. Цена договорная. Для чузенов не продается. Сержант Гранит.}
-{3123}{}{Продаётся Ядерный реактор (б/у) со всеми удобствами, каменная кладка, евроремонт 2143 год, цена договорная (радЭвей и Ремонтный бот прилаг.) Первый Гражданин Волт-сити. Обращаться с 8.00 до 18.00 при себе иметь Дневной пропуск}
-{3124}{}{Продам гаусс-виндикатор, дорого, очень дорого. (Обращаться к Алгернону, Нью-Рено)}
-{3125}{}{Продаём золотую щахту ванаминого в Рединнге. Ванаминого прилагаются. Коварный Мак Грю.}
-{3126}{}{Продаю APA и лазерную винтовку. Просьба Избранному, Хорригану и Железному дровосеку не обращаться! Сержант Гранит}
-{3127}{}{- Продам ГЕКК за ненадобностью оного. Избранный
-- Господи, какой идиот!!! <Старейшина>}
-{3128}{}{Продам часто линяющего геккона. ОЧЕНЬ дорого. Смайли.}
-{3129}{}{Продам нефть. Президент.}
-{3130}{}{Продаю металлолом. Дёшево. Самовывоз из Наварро.}
+The thirteenth of July. 
+Selling loot. Including: grenades, pistols, machine guns, rifles, bazookas, melee weapons, armor, medicine, ammo (energy cells too). Cheap! (Had a good wander through the desert! Damn, where do I unload all this?) Chosen One.}
+{3120}{}{Due to certain geopolitical changes, urgently selling a well-appointed oil rig with a working atomic reactor. President Richardson.}
+{3121}{}{Toxic waste, self-pickup, at wholesale prices. Smiley.}
+{3122}{}{Selling a base with all its contents and personnel. Price negotiable. Not for sale to Chosen Ones. Sergeant Granite.}
+{3123}{}{Nuclear reactor for sale (used) with all amenities, stonework, premium renovation of 2143, price negotiable (RadAway and repair bot included). First Citizen of Vault City. Inquire from 8:00 to 18:00, must have a Day Pass on you.}
+{3124}{}{Will buy a gauss vindicator, expensive, very expensive. (Contact Algernon, New Reno)}
+{3125}{}{Selling a wanamingo gold mine in Redding. Wanamingos included. Sly McGrew.}
+{3126}{}{Selling APA and a laser rifle. The Chosen One, Horrigan and the Tin Woodman are asked not to inquire! Sergeant Granite}
+{3127}{}{- Selling a GECK, no longer needed. Chosen One
+- Lord, what an idiot!!! <Elder>}
+{3128}{}{Selling a gecko that sheds constantly. VERY expensive. Smiley.}
+{3129}{}{Selling oil. President.}
+{3130}{}{Selling scrap metal. Cheap. Self-pickup from Navarro.}
 # ** РЕКЛАМА ** 3131..3138
-{3131}{}{Спиртное крупным и мелким оптом. Семья Райт.}
-{3132}{}{Гекогриль - живой грильбар в Вашем доме. Чудесное средство для быстрой зажарки любого блюда. Редкая природная разновидность геккона. Лучший рождественский подарок любимой тёще. Внимание - кормить в огнеупорном костюме. зоомагазин "старик Гекконыч"}
-{3133}{}{Бесплатные споры по поводу того, кто есть Чузен. Говорящая Голова.
-  <внизу начерчено> "Прием краденых камней у Головы" Чузен.}
-{3134}{}{Вылечим от наркомании за 10 дней. Майрон.}
-{3135}{}{У вас есть деньги? ЭТО ПОПРАВИМО! Рейдеры.}
-{3136}{}{Экспресс-загар дешево, обращаться на АЭС Гекко.}
-{3137}{}{Собери пять голов с татуировкой, и получи значок рейнжера. Рейнджеры НКР
- дописано: Собери пять значков рейнжеров, и получи тату на лоб. Работорговцы}
-{3138}{}{Экономическое чудо. Высокоприбыльный бизнес. Новая консервная фабрика Чипа. Консервы, тушенка, печенка. Желающим заработать - просьба проходить на задний двор (в подвал, без оружия). Мутантам - специальное предложение.}
+{3131}{}{Liquor, wholesale and retail. The Wright Family.}
+{3132}{}{Gecko-grill - a living grill-bar in your home. A wonderful device for quickly searing any dish. A rare natural variety of gecko. The best Christmas gift for your beloved mother-in-law. Warning - feed only while wearing a fireproof suit. Pet shop "Old Man Geckonych"}
+{3133}{}{Free debates on the topic of who is the Chosen One. Talking Head.
+  <scrawled below> "Stolen gems accepted at the Head" Chosen One.}
+{3134}{}{We'll cure your drug addiction in 10 days. Myron.}
+{3135}{}{Got money? THAT CAN BE FIXED! Raiders.}
+{3136}{}{Express tanning, cheap, inquire at the Gecko power plant.}
+{3137}{}{Collect five heads with a tattoo and get a ranger badge. NCR Rangers
+ added: Collect five ranger badges and get a tattoo on your forehead. Slavers}
+{3138}{}{Economic miracle. High-profit business. Chip's new canning factory. Canned goods, stew, liver. Those wishing to earn - please come to the back yard (to the basement, unarmed). Mutants - special offer.}
 # ** УСЛУГИ ** 3139..3146
-{3139}{}{Сеансы общения с духами предков. Спросить Сулика.
-Общение с духами,но дешевле чем у Сулика. Хакуин.}
-{3140}{}{Сеансы гаусс-терапии на дому. Ваши патроны, мой гаусс. Спросить Кейсиди.}
-{3141}{}{Увлекательный морской круиз с феерическим ночным шоу! ООО "Посейдон-Трэвел"}
-{3142}{}{УСЛУГИ МАГА: Снимаю порчу ломаю крушу краду взламываю. Обращаться в Гильдию Работорговцев. Кто угодно из гильдии.}
-{3143}{}{Приглашаю крутых засранцев в тур по Пустоши с попутным лечением завышенной самооценки. Самый крутой засранец.}
-{3144}{}{Очищу Ваш город от всего живого. *Избранный*}
-{3145}{}{Пасу браминов, есть собака, опыт. Избранный}
-{3146}{}{Соберу из мусора, карманной корпии, зажигалок, цветков, шприцов, ожерелий - пылесосы, тракторы, экскаваторы, рекативные самолеты, вечные двигатели первого и второго рода. Обращаться к Ретчу, НКР.}
+{3139}{}{Sessions communing with the spirits of ancestors. Ask Sulik.
+Communing with spirits, but cheaper than Sulik. Hakunin.}
+{3140}{}{Gauss-therapy sessions at home. Your ammo, my gauss. Ask Cassidy.}
+{3141}{}{A thrilling sea cruise with a spectacular night show! "Poseidon-Travel" LLC}
+{3142}{}{MAGE SERVICES: I remove curses, break, smash, steal, hack. Inquire at the Slavers Guild. Anyone from the guild.}
+{3143}{}{Inviting tough badasses on a tour of the Wasteland with complimentary treatment for inflated self-esteem. The toughest badass.}
+{3144}{}{I'll cleanse your town of all living things. *Chosen One*}
+{3145}{}{I herd brahmin, have a dog, experienced. Chosen One}
+{3146}{}{I'll build from junk, pocket lint, lighters, flowers, syringes, necklaces - vacuum cleaners, tractors, excavators, jet planes, perpetual motion machines of the first and second kind. Contact Wretch, NCR.}
 # ** АКЦИИ ** 3147..3154
-{3147}{}{Принимаем работорговцев оптом и в розницу за хорошее вознаграждение. Можно только головы. Рейнджеры НКР.}
-{3148}{}{*Крупными буквами* Спешите! Спешите! Только у нас и только для вас! Аттракцион "Заржавевший анклавовец"! Разрешается стучать по лбу и пинать по заднице! Где-то в пустыне, сами найдете... Избранный.}
-{3149}{}{ООО "Анклав" проводит день открытых дверей! В программе: весёлая беготня по нефтяной вышке, арм-рэслинг с Фрэнки, приседания в энергоброне, а так же экскурсия "Увидеть бомбу и умереть"! В конце программы весёлые солдаты пинками проводят вас до выхода с криками "Эвакуация!!!" ООО "Анклав"
-P.S. Чузенов просьба не беспокоить.}
-{3150}{}{Приглашаем на новую театральную постановку "Чужие-7"! Обращаться в Реддинг, шахту Ванаминго!}
-{3151}{}{Собери 10 голов мертвяков и получи 50% скидку на гражданство Города! Линетт.}
-{3152}{}{У Вас нет денег, но есть нелюбимые родственники??? Мы Вам поможем!!! За очень хорошую плату Вы можете оставить у Нас своих родственников на постоянное проживание!!! Обращаться в Дэн, Восточный район, в Гильдию Работорговцев. Метцгер.}
-{3153}{}{Желающим сняться в качестве жертв в фильме "чужие" просьба почаще навещать шахту ванаминго.} 
-{3154}{}{Всем пацанам из охраны Волт-Сити!!! Пэйнтболл и халявное пиво! Сбор за оградой, сами знаете где. Гражданин-сержант СТАРК}
+{3147}{}{We accept slavers wholesale and retail for a good reward. Heads alone are acceptable. NCR Rangers.}
+{3148}{}{*In large letters* Hurry! Hurry! Only here and only for you! The "Rusted Enclave Trooper" attraction! You're allowed to knock him on the forehead and kick him in the rear! Somewhere in the desert, you'll find it yourself... Chosen One.}
+{3149}{}{"Enclave" LLC holds an open house day! On the program: a merry run across the oil rig, arm-wrestling with Frankie, squats in power armor, plus the "See the bomb and die" excursion! At the end of the program, merry soldiers will escort you to the exit with kicks, shouting "Evacuation!!!" "Enclave" LLC
+P.S. Chosen Ones are asked not to bother.}
+{3150}{}{We invite you to the new theatrical production "Aliens-7"! Inquire in Redding, at the wanamingo mine!}
+{3151}{}{Collect 10 heads of the dead and get a 50% discount on Vault City citizenship! Lynette.}
+{3152}{}{You have no money, but have unloved relatives??? We'll help you!!! For a very good fee, you can leave your relatives with us for permanent residence!!! Inquire in the Den, East side, at the Slavers Guild. Metzger.}
+{3153}{}{Those wishing to star as victims in the film "Aliens" are asked to visit the wanamingo mine more often.}
+{3154}{}{To all the boys from Vault City security!!! Paintball and free beer! Gathering behind the fence, you know where. Citizen-Sergeant STARK}
 # ** РАЗНОЕ ** 3155..3175
-{3155}{}{Меняю: копье с заточенным наконечником (в неплохом состоянии) на винтовку Гауса с подробной инструкцией по эксплуатации, гарантийным талоном и прочей документацией, если таковая имеется. БЕЗ ДОПЛАТЫ. Chosen One.}
-{3156}{}{Меняю двадцать шкурок золотого Гекко на обрез. Чуз.}
-{3157}{}{Меняю турбоплазменную винтовку с возможностью автоматического огня на гранату Антиоха. Ну Чузен, теперь посмотрим кто из нас настоящий манчкин! Фрэнки.}
-{3158}{}{Меняем чертежи ключей от вертиберда на чертежи самого вертиберда. (Обращаться в бункер Братства Стали в Сан-Франциско)}
-{3159}{}{Познакомлюсь с девушкой, некурящей, непьющей, дисциплинированной, владеющей бензиновым автомобилем для извлечения взаимной выгоды. Капитан Танкера "Посейдон Ойл" Вальдез.}
-{3160}{}{Розыск! Имя: Рэндэл. Кличка: Железный дровосек. Место службы: Анклав. Пропал на миссии по уничтожению Избранного. Подпись: Сержант.}
-{3161}{}{Много сложной, грязной и плохооплачиваемой работы, обращаться к шрифу Реддинга.}
-{3162}{}{Дайте денег, или я сейчас выброшусь! Кит.}
-{3163}{}{Бюрократы Города-Уежища - №%!$ $&*$^!& (Подпись неразборчива)}
-{3164}{}{Форматируем Императора. Дли Ши - бесплатно! Остальным - за $1.95}
-{3165}{}{Объявление. Открылся бар "Танцующий мутант". В программе: Стриптиз в исполнении звезды пустошей мутантихи Изольды (сценический псевдоним). Живая музыка (Рок-группа "Гейгер", вокалист - Гарольд).}
-{3166}{}{Поздравляю всех анклавовцев и Френка с Днём Защитника Отечества. Президент.}
-{3167}{}{Обаятельная, 34 года, ищет мужчину для совместного времяпрепровождения. Интим предлагать(но втайне от мужа). Мисс Бишоп.}
-{3168}{}{Познакомлюсь с порядочным мужчиной, обеспеченным с чувством юмора. Избранных просьба не беспокоить. Линнет}
-{3169}{}{27 июля 2247 года ушёл из Арройо на поиски ГЭККа и не вернулся Избранный. На EMS не отвечает. Нашедшму просьба обратиться на вышку "Посейдон", третий уровень, первая камера, а также напомнить Избранному, что до gameover'а у него остался один месяц манчкинства. Старейшина, 27 июня 2260.}
-{3170}{}{Нубы должны страдать! Гопы}
-{3171}{}{Гопы должны страдать! Нубы}
-{3172}{}{Вы, РЕАЛЬНО, ничего не понимаете в Сути Пустоши. Хабологи}
-{3173}{}{!!!АТОМ ВСЕСИЛЬНО ИСКРИТ!!!!}
-{3174}{}{Продам 50 томми-ганов или обменяю их на 50 патронов к .223 пистолету. Неизвестный.}
-{3175}{}{Ок. Krizalis}
+{3155}{}{Trade: a spear with a sharpened tip (in decent condition) for a Gauss rifle with detailed operating instructions, warranty card and other documentation, if any exists. NO SURCHARGE. Chosen One.}
+{3156}{}{Trade twenty golden Gecko pelts for a sawed-off shotgun. Chosen.}
+{3157}{}{Trade a turbo plasma rifle with automatic fire capability for an Antioch grenade. Well Chosen One, now we'll see which of us is the real munchkin! Frankie.}
+{3158}{}{Trade vertibird key blueprints for the blueprints of the vertibird itself. (Inquire at the Brotherhood of Steel bunker in San Francisco)}
+{3159}{}{Will meet a girl, non-smoking, non-drinking, disciplined, who owns a gasoline car, for mutual benefit. Captain of the Tanker "Poseidon Oil" Valdez.}
+{3160}{}{Wanted! Name: Randal. Nickname: Tin Woodman. Place of service: Enclave. Lost on a mission to eliminate the Chosen One. Signed: Sergeant.}
+{3161}{}{Lots of difficult, dirty and poorly paid work, contact the sheriff of Redding.}
+{3162}{}{Give me money, or I'll jump right now! Kitty.}
+{3163}{}{The bureaucrats of Vault City are - #%!$ $&*$^!& (Signature illegible)}
+{3164}{}{We format the Emperor. Li Shi - free of charge! Everyone else - for $1.95}
+{3165}{}{Announcement. The "Dancing Mutant" bar has opened. On the program: a striptease performed by the star of the wastelands, the mutant girl Isolde (stage name). Live music (Rock band "Geiger", vocalist - Harold).}
+{3166}{}{Congratulations to all Enclave troopers and Frank on Defender of the Fatherland Day. President.}
+{3167}{}{Charming, 34 years old, seeking a man for spending time together. Intimacy welcome (but in secret from my husband). Mrs. Bishop.}
+{3168}{}{Will meet a decent man, well-off with a sense of humor. Chosen Ones are asked not to bother. Lynette}
+{3169}{}{On July 27, 2247, the Chosen One left Arroyo in search of the GECK and never returned. Not answering on EMS. Whoever finds him is asked to contact the "Poseidon" rig, third level, first cell, and also to remind the Chosen One that he has one month of munchkinism left until game over. Elder, June 27, 2260.}
+{3170}{}{Noobs must suffer! Punks}
+{3171}{}{Punks must suffer! Noobs}
+{3172}{}{You REALLY don't understand anything about the Essence of the Wasteland. Hubologists}
+{3173}{}{!!!ATOM SPARKS ALMIGHTILY!!!!}
+{3174}{}{Selling 50 Tommy guns or trading them for 50 rounds of .223 pistol ammo. Unknown.}
+{3175}{}{OK. Krizalis}
 
 #
 # ncr Spy mission quest. Using in q_spy_mission.fos
 #
 
-{3180}{}{МакКлюр? Вы и сегодня умудрились опоздать.}
-{3181}{}{Прошу прощения, Первый Гражданин, слишком много дел. Подобное не повторится.}
-{3182}{}{Вы говорите это всегда. Я бы давно от вас избавилась, но, увы, сейчас это невозможно.}
-{3183}{}{Не понимаю, о чем вы, Первый Гражданин.}
-{3184}{}{МакКлюр, давайте откажемся от лицемерия, когда мы наедине. Мы оба прекрасно понимаем, о чем идет речь.}
-{3185}{}{Хорошо, Линетт. Я всего лишь обязан выполнить свой долг. Надеюсь, в скором будущем положение дел изменится.}
-{3186}{}{А я надеюсь, что статус-кво сохранится. Ваша самоуверенность вас подведет, и вы совершите ошибку. А я ее использую.}
-{3187}{}{Хотелось бы верить, что у вас не будет такого шанса. Отставим наши словесные баталии и вернемся к работе.}
-{3188}{}{Слушаю вас, советник.}
-{3189}{}{Настроения в Городе не изменились. За последнюю неделю не зафиксировано значимых происшествий и преступлений.}
-{3190}{}{Да сам факт вашего существования, советник, является преступлением!}
-{3191}{}{Первый Гражданин, мне уйти?}
-{3192}{}{Ладно, забудем, мне нельзя поддаваться эмоциям. Продолжайте.}
-{3193}{}{В Реддинге зафиксировано несколько случаев нападения на стражей порядка. Недовольство коренных жителей растет.}
-{3194}{}{Добыча?}
-{3195}{}{Темпы золотодобычи упали за последнюю неделю. Нам нужны еще шахтеры. Возможно, нам следует отправить часть слуг в шахты Реддинга.}
-{3196}{}{Чепуха. Усильте подразделения регуляторов. Чтобы никто не мог отлынивать от работы. Что с НКР?}
-{3197}{}{Военное положение все еще в силе. На столицу Республики было совершено несколько нападений рейдеров, они отбиты армией НКР.}
-{3198}{}{Отношения армии и Братства Стали остались без изменений?}
-{3199}{}{По информации из достоверных источников, Шейман пытается наладить контакт с паладинами. Но пока безрезультатно.}
-{3200}{}{Что-нибудь еще?}
-{3201}{}{Нет, на сегодня это все.}
-{3202}{}{Отвратительно. Хотя, чего я еще могла бы ожидать от предателя?}
-{3203}{}{Предлагаю обойтись без навешивания ярлыков. И вообще отказаться от поступков, о которых можно пожалеть в будущем...}
-{3204}{}{Это угроза, МакКлюр? Не смешите меня. Вы свободны.}
-{3205}{}{Всего доброго, Первый Гражданин.}
+{3180}{}{McClure? You managed to be late again today.}
+{3181}{}{I apologize, First Citizen, too much to do. It won't happen again.}
+{3182}{}{You always say that. I'd have gotten rid of you long ago, but, alas, that's impossible right now.}
+{3183}{}{I don't understand what you mean, First Citizen.}
+{3184}{}{McClure, let's drop the hypocrisy when we're alone. We both understand perfectly well what we're talking about.}
+{3185}{}{Fine, Lynette. I'm merely obligated to do my duty. I hope the state of affairs will change in the near future.}
+{3186}{}{And I hope the status quo will be preserved. Your overconfidence will fail you, and you'll make a mistake. And I'll use it.}
+{3187}{}{I'd like to believe you won't get such a chance. Let's set aside our verbal battles and get back to work.}
+{3188}{}{I'm listening, advisor.}
+{3189}{}{The mood in the City hasn't changed. No significant incidents or crimes have been recorded over the past week.}
+{3190}{}{Why, the very fact of your existence, advisor, is a crime!}
+{3191}{}{First Citizen, should I leave?}
+{3192}{}{Alright, let's forget it, I mustn't give in to emotions. Continue.}
+{3193}{}{Several cases of attacks on law enforcement have been recorded in Redding. Discontent among the native residents is growing.}
+{3194}{}{Output?}
+{3195}{}{Gold mining rates have fallen over the past week. We need more miners. Perhaps we should send some of the servants to the Redding mines.}
+{3196}{}{Nonsense. Reinforce the regulator units. So that no one can shirk work. What about NCR?}
+{3197}{}{Martial law is still in effect. There were several raider attacks on the Republic's capital, repelled by the NCR army.}
+{3198}{}{Have relations between the army and the Brotherhood of Steel remained unchanged?}
+{3199}{}{According to reliable sources, Sheyman is trying to establish contact with the paladins. But so far without result.}
+{3200}{}{Anything else?}
+{3201}{}{No, that's all for today.}
+{3202}{}{Disgusting. Though, what else could I expect from a traitor?}
+{3203}{}{I suggest we do without labeling. And generally refrain from acts one might regret in the future...}
+{3204}{}{Is that a threat, McClure? Don't make me laugh. You're dismissed.}
+{3205}{}{Good day, First Citizen.}
 
 #
 #Радиопереговоры после выполнения квеста "На связи". redding_common.fos
 #
-{3300}{}{Док Джонсон на связи. Вызываю своих…}
-{3301}{}{Свой своему поневоле брат. Привет, Безболезненный, давно не виделись.}
-{3302}{}{Это ты, что ли, Трой, клизма подземная? Сидишь там в своем убежище, как Том Круз какой-то.}
-{3303}{}{Ты кого клизмой назвал. Я между прочим, антиджет изобрел, а ты только и умеешь, что антракоз своим шахтерам лечить.}
-{3304}{}{Ой, посмотрите, изобрел он. А производство наладить не смог, мне пришлось заниматься…}
-{3305}{}{Ну началось… Эти двое как сойдутся…}
-{3306}{}{А, привет Холидей. Как сам-то?}
-{3307}{}{Да скриплю потихоньку. Мутантов и гулей полечиваю. Что –то Юбилея  я не слышу. Здесь он? Холидей вызывает Юбилей!}
-{3308}{}{Да здесь я, здесь. Привет всем.}
-{3309}{}{И тебе поздорову. Мужики, а помните, как наш Юбилей, будучи в ординатуре, у мужика одного аппендикс слева искал?  Чуть не по локоть влез, а найти не может…}
-{3310}{}{Ладно, ладно. Это всего раз было. И потом, я ж тогда пьяный был. Не считается.}
-{3311}{}{Да уж конечно, не считается. Местечко-то ты себе нашел получше всех нас, сидишь там в НКР, вкушаешь прелести демократии…}
-{3312}{}{Вам бы такие прелести! Тут было дело, давненько правда, меня Избранный чуть наизнанку не вывернул, сказал, что я у какого-то шахтера спер карту Убежища 13. Еле как отмазался. До сих пор вздрагиваю, как вспомню.}
-{3313}{}{Так тебе, буржую. Хе-хе…}
-{3314}{}{Ладно, ладно. Слушай, Джонсон, у тебя там по слухам, эпидемия сифилиса была? Как разобрался?}
-{3315}{}{Да пришлось изрядно поебаться. На первичные симптомы внимания никто из них не обратил, а когда обратили, уж зараженных выше крыши было. Ну, и ходил я везде, как дурак, опросы проводил, разбирался, кто в кого совал, надоело. В оконцовке сделал сводную таблицу и вычислил источник. Тьху на тебя блин. Напомнил.}
-{3316}{}{Да ладно, справился  же. Молодец.}
-{3317}{}{Присоединяюсь. Молодец, Джонсон.}
-{3318}{}{Ооо! Доктор Фунг, моё почтение!}
-{3319}{}{Приветствую, учитель!}
-{3320}{}{Рад вас слышать.}
-{3321}{}{Здравствуйте, мальчики. Я тоже рад вас всех слышать. Также рад, что у нас есть теперь всегда возможность поговорить и спросить совета друг у друга. Вы все стали неплохими специалистами.}
-{3322}{}{Спасибо, учитель…}
-{3323}{}{Не перебивай старших! Я не закончил. Полагаю, вам всем следует задуматься об учениках. Знание не должно быть потеряно. Ну, Трой об этом уже позаботился, я в курсе. А остальные – айяяй.}
-{3324}{}{Хорошо, учитель.}
-{3325}{}{Обязательно.}
-{3326}{}{Мдя. А мне что-то и в ум не приходило…}
-{3327}{}{Так, мальчики, я извиняюсь и оставляю вас. Ко мне тут принесли китайца, покусанного акулами, нужно срочно им заняться. Свяжемся на той неделе, мне есть о чём с вами поговорить.}
-{3328}{}{Да, учитель.}
-{3329}{}{До связи.}
-{3330}{}{Здоровья вам.}
-{3331}{}{Гм. Ну вот. Мужики, а знаете что? Предлагаю нам всем немедленно выпить! Как относитесь?}
-{3332}{}{Ну и вопрос.}
-{3333}{}{Поддерживаю.}
-{3334}{}{Так. А у меня кроме спирта ничего нет, давайте я в бар сгоняю. Ну подождите 20 минут, будьте вы людьми.}
-{3335}{}{Да хорошо, хорошо. Давай через полчаса снова все на связь. И чтоб уже без отговорок. Кстати, на всякий случай – резервная волна, эээ…}
-{3336}{}{Давай год, когда пенициллин придумали.}
-{3337}{}{Годится.}
-{3338}{}{Всё, до связи, мужики, я побежал.}
-{3339}{}{Угу.}
-{3340}{}{Давай.}
+{3300}{}{Doc Johnson here. Calling my people...}
+{3301}{}{Birds of a feather. Hello, Painless, long time no see.}
+{3302}{}{Is that you, Troy, you underground enema? Sitting there in your vault like some Tom Cruise.}
+{3303}{}{Who are you calling an enema. I, for your information, invented anti-jet, while all you can do is treat your miners' anthracosis.}
+{3304}{}{Oh, look at him, he invented it. But couldn't set up production, so I had to deal with it...}
+{3305}{}{Here we go... When these two get together...}
+{3306}{}{Ah, hello Holiday. How are you yourself?}
+{3307}{}{Just creaking along. Treating mutants and ghouls a bit. I don't hear Anniversary. Is he here? Holiday calling Anniversary!}
+{3308}{}{Yes, I'm here, I'm here. Hello everyone.}
+{3309}{}{And good health to you. Fellas, remember how our Anniversary, back in his residency, was looking for a guy's appendix on the left side? Stuck his arm in almost to the elbow and couldn't find it...}
+{3310}{}{Alright, alright. It was just once. And besides, I was drunk then. Doesn't count.}
+{3311}{}{Oh sure, doesn't count. You found yourself a better spot than any of us, sitting there in NCR, savoring the delights of democracy...}
+{3312}{}{You should have such delights! There was an incident, a long time ago though, the Chosen One nearly turned me inside out, said I stole some miner's map of Vault 13. Barely talked my way out. Still shudder when I remember.}
+{3313}{}{Serves you right, you bourgeois. Heh-heh...}
+{3314}{}{Alright, alright. Listen, Johnson, rumor has it you had a syphilis epidemic over there? How did you sort it out?}
+{3315}{}{Had to bust my ass quite a bit. None of them paid attention to the early symptoms, and by the time they did, there were infected up the wazoo. So I went around everywhere like a fool, conducting surveys, figuring out who stuck it in whom, got sick of it. In the end I made a summary table and tracked down the source. Bah on you. You reminded me.}
+{3316}{}{Come on, you managed it. Good job.}
+{3317}{}{I'll second that. Good job, Johnson.}
+{3318}{}{Ooo! Doctor Fung, my respects!}
+{3319}{}{Greetings, teacher!}
+{3320}{}{Glad to hear you.}
+{3321}{}{Hello, boys. I'm also glad to hear all of you. Also glad that we now always have the chance to talk and ask each other for advice. You've all become decent specialists.}
+{3322}{}{Thank you, teacher...}
+{3323}{}{Don't interrupt your elders! I'm not finished. I believe you should all think about taking on students. Knowledge must not be lost. Well, Troy has already seen to that, I'm aware. But the rest of you - tsk tsk.}
+{3324}{}{Alright, teacher.}
+{3325}{}{Definitely.}
+{3326}{}{Hmm. It hadn't even crossed my mind...}
+{3327}{}{Now, boys, I apologize and must leave you. They've just brought me a Chinese man bitten by sharks, I need to attend to him urgently. We'll be in touch next week, I have things to discuss with you.}
+{3328}{}{Yes, teacher.}
+{3329}{}{Talk later.}
+{3330}{}{Good health to you.}
+{3331}{}{Hm. Well then. Fellas, you know what? I propose we all have a drink immediately! How do you feel about that?}
+{3332}{}{What a question.}
+{3333}{}{I support it.}
+{3334}{}{So. I've got nothing but spirits, let me run to the bar. Just wait 20 minutes, be human about it.}
+{3335}{}{Yeah, alright, alright. Let's all get back on the air in half an hour. And no excuses this time. By the way, just in case - the backup frequency, uh...}
+{3336}{}{Use the year penicillin was invented.}
+{3337}{}{Works for me.}
+{3338}{}{That's it, talk later, fellas, I'm off.}
+{3339}{}{Uh-huh.}
+{3340}{}{Right.}
 ###Если в разговор пытается влезть игрок
-{3341}{}{Посторонние на канале! Все на другой канал!}
-{3342}{}{Давай год, когда Пастер пастеризацию придумал.}
-{3343}{}{Принято.}
+{3341}{}{Outsiders on the channel! Everyone to another channel!}
+{3342}{}{Use the year Pasteur invented pasteurization.}
+{3343}{}{Acknowledged.}
 
 #
 # ncr westin vs bishop quest chain. Using in ncr_smit.fos
 #
 # диалог на воротах города между смитом и охранником
-{3400}{}{Здравствуйте. Предъявите пропуск.}
-{3401}{}{Привествую, офицер. Увы, у меня нет пропуска.}
-{3402}{}{В таком случае, сообщите о цели визита в НКР и представьтесь.}
-{3403}{}{Меня зовут Смит. Собирался заглянуть в местный бар.}
-{3404}{}{Cмит, для того, чтобы пройти в НКР, вам потребуется оформить пропуск у капитана охраны.}
-{3405}{}{Где я могу найти капитана охраны?}
-{3406}{}{Капитана вы найдете на таможне. Удачного дня.}
-{3407}{}{Всего доброго, офицер.}
-{3408}{}{Надо же! Мне крупно повезло, на входе нет охраны!}
+{3400}{}{Hello. Present your pass.}
+{3401}{}{Greetings, officer. Alas, I don't have a pass.}
+{3402}{}{In that case, state the purpose of your visit to NCR and identify yourself.}
+{3403}{}{My name is Smith. I was planning to drop by the local bar.}
+{3404}{}{Smith, in order to enter NCR, you'll need to obtain a pass from the captain of the guard.}
+{3405}{}{Where can I find the captain of the guard?}
+{3406}{}{You'll find the captain at customs. Have a good day.}
+{3407}{}{Good day, officer.}
+{3408}{}{Well now! I'm in great luck, there's no guard at the entrance!}
 # переговоры Смита и Бишопа по радио
-{3420}{}{[Говорит в рацию] Прием. Проверка связи.}
-{3421}{}{Прием. Проверка связи.}
-{3422}{}{..шш..}
+{3420}{}{[Speaks into the radio] Come in. Radio check.}
+{3421}{}{Come in. Radio check.}
+{3422}{}{..shh..}
 
-{3423}{}{[Говорит в рацию] Ворон, Ворон. Я Брамин, прием.}
-{3424}{}{Ворон, Ворон. Я Брамин, прием.}
-{3425}{}{..шш..}
+{3423}{}{[Speaks into the radio] Raven, Raven. This is Brahmin, over.}
+{3424}{}{Raven, Raven. This is Brahmin, over.}
+{3425}{}{..shh..}
 
-{3426}{}{[Говорит в рацию] Ворон, я Брамин. Брамин вызывает Ворона.}
-{3427}{}{Ворон, я Брамин. Брамин вызывает Ворона}
-{3428}{}{Пошел на х..}
+{3426}{}{[Speaks into the radio] Raven, this is Brahmin. Brahmin calling Raven.}
+{3427}{}{Raven, this is Brahmin. Brahmin calling Raven}
+{3428}{}{Go to h..}
 
-{3429}{}{[Говорит в рацию] Ворон, повторите, не понял, прием.}
-{3430}{}{Ворон, повторите, не понял, прием.}
-{3431}{}{ Пошел на х.. ..шш.. брамин ..шш.. ..ный!!!!}
+{3429}{}{[Speaks into the radio] Raven, repeat, didn't catch that, over.}
+{3430}{}{Raven, repeat, didn't catch that, over.}
+{3431}{}{ Go to h.. ..shh.. brahmin ..shh.. ..ed!!!!}
 
-{3432}{}{[Говорит в рацию] Ворон, ответьте. Почему ангелы летают?}
-{3433}{}{Ворон, ответьте. Почему ангелы летают?}
-{3434}{}{Ты что, совсем тупой? ..шш.. Пошел ты в ..шш.. кретин! Я тебя.. ..шш... и твою мать.. ..шш.. и твоего отца.. ..шш.. Ты меня понял, жо.. ..шш. .шами?! Прием?!}
+{3432}{}{[Speaks into the radio] Raven, respond. Why do angels fly?}
+{3433}{}{Raven, respond. Why do angels fly?}
+{3434}{}{Are you completely stupid? ..shh.. Go to ..shh.. you cretin! I'll.. ..shh... and your mother.. ..shh.. and your father.. ..shh.. You got me, ass.. ..shh. .hole?! Over?!}
 
-{3435}{}{Похоже, я выбрал не ту волну. [Настраивает рацию и повторяет] Ворон, прием, я Брамин.}
-{3436}{}{Ворон, прием, я Брамин.}
-{3437}{}{ Слышу тебя, Брамин. Я Ворон. Прием. }
+{3435}{}{Looks like I picked the wrong frequency. [Adjusts the radio and repeats] Raven, over, this is Brahmin.}
+{3436}{}{Raven, over, this is Brahmin.}
+{3437}{}{ I hear you, Brahmin. This is Raven. Over. }
 
-{3438}{}{Ну вот, слава богу. [Говорит в рацию] Ворон, почему ангелы летают? }
-{3439}{}{Ворон, почему ангелы летают?}
-{3440}{}{Смит, браминья твоя башка. Как ты задрал со своей конспирацией, придурок. Как понял меня, прием?}
+{3438}{}{There, thank God. [Speaks into the radio] Raven, why do angels fly? }
+{3439}{}{Raven, why do angels fly?}
+{3440}{}{Smith, you brahmin-head. You're so damn annoying with your secrecy, you idiot. How do you read me, over?}
 
-{3441}{}{[Про себя] Отзыв правильный. Отлично. [В рацию] Прошу прощения, мистер Бишоп.}
-{3442}{}{Прошу прощения, мистер Бишоп.}
-{3443}{}{Как поживает Вейстин? Какие новости?}
+{3441}{}{[To himself] The countersign is correct. Excellent. [Into the radio] I apologize, Mr. Bishop.}
+{3442}{}{I apologize, Mr. Bishop.}
+{3443}{}{How is Westin doing? Any news?}
 
-{3444}{}{[В рацию] Я в НКР, мистер Бишоп. Вейстин на прицеле. В ближайшие дни приступаю к нейтрализации советника.}
-{3445}{}{Я в НКР, мистер Бишоп. Вейстин на прицеле. В ближайшие дни приступаю к нейтрализации советника.}
-{3446}{}{Не тяни, Смит. Иначе я буду вынужден найти кого-то другого для этой работы. А тобой займутся мои люди.}
+{3444}{}{[Into the radio] I'm in NCR, Mr. Bishop. Westin is in my sights. In the coming days I'll begin neutralizing the advisor.}
+{3445}{}{I'm in NCR, Mr. Bishop. Westin is in my sights. In the coming days I'll begin neutralizing the advisor.}
+{3446}{}{Don't drag it out, Smith. Otherwise I'll be forced to find someone else for this job. And my people will take care of you.}
 
-{3447}{}{[В рацию] Нет проблем, мистер Бишоп. Можете не беспокоиться на счет советника.}
-{3448}{}{Нет проблем, мистер Бишоп. Можете не беспокоиться на счет советника.}
-{3449}{}{ Я тебя предупредил. Конец связи. }
+{3447}{}{[Into the radio] No problem, Mr. Bishop. You needn't worry about the advisor.}
+{3448}{}{No problem, Mr. Bishop. You needn't worry about the advisor.}
+{3449}{}{ I've warned you. End of transmission. }
 
-{3450}{}{[В рацию] Конец связи.}
-{3451}{}{Конец связи.}
+{3450}{}{[Into the radio] End of transmission.}
+{3451}{}{End of transmission.}
 #Если грант мертв или нет в радиусе поиска
-{3455}{}{Ха. Грант куда-то отлучился. То, что мне нужно.}
+{3455}{}{Ha. Grant stepped out somewhere. Just what I need.}
 # Грант заметил Смита
-{3456}{}{Эй! Кто здесь! Выйди на свет, иначе стреляю!}
-{3457}{}{Что случилось? Я не делаю ничего противозаконного.}
-{3458}{}{Здесь находиться запрещено. Проваливай, пока цел.}
-{3459}{}{Уже ухожу, прошу прощения.}
+{3456}{}{Hey! Who's there! Step into the light, or I'll shoot!}
+{3457}{}{What's wrong? I'm not doing anything illegal.}
+{3458}{}{Being here is prohibited. Get lost while you still can.}
+{3459}{}{Already leaving, I apologize.}
 #Диалог Смита и Вейстина
-{3460}{}{Здравствуйте, мистер Вейстин.}
-{3461}{}{Что... Кто вы? Как вы оказались в моем доме?! Охрана! На помощь!}
-{3462}{}{Никто не придет, мистер Вейстин. Я здесь, чтобы передать вам привет от господина Бишопа.}
-{3463}{}{Бишоп? Человек Бишопа?! Вы пришли меня убить?!}
-{3464}{}{Удивительная проницательность. Прощайте, мистер Вейстин.}
-{3465}{}{Помогите! Убивают!}
+{3460}{}{Hello, Mr. Westin.}
+{3461}{}{What... Who are you? How did you get into my house?! Guards! Help!}
+{3462}{}{No one is coming, Mr. Westin. I'm here to give you regards from Mr. Bishop.}
+{3463}{}{Bishop? Bishop's man?! You've come to kill me?!}
+{3464}{}{Remarkable perceptiveness. Farewell, Mr. Westin.}
+{3465}{}{Help! Murder!}
 #Вейстина нет на месте или он убит
-{3466}{}{Черт подери! Вейстина нет на месте! Проклятье.}
+{3466}{}{Damn it! Westin isn't here! Curses.}
 
 #Ill brahmin felix quest. Using in ncr_common.fos
-{3470}{}{Вы на самом деле готовы проверить, чем отравился брамин, используя резиновые перчатки и вантус?}
-{3471}{}{Да, с богом!}
-{3472}{}{НИ ЗА ЧТО!!!}
-{3473}{}{Ух, дрянь какая! После нескольких унизительных мгновений вы извлекаете наружу причину "отравления" брамина.}
-{3474}{}{Вы нашли @arg item_name@. И как только он мог ЭТО сожрать...}
-{3475}{}{Вы кладете непонятный цветок Феликса под морду брамина. Он с интересом на него смотрит, и с громким чавканьем съедает. Смотрит на вас с надеждой: а еще есть?}
+{3470}{}{Are you really ready to find out what poisoned the brahmin, using rubber gloves and a plunger?}
+{3471}{}{Yes, with God's help!}
+{3472}{}{NO WAY!!!}
+{3473}{}{Ugh, what filth! After several humiliating moments, you extract the cause of the brahmin's "poisoning".}
+{3474}{}{You found @arg item_name@. And how could it have eaten THIS...}
+{3475}{}{You place Felix's strange flower in front of the brahmin's snout. It looks at it with interest, and devours it with a loud chomp. Looks at you hopefully: is there more?}
 
 # Quest "Arroyo defence". Using in scripts arroyo_mynoc_defence.fos & map_arroyo_rayders_camp.fos
-{3480}{}{Вы получили @arg exp@ опыта.}
-{3481}{}{Вы отстали от группы.}
-{3482}{}{Вы обнаружили рейдеров нападающих на караваны Арройо.}
-{3483}{}{Вы не успели расправиться с рейдерами, они сбежали.}
+{3480}{}{You received @arg exp@ experience.}
+{3481}{}{You fell behind the group.}
+{3482}{}{You discovered raiders attacking the Arroyo caravans.}
+{3483}{}{You didn't manage to deal with the raiders, they fled.}
 
 #caravan quest.Using in caravan.fos
-{3500}{}{Немедленно отойди от груза}
-{3500}{}{Эй! А ну-ка, отвали от повозок}
-{3500}{}{Не вздумай приближаться к грузу}
-{3500}{}{Убирайся, не смей к ним прикасаться}
-{3500}{}{Отойди. Быстро}
-{3500}{}{Не трогай}
+{3500}{}{Step away from the cargo immediately}
+{3500}{}{Hey! Come on, back off from the wagons}
+{3500}{}{Don't even think about approaching the cargo}
+{3500}{}{Get out, don't you dare touch them}
+{3500}{}{Step back. Now}
+{3500}{}{Don't touch}
 
 
 # Квест "Правосудие Хаба". sf_common.fos
-{3510}{}{Перестань! Пожалуйста, перестань!}
-{3510}{}{За что... }
-{3510}{}{Мы никогда никому не причинили вреда! За что нам это все?}
-{3510}{}{Не убивай, будь человеком}
-{3510}{}{НЕЕЕЕТ!}
+{3510}{}{Stop! Please, stop!}
+{3510}{}{What for... }
+{3510}{}{We never harmed anyone! Why is all this happening to us?}
+{3510}{}{Don't kill, have a heart}
+{3510}{}{NOOOOO!}
 
 #Изучение рецепта хитиновой брони.
-{3515}{}{Вы не сумели запомнить содержимое рецепта. Вот если бы вы были немного опытнее...}
-{3516}{}{Вы выучили рецепт усовершенствования кожаной брони с помощью хитиновых панцирей гигантских жуков.}
+{3515}{}{You failed to memorize the contents of the recipe. Now if only you were a little more experienced...}
+{3516}{}{You learned the recipe for improving leather armor using the chitinous shells of giant beetles.}
 
 #hub holodisk quest. Using in loc_tech_bunker.fos
-{3600}{}{Вы не можете иметь больше таких предметов.}
+{3600}{}{You cannot have more items like this.}
 
 
 # Resources system
-{3700}{}{Здесь больше делать нечего}
-{3701}{}{Вы не можете взять больше}
-{3702}{}{Вы добыли : @arg itemname@ - @arg count@@arg type@}
-{3703}{}{Вы добыли : @arg itemname@}
-{3704}{}{Вы добыли немного дров}
-{3705}{}{шт}
-{3706}{}{кг}
-{3707}{}{В этом холодильнике не осталось ни капли аммиака.}
-{3708}{}{Вы набрали почти полную бутылку аммиака. Плотно заверните крышку.}
+{3700}{}{There is nothing more to do here.}
+{3701}{}{You cannot carry any more.}
+{3702}{}{You gathered: @arg itemname@ - @arg count@@arg type@}
+{3703}{}{You gathered: @arg itemname@}
+{3704}{}{You gathered some firewood.}
+{3705}{}{pcs}
+{3706}{}{kg}
+{3707}{}{There is not a drop of ammonia left in this refrigerator.}
+{3708}{}{You filled a nearly full bottle of ammonia. Screw the cap on tight.}
 
 # Game Event Den Racing
-{3800}{}{Да не будет сегодня не фига. Расходитесь.}
-{3800}{}{Да сколько можно  ждать!}
-{3800}{}{Не, ну я не понял, где шоу?}
-{3800}{}{Хлеба и Зрелищ!}
-{3800}{}{Жил на свете мальчик Билли. Дети Билли не любилллли.}
-{3801}{}{Ну ты, не толкайся.}
-{3801}{}{Да начинай уже!!!}
-{3802}{}{Где сиськи, Билли!!!} 
-{3802}{}{Билл, ты испытываешь наше терпение.}
-{3803}{}{А пиво когда привезут?}
-{3804}{}{Нам тут до ночи торчать?}
-{3804}{}{Билли, не спи! Начинай уже!}
-{3805}{}{Але, на! Я сейчас засну от скуки.}
-{3805}{}{Вот идиот! И эти двое – чисто брамины в костюмах!} 
-{3806}{}{А что мы тут стоим-то?}
-{3806}{}{Поехали! Даешь гонки!}
-{3807}{}{Я, кажется, утюг забыла выключить!} 
-{3808}{}{Джон, не ковыряй в носу, тут люди!}
+{3800}{}{There will be nothing today. Move along.}
+{3800}{}{How long do we have to wait?!}
+{3800}{}{No, seriously, where is the show?}
+{3800}{}{Bread and circuses!}
+{3800}{}{There once was a boy named Billy. The kids didn't lillllike Billy.}
+{3801}{}{Hey you, stop shoving.}
+{3801}{}{Just get it started already!!!}
+{3802}{}{Where are the tits, Billy!!!}
+{3802}{}{Bill, you are testing our patience.}
+{3803}{}{When are they bringing the beer?}
+{3804}{}{Are we gonna stand here till nightfall?}
+{3804}{}{Billy, wake up! Get it started already!}
+{3805}{}{Come on! I am about to fall asleep from boredom.}
+{3805}{}{What an idiot! And those two - just brahmin in suits!}
+{3806}{}{So what are we standing around for?}
+{3806}{}{Let's go! Bring on the races!}
+{3807}{}{I think I left the iron on!}
+{3808}{}{John, stop picking your nose, there are people here!}
 
-{3809}{}{Итак!!! Почтеннейшая публика}
-{3810}{}{Дамы и господа}
-{3811}{}{Я Билли Гейц!!! и!!! я объявляю начало}
-{3812}{}{Всесезонных!! Смертельных}
-{3813}{}{Гонок Западного побережья}
-{3814}{}{Гранд-Пасифик-Американ}
-{3815}{}{Напоминаю!!! Что всё хорошее!!! что здесь происходит!!! мы имеем благодаря!!! Семье Бишопов из Нью-Рено}
-{3816}{}{Сегодня!!! Смелые сыны и дочери пустоши сойдутся в борьбе!! за главный приз гонок!! Силовую броню!!! Поприветствуем их}
-{3817}{}{Внимание участников !!! Как только вы покинете город!! На ваш пипбой вы получите информацию!!! по расположению первого чекпойнта!!! По его достижению получите расположение следующего!!! И так далее!!! Если вы меня не поняли – значит зря сюда прибыли}
-{3818}{}{А теперь!!!! Ти ши наааа!!! По моей команде!!! При счете ТРИ начнется гонка!!!}
-{3819}{}{Один!!! }
-{3820}{}{Два!!! }
-{3821}{}{Три!!!}
+{3809}{}{And so!!! Most esteemed public}
+{3810}{}{Ladies and gentlemen}
+{3811}{}{I am Billy Gates!!! and!!! I declare the start}
+{3812}{}{Of the All-Season!! Deadly}
+{3813}{}{West Coast Races}
+{3814}{}{Grand-Pacific-American}
+{3815}{}{A reminder!!! That everything good!!! that happens here!!! we owe to!!! the Bishop Family of New Reno}
+{3816}{}{Today!!! Brave sons and daughters of the wasteland will clash in combat!! for the grand prize of the races!! Power Armor!!! Let's welcome them}
+{3817}{}{Attention participants!!! As soon as you leave the city!! Your Pip-Boy will receive information!!! on the location of the first checkpoint!!! Upon reaching it you will get the location of the next one!!! And so on!!! If you did not understand me - then you came here for nothing}
+{3818}{}{And now!!!! Tee shee naaaa!!! On my command!!! At the count of THREE the race begins!!!}
+{3819}{}{One!!! }
+{3820}{}{Two!!! }
+{3821}{}{Three!!!}
 
-{3822}{}{Не тяни, придурок!}
-{3823}{}{Чо он сказал, я не услышал!}
-{3824}{}{Да, да, задолбал уже}
-{3825}{}{Ой, уже началось?!!}
-{3826}{}{Где сиськи, Билли!!! Урааа!!!}
-{3827}{}{Ура!!}
+{3822}{}{Don't drag it out, moron!}
+{3823}{}{What did he say, I didn't hear!}
+{3824}{}{Yeah, yeah, you're a pain already}
+{3825}{}{Oh, has it already started?!!}
+{3826}{}{Where are the tits, Billy!!! Hurraaay!!!}
+{3827}{}{Hurray!!}
 
-{3828}{}{Чтоб они сдохли!} 
-{3829}{}{Да чо он шепчет, хер поймешь!} 
-{3830}{}{Бишопы рулят!!!}
-{3831}{}{А дочка у них та ещё блядина!!!} 
-{3832}{}{Я возьму отбивную с луком!!!}
-{3833}{}{Где сиськи, Билли!!!}
+{3828}{}{Let them croak!}
+{3829}{}{What is he whispering, can't make a damn thing out!}
+{3830}{}{The Bishops rule!!!}
+{3831}{}{And their daughter is one hell of a whore!!!}
+{3832}{}{I'll take a chop with onions!!!}
+{3833}{}{Where are the tits, Billy!!!}
 
-{3834}{}{Да она сломанная, поди!!!} 
-{3835}{}{Ура!!!}
-{3836}{}{Давай, мужики!!!}  
-{3837}{}{Вот так и разводят нас как лохов!!!} 
-{3838}{}{Чего он говорит, я не понял!}
-{3839}{}{Где сиськи, Билли!!!}
+{3834}{}{It's probably broken!!!}
+{3835}{}{Hurray!!!}
+{3836}{}{Come on, guys!!!}
+{3837}{}{That's how they fleece us like suckers!!!}
+{3838}{}{What is he saying, I didn't get it!}
+{3839}{}{Where are the tits, Billy!!!}
 
-{3840}{}{Слышь, ты что-нибудь понял?!!!} 
-{3841}{}{Ура!!!}
-{3842}{}{Нарезааай!!!}
-{3843}{}{У меня в том году брамин от этого сдох!!!} 
-{3844}{}{Это он с кем разговаривает?!}
-{3845}{}{Где сиськи, Билли!!!}
+{3840}{}{Hey, did you understand any of that?!!!}
+{3841}{}{Hurray!!!}
+{3842}{}{Slice them up!!!}
+{3843}{}{Last year my brahmin died from one of these!!!}
+{3844}{}{Who is he even talking to?!}
+{3845}{}{Where are the tits, Billy!!!}
 
-{3846}{}{Я опять не услышал!!!} 
-{3847}{}{Ура!!!}
-{3848}{}{Газ в пол!!!} 
-{3849}{}{Как насчет пива?!!} 
-{3850}{}{А мой-то дурак на рыбалку пошел!!!} 
-{3851}{}{Вперёёёд!!!}
-{3852}{}{Где сиськи, Билли!!!}
+{3846}{}{I didn't hear again!!!}
+{3847}{}{Hurray!!!}
+{3848}{}{Pedal to the metal!!!}
+{3849}{}{How about some beer?!!}
+{3850}{}{And my fool went off fishing!!!}
+{3851}{}{Onwaaard!!!}
+{3852}{}{Where are the tits, Billy!!!}
 
-{3853}{}{Внимание! Всем, кого это касается! Всем желающим принять участие  - записываться заранее! Заявки принимаются  на заправке в Дене! Не пропусти Всесезонные Смертельные Гонки Западного побережья Гранд-Пасифик-Американ! Гонки на приз семьи Бишопов  состоятся:}
-{3854}{}{Ура.}
-{3855}{}{Девочки, а он ничего.}
+{3853}{}{Attention! To all whom it may concern! Anyone wishing to take part - sign up in advance! Applications are accepted at the gas station in the Den! Don't miss the All-Season Deadly West Coast Races Grand-Pacific-American! The races for the Bishop family prize will be held on:}
+{3854}{}{Hurray.}
+{3855}{}{Girls, he's not bad.}
 
-{3856}{}{В пипбой загружены координаты чепоинта №@arg num@.}
+{3856}{}{The coordinates of checkpoint #@arg num@ have been loaded into the Pip-Boy.}
 
 # Magic Ball mesages
 # > 0 luck = 3899..3908
@@ -872,126 +872,126 @@ P.S. Чузенов просьба не беспокоить.}
 # > 7 luck = 3899..3935
 # > 8 luck = 3899..3941
 # > 9 luck = 3899..3943
-{3899}{}{Это что еще за идиотский вопрос?}
-{3900}{}{Перспективы хорошие.}
-{3901}{}{Перспективы не слишком хорошие.}
-{3902}{}{Мой ответ - нет.}
-{3903}{}{Не рассчитывайте на это.}
-{3904}{}{Можете рассчитывать на это.}
-{3905}{}{Спросите потом.}
-{3906}{}{Скорее всего.}
-{3907}{}{Сейчас невозможно сказать заранее.}
-{3908}{}{Да.}
-{3909}{}{Да. Несомненно.}
-{3910}{}{Лучше пока вам не говорить.}
-{3911}{}{Вне всякого сомнения.}
-{3912}{}{Очень сомнительно.}
-{3913}{}{Определенно так.}
-{3914}{}{Сосредоточьтесь и спросите снова.}
-{3915}{}{Знаки указывают, что да.}
-{3916}{}{Мои источники говорят, что нет.}
-{3917}{}{Несомненно.}
-{3918}{}{Ответ неясен, попробуйте еще раз.}
-{3919}{}{Как мне кажется, да.}
-{3920}{}{Хватит меня так трясти. Больно же!}
-{3921}{}{У вас сильная правая рука.}
-{3922}{}{Перед тем как снова меня трясти, прошу вас, вытрите руки.}
-{3923}{}{Временно не обслуживается.}
-{3924}{}{Закрыто по приказу Совета РПГ.}
-{3925}{}{Будешь и дальше меня трясти, будут неприятности.}
-{3926}{}{Мне плохо.}
-{3927}{}{Меня тошнит.}
-{3928}{}{У тебя руки теплые.}
-{3929}{}{Нет.}
-{3930}{}{Ваш показатель - 23 из 100. У вас еще масса способов уйти. И не спрашивайте, что это значит.}
-{3931}{}{Если верить моему внутреннему чутью, у вас все получится. А если не верить - наоборот. Сожалею.}
-{3932}{}{Если вы встретите робота-стража, уничтожившего караван, не забудьте считать информацию с его видеокамеры.}
-{3933}{}{На Атолле есть парень, который продает ГЕКК. Если, конечно, его еще никто не купил.}
-{3934}{}{Попробуйте проследить, куда нищенка из НКР прячет деньги, нажитые непосильным попрошайничеством.}
-{3935}{}{Посылку паладинов Братства можно взломать. Точно.}
-{3936}{}{Хватит меня так трясти.}
-{3937}{}{Ваша УДАЧА очень высока. Трясите меня, что-нибудь полезное расскажу!}
-{3938}{}{Среди объявлений на доске НКР вы не найдете ничего полезного.}
-{3939}{}{Алекс в НКР может подарить очень интересный голодиск, если вы удивите его своими познаниями. А может и не подарить.}
-{3940}{}{Перестань меня тереть!}
-{3941}{}{Нет! Нет! И еще раз, нет!}
-{3942}{}{Код для активации сейфа в покоях императора - @arg code@.}
+{3899}{}{What kind of idiotic question is that?}
+{3900}{}{Outlook good.}
+{3901}{}{Outlook not so good.}
+{3902}{}{My reply is no.}
+{3903}{}{Don't count on it.}
+{3904}{}{You may rely on it.}
+{3905}{}{Ask again later.}
+{3906}{}{Most likely.}
+{3907}{}{Cannot predict now.}
+{3908}{}{Yes.}
+{3909}{}{Yes. Definitely.}
+{3910}{}{Better not tell you now.}
+{3911}{}{Without a doubt.}
+{3912}{}{Very doubtful.}
+{3913}{}{It is decidedly so.}
+{3914}{}{Concentrate and ask again.}
+{3915}{}{Signs point to yes.}
+{3916}{}{My sources say no.}
+{3917}{}{Without a doubt.}
+{3918}{}{Reply hazy, try again.}
+{3919}{}{As I see it, yes.}
+{3920}{}{Stop shaking me like that. It hurts!}
+{3921}{}{You have a strong right arm.}
+{3922}{}{Before you shake me again, please, wipe your hands.}
+{3923}{}{Temporarily out of service.}
+{3924}{}{Closed by order of the RPG Council.}
+{3925}{}{Keep shaking me and there will be trouble.}
+{3926}{}{I feel sick.}
+{3927}{}{I'm nauseous.}
+{3928}{}{Your hands are warm.}
+{3929}{}{No.}
+{3930}{}{Your score is 23 out of 100. You still have plenty of ways to walk away. And don't ask what that means.}
+{3931}{}{If you believe my gut feeling, you will succeed. And if you don't - the opposite. Sorry.}
+{3932}{}{If you meet a guard robot that destroyed a caravan, don't forget to read the data from its video camera.}
+{3933}{}{There's a guy on the Atoll who sells a G.E.C.K. If nobody has bought it yet, of course.}
+{3934}{}{Try to track down where the NCR beggar woman hides the money she earned through her grueling panhandling.}
+{3935}{}{A Brotherhood paladins' package can be hacked. For sure.}
+{3936}{}{Stop shaking me like that.}
+{3937}{}{Your LUCK is very high. Shake me, I'll tell you something useful!}
+{3938}{}{Among the notices on the NCR board you won't find anything useful.}
+{3939}{}{Alex in the NCR might give you a very interesting holodisk if you surprise him with your knowledge. Or he might not.}
+{3940}{}{Stop rubbing me!}
+{3941}{}{No! No! And once again, no!}
+{3942}{}{The code to activate the safe in the Emperor's chambers is @arg code@.}
 
 
 # Game Event Den Racing
-{3950}{}{Сволочи!!!}
-{3951}{}{Верните деньги!!!}
-{3952}{}{А уже кончилось, что ли?!!}
-{3953}{}{Эй, Пустошь! У нас есть победитель Смертельных Гонок! Поздравляем с заслуженной победой}
-{3954}{}{Говорит Билл Гейс! Всесезонные Смертельные Гонки Западного побережья Гранд-Пасифик-Американ нашли своего победителя! Мы ждем серебрянного призера и сворачиваемся! Ура!}
-{3955}{}{Внимание всем участникам Смертельных Гонок! Гонки завершены! Повторяю, гонки завершены! Следующие гонки состоятся через 3..4 месяца!}
-{3956}{}{Внимание, внимание! Время, отведенное на маршрут для гонщиков Смертельных Гонок Западного побережья Гранд-Пасифик-Американ истекло! Сегодня мы остались без победителя! Всем спасибо! Все свободны!}
-{3957}{}{Спасибо всем! Все призовые места заняты! Второе место заслуженно получает...}
+{3950}{}{Bastards!!!}
+{3951}{}{Give back the money!!!}
+{3952}{}{Is it over already?!!}
+{3953}{}{Hey, Wasteland! We have a winner of the Deadly Races! Congratulations on a well-earned victory}
+{3954}{}{This is Bill Gates! The All-Season Deadly West Coast Races Grand-Pacific-American have found their winner! We await the silver medalist and then we wrap up! Hurray!}
+{3955}{}{Attention all participants of the Deadly Races! The races are over! I repeat, the races are over! The next races will be held in 3..4 months!}
+{3956}{}{Attention, attention! The time allotted on the route for the racers of the Deadly West Coast Races Grand-Pacific-American has expired! Today we are left without a winner! Thanks everyone! You are all free to go!}
+{3957}{}{Thanks everyone! All the prize places are taken! Second place deservedly goes to...}
 
 
 # Game Event Replicator.
-{4000}{}{Аррр-гх!}
-{4000}{}{Поднимается, кряхтит, машет головой.}
-{4000}{}{Несколько раз подскальзывается но снова встает.}
-{4000}{}{Ыы-ааыа-ыаыы ыа аыааыыыа ыа убью!}
-{4000}{}{Я все еще жив... ыАоооООНугрн ххха-ххахха}
-{4000}{}{Встает на ноги}
-{4001}{}{Арг-хгх-гх}
-{4001}{}{МОЗГИ}
-{4001}{}{УБЬЮ}
-{4001}{}{Мамочка, ты меня звала?}
-{4001}{}{Кто здесь?}
-{4001}{}{Смерть гладкокожим}
-{4001}{}{Урргаххаха}
-{4001}{}{Урргаххаха}
-{4002}{}{Подвывает}
-{4002}{}{Нервно ковыляет в сторону}
-{4002}{}{Кряхтит}
-{4002}{}{Стонет}
-{4002}{}{Гргх-гх-гхм}
-{4002}{}{Дергается}
-{4002}{}{Что эти твари сделали со мной?}
-{4002}{}{Где я? Кто все эти гули? Почему они похожи на меня?}
-{4003}{}{Бдыщ!}
-{4003}{}{Хлоп!}
-{4003}{}{Ш-ш-ш-ш!}
-{4003}{}{Чпок!}
-{4004}{}{Эй, @arg player@! Возможно, вас заинтересует наше предложение...@@Приветствую вас, @arg player@. Не желаете ли неплохо заработать?@@*Кх-хм. @arg player@. Могу ли я расчитывать на ваше внимание? Есть серьезный разговор.}
-{4005}{}{Цель поражена. Но нужно время, чтобы убедиться, что гуль мертв и больше не поднимется.}
-{4006}{}{Да, похоже этот уже не встанет. Прошло достаточно времени, чтобы понять, что гуль мертв окончательно.}
-{4007}{}{Проклятие! "Убитый" гуль снова поднимается. Отчего же они такие прочные?}
+{4000}{}{Arrr-gh!}
+{4000}{}{Rises, groans, shakes its head.}
+{4000}{}{Slips a few times but gets up again.}
+{4000}{}{Eee-aaaya-yaayy ya ayaaayyya ya kill!}
+{4000}{}{I'm still alive... eeAoooOONugrn hhha-hhahha}
+{4000}{}{Gets to its feet}
+{4001}{}{Arg-hgh-gh}
+{4001}{}{BRAINS}
+{4001}{}{KILL}
+{4001}{}{Mommy, did you call me?}
+{4001}{}{Who's there?}
+{4001}{}{Death to the smoothskins}
+{4001}{}{Urrgahhaha}
+{4001}{}{Urrgahhaha}
+{4002}{}{Howls softly}
+{4002}{}{Hobbles nervously to the side}
+{4002}{}{Groans}
+{4002}{}{Moans}
+{4002}{}{Grgh-gh-ghm}
+{4002}{}{Twitches}
+{4002}{}{What did those creatures do to me?}
+{4002}{}{Where am I? Who are all these ghouls? Why do they look like me?}
+{4003}{}{Bdysh!}
+{4003}{}{Smack!}
+{4003}{}{Sh-sh-sh-sh!}
+{4003}{}{Pop!}
+{4004}{}{Hey, @arg player@! You might be interested in our offer...@@Greetings, @arg player@. Care to make some good money?@@*Ahem. @arg player@. May I have your attention? There is a serious matter to discuss.}
+{4005}{}{Target hit. But it takes time to make sure the ghoul is dead and won't rise again.}
+{4006}{}{Yeah, looks like this one won't get up again. Enough time has passed to be sure the ghoul is finally dead.}
+{4007}{}{Damn it! The "killed" ghoul is rising again. Why are they so tough?}
 
 # SF Invasion mobs. Using in sf_invasion.fos
-{5100}{}{Расправляет крылья}
-{5100}{}{ж-ж-ж}
-{5100}{}{Шелестит крыльями}
-{5100}{}{Щелк! Щелк!}
-{5100}{}{Шёлкает}
-{5100}{}{Угрожающе шевелит жвалами}
-{5100}{}{Громко щелкает}
-{5100}{}{Поворачивает голову в вашу сторону и издает какой-то скрежет}
-{5101}{}{Прислушивается к собрату}
-{5101}{}{Останавливается и готовится напасть}
-{5101}{}{Медленно разворачивается и замирает}
+{5100}{}{Spreads its wings}
+{5100}{}{bzzz}
+{5100}{}{Rustles its wings}
+{5100}{}{Click! Click!}
+{5100}{}{Clicks}
+{5100}{}{Menacingly moves its mandibles}
+{5100}{}{Clicks loudly}
+{5100}{}{Turns its head toward you and makes a grating sound}
+{5101}{}{Listens to its fellow}
+{5101}{}{Stops and prepares to attack}
+{5101}{}{Slowly turns around and freezes}
 
 # Квест Нэнси и Сид. Using in sf_common.fos
 {5110}{}{S.O.S.}
-{5111}{}{Это Нэнси... Сид, он...}
-{5112}{}{Помогите кто-нибудь, я в палатке наркодилеров на побережье... Ранена... Умираю... Сид ушел...}
+{5111}{}{This is Nancy... Sid, he...}
+{5112}{}{Somebody help me, I'm in the drug dealers' tent on the coast... Wounded... Dying... Sid is gone...}
 
 #Квест "Непыльная работа". navarro.fos
-{5150}{}{Вы сканируете память робота с помощью сканера. Объем сохраненных данных: @arg value@%}
-{5151}{}{Вы сканируете память робота с помощью сканера. Объем сохраненных данных: 100%! Можно возвращаться к технику в Наварро.}
-{5152}{}{Банк данных этого робота опустошен. Возможно, кто-то уже просканировал и разрушил его память.}
-{5153}{}{Вы устанавливаете чип в коммуникационный разъем робота. Остается только привести его в работоспособное состояние, и у вас будет самый лучший телохранитель.}
-{5154}{}{Вам понятия не имеете, где этот разъем и как использовать чип.}
-{5155}{}{Вам не удалось отремонтировать робота-стража.}
-{5156}{}{Используя накопленные знания, вы приводите стража в работоспособное состояние. Теперь он станет вашим спутником.}
+{5150}{}{You scan the robot's memory with the scanner. Volume of saved data: @arg value@%}
+{5151}{}{You scan the robot's memory with the scanner. Volume of saved data: 100%! You can return to the technician in Navarro.}
+{5152}{}{This robot's data bank is empty. Perhaps someone has already scanned and wiped its memory.}
+{5153}{}{You install the chip into the robot's communication port. All that remains is to get it working, and you'll have the best bodyguard.}
+{5154}{}{You have no idea where this port is or how to use the chip.}
+{5155}{}{You failed to repair the guard robot.}
+{5156}{}{Using your accumulated knowledge, you bring the guard into working condition. Now it will become your companion.}
 
 # Сообщения и тексты на карте Рынка. Using in map_barter_ground.fos
-{5200}{}{Эй! @arg pname@! Ты зря захватил это с собой! К нам нельзя приносить эту дрянь!}
-{5200}{}{Запрещенный предмет! Запрещенный предмет! Уничтожить @arg pname@}
-{5200}{}{Внимание, всем! У репликанта @arg pname@ замечены запрещенные предметы. Уничтожить!}
+{5200}{}{Hey! @arg pname@! You shouldn't have brought that with you! You can't bring that junk in here!}
+{5200}{}{Forbidden item! Forbidden item! Destroy @arg pname@}
+{5200}{}{Attention everyone! Forbidden items have been spotted on replicant @arg pname@. Destroy!}
 
 # Урон от энерогетических барьеров
 {5300}{}{You are shocked by the weakened force field.}
@@ -1008,18 +1008,18 @@ P.S. Чузенов просьба не беспокоить.}
 {5311}{}{You fail to upper the force field.}
 
 # Охрана на воротах реддинга. redd_gates.fos
-{5400}{}{Назад, немедленно!@@Не подходи к двери @arg pname@. Второй раз предупреждать не буду.}
-{5401}{}{Ты слишком глуп@arg sex@. Эта ошибка будет стоить тебе жизни!@@Тебя предупреждали}
-{5402}{}{КУДА ТЫ? ТЫ ТРУП@@Нарушитель. Огонь на поражение}
+{5400}{}{Back, now!@@Don't approach the door @arg pname@. I won't warn you a second time.}
+{5401}{}{You are too stupid@arg sex@. This mistake will cost you your life!@@You were warned}
+{5402}{}{WHERE DO YOU THINK YOU'RE GOING? YOU'RE DEAD@@Intruder. Fire to kill}
 
 # Работа в шахте Реддинга. redd_mines.fos
-{5420}{}{Вы бережно опускаете один из золотых самородков в вагонетку. Всего добыто золота: @arg num@.}
+{5420}{}{You carefully lower one of the gold nuggets into the cart. Total gold mined: @arg num@.}
 
 #Могила мужа Руни
-{5425}{}{Да, это та самая могила. Вы оставляете цветы возле обелиска.}
+{5425}{}{Yes, this is the grave. You leave the flowers by the obelisk.}
 
 # Сообщение на входе в Реддинг
-{5430}{}{По приближению к городу, Вы замечаете, что северная его часть огорожена длинной стеной.}
+{5430}{}{As you approach the city, you notice that its northern part is enclosed by a long wall.}
 
 # Город из ГЕККа MapGeckCity.fos
 {5500}{}{This place is completely unsuitable for contructing a city.}
@@ -1028,258 +1028,258 @@ P.S. Чузенов просьба не беспокоить.}
 {5503}{}{Citizen's info saved. Name: @arg pname@.}
 {5504}{}{Congratulations! You have been registered in city's system. You now have an access to all the systems.}
 {5505}{}{Garden of Eden Construction Kit work is now complete... Welcome to city that G.E.C.K. built.}
-{5506}{}{Электронный замок на этой двери невозможно открыть стандартными способами. От отмычек или динамита не будет никакого толку.}
+{5506}{}{The electronic lock on this door cannot be opened by standard means. Lockpicks or dynamite will be of no use.}
 {5507}{}{@arg leadername@ has entered you into the lists of citizens of city constructed by G.E.C.K.}
 {5508}{}{@arg leadername@ has removed you from the the lists of citizens of city constructed by G.E.C.K.}
 {5509}{}{Generator is charged, total charges: @arg charges@. Estimated barrier work time: @arg time@.}
 {5510}{}{Out of order.}
-{5511}{}{Посмотрим, что здесь можно сделать...}
+{5511}{}{Let's see what can be done here...}
 
 #Квест "Семья", ГУ, Вэлери. vcity_common.fos
-{5800}{}{Типичная женская писанина. Даже смотреть не хочется.}
-{5801}{}{Вам совершенно случайно попадаются на глаза первые строки письма. Они настолько увлекают вас, что вы дочитываете до самого конца: …и прости, что я так вела себя с тобой. Нас ведь осталось только двое во всём мире. Надеюсь и хочу увидеть тебя. Любящая тебя дочь.}
-{5802}{}{[…надо же. Написано просто кровью сердца. Вы еще раз  перечитываете  письмо, и  оно остается у вас в памяти].}
+{5800}{}{Typical female scribbling. Not even worth a look.}
+{5801}{}{Quite by chance the first lines of the letter catch your eye. They draw you in so much that you read all the way to the end: ...and forgive me for treating you the way I did. After all, there are only two of us left in the whole world. I hope and want to see you. Your loving daughter.}
+{5802}{}{[...well now. Written straight from the heart. You read the letter over once more, and it stays etched in your memory.]}
 
 # Квест "Свет мой, зеркальце", ГУ, Доктор Хелен Трой. vcity_common.fos
-{5805}{}{Ну и заумь. Совершенно ничего непонятно.}
-{5806}{}{Да тут не так уж и сложно всё. Любой осёл разберется. Вы запоминаете содержимое.}
+{5805}{}{What gibberish. Nothing makes any sense at all.}
+{5806}{}{Actually it's not that complicated. Any fool could figure it out. You memorize the contents.}
 
 #Квест "Рога Изобилия", БХ, Начальник фабрики. broken_common.fos
-{5900}{}{Убито саботажников по заданию АХС-7: @arg dead@ из 40.}
-{5901}{}{В глазах рябит от формул и чертежей. Пускай специалисты разбираются.}
-{5902}{}{Описание технологии обогащения, изложенное четким  языком, со множеством прекрасных чертежей. Вы с удовольствием вникаете в суть дела.}
+{5900}{}{Saboteurs killed for assignment AHS-7: @arg dead@ of 40.}
+{5901}{}{Your eyes swim with formulas and blueprints. Let the specialists sort it out.}
+{5902}{}{A description of the enrichment technology, laid out in clear language, with many fine blueprints. You take pleasure in grasping the essence of the matter.}
 
 #Квест "Возвращение ребенка"
-{5905}{}{Проваливай отсюда, извращенец.@@Посмотрите на эту мразь! Он набрался наглости вернуться сюда!@@таким как ты в польше химическую кастрацию делают, @Иди в жопу извращенец!@И откуда вы, мрази, беретесь.@@Охотники уже идут за тобой. Ты сдохнешь!}
+{5905}{}{Get out of here, you pervert.@@Look at this scum! He had the nerve to come back here!@@In Poland they'd give someone like you chemical castration, @Go to hell, pervert!@And where do you scum keep crawling out from.@@The hunters are already coming for you. You'll croak!}
 
 # Квест "Гвардия Города-Убежища. Испытание первое". fighter_quest.fos
-{5910}{}{Начат поединок c @arg npcname@. Удачи!}
-{5911}{}{Вы победили в поединке с @arg npcname@. Поздравляем. Прекратите атаку, иначе вас не поймут окружающие.}
-{5912}{}{Удача была не на вашей стороне. Вы проиграли поединок с @arg npcname@.}
-{5913}{}{В результате поединка ваш противник был убит.}
-{5914}{}{Жулик! Договаривались без оружия!}
+{5910}{}{A duel with @arg npcname@ has begun. Good luck!}
+{5911}{}{You won the duel with @arg npcname@. Congratulations. Stop attacking, or the others won't understand.}
+{5912}{}{Luck was not on your side. You lost the duel with @arg npcname@.}
+{5913}{}{As a result of the duel your opponent was killed.}
+{5914}{}{Cheat! We agreed: no weapons!}
 
 #Квест "Гвардия Города-Убежища. Испытание третье". vc_guardsman.fos
-{5915}{}{Вы в правильной позиции. Оставайтесь на месте до первой команды. Равнение на середину!}
-{5916}{}{Да сколько можно? Стать в строй, черт тебя дери! Иначе отправлю к мамочке!}
-{5917}{}{Вы что-то сделали не так. Задание провалено.}
+{5915}{}{You're in the right position. Stay put until the first command. Eyes to the center!}
+{5916}{}{How long is this going to take? Fall in, damn you! Or I'll send you back to your mommy!}
+{5917}{}{You did something wrong. Assignment failed.}
 
 
 #Монологи-песни Илая. eli.fos
 #4
-{5960}{}{Да, сегодня позволено все,}
-{5961}{}{Что крушишь себя так увлеченно.}
-{5962}{}{Видишь, я над тобою кружу.}
-{5963}{}{Это я фиолетово-черный.}
-{5964}{}{Если можешь, беги, рассекая круги,}
-{5965}{}{Только чувствуй себя обреченной.}
-{5966}{}{Стоит солнцу зайти, вот и я}
-{5967}{}{Стану вмиг фиолетово-черным.}
+{5960}{}{Yes, today everything is permitted,}
+{5961}{}{The way you wreck yourself so eagerly.}
+{5962}{}{See, I circle above you.}
+{5963}{}{It's me, violet-black.}
+{5964}{}{If you can, run, cutting through the circles,}
+{5965}{}{Just feel yourself doomed.}
+{5966}{}{When the sun goes down, here I am}
+{5967}{}{I'll turn at once violet-black.}
 
 #Квест "Ночь нежна." Модок. map_modoc.fos
-{5970}{}{От зараза, охранника поставили. Надо сваливать от греха…}
-{5971}{}{Отличное место для наблюдений. Осталось дождаться ночи и выяснить, что происходит с браминами.}
-{5972}{}{Не стреляй, человек. Давай поговорим!}
+{5970}{}{Damn it, they've posted a guard. I'd better clear out before there's trouble...}
+{5971}{}{A great spot for observation. Now I just have to wait for nightfall and find out what's happening to the brahmin.}
+{5972}{}{Don't shoot, human. Let's talk!}
 
 #Монологи-песни Илая. eli.fos
 #1
-{5973}{}{Я сам себе и небо и луна}
-{5974}{}{Голая, довольная луна}
-{5975}{}{Долгая дорога, да и то не моя.}
-{5976}{}{За мною зажигали города}
-{5977}{}{Глупые чужие города}
-{5978}{}{Там меня любили, только это не я.}
+{5973}{}{I am my own sky and moon,}
+{5974}{}{A bare, contented moon.}
+{5975}{}{A long road, and not even mine.}
+{5976}{}{Cities lit up behind me,}
+{5977}{}{Foolish, foreign cities.}
+{5978}{}{There they loved me, only it wasn't me.}
 #2
-{5980}{}{Мертвая змея не шипит}
-{5981}{}{Не щебечет дохлый щегол}
-{5982}{}{Мертвый негр не идет играть в баскетбол...}
-{5983}{}{Только мертвый негр не идет играть в баскетбол...}
-{5984}{}{Ай-я-я-я-я-я-яй убили негра, убили негра, убили...}
-{5985}{}{Ай-я-я-я-я-яй ни за что ни про что...суки замочили...}
-{5986}{}{Ай-я-я-я-я-я-яй убили негра, убили негра, убили...}
-{5987}{}{Ай-я-я-я-я-яй ни за что ни про что...суки замочили...}
+{5980}{}{A dead snake does not hiss,}
+{5981}{}{A dead goldfinch does not chirp,}
+{5982}{}{A dead black man does not go play basketball...}
+{5983}{}{Only a dead black man does not go play basketball...}
+{5984}{}{Ai-yai-yai-yai-yai-yai, they killed the black man, killed the black man, killed...}
+{5985}{}{Ai-yai-yai-yai-yai, for no reason at all... the bastards did him in...}
+{5986}{}{Ai-yai-yai-yai-yai-yai, they killed the black man, killed the black man, killed...}
+{5987}{}{Ai-yai-yai-yai-yai, for no reason at all... the bastards did him in...}
 #3
-{5988}{}{Я на чердаке лежу у себя на дому.}
-{5989}{}{Мне скучно до зарезу Бог знает почему.} 
-{5990}{}{Вдруг слышу за собою совы нежные "У-юй" -}
-{5991}{}{У меня на душе стало веселее,}
-{5992}{}{А-лай-лай-лай, стало веселее.} 
-{5993}{}{Я по дороге иду к другу-разбойнику,} 
-{5994}{}{Мне тоскливо одному в незнакомом краю.} 
-{5995}{}{Вдруг слышу за собою совы нежные "У-юй" -}
-{5996}{}{У меня на душе стало веселее,}
-{5997}{}{А-лай-лай-лай, стало веселее.}
+{5988}{}{I'm lying in the attic of my own house.}
+{5989}{}{I'm bored to death, God knows why.} 
+{5990}{}{Suddenly I hear behind me the owl's tender "Hoo-hoo" -}
+{5991}{}{And my heart grew merrier,}
+{5992}{}{A-lai-lai-lai, grew merrier.} 
+{5993}{}{I walk along the road to my robber friend,} 
+{5994}{}{I'm lonesome alone in an unfamiliar land.} 
+{5995}{}{Suddenly I hear behind me the owl's tender "Hoo-hoo" -}
+{5996}{}{And my heart grew merrier,}
+{5997}{}{A-lai-lai-lai, grew merrier.}
 
 
 # Основной сюжетный квест. Резерв 6000...7000
-{6000}{}{В вашем ПипБое записана важная информация.}
+{6000}{}{Important information has been recorded in your PipBoy.}
 
 # Сражения, поединки. battle_info.fos
-{7001}{}{Невозможно использовать. Возможно, нужно дождаться следующего этапа сражения.}
-{7002}{}{Невозможно использовать. Доступ только для участников сражения.}
-{7003}{}{Невозможно использовать. Доступ только для победителей.}
+{7001}{}{Cannot be used. You may need to wait for the next stage of the battle.}
+{7002}{}{Cannot be used. Access for battle participants only.}
+{7003}{}{Cannot be used. Access for winners only.}
 
 # ГУ, квестовая линия поддержки Линетт. vc_lynett.fos
-{7100}{}{Вот сука черномазая, говорила – легкая мишень… }
-{7101}{}{Ха, как эта черная сука и обещала – раз плюнуть…}
+{7100}{}{What a black bitch, said it'd be an easy target... }
+{7101}{}{Ha, just like that black bitch promised - a piece of cake...}
 
 # q_silo.fos
-{7110}{}{Эту дверь заклинило. Никакая сила не поможет ее открыть.}
+{7110}{}{This door is jammed. No force will help open it.}
 
 # game_event_caches.fos
-{7115}{}{Это место очень похоже на то, что указано в карте наемника.}
+{7115}{}{This place looks a lot like the one marked on the mercenary's map.}
 
 
 # purgatory.fos
 
-{7120}{}{Внимание! Открыт набор участников для Испытания в Чистилище. Для того, чтобы подать заявку найдите Экзекутора на входе любого города Пустоши.}
-{7121}{}{Мощный электрически разряд из пипбоя отправляет вас на небеса. Правда, вам показалось, что удар был нанесен в шею, откуда-то сзади.}
-{7122}{}{Вещи, которые были на вас в момент смерти, вы сможете забрать в банке хабологов в любое удобное для вас время.}
-{7123}{}{Вы приняли участие в Испытании хабологов. 
-Ваша команда должна уничтожить представителей других команд. 
-После этого вы сможете получить заслуженную награду и покинуть территорию Чистилища. 
-За каждого убитого противника вы получаете премию на репликационный счет: 300 монет. 
-За убитого союзника назначается штраф: 1000 монет. Сумма штрафа будет вычтена с репликационного счета.}
-{7124}{}{В Чистилище хабологи устраивают гладиаторские бои между реплицированными.}
-{7125}{}{|@arg teamColor@ Команда @arg team@ |@arg baseColor@: К сражению присоединяется |@arg teamColor@ @arg name@. }
-{7126}{}{Участник сражения |@arg team2Color@ @arg killer@ |@arg baseColor@ убивает |@arg team1Color@ @arg dead@ |@arg baseColor@ !!}
-{7127}{}{Пока никто не записался...}
-{7128}{}{Испытание закончено. Все зрители и участники покидают Чистилище.}
-{7129}{}{Вы убили представителя своей команды. С репликационного счета снят штраф 1000 монет.}
-{7130}{}{Вы убили представителя вражеской команды. На репликационный счет начислено 300 монет. Опыта получено @arg xp@.}
-{7131}{}{Испытание завершено! Победила команда репликационной станции @arg team@!}
-{7132}{}{Внимание! Испытание началось! Двери боксов распечатаны. Удачи всем участникам сражения!}
+{7120}{}{Attention! Recruitment is open for the Trial in Purgatory. To sign up, find the Executor at the entrance of any city in the Wasteland.}
+{7121}{}{A powerful electric discharge from your PipBoy sends you to heaven. Though it felt like the blow landed on your neck, from somewhere behind.}
+{7122}{}{The belongings you had on you at the moment of death can be reclaimed at the hubologists' bank at any time convenient to you.}
+{7123}{}{You have taken part in the hubologists' Trial.
+Your team must wipe out the members of the other teams.
+After that you can collect your well-earned reward and leave the territory of Purgatory.
+For each enemy killed you receive a bonus to your replication account: 300 coins.
+For each ally killed a penalty is imposed: 1000 coins. The penalty amount will be deducted from the replication account.}
+{7124}{}{In Purgatory the hubologists stage gladiatorial fights between the replicated.}
+{7125}{}{|@arg teamColor@ Team @arg team@ |@arg baseColor@: Joining the battle is |@arg teamColor@ @arg name@. }
+{7126}{}{Battle participant |@arg team2Color@ @arg killer@ |@arg baseColor@ kills |@arg team1Color@ @arg dead@ |@arg baseColor@ !!}
+{7127}{}{No one has signed up yet...}
+{7128}{}{The Trial is over. All spectators and participants leave Purgatory.}
+{7129}{}{You killed a member of your own team. A penalty of 1000 coins has been deducted from your replication account.}
+{7130}{}{You killed a member of the enemy team. 300 coins have been credited to your replication account. Experience gained @arg xp@.}
+{7131}{}{The Trial is complete! The team of replication station @arg team@ has won!}
+{7132}{}{Attention! The Trial has begun! The box doors are unsealed. Good luck to all battle participants!}
 
 
 # Реплики для нпц, защищающих свой город. npc_revenge.fos
 # предположительно райты
-{7200}{}{Жители города! Все идите сюда! Мы должны положить конец этим убийствам!}
-{7200}{}{Все сюда! Я буду говорить!}
-{7200}{}{Хватит! Мы должны все вместе бросить вызов этим подонкам. Приходите, мы придумаем как быть!}
-{7201}{}{Черт, как невовремя...}
-{7201}{}{Как скажешь.}
-{7201}{}{Как меня это достало, черт подери.}
-{7201}{}{Иду, иду.}
-{7201}{}{Да, они совсем оборзели!}
-{7202}{}{Вы все сами все видите. Мне незачем рассказывать, что у нас здесь происходит. Наша проблема - гопота}
-{7203}{}{Они убивают нас, наших детей, наших друзей. Они уничтожают наш город. Эти подонки в синих трико, они хотят стереть нас с лица земли!}
-{7204}{}{Мы пережили войну, радиацию, песчаные бури и даже произвол Избранного! Мы должны сами справиться с новой угрозой.}
-{7205}{}{Ни один гопник не должен уйти безнаказанно! Они все одинаковые! Мочи всех живых!}
-{7206}{}{Никому не верьте! Увидел на спине цифру, видишь гопа-репликанта, убей! Иначе через минуту погибнешь сам!}
-{7207}{}{Вперед! Пока мы вместе, мы сила!}
-{7208}{}{Все правильно сказал. Гопы задолбали.}
-{7208}{}{Гребаные гопники.}
-{7208}{}{Они не имеют права на жизнь.}
-{7208}{}{МЕСТЬ! МЕСТЬ! МЕСТЬ!}
-{7208}{}{В точку!}
-{7208}{}{Да! Нужно убивать их сразу, как только увидим!}
-{7209}{}{Сдохни, проклятый гоп!}
-{7209}{}{Получил, гопяра?}
-{7209}{}{ХА! Слился! Одним гопом меньше!}
-{7209}{}{Ууууу, скотина репликантская. Мы тебе припомним. Только сунься сюда еще раз.}
-{7209}{}{Умри! Умри! Умри! Гопы должны страдать!}
-{7210}{}{Оп-па. Гопы в городе. ТРЕВОГА!!!}
-{7210}{}{Мочи репликантскую сволочь!}
-{7210}{}{Гопники прут! Нападаем!}
-{7210}{}{Вижу гопа. Все сюда.}
+{7200}{}{Citizens of the city! Everyone come here! We must put an end to these killings!}
+{7200}{}{Everyone here! I'm going to speak!}
+{7200}{}{Enough! We must all stand together against this scum. Come, we'll figure out what to do!}
+{7201}{}{Damn, what bad timing...}
+{7201}{}{As you say.}
+{7201}{}{I'm sick to death of this, damn it.}
+{7201}{}{Coming, coming.}
+{7201}{}{Yeah, they've gone completely out of control!}
+{7202}{}{You can all see for yourselves. There's no need for me to tell you what's happening here. Our problem is the punks.}
+{7203}{}{They're killing us, our children, our friends. They're destroying our city. Those scum in blue tights, they want to wipe us off the face of the earth!}
+{7204}{}{We survived the war, the radiation, the sandstorms, and even the tyranny of the Chosen One! We must deal with this new threat ourselves.}
+{7205}{}{Not a single punk should go unpunished! They're all the same! Waste every last one of them!}
+{7206}{}{Trust no one! See a number on someone's back, see a punk-replicant, kill him! Or in a minute you'll be dead yourself!}
+{7207}{}{Forward! As long as we're together, we are strong!}
+{7208}{}{Well said. The punks have had it coming.}
+{7208}{}{Damn punks.}
+{7208}{}{They have no right to live.}
+{7208}{}{REVENGE! REVENGE! REVENGE!}
+{7208}{}{Right on the mark!}
+{7208}{}{Yes! We must kill them the moment we see them!}
+{7209}{}{Die, you cursed punk!}
+{7209}{}{Take that, punk?}
+{7209}{}{HA! Down he goes! One less punk!}
+{7209}{}{Ooooh, you replicant filth. We'll remember you. Just dare to show up here again.}
+{7209}{}{Die! Die! Die! The punks must suffer!}
+{7210}{}{Whoa. Punks in the city. ALARM!!!}
+{7210}{}{Waste the replicant scum!}
+{7210}{}{The punks are charging! Attack!}
+{7210}{}{I see a punk. Everyone over here.}
 
 # npc_dialog.fos. Строки для диалогов
 # Диалог хономера и охранника. q_hub_lab.fos
-{8000}{}{Кто такие?}
-{8001}{}{Программист, по запросу АХС-7, для восстановления работоспособности системы авторизации.}
-{8002}{}{Брат Хономер? Отлично, вас давно ждут. Можете пройти. А это кто с вами?}
-{8003}{}{Мой эскорт. [Поворачивается к вам] АХС-7, ваша задача выполнена. Вы свободны.}
+{8000}{}{Who are you?}
+{8001}{}{Programmer, at the request of AHS-7, to restore the functioning of the authorization system.}
+{8002}{}{Brother Honomer? Excellent, you've long been awaited. You may pass. And who's this with you?}
+{8003}{}{My escort. [Turns to you] AHS-7, your task is done. You're dismissed.}
 # Диалог двух лаборантов
-{8010}{}{Эх...}
-{8011}{}{А что за посетители сегодня, не знаешь? }
-{8012}{}{Да программер, систему авторизации чинить пришел...}
-{8013}{}{Зачем нам чужой программер? И где наш раздолбай?}
-{8014}{}{Нашего расстреляли...}
-{8015}{}{Ого! За что?}
-{8016}{}{Да к начальнику комиссия приехала, с АХС-7 во главе. Шеф комиссию повел по лаборатории. }
-{8017}{}{Идут, шеф рассказывает, что да как, знакомит проверяющего с персоналом, тот вопросы задает. Ну и заходят в серверную.}
-{8018}{}{И чо?}
-{8019}{}{Ну и все. Заходят, наш админ, бухой в стельку, спит на сервере, на мониторе - косынка, музло играет... Бардак в общем. Шеф как увидел, аж позеленел от злости.}
-{8020}{}{Звездец...}
-{8021}{}{Угу. Комиссия шефу вставила большой пистон, уехали, а он вызвал этих, с поверхности. Те админа к стенке, и очередью. Как он орал...}
-{8022}{}{И что теперь?}
-{8023}{}{Ну че, как отреплицируется, вернется. Шеф увольнять не хочет, другого хрен найдешь. А пока вызвал из Фриско кодера, починить кое-что. Система авторизации сдохла.}
-{8024}{}{Вот оно что... И чего, без авторизации в сеть сейчас как входить?}
-{8025}{}{Тупо, без пароля. Сейчас даже логин не нужен - система лежит. }
-{8026}{}{Опасно.}
-{8027}{}{Ну да. Но, этот, вроде, дело знает. Посмотрим.}
-{8028}{}{Угу...}
+{8010}{}{Ugh...}
+{8011}{}{Say, do you know who the visitors are today? }
+{8012}{}{Some programmer, came to fix the authorization system...}
+{8013}{}{What do we need an outside programmer for? And where's our slacker?}
+{8014}{}{Ours was shot...}
+{8015}{}{Whoa! What for?}
+{8016}{}{A commission came to see the chief, headed by AHS-7. The boss took the commission around the lab. }
+{8017}{}{They're walking, the boss explaining this and that, introducing the inspector to the staff, who's asking questions. And then they walk into the server room.}
+{8018}{}{And so?}
+{8019}{}{Well, that's it. They walk in, our admin, dead drunk, asleep on the server, Solitaire on the monitor, music playing... A total mess. When the boss saw it, he turned green with rage.}
+{8020}{}{Damn...}
+{8021}{}{Yep. The commission tore the boss a new one, drove off, and he called those guys from the surface. They put the admin against the wall and gave him a burst. How he screamed...}
+{8022}{}{And what now?}
+{8023}{}{Well, once he replicates, he'll come back. The boss doesn't want to fire him, you can't find another like him. For now he's called a coder from Frisco to fix a few things. The authorization system died.}
+{8024}{}{So that's it... And how do you get on the network now without authorization?}
+{8025}{}{Plain, no password. Right now you don't even need a login - the system's down. }
+{8026}{}{Dangerous.}
+{8027}{}{Well, yeah. But this guy seems to know his stuff. We'll see.}
+{8028}{}{Yep...}
 # HРемонт
-{8029}{}{Не понимаю, что это вообще означает?}
-{8029}{}{Комментарии для слабых, понятно.}
-{8029}{}{Переменные нормально назвать ну никак, да.}
-{8029}{}{В рот ебал польскую нотацию...}
-{8029}{}{Аффтар, поначитался книжек, а головой думать нет?}
-{8029}{}{Буфер кто за тебя чистить будет, дядя федор?}
-{8029}{}{Ебалайка, еще больше бы трай кетчей поставил...}
-{8029}{}{Почитаем комментарии... "TODO: Исправить это." Исправить что, мля?}
-{8029}{}{Что здесь... "дефайн тру равно фолс".  И комментарий... "Удачного дебага, сука". Ух, блин.}
-{8029}{}{Откуда среди наших столько быдлокодеров?}
-{8029}{}{Во блин, разве так сработает? Ну-ка... МЛЯ! Не сработало...}
-{8029}{}{О, йоба, это мне на месяц работы...}
-{8029}{}{Не, ну это надо, накосячить так. Это талант.}
-{8029}{}{Компилятор без молитвы не запускается... Отче наш, драть тебя за ухо! Не помогло. С молитвой тоже не запустился.}
-{8029}{}{Оригинальный ход... Для идиота. Гарбадж коллектор такой же идиот писал, 100%.}
-{8029}{}{2 + 2 = -6.5?! Какого...}
-{8029}{}{Найти бы аффтара, да спросить, что все это значит, и почему он такой придурок.}
-{8029}{}{Не могу понять, как такое криворукое чмо дослужилось до АХС-4. }
-{8029}{}{Ему не кодить, ему в клоуны пора... }
-{8029}{}{Ох, за что мне это все?}
-{8029}{}{Что это за язык вообще? Императивный Haskell? Как так?!}
+{8029}{}{I don't understand, what is this even supposed to mean?}
+{8029}{}{Comments are for the weak, sure.}
+{8029}{}{Naming variables properly is just impossible, right.}
+{8029}{}{To hell with Hungarian notation...}
+{8029}{}{The author read a few books, but thinking with his own head, no?}
+{8029}{}{Who's going to clear the buffer for you, Uncle Fyodor?}
+{8029}{}{Idiot, he could've crammed in even more try-catches...}
+{8029}{}{Let's read the comments... "TODO: Fix this." Fix what, dammit?}
+{8029}{}{What's this... "define true equals false". And the comment... "Happy debugging, bitch". Ugh, hell.}
+{8029}{}{Where do we get so many hack coders among us?}
+{8029}{}{Well damn, will it even work this way? Let's see... DAMMIT! Didn't work...}
+{8029}{}{Oh great, this is a month's worth of work for me...}
+{8029}{}{No, really, to screw up like this. That's a talent.}
+{8029}{}{The compiler won't start without a prayer... Our Father, I'll pull you by the ear! Didn't help. With a prayer it didn't start either.}
+{8029}{}{An original approach... For an idiot. The garbage collector was written by the same kind of idiot, 100%.}
+{8029}{}{2 + 2 = -6.5?! What the...}
+{8029}{}{I'd like to find the author and ask what all this means, and why he's such a moron.}
+{8029}{}{I can't understand how such a ham-fisted clod made it all the way to AHS-4. }
+{8029}{}{He shouldn't be coding, he should be a clown... }
+{8029}{}{Oh, what did I do to deserve all this?}
+{8029}{}{What language is this anyway? Imperative Haskell? How is that even possible?!}
 # Диалог между посетителями бара в ГУ
-{8032}{}{Передайте, пожалуйста, соль.}
-{8033}{}{Пожалуйста.}
-{8034}{}{Спасибо.}
-{8035}{}{Пожалуйста.}
-{8036}{}{Не подъёбывай.}
-{8037}{}{Пошел на х$@!!!}
+{8032}{}{Pass the salt, please.}
+{8033}{}{Here you go.}
+{8034}{}{Thank you.}
+{8035}{}{You're welcome.}
+{8036}{}{Don't mess with me.}
+{8037}{}{Go to h$@!!!}
 
 # Специальные Энкаунтеры. 70000...70100
 # Переводчику: большую часть английских текстов для них можно скопировать из оригинала. Т.е. нужно.
 
 # Портал Хранителя
-{70000}{}{Вы сломали водяной чип в убежище. Вам почему-то кажется что в течении 100-150ти дней в убежище кончится вся вода. Скорее всего жители убежища будут обеспокоены этим.}
-{70001}{}{*Биип*@@*Бип* Би-оп*@@*Биоп*}
+{70000}{}{You broke the water chip in the vault. For some reason it seems to you that within 100-150 days the vault will run out of water entirely. The vault dwellers will most likely be troubled by this.}
+{70001}{}{*Beep*@@*Bip* Bee-op*@@*Beeop*}
 
 #Говорящая голова.
-{70002}{}{Чо--?}
-{70003}{}{УБЕРИ СВОИ ГРЯЗНЫЕ РУКИ ОТ МЕНЯ!}
-{70004}{}{*Гм*}
-{70005}{}{КТО ПОЗВОЛЯЛ ПРИБЛИЖАТСЯ К СВЯЩЕННОЙ ГОЛОВЕ ЖИТЕЛЯ УБЕЖИЩА?!}
-{70006}{}{Ммм... Я спаситель мира! Я найду Избранного!} 
-{70007}{}{ХА-ХА-ХА-ХА-ХА}
-{70008}{}{*Ты*!? Спаситель мира?}
-{70009}{}{ТЫ НЕ БОЛЬШЕ ЧЕМ МОЙ ПАЛЕЦ!}
-{70010}{}{ТЫ *НЕ* СПАСИТЕЛЬ МИРА!}
-{70011}{}{Да, я спаситель мира.}
-{70012}{}{Нет.}
-{70013}{}{Да.}
-{70014}{}{УХ-УХ.}
-{70015}{}{УХ-ХУХ.}
-{70016}{}{УХ-УХ.}
-{70017}{}{УХ-ХУХ.}
+{70002}{}{Wha--?}
+{70003}{}{GET YOUR DIRTY HANDS OFF ME!}
+{70004}{}{*Ahem*}
+{70005}{}{WHO ALLOWED YOU TO APPROACH THE SACRED HEAD OF A VAULT DWELLER?!}
+{70006}{}{Mmm... I am the savior of the world! I will find the Chosen One!} 
+{70007}{}{HA-HA-HA-HA-HA}
+{70008}{}{*You*!? The savior of the world?}
+{70009}{}{YOU ARE NO BIGGER THAN MY FINGER!}
+{70010}{}{YOU ARE *NOT* THE SAVIOR OF THE WORLD!}
+{70011}{}{Yes, I am the savior of the world.}
+{70012}{}{No.}
+{70013}{}{Yes.}
+{70014}{}{UH-UH.}
+{70015}{}{UH-HUH.}
+{70016}{}{UH-UH.}
+{70017}{}{UH-HUH.}
 # Спустя 12 часов.
-{70018}{}{УХ...УХ...}
-{70019}{}{УХ...ХУХ...}
-{70020}{}{УХ...ХВАТИТ ЭТОГО!}
-{70021}{}{ОЧЕНЬ ХОРОШО, ТЫ ДОКАЗАЛ ЭТО!}
-{70022}{}{ТЫ *ДЕЙСТВИТЕЛЬНО* СПАСИТЕЛЬ МИРА!}
-{70023}{}{ВОЗЬМИ ЭТО.}
-{70024}{}{ТЕПЕРЬ ОСТАВЬ МЕНЯ В ПОКОЕ.}
-{70025}{}{Спасибо!}
-{70026}{}{ДА, ЧТО УГОДНО.А ТЕПЕРЬ УБИРАЙСЯ!}
-{70027}{}{ПРОКЛЯТЫЕ ТУРИСТЫ!}
-{70028}{}{Спустя 12 часов}
-{70029}{}{!!!ЧТО?! УКРАСТЬ У МЕНЯ!? И ТЫ ЭТО СДЕЛАЕШЬ?!!!} 
+{70018}{}{UH...UH...}
+{70019}{}{UH...HUH...}
+{70020}{}{UH...ENOUGH OF THIS!}
+{70021}{}{VERY WELL, YOU HAVE PROVEN IT!}
+{70022}{}{YOU *REALLY ARE* THE SAVIOR OF THE WORLD!}
+{70023}{}{TAKE THIS.}
+{70024}{}{NOW LEAVE ME ALONE.}
+{70025}{}{Thank you!}
+{70026}{}{YES, WHATEVER. NOW GET OUT!}
+{70027}{}{DAMNED TOURISTS!}
+{70028}{}{After 12 hours}
+{70029}{}{!!!WHAT?! STEAL FROM ME!? AND YOU'LL DO IT?!!!} 
 
 # Железный дровосек
-{70050}{}{Масло.} 
+{70050}{}{Oil.} 
 
 # Склад пончиков
-{70060}{}{Эту стелу воздвигли друзья и знакомые Пончика в знак любви и уважения. Ниже нацарапано гвоздем: враки, это он сам сделал (друзья и знакомые).} 
-{70061}{}{Вы съели столько пончиков, что почуствовали себя немного сильнее. Переносимый вес увеличен на +1 фунт.}
+{70060}{}{This stele was erected by the friends and acquaintances of Donut as a sign of love and respect. Scratched below with a nail: lies, he did it himself (the friends and acquaintances).} 
+{70061}{}{You ate so many donuts that you felt a little stronger. Carry weight increased by +1 pound.}

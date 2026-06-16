@@ -469,6 +469,11 @@
 {DialogBoxType::PurgatoryInvite}{1}{Да}
 {DialogBoxType::PurgatoryInvite}{2}{Нет}
 
+{DialogBoxType::Encounter}{}{Впереди замечена встреча. Как вы поступите?}
+{DialogBoxType::Encounter}{1}{Войти (реальное время)}
+{DialogBoxType::Encounter}{2}{Войти (пошаговый режим)}
+{DialogBoxType::Encounter}{3}{Избежать}
+
 ####################################################################################################################################
 #
 #		Maintenance

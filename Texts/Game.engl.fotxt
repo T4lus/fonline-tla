@@ -140,7 +140,7 @@
 
 # Options
 {200}{}{Language}
-{201}{}{Русский}
+{201}{}{Russian}
 {202}{}{English}
 {210}{}{Screen resolution}
 {211}{}{Full screen}
@@ -222,9 +222,9 @@
 # Global map
 {350}{}{You cannot lead this group.}
 {351}{}{Coords: %dx : %dy
-Зона: %zx : %zy}
+Zone: %zx : %zy}
 {352}{}{Coords: %dx : %dy
-Зона: %zx : %zy
+Zone: %zx : %zy
 %s
 %s}
 {353}{}{%s\n%s}
@@ -358,8 +358,8 @@
 {493}{}{You can't trade with this person right now. Try again later.}
 {495}{}{Trading with %s. Your mode: %s, opponent's mode: %s.}
 {496}{}{%s is ready for deal.}
-{497}{}{Персонаж торгует только за наличные.}
-{498}{}{Товар не интересует этого персонажа.}
+{497}{}{This character only trades for cash.}
+{498}{}{This character isn't interested in that item.}
 
 ####################################################################################################################################
 #
@@ -467,6 +467,11 @@
 {DialogBoxType::PurgatoryInvite}{}{Attention! Battle has began! Are you ready to join?}
 {DialogBoxType::PurgatoryInvite}{1}{Yes}
 {DialogBoxType::PurgatoryInvite}{2}{No}
+
+{DialogBoxType::Encounter}{}{You spot an encounter ahead. How do you want to proceed?}
+{DialogBoxType::Encounter}{1}{Enter (real-time)}
+{DialogBoxType::Encounter}{2}{Enter (turn-based)}
+{DialogBoxType::Encounter}{3}{Avoid}
 
 ####################################################################################################################################
 #
@@ -1852,11 +1857,11 @@
 {CritterProperty::PerkNcrRepair}{Name}{Trade secrets: Repair}
 {CritterProperty::PerkNcrRepair}{Desc}{With this perk you gain +5 to your Repair skill.}
 {CritterProperty::PerkNcrRepair}{Pic}{art/skilldex/REPAIR.FRM}
-{CritterProperty::PerkVampireAccuracy}{Name}{Дитя полуночи}
-{CritterProperty::PerkVampireAccuracy}{Desc}{Сетчатка ваших глаз отличается повышенной чувствительностью  в ночное и сумеречное время. Вы хорошо видите в темноте, а значит, реже промахиваетесь. Неприятный сюрприз для тех, кто хочет напасть на вас ночью.}
+{CritterProperty::PerkVampireAccuracy}{Name}{Child of Midnight}
+{CritterProperty::PerkVampireAccuracy}{Desc}{The retinas of your eyes are especially sensitive during the night and twilight hours. You see well in the dark, which means you miss less often. An unpleasant surprise for those who want to attack you at night.}
 {CritterProperty::PerkVampireAccuracy}{Pic}{art/skilldex/NIGHTVIZ.FRM}
-{CritterProperty::PerkVampireRegeneration}{Name}{Кровь Носферату}
-{CritterProperty::PerkVampireRegeneration}{Desc}{Плазма крови вашего тела подвеглась условно-положительной мутации. Теперь любые раны у вас заживают быстрее, чем раньше. Очень полезно в пустоши, где нет доктора.}
+{CritterProperty::PerkVampireRegeneration}{Name}{Blood of Nosferatu}
+{CritterProperty::PerkVampireRegeneration}{Desc}{The blood plasma in your body has undergone a conditionally beneficial mutation. Now any wounds heal faster than before. Very useful in the wasteland, where there is no doctor.}
 {CritterProperty::PerkVampireRegeneration}{Pic}{art/skilldex/NIGHTPER.FRM}
 
 # 104700
@@ -1941,7 +1946,7 @@
 {CritterProperty::KarmaPerkPedobear}{Desc}{You've raped a little kid. How could you do that, you bastard. Now you've earned some problems for your ass for the rest of your miserable life.}
 {CritterProperty::KarmaPerkPedobear}{Pic}{art/skilldex/pbear.png}
 {CritterProperty::KarmaPerkVcGuardsman}{Name}{Guardsman}
-{CritterProperty::KarmaPerkVcGuardsman}{Desc}{Вы гвардеец Города-убежища, гордость и краса вооруженных сил. Вы можете носить одежду форменных цветов. Вам даже немного стыдно вашей собственной улётности и неотразимости.}
+{CritterProperty::KarmaPerkVcGuardsman}{Desc}{You are a guardsman of Vault City, the pride and glory of its armed forces. You may wear the official uniform colors. You're even a little embarrassed by your own awesomeness and irresistibility.}
 {CritterProperty::KarmaPerkVcGuardsman}{Pic}{art/skilldex/EXPER.FRM}
 
 {CritterProperty::IsPoisoned}{Name}{Poisoned}
@@ -2180,7 +2185,7 @@
 #
 ####################################################################################################################################
 
-{1001000}{}{Заряд}
+{1001000}{}{Charge}
 {1001001}{}{}
 {1001002}{}{}
 
@@ -2620,98 +2625,98 @@ Yes, is still Under construction
 Hello world!
 }
 
-{CraftItem}{1}{Шкуры брамина, сшитые в несколько слоёв, позволят чувствовать себя защищённей.}
-{CraftItem}{2}{Укрепите броню несколькими слоями кожи и обработайте её химикатами для улучшения защитных свойств.}
-{CraftItem}{3}{Разломать панцирь на мелкие куски. Осторожно помешивая, опустить в кипящие химикаты. На медленном огне варить смесь до растворения хитина и получения однородной массы. Расплав слоями перенести на ткань, каждый слой ткани и расплава отформовать по фигуре.}
-{CraftItem}{4}{Если на горизонте показались проблемы, то лучше забыть про стиль и укрепить свою старую добрую куртку ещё десятком слоёв кожи.}
-{CraftItem}{5}{Боитесь ножей из-за угла и когтей гекко? С вашей новой металлической бронёй они будут для вас не более, чем царапинами. Для производства необходим верстак.}
-{CraftItem}{6}{Укрепите слабые места на броне, а затем обработайте напильником и отполируйте до блеска для лучше защиты от лазерного оружия. Для производства необходим верстак.}
-{CraftItem}{7}{Установите на свою металлическую броню катушки Тесла, чтобы они рассеивали заряды энергооружия. И не забудьте про шапочку из фольги!}
-{CraftItem}{8}{Эта заводская сборка ну просто никуда не годится. Броню можно перекалить и местами приварить дополнительную защиту. Главное - сумейте её потом собрать обратно.}
-{CraftItem}{9}{Надо обладать недюжиной силой воли для того, чтобы пустить на пыжи такой журнал, как "Кошачья лапка".}
-{CraftItem}{10}{Зафиксируйте патрон на верстаке, стараясь не смять гильзу. Затем обрежьте кончики пуль, высверлите часть сердечника и загните края латунной оболочки внутрь, сделав в ней небольшие надрезы. Теперь пуля будет разрываться от удара о цель.}
-{CraftItem}{11}{Зафиксируйте патрон на верстаке, стараясь не смять гильзу. Затем обрежьте кончики пуль, высверлите часть сердечника и загните края латунной оболочки внутрь, сделав в ней небольшие надрезы. Теперь пуля будет разрываться от удара о цель.}
-{CraftItem}{12}{Зафиксируйте патрон на верстаке, стараясь не смять гильзу. Затем обрежьте кончики пуль, высверлите небольшое углубление в сердцевине и загните края латунной оболочки внутрь, сделав в ней небольшие надрезы. Теперь пуля будет разрываться от удара о цель.}
-{CraftItem}{13}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны 10 мм, полуоболоченные".}
-{CraftItem}{14}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны 10 мм, бронебойные".}
-{CraftItem}{15}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны калибра .44".}
-{CraftItem}{16}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны калибра .44, цельнометаллические".}
-{CraftItem}{17}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны 14мм".}
-{CraftItem}{18}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны .223, цельнометаллические".}
-{CraftItem}{19}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны 5 мм, полуоболоченные".}
-{CraftItem}{20}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны 5 мм, бронебойные".}
-{CraftItem}{21}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны калибра 0.45".}
-{CraftItem}{22}{Подключите свой Фикс-Бой к автоматическому станку и выберите программу "Патроны калибра 7,62, цельнометаллические".}
-{CraftItem}{23}{Понадобятся некоторые познания в электронике и баллистике для того, чтобы запрограммировать станок на производство этих необычных патронов.}
-{CraftItem}{24}{На большой дистанции ЕМП-граната малоэффективна. Куда удобнее воспользоваться гранатометом, а подходящий снаряд вы легко изготовите "на коленке", если в рюкзаке найдутся соответствующие материалы.}
-{CraftItem}{25}{Пойло, смешанное со смолянистым соком цветков, будет замечательно гореть и прилипать к противнику.}
-{CraftItem}{26}{Нет огнемёта? Не беда, всегда можно найти способ доставить пламя до противника.}
-{CraftItem}{27}{Найдите в мусоре побольше пенопласта, растворяйте в ацетоне, пока эта смесь не станет густой. Дозаправьте баллон с топливом.}
-{CraftItem}{28}{Найдите в мусоре побольше пенопласта, растворяйте в ацетоне, пока эта смесь не станет густой. Заместите этой смесью газ в одном из баллонов сварки.}
-{CraftItem}{29}{Немного алюминиевой пудры, натёртой собственными руками, повысит температуру горения топлива. Не рекомендуется использовать его со стандартными моделями огнемётов во избежание забивания сопла.}
-{CraftItem}{30}{Для простенького прицела сойдут и линзы из чьих-нибудь очков, главное - чётко следовать инструкциям.}
-{CraftItem}{31}{Изготовьте новый магазин и найдите в мусоре для него пружину помощнее.}
-{CraftItem}{32}{Найдите две трубы более-менее подходящего диаметра, изготовьте к ним приклад и простенький спусковой механизм.}
-{CraftItem}{33}{Укорачивание ствола на десяток дюймов позволит комфортно прятать дробовик под одеждой, чтобы удивлять противника в самый неподходящий момент.}
-{CraftItem}{34}{С переделкой магазина придётся помучиться, но она сэкономит несколько драгоценных секунд в бою.}
-{CraftItem}{35}{Замените ствол на своём самопале для увеличения точности.}
-{CraftItem}{36}{Прочно примотайте трубу проволокой к рукояти. Отнеситесь к этому серьёзно, иначе ваше оружие самоуничтожится после первого же выстрела.}
-{CraftItem}{37}{Пускай отдача будет ломать вам плечо, но это улучшение того стоит.}
-{CraftItem}{38}{В одном из номеров журнала "Пушки и пули" была опубликована схема автоматического Маузера М712 калибра 7,62. Изучив её, вы поняли, что 9мм Маузер можно было бы переделать подобным образом. Для производства необходим верстак.}
-{CraftItem}{39}{Интеграция револьверного барабана в винтовку, да ещё и не того калибра - непростая задача, но в результат можно будет влюбиться. Для производства необходим верстак.}
-{CraftItem}{40}{Одним сварочным аппаратом совершаем магическое превращение груды металла в тело огнемёта, а вторым привариваем горелку и систему подачи топлива первого к этой конструкции.}
-{CraftItem}{41}{Получив новый опыт в механике, вы поняли, что систему подачи топлива и сопло можно было бы переделать, чтобы уменьшить разбрызгивание топлива.}
-{CraftItem}{42}{Комбинация простого лазерного целеуказателя с хорошими конденсаторами и источником энергии может сделать его вполне реальным оружием.}
-{CraftItem}{43}{Установка специальных магнитов вокруг рубинового стержня уплотнит поток боевых фотонов.}
-{CraftItem}{44}{После изучения технической литературы вы понимаете, что заводскую сборку можно очень сильно оптимизировать. Время поработать паяльником!}
-{CraftItem}{45}{Отключить к чёрту системы охлаждения, и пистолет будет расходовать меньше энергии. Правда, стрелять придётся в перчатках.}
-{CraftItem}{46}{Вы бы никогда не поверили, что тепловая обмотка может ускорить формирование заряда, но так было написано в книжке. И вот он результат!}
-{CraftItem}{47}{Замените начинку "Авенджера" на боевую часть лазерной винтовки, а стволы заключите в обмотку из медной проволоки, сформировав на каждом электромагнит, который бы помогал фокусировать и уплотнять заряд.}
-{CraftItem}{48}{Сверхпроводящий ствол плазменной винтовки отлично подойдёт для того, чтобы собирать и направлять заряд с конденсаторов двух импульсных пистолетов, а система энергопитания от ядерных микрореакторов - для того, чтобы их запитать.}
-{CraftItem}{49}{Обработайте крысу токсином Хьюза и Лоуренса, пока она не очнулась.}
-{CraftItem}{50}{Это даже рецептом сложно назвать. Возьмите крысу, примотайте к ней скотчем динамит. Все.}
-{CraftItem}{51}{Разотрите камнем высушенные на солнце ингредиенты и заверните в тряпочку.}
-{CraftItem}{52}{Это будет скорей самовнушением. }
-{CraftItem}{53}{Вы разбираетесь в этом деле и можете сами себе изготовить отмычки. В красивом кожаном чехле.}
-{CraftItem}{54}{Профессионалы вроде вас работают только с качественными инструментами!}
-{CraftItem}{55}{Вам одиноко? Не с кем общаться? Вокруг одни сволочи и кротокрысы? Вам хочется об этом поговорить? Специально для вас! Схема простейшего приёмника в каждом номере "Электроники Дина"!}
-{CraftItem}{56}{Бинты, спирт для промывки ран и другие полезные вещи в сумке из кожи многострадального гекко.}
-{CraftItem}{57}{Почините радио с использованием деталей со старых микросхем.}
-{CraftItem}{58}{Растворите целебный порошок в воде, наполните этой смесью стеклянный шприц и прокипятите. Потом простерилизуйте иглу спиртом.}
-{CraftItem}{59}{Основной компонент яда - концентрированный токсин. Остальные ингридиенты легко найти в Пустоши.}
-{CraftItem}{60}{Вливайте азотную кислоту в толуол, постоянно нагревая. Получившийся осадок просушите. Готово.}
-{CraftItem}{61}{Поместите взрывчатое вещевство в осколочную рубашку и придумайте простенький взрыватель.}
-{CraftItem}{62}{Намотайте вокруг гранаты провод и подключите его к питанию, чтобы получился электромагнит. Выньте часть взрывчатого вещевства и изолируйте в образовавшемся пространстве небольшую полость. Автоматика поместит туда заряд плазмы.}
-{CraftItem}{63}{Отделите жир от мяса, смешивайте с азотной и серной кислотой для получения нитроглицерина. Следите за тем, чтобы смесь не перегревалась во время реакции.}
-{CraftItem}{64}{Смешайте нитроглицерин с порошком для получения клейкой массы. Перемешайте её с опилками, скатайте в цилиндры и дайте высохнуть. Присоедините взрыватель.}
-{CraftItem}{65}{Используйте кислоту для получения калийной селитры, смешайте 6 частей селитры с 1 частью угля и 1 серы.}
-{CraftItem}{66}{Получите нитрат аммония смешиванием собственной мочи с азотной кислотой и выпариванием. Добавьте толчёный буффаут. Залейте второй частью кислоты, охлаждайте, процедите осадок.}
-{CraftItem}{67}{Найдите в мусоре какой-нибудь пластик, нагрейте его до плавления и вмешивайте в него порошок гексогена. Всё, теперь он удобен для хранения.}
-{CraftItem}{68}{Соберите радиодетонатор из запчастей и старого радио.}
-{CraftItem}{69}{Высыпьте гексоген в какую-нибудь старую банку, соорудите простенький взрыватель с использованием капсюля ружейного патрона.}
-{CraftItem}{70}{Сшейте шкуры и набейте их мягким мусором.}
-{CraftItem}{71}{Перчатки с утяжелителем - правильный выбор для участника подпольных боёв. Главное - не оставляйте их без присмотра в раздевалке, иначе грозит дисквалификация.}
-{CraftItem}{72}{Пробейте дырки для пальцев в подходящей железяке, сможете попугать кого-нибудь. Только в драку с такой ерундой лучше не лезть.}
-{CraftItem}{73}{Гуманизм - это для слабых. Не пожалейте денег на сварку, чтобы приварить шипы к своему старому кастету. Четыре дырки в противнике того стоят.}
-{CraftItem}{74}{Смонтируйте на дубинке простенький электрошокер, и жить станет веселей.}
-{CraftItem}{75}{После изучения нужной литературы у вас появилась замечательная идея насчёт того, как можно увеличить мощность электрошокера, не испортив его.}
-{CraftItem}{76}{Сварите из двух труб прочную рукоять, выточите на станке ударные части из железок попрочнее и оснастите их накопителем кинетической энергии согласно схеме. По сути, это просто жёсткая пружина и запирающий механизм.}
-{CraftItem}{77}{Только человек, посвятивший себя изучению оружия, знает, как выковать настоящее лезвие.}
-{CraftItem}{78}{Закалить заново лезвие, заточить, обмотать рукоять кожей, и этот нож уже можно называть оружием.}
-{CraftItem}{79}{Насадите железяку потяжелее на палку покрепче.}
-{CraftItem}{80}{Привяжите нож к палке. Это даст вам целый метр преимущества и килограмм уверенности.}
-{CraftItem}{81}{Заточка копья кремнем от фирмы "Морлис" позволит разрубать врагов им как алебардой.}
-{CraftItem}{82}{Вжик-вжик, готово!}
-{CraftItem}{83}{Нежными ударами придайте трубе правильную форму.}
-{CraftItem}{84}{Найдите железку подходящего размера и выпилите из неё нечто, чем можно было бы откручивать гайки.}
-{CraftItem}{85}{Заточите несколько железяк, обмотайте рукояти какой-нибудь тряпкой. Получится несколько отличных ножей.}
-{CraftItem}{86}{Отломайте нахрен минимум треть этой палки, забейте камнем в один конец какой-нибудь утяжелитель. Отломаный кусок можно притарабанить в качестве дополнительной рукояти. Готово, можно пойти проломить кому-нибудь черепушку.}
-{CraftItem}{87}{Вырежьте из дерева рукоять, а потом забейте в неё железяку. Получилось шило, универсальный инструмент для проделывания дырок.}
-{CraftItem}{88}{Сбалансируйте и дополнительно заточите эту железку.}
-{CraftItem}{89}{Приладьте лопату к черенку и прибейте гвоздями.}
-{CraftItem}{90}{Найдите какую-нибудь ветку, насадите на неё железяку поострее.}
-{CraftItem}{91}{Сшейте мешок из кусков ткани.}
-{CraftItem}{92}{Если наполнить этот мешок песком, получится... мешок с песком!}
-{CraftItem}{93}{Найдите токарный станок, используя его как сверлильный, рассверлите трубу до диаметра 17.8 мм, из куска металлического кола выточите затвор. По схемам из "Пушек и Пуль" изготовьте спусковой механизм, а приклад просто выточите из дерева.}
-{CraftItem}{94}{Несколько труб небольшого диаметра, распиленных на 19 одинаковых отрезков, и подведённые к каждому из них электрозапалы по схеме из "Пушек и пуль". Для производства необходим верстак.}
-{CraftItem}{95}{Используйте 7 стволов от G11 для того, чтобы собрать самодельный пулемёт по схеме "Metalstorm", с продольным заряжанием безгильзовой аммуниции в ствол и активации её при помощи электрического запала. Придётся немного попаять. Для производства необходим верстак.}
+{CraftItem}{1}{Brahmin hides sewn together in several layers will help you feel more protected.}
+{CraftItem}{2}{Reinforce the armor with several layers of leather and treat it with chemicals to improve its protective properties.}
+{CraftItem}{3}{Break the carapace into small pieces. Stirring carefully, lower them into boiling chemicals. Simmer the mixture over low heat until the chitin dissolves and you get a uniform mass. Transfer the melt onto cloth in layers, shaping each layer of cloth and melt to fit the body.}
+{CraftItem}{4}{If trouble appears on the horizon, you'd better forget about style and reinforce your good old jacket with another dozen layers of leather.}
+{CraftItem}{5}{Afraid of knives from around the corner and gecko claws? With your new metal armor they'll be no more than scratches to you. A workbench is required for production.}
+{CraftItem}{6}{Reinforce the weak spots on the armor, then work it with a file and polish it to a shine for better protection against laser weapons. A workbench is required for production.}
+{CraftItem}{7}{Install Tesla coils on your metal armor so they disperse energy weapon charges. And don't forget the tinfoil hat!}
+{CraftItem}{8}{This factory assembly is just no good at all. The armor can be re-tempered and have extra protection welded on in places. The main thing is to manage to put it back together afterwards.}
+{CraftItem}{9}{It takes considerable willpower to use a magazine like "Cat's Paw" for wadding.}
+{CraftItem}{10}{Secure the cartridge on the workbench, taking care not to crush the casing. Then trim the tips of the bullets, drill out part of the core and bend the edges of the brass jacket inward, making small cuts in it. Now the bullet will tear apart on impact with the target.}
+{CraftItem}{11}{Secure the cartridge on the workbench, taking care not to crush the casing. Then trim the tips of the bullets, drill out part of the core and bend the edges of the brass jacket inward, making small cuts in it. Now the bullet will tear apart on impact with the target.}
+{CraftItem}{12}{Secure the cartridge on the workbench, taking care not to crush the casing. Then trim the tips of the bullets, drill a small cavity in the core and bend the edges of the brass jacket inward, making small cuts in it. Now the bullet will tear apart on impact with the target.}
+{CraftItem}{13}{Connect your Fixboy to the automatic machine and select the "10mm JHP ammo" program.}
+{CraftItem}{14}{Connect your Fixboy to the automatic machine and select the "10mm AP ammo" program.}
+{CraftItem}{15}{Connect your Fixboy to the automatic machine and select the ".44 caliber ammo" program.}
+{CraftItem}{16}{Connect your Fixboy to the automatic machine and select the ".44 caliber FMJ ammo" program.}
+{CraftItem}{17}{Connect your Fixboy to the automatic machine and select the "14mm ammo" program.}
+{CraftItem}{18}{Connect your Fixboy to the automatic machine and select the ".223 FMJ ammo" program.}
+{CraftItem}{19}{Connect your Fixboy to the automatic machine and select the "5mm JHP ammo" program.}
+{CraftItem}{20}{Connect your Fixboy to the automatic machine and select the "5mm AP ammo" program.}
+{CraftItem}{21}{Connect your Fixboy to the automatic machine and select the ".45 caliber ammo" program.}
+{CraftItem}{22}{Connect your Fixboy to the automatic machine and select the "7.62 caliber FMJ ammo" program.}
+{CraftItem}{23}{You'll need some knowledge of electronics and ballistics to program the machine to produce these unusual cartridges.}
+{CraftItem}{24}{At long range an EMP grenade is ineffective. It's far more convenient to use a grenade launcher, and you can easily make a suitable round on the spot if your backpack has the right materials.}
+{CraftItem}{25}{Booze mixed with the resinous sap of the flowers will burn wonderfully and stick to your opponent.}
+{CraftItem}{26}{No flamethrower? No problem, there's always a way to deliver flame to your opponent.}
+{CraftItem}{27}{Find plenty of styrofoam in the junk and dissolve it in acetone until the mixture thickens. Refill the fuel canister.}
+{CraftItem}{28}{Find plenty of styrofoam in the junk and dissolve it in acetone until the mixture thickens. Replace the gas in one of the welding canisters with this mixture.}
+{CraftItem}{29}{A little aluminum powder, ground by your own hands, will raise the fuel's burning temperature. Not recommended for use with standard flamethrower models to avoid clogging the nozzle.}
+{CraftItem}{30}{For a simple scope, lenses from someone's glasses will do; the main thing is to follow the instructions precisely.}
+{CraftItem}{31}{Make a new magazine and find a stronger spring for it in the junk.}
+{CraftItem}{32}{Find two pipes of more or less suitable diameter, make a stock and a simple trigger mechanism for them.}
+{CraftItem}{33}{Shortening the barrel by a dozen inches will let you conveniently hide the shotgun under your clothes to surprise your opponent at the most inopportune moment.}
+{CraftItem}{34}{Reworking the magazine will be a pain, but it will save a few precious seconds in combat.}
+{CraftItem}{35}{Replace the barrel on your zip gun to increase accuracy.}
+{CraftItem}{36}{Firmly bind the pipe to the grip with wire. Take this seriously, or your weapon will self-destruct after the very first shot.}
+{CraftItem}{37}{Let the recoil break your shoulder, but this upgrade is worth it.}
+{CraftItem}{38}{One issue of the "Guns and Bullets" magazine published a schematic for the automatic Mauser M712 in 7.62 caliber. After studying it, you realized that the 9mm Mauser could be reworked the same way. A workbench is required for production.}
+{CraftItem}{39}{Integrating a revolver cylinder into a rifle, and of the wrong caliber at that, is no easy task, but you'll fall in love with the result. A workbench is required for production.}
+{CraftItem}{40}{With one welding torch we magically transform a pile of metal into the body of a flamethrower, and with the second we weld the first one's burner and fuel-feed system onto this construction.}
+{CraftItem}{41}{Having gained new experience in mechanics, you realized that the fuel-feed system and nozzle could be reworked to reduce fuel splatter.}
+{CraftItem}{42}{A combination of a simple laser pointer with good capacitors and a power source can turn it into a perfectly real weapon.}
+{CraftItem}{43}{Installing special magnets around the ruby rod will tighten the stream of combat photons.}
+{CraftItem}{44}{After studying the technical literature, you understand that the factory assembly can be greatly optimized. Time to break out the soldering iron!}
+{CraftItem}{45}{Shut off the damn cooling systems and the pistol will use less energy. True, you'll have to shoot wearing gloves.}
+{CraftItem}{46}{You'd never have believed that a heating coil could speed up charge formation, but that's what the book said. And here's the result!}
+{CraftItem}{47}{Replace the guts of the "Avenger" with the working part of a laser rifle, and encase the barrels in a winding of copper wire, forming an electromagnet on each that would help focus and tighten the charge.}
+{CraftItem}{48}{The superconducting barrel of a plasma rifle is perfect for collecting and directing the charge from the capacitors of two pulse pistols, and a power system from nuclear microreactors is perfect for powering them.}
+{CraftItem}{49}{Treat the rat with Hughes and Lawrence toxin before it wakes up.}
+{CraftItem}{50}{This is hardly even worth calling a recipe. Take a rat, tape dynamite to it. That's it.}
+{CraftItem}{51}{Grind the sun-dried ingredients with a stone and wrap them in a rag.}
+{CraftItem}{52}{This will be more like self-suggestion. }
+{CraftItem}{53}{You know your way around this and can make your own lockpicks. In a nice leather case.}
+{CraftItem}{54}{Professionals like you only work with quality tools!}
+{CraftItem}{55}{Feeling lonely? No one to talk to? Surrounded by nothing but scumbags and molerats? Want to talk about it? Just for you! A schematic for the simplest receiver in every issue of "Dean's Electronics"!}
+{CraftItem}{56}{Bandages, alcohol for cleaning wounds and other useful things in a bag made from the hide of a long-suffering gecko.}
+{CraftItem}{57}{Repair the radio using parts from old microchips.}
+{CraftItem}{58}{Dissolve the healing powder in water, fill a glass syringe with this mixture and boil it. Then sterilize the needle with alcohol.}
+{CraftItem}{59}{The main component of the poison is concentrated toxin. The rest of the ingredients are easy to find in the Wasteland.}
+{CraftItem}{60}{Pour nitric acid into toluene, heating constantly. Dry the resulting precipitate. Done.}
+{CraftItem}{61}{Place the explosive into a fragmentation casing and devise a simple fuse.}
+{CraftItem}{62}{Wind wire around the grenade and connect it to a power source to make an electromagnet. Remove part of the explosive and isolate a small cavity in the space that forms. The automatics will place a plasma charge there.}
+{CraftItem}{63}{Separate the fat from the meat, mix it with nitric and sulfuric acid to produce nitroglycerin. Make sure the mixture doesn't overheat during the reaction.}
+{CraftItem}{64}{Mix nitroglycerin with powder to make a sticky mass. Blend it with sawdust, roll it into cylinders and let it dry. Attach a fuse.}
+{CraftItem}{65}{Use acid to produce potassium nitrate, mix 6 parts saltpeter with 1 part charcoal and 1 part sulfur.}
+{CraftItem}{66}{Produce ammonium nitrate by mixing your own urine with nitric acid and evaporating it. Add crushed buffout. Pour in the second portion of acid, cool it, strain out the precipitate.}
+{CraftItem}{67}{Find some plastic in the junk, heat it until it melts and mix in RDX powder. There, now it's convenient to store.}
+{CraftItem}{68}{Assemble a radio detonator from spare parts and an old radio.}
+{CraftItem}{69}{Pour RDX into some old can, rig a simple fuse using a shotgun cartridge primer.}
+{CraftItem}{70}{Sew the hides together and stuff them with soft junk.}
+{CraftItem}{71}{Weighted gloves are the right choice for an underground fighting contestant. The main thing is don't leave them unattended in the locker room, or you risk disqualification.}
+{CraftItem}{72}{Punch finger holes in a suitable piece of iron and you can scare someone. Just don't get into a fight with such nonsense.}
+{CraftItem}{73}{Humanism is for the weak. Don't spare the money for welding to attach spikes to your old brass knuckles. Four holes in your opponent are worth it.}
+{CraftItem}{74}{Mount a simple stun gun on the club and life will get more fun.}
+{CraftItem}{75}{After studying the necessary literature, you got a wonderful idea about how to increase the stun gun's power without ruining it.}
+{CraftItem}{76}{Weld a sturdy handle from two pipes, machine the striking parts from tougher pieces of iron and equip them with a kinetic energy accumulator according to the schematic. Essentially, it's just a stiff spring and a locking mechanism.}
+{CraftItem}{77}{Only a person devoted to the study of weapons knows how to forge a real blade.}
+{CraftItem}{78}{Re-temper the blade, sharpen it, wrap the handle in leather, and this knife can already be called a weapon.}
+{CraftItem}{79}{Mount a heavier piece of iron on a sturdier stick.}
+{CraftItem}{80}{Tie a knife to a stick. This gives you a whole meter of advantage and a kilogram of confidence.}
+{CraftItem}{81}{Sharpening the spear with flint from the "Morlis" company will let you cleave enemies with it like a halberd.}
+{CraftItem}{82}{Zip-zip, done!}
+{CraftItem}{83}{With gentle blows, give the pipe the right shape.}
+{CraftItem}{84}{Find a piece of iron of the right size and file something out of it that could be used to unscrew nuts.}
+{CraftItem}{85}{Sharpen several pieces of iron, wrap the handles with some rag. You'll get several fine knives.}
+{CraftItem}{86}{Break off at least a third of this stick, hammer some weight into one end with a stone. The broken-off piece can be lugged along as an extra handle. Done, you can go crack someone's skull.}
+{CraftItem}{87}{Carve a handle out of wood, then drive a piece of iron into it. You've got an awl, a universal tool for making holes.}
+{CraftItem}{88}{Balance and further sharpen this piece of iron.}
+{CraftItem}{89}{Fit the shovel head to the handle and nail it down.}
+{CraftItem}{90}{Find some branch and mount a sharper piece of iron on it.}
+{CraftItem}{91}{Sew a sack from pieces of cloth.}
+{CraftItem}{92}{If you fill this sack with sand, you get... a sandbag!}
+{CraftItem}{93}{Find a lathe, use it as a drill press to bore out the pipe to a diameter of 17.8 mm, and machine the bolt from a piece of metal stake. Using the schematics from "Guns and Bullets", make the trigger mechanism, and simply turn the stock out of wood.}
+{CraftItem}{94}{Several small-diameter pipes, cut into 19 identical segments, with electric igniters wired to each one according to the schematic from "Guns and Bullets". A workbench is required for production.}
+{CraftItem}{95}{Use 7 barrels from a G11 to assemble a homemade machine gun based on the "Metalstorm" design, with longitudinal loading of caseless ammunition into the barrel and ignition by electric igniter. You'll have to do a little soldering. A workbench is required for production.}

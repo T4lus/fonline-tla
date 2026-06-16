@@ -22,7 +22,7 @@
 {10030050}{}{someone unknown}
 {10030060}{}{The church of Brock and Xander}
 {10030070}{}{A traveller}
-{10030080}{}{головорезов из банды Шакалы Карлоса}
+{10030080}{}{thugs from Carlos's Jackals gang}
 
 # Encounter Table 1
 {10030500}{}{A party of raiders}
@@ -174,9 +174,9 @@
 {10034770}{}{A tin woodsman}
 {10034780}{}{The Unwashed Villagers hunting a spammer}
 {10034790}{}{Wasteland Children shelter}
-{10034800}{}{заброшенный аванпост Рыцарей Пустоши}
-{10034810}{}{пещеру}
-{10034820}{}{заброшенную деревеньку. Даже с расстояния ощущается зло, исходящее от нее}
+{10034800}{}{an abandoned outpost of the Wasteland Knights}
+{10034810}{}{a cave}
+{10034820}{}{an abandoned little village. Even from a distance you can feel the evil emanating from it}
 {10034830}{}{abandoned doughnut warehouse}
 
 # Encounter Table 10
@@ -243,9 +243,9 @@
 {10035870}{}{King Arthur's Knights}
 {10035880}{}{A tin woodsman}
 {10035890}{}{The Unwashed Villagers hunting a spammer}
-{10035900}{}{Пристанище Детей Пустоши}
-{10035910}{}{заброшенный аванпост Рыцарей Пустоши}
-{10035920}{}{заброшенную деревеньку. Даже с расстояния ощущается зло, исходящее от нее}
+{10035900}{}{Wasteland Children shelter}
+{10035910}{}{an abandoned outpost of the Wasteland Knights}
+{10035920}{}{an abandoned little village. Even from a distance you can feel the evil emanating from it}
 {10035930}{}{the lost doughnut warehouse}
 
 # Encounter Table 12
@@ -354,8 +354,8 @@
 {10037300}{}{King Arthur's Knights}
 {10037310}{}{A tin woodsman}
 {10037320}{}{The Unwashed Villagers hunting a spammer}
-{10037330}{}{развалины дома}
-{10037331}{}{странную пещеру}
+{10037330}{}{the ruins of a house}
+{10037331}{}{a strange cave}
 
 # Encounter Table 15
 {10037500}{}{A band of highwaymen}
@@ -639,7 +639,7 @@
 {10042270}{}{King Arthur's Knights}
 {10042280}{}{A tin woodsman}
 {10042290}{}{The Unwashed Villagers hunting a spammer}
-{10042300}{}{секретное логово супермутантов}
+{10042300}{}{a secret super mutant lair}
 
 # Encounter Table 25
 {10042500}{}{Some mutated molerats}
@@ -1249,7 +1249,7 @@
 {10054210}{}{The Unwashed Villagers hunting a spammer}
 {10054220}{}{The Cafe of Broken Dreams}
 {10054230}{}{The Mad scientist's lab}
-{10054240}{}{заброшенный аванпост Рыцарей Пустоши}
+{10054240}{}{an abandoned outpost of the Wasteland Knights}
 {10054250}{}{the lost doughnut warehouse}
 {10054260}{}{the ruins of a church}
 
@@ -1313,8 +1313,8 @@
 {10055760}{}{King Arthur's Knights}
 {10055770}{}{A tin woodsman}
 {10055780}{}{The Unwashed Villagers hunting a spammer}
-{10055790}{}{заброшенную лабораторию безумного ученого}
-{10055800}{}{заброшенный аванпост Рыцарей Пустоши}
+{10055790}{}{the abandoned lab of a mad scientist}
+{10055800}{}{an abandoned outpost of the Wasteland Knights}
 {10055810}{}{the lost doughnut warehouse}
 
 # Encounter Table 52
@@ -1476,8 +1476,8 @@
 {10059140}{}{Hubologists fighting mercenaries}
 {10059150}{}{Hubologists fending off a press gang}
 {10059160}{}{Hubologists}
-{10059170}{}{насекомых-мутантов}
-{10059180}{}{палатку наркодилеров, о которой говорила Нэнси по радио}
+{10059170}{}{mutant insects}
+{10059180}{}{the drug dealers' tent that Nancy mentioned on the radio}
 {10059190}{}{the ruins of a church}
 
 # Encounter Table 59
@@ -1519,8 +1519,8 @@
 {10060140}{}{Hubologists fighting mercenaries}
 {10060150}{}{Hubologists fending off a press gang}
 {10060160}{}{Hubologists}
-{10060170}{}{группу насекомых-мутантов}
-{10060180}{}{разрушенную церковь}
+{10060170}{}{a group of mutant insects}
+{10060180}{}{a ruined church}
 
 # Encounter Table 61
 {10060500}{}{Toxic waste dump}
@@ -1551,7 +1551,7 @@
 {10060750}{}{A tin woodsman}
 {10060760}{}{The Unwashed Villagers hunting a spammer}
 {10060770}{}{The Cafe of Broken Dreams}
-{10060780}{}{группу насекомых-мутантов}
+{10060780}{}{a group of mutant insects}
 
 # Encounter Table 62
 {10061000}{}{Toxic waste dump}
@@ -1819,8 +1819,8 @@
 {10066160}{}{Some farmers}
 {10066170}{}{A man guarding a bridge}
 {10066180}{}{King Arthur's Knights fighting a rat}
-{10066190}{}{разномастную шайку бандитов}
-{10066200}{}{несколько мятежных рейнджеров Уильяма Коди}
+{10066190}{}{a motley gang of bandits}
+{10066200}{}{a few rebel rangers of William Cody}
 
 # Encounter Table 73
 {10066500}{}{Toxic waste dump}
@@ -1896,43 +1896,43 @@
 {10067720}{}{A tin woodsman}
 {10067730}{}{The Unwashed Villagers hunting a spammer}
 {10067740}{}{The Cafe of Broken Dreams}
-{10067750}{}{остатки каравана Даппо.}
+{10067750}{}{the remains of Dappo's caravan.}
 
 # Encounter Table 76 (Ocean North)
 
-{10068010}{}{мель}
-{10068020}{}{несколько водяных крыс}
-{10068030}{}{Isleок, кишаший крысами}
-{10068040}{}{водяных крыс-переростков}
-{10068050}{}{Isleок с гнездом мантисов}
-{10068060}{}{дрейфующий плот}
-{10068070}{}{торговца}
+{10068010}{}{a shoal}
+{10068020}{}{a few water rats}
+{10068030}{}{an islet swarming with rats}
+{10068040}{}{oversized water rats}
+{10068050}{}{an islet with a manti nest}
+{10068060}{}{a drifting raft}
+{10068070}{}{a merchant}
 
 # Encounter Table 77 (Ocean South)
 
-{10068200}{}{мель}
-{10068210}{}{голодных и злых водяных крыс}
-{10068220}{}{Isleок, кишаший крысами}
-{10068230}{}{мутировавших водяных крыс}
-{10068240}{}{Isleок с гнездом мантисов}
-{10068250}{}{Isle с несколькими осами-переростками}
-{10068260}{}{Isle с осиным гнездом}
-{10068270}{}{дрейфующий плот}
-{10068280}{}{торговца}
+{10068200}{}{a shoal}
+{10068210}{}{hungry and angry water rats}
+{10068220}{}{an islet swarming with rats}
+{10068230}{}{mutated water rats}
+{10068240}{}{an islet with a manti nest}
+{10068250}{}{an isle with several oversized wasps}
+{10068260}{}{an isle with a wasp nest}
+{10068270}{}{a drifting raft}
+{10068280}{}{a merchant}
 
 # Encounter Table 78 (Hell)
 
-{10068400}{}{беглых каторжников}
-{10068410}{}{патруль хабологов}
-{10068420}{}{усиленный патруль хабологов}
-{10068430}{}{патруль хабологов, воюющий с беглыми каторжниками}
-{10068440}{}{беглых каторжников, устраивающих самосуд над хабологами}
-{10068450}{}{нескольких оголодавших каторжников}
-{10068460}{}{толпу беглых каторжников, потерявших разум}
-{10068470}{}{стайку каких-то ящеров}
-{10068480}{}{опасную волчью стаю}
-{10068490}{}{мутировавших и отощавших кротов-гризли}
-{10068500}{}{мутировавших кротов-гризли, дерущихся с ящерами}
-{10068510}{}{рад-скорпионов, пытающихся сожрать кротов-гризли}
+{10068400}{}{escaped convicts}
+{10068410}{}{a Hubologist patrol}
+{10068420}{}{a reinforced Hubologist patrol}
+{10068430}{}{a Hubologist patrol fighting escaped convicts}
+{10068440}{}{escaped convicts lynching some Hubologists}
+{10068450}{}{a few starving convicts}
+{10068460}{}{a crowd of escaped convicts who have lost their minds}
+{10068470}{}{a pack of some kind of lizards}
+{10068480}{}{a dangerous wolf pack}
+{10068490}{}{mutated and emaciated grizzly moles}
+{10068500}{}{mutated grizzly moles fighting lizards}
+{10068510}{}{radscorpions trying to devour grizzly moles}
 {10068520}{}{A man guarding a bridge}
 {10068530}{}{King Arthur's Knights fighting a rat}
