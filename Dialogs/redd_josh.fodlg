@@ -261,102 +261,102 @@ Speech 36 # Я не буду больше! Никогда!
 {DescAliveFull}{}{You see Josh Lourence, ritual services salon owner.}
 {DescAliveFull}{}{You see man, who look at you as for taking measurements.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 2*}{}{знаком}
-{Speech 1 Answer 19}{}{дурак}
-{Speech 1 Answer 31}{}{О ванаминго}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 2*}{}{acquainted}
+{Speech 1 Answer 19}{}{fool}
+{Speech 1 Answer 31}{}{About the wanamingo}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{А что это за заведение?}
-{Speech 2 Answer 16}{}{Я хотел бы выпить.}
-{Speech 2 Answer 17}{}{Я хотел бы поставить выпивку всем посетителям.}
-{Speech 2 Answer 18}{}{Что нового в городе?}
-{Speech 2 Answer Exit}{}{Привет. Просто проходил мимо. Пока.}
-{Speech 2 Answer 20}{}{У меня к тебе пара вопросов.}
-{Speech 2 Answer 31}{}{Так ты утверждаешь, что тут ванаминго ходят по округе?}
-{Speech 3}{}{Это "Последний Вздох", салун и похоронное бюро. Полный комплекс услуг. Наш девиз - "С бутылкой в могилу".}
-{Speech 3 Answer 4}{}{Уж больно несуразное сочетание, Джош.}
-{Speech 3 Answer 13}{}{Да, Джош, Лукреция Борджиа могла бы тобой гордиться.}
-{Speech 3 Answer 14}{}{Что надо, чтобы купить гроб?}
-{Speech 3 Answer 15}{}{Как заказать похороны?}
-{Speech 3 Answer 13*}{}{На будущее буду держаться подальше от твоего "джина из под крана".}
-{Speech 4}{}{Вот так. Но я бы не смог свести концы с концами, если бы просто хоронил людей - скажем так, мертвое дело. О, это было дело жизни и смерти. Так что я перестроил свое заведение, чтобы в нем еще и подавали выпивку.}
-{Speech 4 Answer 2}{}{Угу. Я почти боюсь тебя о чем-нибудь еще спрашивать. Но все равно, попробую.}
-{Speech 4 Answer 5}{}{Э-э, а весь этот антураж людям аппетит не портит?}
-{Speech 4 Answer Exit}{}{Пожалуй, следующего каламбура я уже не перенесу. До свидания. }
-{Speech 5}{}{Ну, если бы тут все было настоящее, то может быть. Но оно не настоящее. По крайней мере, не все. К тому же шахтерам это даже нравится. Они чувствуют себя счастливцами, что вообще живы.}
-{Speech 5 Answer 6}{}{Жутко это все. Ты очень неуравновешенный человек.}
-{Speech 5 Answer 2}{}{Понятно. Тогда я наверно тебя кое о чем еще спрошу.}
-{Speech 5 Answer Exit}{}{Наверное, некоторые могут это оценить. Но, не я. У меня мурашки по коже. Я ухожу.}
-{Speech 6}{}{Жутко? Неуравновешенный? А мне вообще говорили, что дикари едят своих мертвецов.}
-{Speech 6 Answer 7}{}{Ну а как иначи мы могли бы грокнуть их сущность?}
-{Speech 6 Answer 8}{}{Ну что ты. Мы сначала их готовим. Не совсем же мы дикие, в самом деле.}
-{Speech 6 Answer 11}{}{Чушь какая. Кто тебе это сказал?}
-{Speech 7}{}{Чортовы марсиане. А я уж было принял тебя за дикаря. Ну не дурак я? И все равно, по мне людоедство есть людоедство. }
-{Speech 7 Answer 8}{}{Ну что ты. Мы сначала их готовим. Не совсем же мы дикие, в самом деле.}
-{Speech 8}{}{Ну, если вы их не сырыми... Нет, постой-ка минуточку. Это же все равно людоедство! Грязь ты настоящая, даже для дикаря.}
-{Speech 8 Answer 9}{}{Остынь, Джош. Я просто шучу. Хе-хе. Блин, мы просто готовим их части.}
-{Speech 9}{}{Части, а? А какие именно части?}
-{Speech 9 Answer 10}{}{А кому какое дело? (вы пожимаете плечами). Части они и есть части.}
-{Speech 9 Answer 12}{}{Да я просто стебусь, Джош. Давай-ка я лучше тебя еще кое о чем спрошу.}
-{Speech 10}{}{Ну что, по-моему, это имеет смысл.}
-{Speech 10 Answer 2}{}{Конечно, имеет. Дай я тебя еще кое о чем спрошу.}
-{Speech 10 Answer Exit}{}{Кстати говоря, что-то я проголодался. До скорого Джош. Пока.}
-{Speech 11}{}{Честно, не знаю. Но это самая рассвятая правда. Зачем бы вам еще затачивать себе зубы? Ась? Ответь, а?}
-{Speech 11 Answer 2}{}{Я не затачиваю. Ладно, не важно. Лучше я тебя еще спрошу.}
-{Speech 12}{}{Отпусти мой хвост, людоед! Ведь нашел же, я сам не знал, что он у меня есть. Он мне еще долго будет нужен. Найди себе другой!}
-{Speech 12 Answer 2}{}{Да ладно-ладно! Че ты! Шучу я, хе-хе. Давай я лучше тебя еще кое о чем спрошу.}
-{Speech 12 Answer Exit}{}{Ну ладно, я пойду прогуляюсь. Но если ничего другого себе ненайду, то вернусь. Увидимся. До свидания.}
-{Speech 12 Answer 31}{}{О ванаминго}
-{Speech 13}{}{Это еще как понимать?}
-{Speech 13 Answer 4}{}{В смысле это получается очень...м-м... необычное сочетание.}
-{Speech 13 Answer 2}{}{Ничего. Ничего, Джош. Позволь еще спросить.}
-{Speech 14}{}{Сначала надо сыграть в ящик. Ты не собираешься вскоре играть в такие вещи?}
-{Speech 14 Answer 2}{}{М-м. Никаких ящиков. Позволь еще спросить.}
-{Speech 14 Answer Exit}{}{Может только помогу кому-нибудь в него поиграть. До свидания, Джош.}
-{Speech 15}{}{Ну, для начала нужно кого-нибудь удавить. Но шериф Мерион не одобряет такие вещи. Так что я не советую.}
-{Speech 15 Answer 2}{}{Буду держать себя в руках. Можно еще кое о чем спросить, Джош?}
-{Speech 15 Answer Exit}{}{Понятно. По крайней мере буду знать, к кому обратиться, если произойдет какой-нибудь "несчастный случай". До свидания.}
-{Speech 16}{}{Нет ничего проще. Пять монет.}
-{Speech 16 Answer Exit}{}{Вот деньги. }
-{Speech 16 Answer 2}{}{Что-то я уже расхотел. Лучше еще кое что спрошу.}
-{Speech 17}{}{Очень щедро с твоей стороны. Чтобы каждому послать привет - все в сумме 50 монет. Эй, я, оказывается поэт.}
-{Speech 17 Answer Exit}{}{Ох, каламбуры до могилы доведут, Джош. Просто дружеское предупреждение. Вот деньги.}
-{Speech 17 Answer 2}{}{Хм. Этот каламбур, похоже, убил все желание. Можно я кое о чем еще спрошу?}
-{Speech 18}{}{Ну, не много, что меня бы касалось. По большей части у меня тихий бизнес. Тихо, как в могиле, можно сказать.}
-{Speech 18 Answer 2}{}{Все с тобой ясно. У меня вот еще вопросы есть.}
-{Speech 18 Answer Exit}{}{Ладно, пойду я отсюда. Пока.}
-{Speech 19}{}{Иди от сюда, пока на полу не напачкал.@@Чего тебя сюда занесло?@@Пошел, пошел. Ах ты дебил!@@Это место не для тебя.@@Пошел вон.}
-{Speech 20}{}{[Настороженно] А что за вопросы? У меня есть лицензия на продажу спиртного, спроси у шерифа!}
-{Speech 20 Answer 21}{}{Лицензии тут не причем. Ты в последние дни не замечал ничего небычного вокруг?}
-{Speech 21}{}{Че? Что я должен был заметить? Не понял? Да и вообще, какого черта ты тут из себя корчишь детектива?}
-{Speech 21 Answer 22}{}{Я выполняю личную просьбу шерифа. Если есть вопросы - обращайся к нему.}
-{Speech 22}{}{А, тут шериф замешан? Ну тогда валяй, спрашивай.}
-{Speech 22 Answer 23}{}{Повторю, ты ничего странного тут не замечал? Дело в том, что некоторые жители города утверждают, что видели ванаминго. Ищу свидетелей.}
-{Speech 23}{}{ВИДЕЛИ? Ты уверен, что они видели ЖИВОГО ванаминго? [Салунщик побледнел]}
-{Speech 23 Answer 24}{}{Ну хм, такого, чтобы прямо кто-то живьем. Пока вроде не видел. Но слышали их рев и прочие странные звуки.}
-{Speech 24}{}{ Ха! [Салунщик заметно приободрился] Ты меня почти испугал. Слышали, ну это у меня есть подозрения, кто слышал, хе-хе.}
-{Speech 24 Answer 25}{}{Ты кого имеешь в виду? Вдову Руни?}
-{Speech 25}{}{[Выглядит так, будто салунщик подавил смешок] Урп! Нет! Я думал, кто-то другой.}
-{Speech 25 Answer 26}{}{А чего это ты так веселишься? Ну, видел чего-нибудь?}
-{Speech 26}{}{Конечно видел! Да ты сам на кладбище загляни. Там три могилы свежих разрытых. Кто их будет разрывать, если не ванаминго?}
-{Speech 26 Answer 27}{}{Ну мало ли, кто.}
-{Speech 27}{}{Я тут рядом живу, все бы увидел. А так, только по ночам слышу, как эти твари зубами скрипят и куда-то в город топают.}
-{Speech 27 Answer 28}{}{А сам глазами видел?}
-{Speech 28}{}{Было дело. Мельком только. Слава богу, успел дверь закрыть.}
-{Speech 28 Answer 29}{}{А может, это крыса была, или житель реддинга?}
-{Speech 29}{}{Темно было, мог ошибиться. Но я уверен, не крыса это была и не человек. Это было что-то огромное и страшное! Ванаминго! Точно тебе говорю!}
-{Speech 29 Answer 30}{}{Хм. Ну ладно. Все рассказы подтверждаются. Спасибо за помощь.}
-{Speech 30}{}{ Хех, да не за что. Вы там того, давайте, защиту мне организуйте поскорей. А то сожрут ведь!}
-{Speech 30 Answer Exit}{}{Не выходи из дома по ночам. Если еще что-то заметишь, сразу обращайся ко мне, или шерифу.}
-{Speech 31}{}{Ха, здарова! Я рад, что ты пожаловал! Я видел еще троих ванаминго! Они воровали виски у меня со склада!}
-{Speech 31 Answer 32}{}{Закрой пасть, трепло! Больше я на твою брехню не куплюсь.}
-{Speech 32}{}{[Ошарашенно отступает] эй, Эй, ты чего! Я же помочь хочу! Ты сам просил!}
-{Speech 32 Answer 33}{}{Заткнись. Мне рассказали, чем ты занимаешься по ночам, и ванаминго тут не причем.}
-{Speech 33}{}{Кто рассказал?! Что рассказал?!}
-{Speech 33 Answer 34}{}{Не важно. Это что у тебя за камень с веревкой там, под столом?}
-{Speech 34}{}{Какой камень?!}
-{Speech 34 Answer 35}{}{А ну ТИХО! Хватит дурака валять. Я все знаю. Как ты издеваешься над бедной вдовой. И сейчас раздумываю, а не прикончить ли мне тебя на месте?}
-{Speech 35}{}{[Падает на колени] Неееет! Не убивай! Я же не сделал ничего дурного! Это шутка была! Безобидная шутка! Я просто напился и начал чудить!}
-{Speech 35 Answer 36}{}{Замолчи. Не трону я тебя. Руки пачкать жалко. А вот шерифу расскажу. Давай сюда этот камень.}
-{Speech 36}{}{Ой, спасибо! Я не буду больше! Никогда!}
-{Speech 36 Answer Exit}{}{Смотри мне. Если Руни еще раз пожалуеться на шумы, то у  тебя будут большие проблемы.}
+{Speech 2 Answer 3}{}{And what sort of establishment is this?}
+{Speech 2 Answer 16}{}{I'd like a drink.}
+{Speech 2 Answer 17}{}{I'd like to buy a drink for everyone here.}
+{Speech 2 Answer 18}{}{What's new in town?}
+{Speech 2 Answer Exit}{}{Hi. Just passing through. Bye.}
+{Speech 2 Answer 20}{}{I've got a couple of questions for you.}
+{Speech 2 Answer 31}{}{So you claim there are wanamingo roaming around here?}
+{Speech 3}{}{This is the "Last Gasp," a saloon and funeral parlor. Full-service operation. Our motto is "Into the grave with a bottle."}
+{Speech 3 Answer 4}{}{That's a mighty awkward combination, Josh.}
+{Speech 3 Answer 13}{}{Yeah, Josh, Lucretia Borgia would be proud of you.}
+{Speech 3 Answer 14}{}{What does it take to buy a coffin?}
+{Speech 3 Answer 15}{}{How do I arrange a funeral?}
+{Speech 3 Answer 13*}{}{From now on I'll steer clear of your "gin from the tap."}
+{Speech 4}{}{That's right. But I couldn't make ends meet if I just buried people - a dead business, so to speak. Oh, it was a matter of life and death. So I rebuilt my place so it serves drinks too.}
+{Speech 4 Answer 2}{}{Uh-huh. I'm almost afraid to ask you anything else. But I'll try anyway.}
+{Speech 4 Answer 5}{}{Uh, doesn't all this scenery ruin people's appetite?}
+{Speech 4 Answer Exit}{}{I don't think I can take another pun. Goodbye. }
+{Speech 5}{}{Well, if everything here were real, then maybe. But it's not real. At least, not all of it. Besides, the miners actually like it. They feel lucky to be alive at all.}
+{Speech 5 Answer 6}{}{This is all creepy. You're a very unbalanced man.}
+{Speech 5 Answer 2}{}{I see. Then I guess I'll ask you about something else.}
+{Speech 5 Answer Exit}{}{I suppose some folks might appreciate it. But not me. It gives me the creeps. I'm leaving.}
+{Speech 6}{}{Creepy? Unbalanced? I've been told that savages eat their dead.}
+{Speech 6 Answer 7}{}{Well, how else could we grok their essence?}
+{Speech 6 Answer 8}{}{Come on now. We cook them first. We're not completely wild, after all.}
+{Speech 6 Answer 11}{}{What nonsense. Who told you that?}
+{Speech 7}{}{Damn Martians. And here I almost took you for a savage. Aren't I a fool? Still, the way I see it, cannibalism is cannibalism. }
+{Speech 7 Answer 8}{}{Come on now. We cook them first. We're not completely wild, after all.}
+{Speech 8}{}{Well, if you don't eat them raw... No, wait just a minute. It's still cannibalism! You're real filth, even for a savage.}
+{Speech 8 Answer 9}{}{Cool it, Josh. I'm just kidding. Heh-heh. Damn, we just cook their parts.}
+{Speech 9}{}{Parts, huh? And which parts exactly?}
+{Speech 9 Answer 10}{}{Who cares? (you shrug). Parts are just parts.}
+{Speech 9 Answer 12}{}{I'm just pulling your leg, Josh. Let me ask you about something else instead.}
+{Speech 10}{}{Well, I suppose that makes sense.}
+{Speech 10 Answer 2}{}{Of course it does. Let me ask you about something else.}
+{Speech 10 Answer Exit}{}{Speaking of which, I'm getting hungry. See you soon, Josh. Bye.}
+{Speech 11}{}{Honestly, I don't know. But it's the gospel truth. Why else would you file your teeth down? Eh? Answer me, would you?}
+{Speech 11 Answer 2}{}{I don't file them. Fine, never mind. Let me ask you something else instead.}
+{Speech 12}{}{Let go of my tail, you cannibal! You found it, even though I didn't know I had one. I'm going to need it for a long while yet. Find yourself another one!}
+{Speech 12 Answer 2}{}{All right, all right! What's with you! I'm joking, heh-heh. Let me just ask you about something else.}
+{Speech 12 Answer Exit}{}{All right, I'll go take a walk. But if I don't find anything better, I'll be back. See you. Goodbye.}
+{Speech 12 Answer 31}{}{About the wanamingo}
+{Speech 13}{}{How am I supposed to take that?}
+{Speech 13 Answer 4}{}{I mean it comes out very... um... an unusual combination.}
+{Speech 13 Answer 2}{}{Nothing. Never mind, Josh. Let me ask you something.}
+{Speech 14}{}{First you have to kick the bucket. You aren't planning on playing those games anytime soon, are you?}
+{Speech 14 Answer 2}{}{Mm. No buckets. Let me ask you something.}
+{Speech 14 Answer Exit}{}{Maybe I'll just help someone else play it. Goodbye, Josh.}
+{Speech 15}{}{Well, to start with you need to strangle somebody. But Sheriff Marion doesn't approve of that sort of thing. So I don't recommend it.}
+{Speech 15 Answer 2}{}{I'll keep myself in check. Can I ask you something else, Josh?}
+{Speech 15 Answer Exit}{}{Got it. At least I'll know who to turn to if some "accident" happens. Goodbye.}
+{Speech 16}{}{Nothing easier. Five coins.}
+{Speech 16 Answer Exit}{}{Here's the money. }
+{Speech 16 Answer 2}{}{I've kind of lost the urge. Let me ask something else instead.}
+{Speech 17}{}{Very generous of you. To send a greeting to everyone - it all comes to 50 coins. Hey, turns out I'm a poet.}
+{Speech 17 Answer Exit}{}{Oh, those puns will be the death of me, Josh. Just a friendly warning. Here's the money.}
+{Speech 17 Answer 2}{}{Hmm. That pun seems to have killed the urge. Can I ask you something else?}
+{Speech 18}{}{Well, not much that would concern me. Mostly I run a quiet business. Quiet as the grave, you might say.}
+{Speech 18 Answer 2}{}{I've got you figured out. I've got a few more questions.}
+{Speech 18 Answer Exit}{}{All right, I'm out of here. Bye.}
+{Speech 19}{}{Get out of here before you mess up the floor.@@What brought you here?@@Move along, move along. You moron!@@This place isn't for you.@@Get lost.}
+{Speech 20}{}{[Warily] And what sort of questions? I've got a license to sell liquor, ask the sheriff!}
+{Speech 20 Answer 21}{}{The license has nothing to do with it. Have you noticed anything unusual around here lately?}
+{Speech 21}{}{What? What was I supposed to notice? I don't get it. And anyway, what the hell are you doing playing detective here?}
+{Speech 21 Answer 22}{}{I'm carrying out a personal request from the sheriff. If you've got questions, take them up with him.}
+{Speech 22}{}{Oh, the sheriff's involved? Well then go ahead, ask away.}
+{Speech 22 Answer 23}{}{I'll repeat, have you noticed anything strange around here? The thing is, some of the townsfolk claim they've seen a wanamingo. I'm looking for witnesses.}
+{Speech 23}{}{SEEN it? Are you sure they saw a LIVE wanamingo? [The barkeep turns pale]}
+{Speech 23 Answer 24}{}{Well, hmm, not so much that anyone saw one in the flesh. Nobody's seen one yet, it seems. But they've heard their roar and other strange sounds.}
+{Speech 24}{}{ Ha! [The barkeep visibly perks up] You almost scared me. Heard them, well, I've got my suspicions about who heard them, heh-heh.}
+{Speech 24 Answer 25}{}{Who do you mean? The widow Rooney?}
+{Speech 25}{}{[He looks like the barkeep is suppressing a chuckle] Urp! No! I was thinking of someone else.}
+{Speech 25 Answer 26}{}{And why are you so amused? Well, have you seen anything?}
+{Speech 26}{}{Of course I've seen something! Just go take a look at the cemetery yourself. There are three fresh graves dug up there. Who'd be digging them up if not the wanamingo?}
+{Speech 26 Answer 27}{}{Well, could be anyone.}
+{Speech 27}{}{I live right nearby, I'd have seen everything. But as it is, I only hear those creatures gnashing their teeth at night and stomping off somewhere into town.}
+{Speech 27 Answer 28}{}{Did you see it with your own eyes?}
+{Speech 28}{}{It happened. Just a glimpse, though. Thank God I managed to shut the door.}
+{Speech 28 Answer 29}{}{Maybe it was a rat, or a resident of Redding?}
+{Speech 29}{}{It was dark, I could've been mistaken. But I'm sure it wasn't a rat and it wasn't a person. It was something huge and terrifying! A wanamingo! I'm telling you for sure!}
+{Speech 29 Answer 30}{}{Hmm. All right. All the accounts check out. Thanks for the help.}
+{Speech 30}{}{ Heh, don't mention it. You all there, come on, get some protection set up for me quick. Or they'll eat me!}
+{Speech 30 Answer Exit}{}{Don't leave the house at night. If you notice anything else, come straight to me, or the sheriff.}
+{Speech 31}{}{Ha, howdy! I'm glad you came by! I saw three more wanamingo! They were stealing whiskey from my storeroom!}
+{Speech 31 Answer 32}{}{Shut your trap, blabbermouth! I'm not falling for your lies anymore.}
+{Speech 32}{}{[Backs away, stunned] Hey, what's with you! I'm trying to help! You asked me to yourself!}
+{Speech 32 Answer 33}{}{Shut up. I've been told what you get up to at night, and the wanamingo have nothing to do with it.}
+{Speech 33}{}{Who told you?! What did they tell you?!}
+{Speech 33 Answer 34}{}{Never mind. What's that stone with the rope over there under the table?}
+{Speech 34}{}{What stone?!}
+{Speech 34 Answer 35}{}{QUIET now! Quit playing the fool. I know everything. How you torment that poor widow. And right now I'm wondering whether to finish you off on the spot.}
+{Speech 35}{}{[Falls to his knees] Nooo! Don't kill me! I didn't do anything wrong! It was a joke! A harmless joke! I just got drunk and started acting crazy!}
+{Speech 35 Answer 36}{}{Be quiet. I won't touch you. Not worth dirtying my hands. But I'll tell the sheriff. Hand over that stone.}
+{Speech 36}{}{Oh, thank you! I won't do it again! Never!}
+{Speech 36 Answer Exit}{}{You watch yourself. If Rooney complains about noises one more time, you'll be in big trouble.}

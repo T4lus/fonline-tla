@@ -123,47 +123,47 @@ Speech 15 # Ну ты и зрелище@@Вон от сюда!@@Фууу.@@Не 
 {DescAliveFull}{}{You see Fanny Maye, one of the Malamoot Salone keepers.}
 {DescAliveFull}{}{You see the woman which is shabby by miles more than by years.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знакомы}
-{Speech 1 Answer 2*}{}{знакомы}
-{Speech 1 Answer 15}{}{дурак}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 2*}{}{acquainted}
+{Speech 1 Answer 15}{}{fool}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Ну да. Я пришел к тебе в гости.}
-{Speech 2 Answer Exit}{}{Уф. Пойди старая. Я просто гуляю.}
+{Speech 2 Answer 3}{}{Sure. I came to visit you.}
+{Speech 2 Answer Exit}{}{Ugh. Off you go, old woman. I'm just walking around.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 4}{}{60 баксов, а? По мне, цена что надо. Вот, держи деньги.}
-{Speech 3 Answer Exit}{}{Спасибо за предложение, но, может, в другой раз. До свидания.}
-{Speech 3 Answer Exit*}{}{60 монет? За такие деньги - нет, увольте. Дорого. До свидания. }
-{Speech 4}{}{Ты был со мной так нежен. Так это делал, как будто правда меня любишь. (всхлипывает) Если бы только со всеми так было...}
-{Speech 4 Answer 5}{}{Ну, когда ты со мной, это так.}
-{Speech 4 Answer 5*}{}{Да, ты уж знаешь, как убалтывать.}
-{Speech 5}{}{Все, с меня хватит, завязываю. Мы с моим хахолем собираемся убраться от сюда и начать праведную жизнь. Вот только выплачу долг Лу.}
-{Speech 5 Answer 6}{}{Выплатишь долг Лу?}
-{Speech 6}{}{Ах, ну ладно... Я должна Лу деньги и не могу уйти, пока не расплачусь. Но как только... (шмыгает носом) Возьму своего милого в охапку и смоюсь от сюда куда глаза глядят. Вот только еще бы капусты поднабрать...}
-{Speech 6 Answer 7}{}{Сколько еще денег тебе надо чтобы расплатиться с Лу?}
-{Speech 6 Answer 8}{}{А твой бой френд не может оплатить этот долг?}
-{Speech 6 Answer Exit}{}{Это грустная история, но у тебя наверняка скоро появятся деньги. Пока ты раздвигаешь ножки, проблем с монетой не будет. Всего хорошего.}
-{Speech 7}{}{Мне всего то надо 200 монет прямо сейчас, и я исправлюсь. Мы с моим мужыком выберемся отсюда, свободные как птички. Никаких больше немытых чужаков, которые лапают меня день и ночь. Ух, не прийми на свой счет.}
-{Speech 7 Answer Exit}{}{Да, печально. Ну что ж, тогда иди зарабатывай. До свидания.}
-{Speech 7 Answer 10}{}{Да ладно. Я ведь не сказать чтобы лапаю, а? В любом случае я могу поработать проводником отсюда. Вот две сотни, держи.}
-{Speech 8}{}{Он правда хочет, но ему самому едва хватает, он же на шахте работает. Мы все надеемся, что он найдет большую жилу, но пока никак. А на прошлой неделе на него упала балка и раздробила ему ногу, и теперь он не может работать. Теперь я ему отдаю все те крохи, которые удается сэкономить, пока он не поправится.}
-{Speech 8 Answer 7}{}{Похоже, у вас двоих какая-то черная полоса. Так сколько тебе надо?}
-{Speech 9}{}{Эй, да ты вернулся. Повеселиться пришел или принес мне немного бабок для Лу?}
-{Speech 9 Answer 3}{}{На этот раз просто повеселиться, Фанни. Посмотрим как получится.}
-{Speech 9 Answer 7}{}{Сколько тебе нужно для Лу?}
-{Speech 9 Answer Exit}{}{Так, просто мимо проходил, Фанни. До свидания.}
-{Speech 10}{}{Ох, спасибо, спасибо огромное. Я и не думала, что такие добрые люди бывают не только во сне. Ты лучше всех. Спасибо еще раз. Слушай, хочешь за бесплатно? За счет заведения?}
-{Speech 10 Answer 11}{}{Почему нет, Фанни. Я принимаю твое предложение.}
-{Speech 10 Answer Exit}{}{Зачем, не нужно, Фанни. Просто возьми деньги и оставь эту жизнь позади. До свидания.}
-{Speech 11}{}{Спасибо еще раз. Прямо не терпится все рассказать моему. Вот как только у него нога заживет, мы уматываем от сюда.}
-{Speech 11 Answer Exit}{}{Да, вот это благодарность, Фанни. Пойду-ка я лучше отсюда, пока ноги держат. Всегда пожалуйста. До свидания.}
-{Speech 11 Answer Exit*}{}{Твой уход будет такой потерей для профессии, Фанни. До свидания.}
-{Speech 12}{}{Эй, привет. Хочешь покувыркаться с Фанни?}
-{Speech 12 Answer 13}{}{А разве я тебе не дал денег, чтобы ты этим больше не занималась?}
-{Speech 12 Answer 12}{}{Почему нет, пожалуйста. Хорошо, что я тебя поймал до твоего отъезда.}
-{Speech 13}{}{Ну да, было дело... Но, оказывается, я должна Лу больше, чем думала.}
-{Speech 13 Answer 14}{}{И на сколько больше?}
-{Speech 13 Answer Exit}{}{Все, я услышал достаточно. До свидания.}
-{Speech 14}{}{Это нормально, бэби. Ты и так уже здорово помог. (шмыгает носом) Мне всего-то надо еще 150.}
-{Speech 14 Answer 10}{}{Ну ладно, если это и правдо все, что тебе нужно. Но больше не дам. Имей в виду.}
-{Speech 14 Answer Exit}{}{Да, разумеется. Пойду я отсюда. До свидания.}
-{Speech 15}{}{Ну ты и зрелище@@Вон от сюда!@@Фууу.@@Не подаю.@@Чего тебе еще?}
+{Speech 3 Answer 4}{}{60 bucks, eh? Sounds like a fair price to me. Here, take the money.}
+{Speech 3 Answer Exit}{}{Thanks for the offer, but maybe another time. Goodbye.}
+{Speech 3 Answer Exit*}{}{60 coins? For that kind of money - no, forget it. Too pricey. Goodbye. }
+{Speech 4}{}{You were so gentle with me. You did it like you really love me. (sobs) If only it were like that with everyone...}
+{Speech 4 Answer 5}{}{Well, when you're with me, it is.}
+{Speech 4 Answer 5*}{}{Yeah, you sure know how to sweet-talk.}
+{Speech 5}{}{That's it, I've had enough, I'm quitting. My fella and I are gonna clear out of here and start a decent life. Just gotta pay off my debt to Lou.}
+{Speech 5 Answer 6}{}{Pay off your debt to Lou?}
+{Speech 6}{}{Ah, well... I owe Lou money and I can't leave until I've paid it off. But as soon as... (sniffles) I'll scoop up my sweetheart and scram out of here wherever my eyes lead me. If only I could scrape together a bit more dough...}
+{Speech 6 Answer 7}{}{How much more money do you need to pay off Lou?}
+{Speech 6 Answer 8}{}{Can't your boyfriend pay off this debt?}
+{Speech 6 Answer Exit}{}{It's a sad story, but you'll surely have money soon enough. As long as you spread your legs, you won't have trouble with coin. All the best.}
+{Speech 7}{}{I just need 200 coins right now, and I'll mend my ways. My man and I will get out of here, free as birds. No more unwashed strangers pawing at me day and night. Ugh, no offense.}
+{Speech 7 Answer Exit}{}{Yeah, that's a pity. Well then, go earn it. Goodbye.}
+{Speech 7 Answer 10}{}{Come on. It's not like I'm pawing at you, am I? In any case, I can work as a guide out of here. Here's two hundred, take it.}
+{Speech 8}{}{He really wants to, but he barely has enough himself, he works in the mine after all. We all hope he'll find a big vein, but no luck so far. And last week a beam fell on him and crushed his leg, and now he can't work. So now I give him every last scrap I manage to save up, until he gets better.}
+{Speech 8 Answer 7}{}{Looks like you two are on a real losing streak. So how much do you need?}
+{Speech 9}{}{Hey, you're back. Came to have some fun, or did you bring me a little cash for Lou?}
+{Speech 9 Answer 3}{}{Just for fun this time, Fanny. Let's see how it goes.}
+{Speech 9 Answer 7}{}{How much do you need for Lou?}
+{Speech 9 Answer Exit}{}{Just passing by, Fanny. Goodbye.}
+{Speech 10}{}{Oh, thank you, thank you so much. I never thought such kind people existed outside of dreams. You're the best. Thank you again. Listen, want one for free? On the house?}
+{Speech 10 Answer 11}{}{Why not, Fanny. I accept your offer.}
+{Speech 10 Answer Exit}{}{No need, Fanny. Just take the money and leave this life behind. Goodbye.}
+{Speech 11}{}{Thank you again. I can't wait to tell my man everything. As soon as his leg heals, we're skipping out of here.}
+{Speech 11 Answer Exit}{}{Yeah, that's some gratitude, Fanny. I'd better get out of here while my legs still hold me. You're welcome. Goodbye.}
+{Speech 11 Answer Exit*}{}{Your leaving will be such a loss to the profession, Fanny. Goodbye.}
+{Speech 12}{}{Hey there. Want to tumble with Fanny?}
+{Speech 12 Answer 13}{}{Didn't I give you money so you wouldn't do this anymore?}
+{Speech 12 Answer 12}{}{Why not, please. Good thing I caught you before you left.}
+{Speech 13}{}{Yeah, that's right... But it turns out I owe Lou more than I thought.}
+{Speech 13 Answer 14}{}{And how much more?}
+{Speech 13 Answer Exit}{}{That's it, I've heard enough. Goodbye.}
+{Speech 14}{}{It's okay, baby. You've already helped a lot. (sniffles) I just need another 150.}
+{Speech 14 Answer 10}{}{All right, if that's really all you need. But I won't give any more. Keep that in mind.}
+{Speech 14 Answer Exit}{}{Yes, of course. I'm leaving. Goodbye.}
+{Speech 15}{}{What a sight you are@@Get out of here!@@Eww.@@I don't give handouts.@@What else do you want?}

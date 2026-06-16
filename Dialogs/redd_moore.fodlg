@@ -126,49 +126,49 @@ Speech 18 # Э... не совсем так. Осторожнее в пустош
 {DescAliveFull}{}{You see Thomas Moore.}
 {DescAliveFull}{}{You see Thomas Moore. Despite his disheveled hair and beard, his clothes look clean and tidy.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 17}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 2}{}{Привет и добро пожаловать! Вы сегодня уже слышали Слово?}
-{Speech 2 Answer 3}{}{Ты кто такой?}
-{Speech 2 Answer 4}{}{О чем ты говоришь?}
-{Speech 2 Answer Exit}{}{Э, нет, и не хочу слышать. До свидания.}
-{Speech 3}{}{Мое имя? Я Томас Мур, проповедник Слова истинного. А что привело вас ко мне? Вы ищете Слово?}
-{Speech 3 Answer 4}{}{Слово? По вертикали или горизонтали? Сколько букв?}
-{Speech 3 Answer 11}{}{Нет. Я жду, что ты расскажешь мне о Реддинге.}
-{Speech 3 Answer Exit}{}{Лучше я просто оставлю тебя. Прощай.}
-{Speech 4}{}{Слово, @sex@|дружище|подруга|... слово это СВОБОДА. Прибавьте честь, долг и правосудие, и что получится? Город-Убежище... во всей его гордой стати оплота прогресса и новой надежды Пустоши.}
-{Speech 4 Answer 7}{}{Слушай, что-то я не пойму, причем тут Город-Убежище, если мы в Реддинге?}
-{Speech 4 Answer 5}{}{Почему вы живете в Реддинге, если так любите Город-Убежище?}
-{Speech 4 Answer 10}{}{Ты лучше расскажи, что это за охрана и ворота посреди города?}
-{Speech 5}{}{Кто-то должен нести Слово для всех, кто пока еще его не слышал. Только поэтому я все еще здесь. Плюс, у меня план - 10 поставленных на путь Истины в неделю... }
-{Speech 5 Answer 6}{}{И как успехи в выполнении плана?}
-{Speech 6}{}{Не думайте об этом @sex@|мой друг|милая|, это не важно. Оглянитесь вокруг, что вы видите?}
-{Speech 6 Answer Exit}{}{Лучше я просто оставлю тебя. Прощай.}
-{Speech 6 Answer 7}{}{Эхмм. Грязные стены?}
-{Speech 6 Answer 10}{}{Реддинг? Расскажи о нем.}
-{Speech 7}{}{Невежественные варвары! У вас есть уши, но вы не слышите! У вас есть глаза, но вы не видите! Кому, как ты думаешь, обязан своим процветанием и богатством Реддинг сегодня?}
-{Speech 7 Answer 8}{}{Знаю ты ждешь этого вопроса, ну ладно. И кому же?}
-{Speech 8}{}{Только Свободному Городу. Регуляторы принесли мир и порядок заблудшим душам Реддинга. Мощь Города-Убежища исцелила их сердца и укрепила веру в собственные силы. Главное зло - Джет - навсегда изгнано из Внутреннего Города Реддинга.}
-{Speech 8 Answer 9}{}{А из Внешнего?}
-{Speech 9}{}{Город-Убежище слишком ценит права свободных граждан Реддинга, чтобы так круто вмешиваться в их личную жизнь. Но рабочие на шахте обязаны быть работоспособны и здоровы, чтобы работать на благо Города... Реддинга в полную силу!}
-{Speech 9 Answer 10}{}{Что-то не вяжется. А к чему эти ворота на входе Внутреннего Города?}
-{Speech 9 Answer 12}{}{Расскажи мне о Реддинге?}
-{Speech 9 Answer Exit}{}{Это очень интересно. Но мне пора.}
-{Speech 10}{}{Чтобы оградить честных жителей Реддинга от зла Пустоши, защитить их интересы и обеспечить безопасность золотодобытчикам! Слово Города-Убежища хранит тех, кто может ему внимать! Прислушайся и ты!}
-{Speech 10 Answer Exit}{}{Сегодня я достаточно "наслушал@sex@|ся|ась|". Возможно, в другой раз}
-{Speech 11}{}{До недавних пор Реддинг прозябал в разврате и пороках. Наркотики, проституция, отсутствие перспектив для граждан в сочетании с высокой коррупцией... И это лишь краткий перечень всех грехов этого города. }
-{Speech 11 Answer 12}{}{Сейчас что-то изменилось?}
-{Speech 12}{}{Реддинг услышал Слово. Среди жителей Реддинга нашлись настоящие бойцы, которые решили покончить с преступностью и нищетой. Они смогли добиться помощи от Города-Убежища. Линетт долго не соглашалась, не хотела чужеродного влияния на свободный город.}
-{Speech 12 Answer 13}{}{[Далее]}
-{Speech 13}{}{Но общественное мнение подтолкнуло ее к принятию решения. Когда в Реддинг вошли регуляторы, их ждали овации, цветы и обожание всех местных. Реддинг вдруг стал прекрасным местом, жемчужиной Пустоши!}
-{Speech 13 Answer 14}{}{Неужели все, без исключения были рады?}
-{Speech 14}{}{Да! Правда, нашлись и подлецы. Мэр Аскорти пытался остановить дружескую помощь Города-Убежища. Пришлось его расстрелять на центральной площади Реддинга. Граждане приняли этот акт с одобрением.}
-{Speech 14 Answer 15}{}{И что теперь?}
-{Speech 15}{}{Совет Города-Убежища считает миссию выполненной. И регуляторы могли бы уже уйти из Реддинга... Но их останавливает безграничная любовь горожан. Жители Реддинга на коленях умоляют регуляторов не оставлять Реддинг. А регулятора не нужно упрашивать, если добрый человек в опасности, регулятор никогда не бросит его на произвол судьбы!}
-{Speech 15 Answer Exit}{}{Очень странно это слышать. Но, вижу, ты веришь в то, о чем говоришь. Прощай.}
-{Speech 15 Answer 10}{}{Скажи мне, зачем ворота на входе во внутренний город?}
-{Speech 17}{}{Привет и добро пожаловать! Вы сегодня уже слышали Слово?}
-{Speech 17 Answer 18}{}{Буга-буга?}
-{Speech 17 Answer Exit}{}{Идти туда, туда!}
-{Speech 18}{}{Э... не совсем так. Осторожнее в пустошах, о недалекое создание.}
-{Speech 18 Answer Exit}{}{Уф.}
+{Speech 1 Answer 17}{}{stupid}
+{Speech 1 Answer 2}{}{not know}
+{Speech 2}{}{Greetings and welcome! Have you heard the Word today?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{What are you talking about?}
+{Speech 2 Answer Exit}{}{Uh, no, and I don't want to hear it. Goodbye.}
+{Speech 3}{}{My name? I am Thomas Moore, preacher of the true Word. And what brings you to me? Are you seeking the Word?}
+{Speech 3 Answer 4}{}{The Word? Across or down? How many letters?}
+{Speech 3 Answer 11}{}{No. I'm waiting for you to tell me about Redding.}
+{Speech 3 Answer Exit}{}{I'd better just leave you be. Farewell.}
+{Speech 4}{}{The Word, @sex@|my friend|my dear|... the Word is FREEDOM. Add honor, duty and justice, and what do you get? Vault City... in all its proud stature as a bastion of progress and the Wasteland's new hope.}
+{Speech 4 Answer 7}{}{Listen, I don't quite get it, what does Vault City have to do with anything if we're in Redding?}
+{Speech 4 Answer 5}{}{Why do you live in Redding if you love Vault City so much?}
+{Speech 4 Answer 10}{}{You'd better tell me what those guards and the gate in the middle of town are about.}
+{Speech 5}{}{Someone has to carry the Word to all who haven't yet heard it. That's the only reason I'm still here. Plus, I have a quota - 10 souls set on the path of Truth per week... }
+{Speech 5 Answer 6}{}{And how's the quota coming along?}
+{Speech 6}{}{Don't think about it, @sex@|my friend|my dear|, it's not important. Look around you, what do you see?}
+{Speech 6 Answer Exit}{}{I'd better just leave you be. Farewell.}
+{Speech 6 Answer 7}{}{Uhmm. Dirty walls?}
+{Speech 6 Answer 10}{}{Redding? Tell me about it.}
+{Speech 7}{}{Ignorant barbarians! You have ears, but you hear not! You have eyes, but you see not! To whom, do you think, does Redding owe its prosperity and wealth today?}
+{Speech 7 Answer 8}{}{I know you're waiting for me to ask, all right. To whom, then?}
+{Speech 8}{}{To the Free City alone. The Regulators brought peace and order to the lost souls of Redding. The might of Vault City healed their hearts and strengthened their faith in their own powers. The greatest evil - Jet - has been banished forever from the Inner City of Redding.}
+{Speech 8 Answer 9}{}{And from the Outer City?}
+{Speech 9}{}{Vault City values the rights of Redding's free citizens too much to meddle so harshly in their private lives. But the workers in the mine are obliged to be fit and healthy, so they can work for the good of the City... of Redding at full strength!}
+{Speech 9 Answer 10}{}{Something doesn't add up. And what's the point of that gate at the entrance to the Inner City?}
+{Speech 9 Answer 12}{}{Tell me about Redding?}
+{Speech 9 Answer Exit}{}{This is very interesting. But I must go.}
+{Speech 10}{}{To shield the honest folk of Redding from the evil of the Wasteland, to protect their interests and ensure the safety of the gold miners! The Word of Vault City keeps safe those who can heed it! Heed it too!}
+{Speech 10 Answer Exit}{}{I've "heard" enough today. Perhaps another time}
+{Speech 11}{}{Until recently Redding wallowed in depravity and vice. Drugs, prostitution, no prospects for the citizens combined with rampant corruption... And that's just a brief list of all this city's sins. }
+{Speech 11 Answer 12}{}{Has anything changed now?}
+{Speech 12}{}{Redding heard the Word. Among the people of Redding there were true fighters who decided to put an end to crime and poverty. They managed to secure help from Vault City. Lynette held out for a long time, she didn't want outside influence on the free city.}
+{Speech 12 Answer 13}{}{[Next]}
+{Speech 13}{}{But public opinion pushed her to make the decision. When the Regulators entered Redding, they were met with ovations, flowers and the adoration of all the locals. Redding suddenly became a wonderful place, a pearl of the Wasteland!}
+{Speech 13 Answer 14}{}{Was everyone, without exception, really glad?}
+{Speech 14}{}{Yes! True, there were some scoundrels too. Mayor Ascorti tried to stop Vault City's friendly assistance. We had to shoot him in Redding's central square. The citizens received this act with approval.}
+{Speech 14 Answer 15}{}{And what now?}
+{Speech 15}{}{The Vault City Council considers the mission accomplished. And the Regulators could already leave Redding... But the boundless love of the townsfolk holds them back. The people of Redding beg the Regulators on their knees not to abandon Redding. And a Regulator needs no begging - if a good person is in danger, a Regulator will never leave them to their fate!}
+{Speech 15 Answer Exit}{}{It's very strange to hear this. But I see you believe what you're saying. Farewell.}
+{Speech 15 Answer 10}{}{Tell me, why is there a gate at the entrance to the inner city?}
+{Speech 17}{}{Greetings and welcome! Have you heard the Word today?}
+{Speech 17 Answer 18}{}{Booga-booga?}
+{Speech 17 Answer Exit}{}{Go there, there!}
+{Speech 18}{}{Uh... not quite. Be careful in the wastes, oh dim-witted creature.}
+{Speech 18 Answer Exit}{}{Phew.}

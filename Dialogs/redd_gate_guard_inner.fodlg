@@ -52,18 +52,18 @@ Speech 10 # Внутренний город Реддинга - закрытая 
 
 [Text engl]
 {Name}{}{Gate Guard}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 10}{}{низкий инт}
-{Speech 2}{}{Внутренний город Реддинга - закрытая территория. Не пытайтесь проникнуть без разрешения... Мы будем стрелять.}
-{Speech 2 Answer Exit}{}{И не собираюсь.}
-{Speech 2 Answer 3}{}{А что, если я задержусь?}
-{Speech 2 Answer 5}{}{Я хочу пройти, но ворота закрыты.}
-{Speech 3}{}{Тобой займутся патрульные. Они не будут особо церемониться: в лучшем случае пересчитают твои ребра и выкинут наружу.}
-{Speech 3 Answer 4}{}{А в худшем?}
-{Speech 4}{}{В худшем - сразу отправят к праотцам. Или к хабологам, как получится.}
-{Speech 4 Answer Exit}{}{Понятно, постараюсь уйти вовремя.}
-{Speech 5}{}{Мне нужно выйти из внутреннего города}
-{Speech 5 Answer Exit}{}{Спасибо.}
-{Speech 10}{}{Внутренний город Реддинга - закрытая территория. Не пытайтесь проникнуть без разрешения... Мы будем стрелять.}
-{Speech 10 Answer Exit}{}{Ух! Пусти@@Ай-яй-яй...}
+{Speech 1 Answer 10}{}{low int}
+{Speech 2}{}{Redding's Inner City is a restricted area. Don't try to get in without permission... We will shoot.}
+{Speech 2 Answer Exit}{}{Wasn't planning to.}
+{Speech 2 Answer 3}{}{And what if I'm late getting out?}
+{Speech 2 Answer 5}{}{I want to get through, but the gate is closed.}
+{Speech 3}{}{The patrols will deal with you. They won't stand on ceremony: at best they'll count your ribs and toss you out.}
+{Speech 3 Answer 4}{}{And at worst?}
+{Speech 4}{}{At worst - they'll send you straight to meet your maker. Or to the hubologists, whichever works out.}
+{Speech 4 Answer Exit}{}{Got it, I'll try to leave on time.}
+{Speech 5}{}{I need to get out of the Inner City}
+{Speech 5 Answer Exit}{}{Thanks.}
+{Speech 10}{}{Redding's Inner City is a restricted area. Don't try to get in without permission... We will shoot.}
+{Speech 10 Answer Exit}{}{Ugh! Let me through@@Ow-ow-ow...}

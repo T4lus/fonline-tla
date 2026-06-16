@@ -185,65 +185,65 @@ Speech 22 # Ага, вот и ты. Хорошо. Хочешь прямо сей
 [Text engl]
 {Name}{}{Andrue}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{лоу инт}
-{Speech 1 Answer 2}{}{норм инт}
-{Speech 1 Answer 22}{}{вышел из шахты}
-{Speech 2}{}{Зачем пожаловал@sex@||а|, любезн@sex@|ный|ная|?}
-{Speech 2 Answer Exit}{}{Просто проходил@sex@||а| рядом.}
-{Speech 2 Answer 4}{}{Что нужно сделать, чтобы стать шахтером?}
-{Speech 2 Answer 6}{}{У меня есть вопросы по поводу шахты.}
-{Speech 2 Answer 15}{}{Я хочу спуститься в шахты.}
-{Speech 2 Answer 16}{}{Я хочу спуститься в шахты.}
-{Speech 2 Answer 17}{}{Я хочу спуститься в шахты.}
-{Speech 2 Answer 18}{}{Я хочу спуститься в шахты.}
-{Speech 2 Answer 19}{}{Я хочу спуститься в шахты.}
-{Speech 3}{}{Нам не о чем с тобой говорить. Найди себе другого собеседника, тупица.}
-{Speech 3 Answer Exit}{}{Арггх! }
-{Speech 4}{}{Ничего особенного. Сдаешь вещи, получаешь инструменты, спускаешься в шахту.  Добываешь золото, сдаешь, выходишь на свободу, получаешь наличные. Проще не бывает!}
-{Speech 4 Answer 5}{}{Я могу выйти в любой момент, когда захочу?}
-{Speech 5}{}{Э... Нет. Мы должны быть уверены, что каждый шахтер приносит пользу Городу-Убежищу. Поэтому в шахтах дейтсвуют суточные нормы. Каждый должен добыть как минимум 15 самородков. Иначе его не выпустят на поверхность.}
-{Speech 5 Answer 5}{}{Понятно, запомню на будущее.}
-{Speech 5 Answer 6}{}{Есть еще что-то, что мне нужно знать, если я захочу стать шахтером?}
-{Speech 6}{}{Спрашивай, что тебя интересует, постараюсь ответить.}
-{Speech 6 Answer 7}{}{Какие правила или законы действуют в шахте?}
-{Speech 6 Answer 9}{}{А все-таки, что будет, если кто-то, не я, а кто-то другой, украдет золото из шахты?}
-{Speech 6 Answer 10}{}{Как мне выйти из забоя?}
-{Speech 6 Answer 12}{}{Сколько платят за один самородок?}
-{Speech 7}{}{Правила просты: не разжигать конфликтов с другими шахтерами, не спорить с регуляторами, сдавать все найденное золото. Проносить любые посторонние предметы на территорию шахты строго запрещено. Если следовать этим правилам - у тебя не будет никаких проблем.}
-{Speech 7 Answer 8}{}{А если я все таки нарушу одно из правил?}
-{Speech 8}{}{[Мрачнеет] В таком случае регуляторы будут вынуждены применить самые жесткие меры. Эти шахты - источник благополучия и уверенности для Города-Убежища и Реддинга. Мы не можем позволить, чтобы в забое творился беспредел.}
-{Speech 8 Answer 6}{}{Понятно, у меня еще вопрос.}
-{Speech 8 Answer Exit}{}{Это все, что мне нужно было узнать.}
-{Speech 9}{}{Этому "кому-то" сильно не поздоровится. [Ухмыляется] Шахты напичканы следящим видеооборудованием, мы сразу заметим злоумышленника. Регуляторы выбьют из него украденные самородки, рано или поздно.}
-{Speech 9 Answer Exit}{}{Понятно. Мне пора идти.}
-{Speech 9 Answer 6}{}{Есть еще вопросы..}
-{Speech 10}{}{После того, как выполнишь дневную норму, можешь покинуть шахты в любой момент. Самородки сдавать на выходе. Вещи, которые оставишь на входе, а также оплату работы получишь у меня.}
-{Speech 10 Answer 11}{}{А не обманите?}
-{Speech 11}{}{Не говори чепухи. Мы ценим тех, кто помогает работать в шахте. Тем более, что основная рабочая сила, шахтеры Реддинга, последнее время подвержены хроническому унынию, и от их работы мало толку.}
-{Speech 11 Answer 6}{}{Ясно. Я еще хочу спросить.}
-{Speech 11 Answer Exit}{}{На сегодня достаточно. Мне пора, удачи.}
-{Speech 12}{}{За каждый самородок ты получишь 50 банкнот той шахты, в которой работаешь.}
-{Speech 12 Answer 13}{}{Банкнот? Каких еще банкнот? Что за ерунда, неужели нельзя платить обычной звонкой монетой?}
-{Speech 13}{}{Увы, правила запрещают нам расплачиваться с наемными шахтерами наличными. Только банкноты, но это неплохо, это те же деньги, ты всегда легко обналичишь любую сумму.}
-{Speech 13 Answer 14}{}{И где же я смогу их обналичить?}
-{Speech 14}{}{Например, у кассира Казино Реддинга. Они принимают банкноты наших шахт и обменивают их на игровые фишки или наличные.}
-{Speech 14 Answer 6}{}{Все равно, как-то это неправильно... Есть другой вопрос.}
-{Speech 14 Answer Exit}{}{Мне пора. Увидимся в другой раз.}
-{Speech 15}{}{Боюсь, сегодня ничем не смогу помочь. Приходи в другой день, сегодня мы уже не спускаем лифт в шахту.}
-{Speech 15 Answer Exit}{}{Жаль, я надеял@sex@|ся|ась| заработать...}
-{Speech 16}{}{Вынужден тебе отказать. Работа в шахтах негативно сказывается на здоровье шахтера. Если будешь спускаться в шахту слишком часто, это сильно тебе навредит. Приходи через пару дней.}
-{Speech 16 Answer Exit}{}{Не буду спорить. Увидимся.}
-{Speech 17}{}{[Прищуривается и смотрит на вас оценивающе] Спуститься в щахты... Я так не думаю... Это тебе не крыс убивать, это серьезная работа, и требования высокие. Набирайся опыта и приходи потом.}
-{Speech 17 Answer Exit}{}{Что за ерунда? Я в себе уверен@sex@||а|! И знаю, что справлюсь. А, черт с тобой!}
-{Speech 18}{}{Я помню тебя. У тебя хватило наглости вернуться сюда, после того случая? Мы не даем работу ворам. Убирайся, или я позову регуляторов.}
-{Speech 18 Answer Exit}{}{Ухожу, забудь.}
-{Speech 19}{}{Понимаю, решил@sex@||а| срубить легких деньжат? Ты сильно ошибаешься, если так думаешь. Работа в шахте - тяжелый, изматывающий труд. }
-{Speech 19 Answer 20}{}{Ну и что? Вам нужны шахтеры или нет?}
-{Speech 20}{}{Шахтеры нужны... Эти лодыри из старого Реддинга не справляются. Приходится нанимать кого попало, вроде тебя. Помни, что шахта - это не пикник в парке. Пока не выполнишь дневную норму, на поверхность охрана тебя не пропустит. Все еще хочешь поработать?}
-{Speech 20 Answer 21}{}{Да, за этим я и здесь. }
-{Speech 21}{}{Хорошо. Вещи твои пока побудут у меня. Заберешь, когда выйдешь на поверхность. Ты получишь инструменты, чтобы работать в шахте.}
-{Speech 21 Answer Exit}{}{О, ничего себе! Мы так не договаривались.}
-{Speech 21 Answer Exit*}{}{Да, меня это устраивает.}
-{Speech 22}{}{Хорошо. Хочешь прямо сейчас забрать свои вещи и оплату? Или заглянешь позже?}
-{Speech 22 Answer Exit}{}{Сейчас.}
-{Speech 22 Answer Exit*}{}{Потом.}
+{Speech 1 Answer 3}{}{low int}
+{Speech 1 Answer 2}{}{norm int}
+{Speech 1 Answer 22}{}{left the mine}
+{Speech 2}{}{What brings you here, my @sex@|good fellow|good lady|?}
+{Speech 2 Answer Exit}{}{Just passing by.}
+{Speech 2 Answer 4}{}{What do I need to do to become a miner?}
+{Speech 2 Answer 6}{}{I have some questions about the mine.}
+{Speech 2 Answer 15}{}{I want to go down into the mines.}
+{Speech 2 Answer 16}{}{I want to go down into the mines.}
+{Speech 2 Answer 17}{}{I want to go down into the mines.}
+{Speech 2 Answer 18}{}{I want to go down into the mines.}
+{Speech 2 Answer 19}{}{I want to go down into the mines.}
+{Speech 3}{}{We have nothing to talk about. Go find someone else to bother, idiot.}
+{Speech 3 Answer Exit}{}{Arrgh! }
+{Speech 4}{}{Nothing special. You hand over your belongings, get tools, go down into the mine. You dig out gold, hand it in, come back up free, and get your cash. Couldn't be simpler!}
+{Speech 4 Answer 5}{}{Can I leave at any time I want?}
+{Speech 5}{}{Uh... No. We have to be sure that every miner is of use to Vault City. That's why the mines have daily quotas. Everyone has to dig out at least 15 nuggets. Otherwise they're not let back up to the surface.}
+{Speech 5 Answer 5}{}{I see, I'll keep that in mind.}
+{Speech 5 Answer 6}{}{Is there anything else I need to know if I want to become a miner?}
+{Speech 6}{}{Ask whatever interests you, I'll try to answer.}
+{Speech 6 Answer 7}{}{What rules or laws apply in the mine?}
+{Speech 6 Answer 9}{}{Still, what happens if someone, not me, but someone else, steals gold from the mine?}
+{Speech 6 Answer 10}{}{How do I get out of the pit?}
+{Speech 6 Answer 12}{}{How much do you pay for a single nugget?}
+{Speech 7}{}{The rules are simple: don't start conflicts with other miners, don't argue with the regulators, hand over all the gold you find. Bringing any outside items into the mine territory is strictly forbidden. Follow these rules and you won't have any problems.}
+{Speech 7 Answer 8}{}{And if I do break one of the rules?}
+{Speech 8}{}{[Frowns] In that case the regulators will be forced to apply the harshest measures. These mines are a source of prosperity and security for Vault City and Redding. We can't allow any lawlessness in the pit.}
+{Speech 8 Answer 6}{}{I see, I have another question.}
+{Speech 8 Answer Exit}{}{That's all I needed to find out.}
+{Speech 9}{}{That "someone" would be in a world of hurt. [Smirks] The mines are packed with surveillance cameras, we'll spot the culprit right away. The regulators will beat the stolen nuggets out of him, sooner or later.}
+{Speech 9 Answer Exit}{}{I see. I have to go.}
+{Speech 9 Answer 6}{}{I have more questions..}
+{Speech 10}{}{Once you've met the daily quota, you can leave the mines at any time. Nuggets are handed in at the exit. The belongings you leave at the entrance, as well as your pay, you'll get from me.}
+{Speech 10 Answer 11}{}{You won't cheat me, will you?}
+{Speech 11}{}{Don't talk nonsense. We value those who help work the mine. Especially since the main workforce, the Redding miners, have lately fallen into chronic gloom, and there's little use in their work.}
+{Speech 11 Answer 6}{}{Got it. I'd like to ask something else.}
+{Speech 11 Answer Exit}{}{That's enough for today. I have to go, good luck.}
+{Speech 12}{}{For every nugget you'll get 50 banknotes of the mine you work in.}
+{Speech 12 Answer 13}{}{Banknotes? What banknotes? What nonsense, can't you just pay with normal hard coin?}
+{Speech 13}{}{Alas, the rules forbid us from paying hired miners in cash. Only banknotes, but that's not bad, it's the same money, you can always easily cash out any amount.}
+{Speech 13 Answer 14}{}{And where exactly can I cash them in?}
+{Speech 14}{}{At the cashier of the Redding Casino, for example. They accept the banknotes of our mines and exchange them for gaming chips or cash.}
+{Speech 14 Answer 6}{}{Still, this somehow isn't right... I have another question.}
+{Speech 14 Answer Exit}{}{I have to go. See you another time.}
+{Speech 15}{}{I'm afraid I can't help you today. Come back another day, we're not sending the lift down into the mine anymore today.}
+{Speech 15 Answer Exit}{}{Too bad, I was hoping to earn some money...}
+{Speech 16}{}{I'll have to refuse you. Working in the mines has a negative effect on a miner's health. If you go down into the mine too often, it will do you serious harm. Come back in a couple of days.}
+{Speech 16 Answer Exit}{}{I won't argue. See you.}
+{Speech 17}{}{[Squints and looks you over appraisingly] Go down into the mines... I don't think so... This isn't killing rats, it's serious work, and the requirements are high. Gain some experience and come back later.}
+{Speech 17 Answer Exit}{}{What nonsense? I'm sure of myself! And I know I can handle it. Ah, to hell with you!}
+{Speech 18}{}{I remember you. You had the nerve to come back here, after that incident? We don't give work to thieves. Get out, or I'll call the regulators.}
+{Speech 18 Answer Exit}{}{I'm leaving, forget it.}
+{Speech 19}{}{I understand, you decided to make some easy money? You're badly mistaken if you think so. Working in the mine is hard, exhausting labor. }
+{Speech 19 Answer 20}{}{So what? Do you need miners or not?}
+{Speech 20}{}{We need miners... Those slackers from old Redding can't manage. We have to hire just about anyone, like you. Remember, the mine is no picnic in the park. Until you meet the daily quota, the guards won't let you up to the surface. Still want to work?}
+{Speech 20 Answer 21}{}{Yes, that's why I'm here. }
+{Speech 21}{}{Good. Your belongings will stay with me for now. You'll get them back when you come up to the surface. You'll get tools to work in the mine.}
+{Speech 21 Answer Exit}{}{Oh, wow! That's not what we agreed on.}
+{Speech 21 Answer Exit*}{}{Yes, that suits me.}
+{Speech 22}{}{Good. Do you want to collect your belongings and pay right now? Or will you stop by later?}
+{Speech 22 Answer Exit}{}{Now.}
+{Speech 22 Answer Exit*}{}{Later.}

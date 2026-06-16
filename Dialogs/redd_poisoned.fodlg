@@ -51,15 +51,15 @@ Speech 6 # [Регулятор спит. Он уже на пути к полно
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{[Лоб регулятора покрыт холодным потом, зрачки сужены, тело сотрясают судороги. Он совершенно не реагирует на окружающую обстановку]}
-{Speech 2 Answer Exit}{}{[Уйти]}
-{Speech 2 Answer 3}{}{[Применить противоядие]}
-{Speech 3}{}{[После применения противоядия судороги регулятора прекращаются. Он поднимает голову и тихо произносит, с трудом подбирая слова] Где... я... Что.. со мной?}
-{Speech 3 Answer 4}{}{Ты в раю, красавчик!}
-{Speech 3 Answer 5}{}{Кто-то отравил тебя, @sex@|приятель|парень|. Возможно, в еду подлили яд, или в выпивку. Не делай резких движений, тебе нужно восстановить силы...}
-{Speech 4}{}{В раю?! Я мертв... [Регулятор снова роняет голову на подушку и теряет сознание. Но дыхание стало ровнее, и судороги больше не терзают его тело]}
-{Speech 4 Answer Exit}{}{[Уйти]}
-{Speech 5}{}{Ох... Спасибо... Поговорим позже... [Регулятор отключается. Он поправится.]}
-{Speech 5 Answer Exit}{}{[Уйти]}
-{Speech 6}{}{[Регулятор спит. Он уже на пути к полному выздоровлению. Ваше вмешательство было очень своевременным]}
-{Speech 6 Answer Exit}{}{[Уйти]}
+{Speech 2}{}{[The regulator's forehead is covered in cold sweat, his pupils are constricted, his body racked with convulsions. He doesn't react to his surroundings at all]}
+{Speech 2 Answer Exit}{}{[Leave]}
+{Speech 2 Answer 3}{}{[Apply the antidote]}
+{Speech 3}{}{[After you apply the antidote, the regulator's convulsions stop. He raises his head and quietly speaks, struggling to find the words] Where... am I... What... happened to me?}
+{Speech 3 Answer 4}{}{You're in heaven, handsome!}
+{Speech 3 Answer 5}{}{Somebody poisoned you, @sex@|pal|kid|. Maybe they slipped poison into your food, or your drink. Don't make any sudden moves, you need to get your strength back...}
+{Speech 4}{}{In heaven?! I'm dead... [The regulator drops his head back onto the pillow and loses consciousness. But his breathing has steadied, and the convulsions no longer torment his body]}
+{Speech 4 Answer Exit}{}{[Leave]}
+{Speech 5}{}{Ugh... Thank you... We'll talk later... [The regulator passes out. He'll recover.]}
+{Speech 5 Answer Exit}{}{[Leave]}
+{Speech 6}{}{[The regulator is asleep. He's already on the road to a full recovery. Your intervention was very timely]}
+{Speech 6 Answer Exit}{}{[Leave]}

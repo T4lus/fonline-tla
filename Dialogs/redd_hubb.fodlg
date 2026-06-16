@@ -105,21 +105,21 @@ Speech 6 # Убийство ребенка - очень большой грех,
 {Name}{}{Hubbologist}
 {Speech 1}{}{Initial preferences}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{[Хаболог поднимает голову, вы видите его лицо, изуродованное глубоким шрамом от виска до подбородка] @sex@|Сын мой|Дочь моя|, чем я могу помочь тебе?}
+{Speech 2}{}{[The Hubbologist raises his head, and you see his face, disfigured by a deep scar from temple to chin] @sex@|My son|My daughter|, how can I help you?}
 {Speech 2 Answer Exit}{}{ }
-{Speech 2 Answer Exit*}{}{Ох, рожа! Страх! Пока!}
-{Speech 2 Answer 6}{}{Моя убивать детишек. Моя больше не желать их убивать. Ты прощать мою?}
-{Speech 2 Answer 3}{}{У меня тяжелый груз на душе. Я убил@sex@||а| ребенка. Могу я получить прощение?}
-{Speech 2 Answer 4}{}{У меня тяжелый груз на душе. Я убил@sex@||а| ребенка. Могу я получить прощение?}
-{Speech 2 Answer 5}{}{У меня тяжелый груз на душе. Я убил@sex@||а| ребенка. Могу я получить прощение?}
-{Speech 2 Answer 3*}{}{У меня тяжелый груз на душе. Я убил@sex@||а| ребенка. Могу я получить прощение?}
-{Speech 3}{}{Можешь. Для этого надо спасти другого ребенка. Отправляйся в Модок, там в церкви стоит женщина. Поговори с ней. Поможешь ей – и грех твой уйдёт.}
-{Speech 3 Answer Exit}{}{Благодарю за совет. Я найду эту женщину.}
-{Speech 4}{}{Можешь. Для этого надо спасти другого ребенка. Отправляйся в Убежище 15, там найдешь женщину. Её зовут Саша Грэй. Поговори с ней. Поможешь ей – и грех твой уйдёт.}
-{Speech 4 Answer Exit}{}{Благодарю за совет. Я найду эту женщину.}
-{Speech 5}{}{Можешь. Пожертвуй Хабу 13 000 монет, и тебе простится твой грех. Наличными...}
-{Speech 5 Answer Exit}{}{Сколько? Это же чертова куча денег! Мне нужно подумать.}
-{Speech 5 Answer Exit*}{}{Кровопийца! Подавись, только сделай что-нибудь с этими охотниками... [Отдать деньги]}
-{Speech 6}{}{Это большой грех, @pname@. Чтобы его искупить, одного желания мало. Тебе придется пожертвовать Хабу 30 000 монет...}
-{Speech 6 Answer Exit}{}{Моя бедный, крышки не хватать.}
-{Speech 6 Answer Exit*}{}{Забирай, моя не жадный.}
+{Speech 2 Answer Exit*}{}{Ugh, what a face! Scary! Bye!}
+{Speech 2 Answer 6}{}{Me kill childrens. Me not want kill them no more. You forgive me?}
+{Speech 2 Answer 3}{}{I have a heavy weight on my soul. I killed a child. Can I receive forgiveness?}
+{Speech 2 Answer 4}{}{I have a heavy weight on my soul. I killed a child. Can I receive forgiveness?}
+{Speech 2 Answer 5}{}{I have a heavy weight on my soul. I killed a child. Can I receive forgiveness?}
+{Speech 2 Answer 3*}{}{I have a heavy weight on my soul. I killed a child. Can I receive forgiveness?}
+{Speech 3}{}{You can. For that you must save another child. Travel to Modoc, where a woman stands in the church. Speak with her. Help her, and your sin will be lifted.}
+{Speech 3 Answer Exit}{}{Thank you for the advice. I'll find this woman.}
+{Speech 4}{}{You can. For that you must save another child. Travel to Vault 15, where you'll find a woman. Her name is Sasha Gray. Speak with her. Help her, and your sin will be lifted.}
+{Speech 4 Answer Exit}{}{Thank you for the advice. I'll find this woman.}
+{Speech 5}{}{You can. Donate 13,000 coins to the Hub, and your sin will be forgiven. In cash...}
+{Speech 5 Answer Exit}{}{How much? That's a hell of a lot of money! I need to think it over.}
+{Speech 5 Answer Exit*}{}{Bloodsucker! Choke on it, just do something about those hunters... [Hand over the money]}
+{Speech 6}{}{This is a great sin, @pname@. To atone for it, mere desire is not enough. You'll have to donate 30,000 coins to the Hub...}
+{Speech 6 Answer Exit}{}{Me poor, not enough caps.}
+{Speech 6 Answer Exit*}{}{Take it, me not greedy.}

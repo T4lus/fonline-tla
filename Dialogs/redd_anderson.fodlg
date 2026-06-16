@@ -24,5 +24,5 @@ Speech 2 # Не припоминаю, чтобы у меня была назна
 {Name}{}{Annet}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Не припоминаю, чтобы у меня была назначена встреча. Кто вы так@sex@|ой|ая| и что делаете в моем кабинете?}
-{Speech 2 Answer Exit}{}{Прошу меня простить, я просто заблудил@sex@|ся|ась|.}
+{Speech 2}{}{I don't recall having any meeting scheduled. Who are you and what are you doing in my office?}
+{Speech 2 Answer Exit}{}{Forgive me, I simply got lost.}

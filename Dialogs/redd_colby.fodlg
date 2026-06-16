@@ -29,10 +29,10 @@ Speech 2 # Привет, @sex@|приятель|подруга|! Чего теб
 
 [Text engl]
 {Name}{}{Colby}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{В таком случае, после "перерыва" загляну.}
-{Speech 2}{}{Привет, @sex@|приятель|подруга|! Чего тебе?}
-{Speech 2 Answer 2}{}{[Уйти]}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{In that case, I'll drop by after the "break".}
+{Speech 2}{}{Hey there, @sex@|pal|girl|! What do you want?}
+{Speech 2 Answer 2}{}{[Leave]}
 {100000000}{}{Empty}
 {100000001}{}{Please, remove your weapon}
 {100000002}{}{Remove your gun!}

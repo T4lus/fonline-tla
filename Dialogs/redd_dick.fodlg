@@ -81,30 +81,30 @@ Speech 8 # У тебя крыша не на месте, а?@@Добро пожа
 {DescAliveFull}{}{You see Avabask Dick.}
 {DescAliveFull}{}{This man looks like Miner, who doesn’t know the way to his Mine.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знакомы}
-{Speech 1 Answer 6}{}{знакомы}
-{Speech 1 Answer 8}{}{тупой}
-{Speech 2}{}{Привет. Меня зовут Дик Атабаска. Многие зовут меня просто Дик. Конечно, некоторые зовут Атабаска. Хотя все-таки большинство зовет меня - Дик.}
-{Speech 2 Answer 4}{}{Хм. Дик, что ты здесь делаешь?}
-{Speech 2 Answer 5}{}{Эй, Дик... что нового в городе?}
-{Speech 2 Answer 2}{}{Есть какие-нибудь интересные слухи?}
-{Speech 2 Answer 3}{}{[вы еле сдерживаете смех] Ата...Атааа.... что это за прозвище вообще такое?}
-{Speech 3}{}{Ата-баска, Атабаска. Неужели это так трудно выговорить, блин? Урроды. Это просто мое прозвище. Тебе правда интересно узнать, как я его получил?}
-{Speech 3 Answer 6}{}{Ну, на самом деле нет. Можно я тебя еще кое о чем спрошу?}
-{Speech 3 Answer Exit}{}{Я и так знаю уже слишком много. До свидания.}
-{Speech 4}{}{Иногда стою смену на шахте "Утренняя звезда". Им всегда нужна квалифицированная помощь.}
-{Speech 4 Answer 6}{}{Тогда позволь мне задать еще один вопрос.}
-{Speech 4 Answer Exit}{}{Понятно. Ну, это все, что мне нужно знать. До свидания.}
-{Speech 5}{}{Да все то же самое, по большей части. Все мы, шахтеры, работаем ровно столько, чтобы хватило на следующую дозу джета.}
-{Speech 5 Answer 6}{}{Хочу спросить еще кое что.}
-{Speech 5 Answer 7}{}{Джет? Что такое Джет?}
-{Speech 5 Answer Exit}{}{Всего доброго.}
-{Speech 6}{}{Эй, привет. Чем старый Дик Атабаска может тебе помочь?}
-{Speech 6 Answer 4}{}{Хм. Дик, что ты здесь делаешь?}
-{Speech 6 Answer 5}{}{Эй, Дик... что нового в городе?}
-{Speech 6 Answer 6}{}{Есть какие-нибудь интересные слухи?}
-{Speech 6 Answer 3}{}{Авабаска.... что это за прозвище вообще такое?}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 6}{}{acquainted}
+{Speech 1 Answer 8}{}{dumb}
+{Speech 2}{}{Hi. My name is Dick Athabasca. Most folks just call me Dick. Sure, some call me Athabasca. But still, most call me Dick.}
+{Speech 2 Answer 4}{}{Hm. Dick, what are you doing here?}
+{Speech 2 Answer 5}{}{Hey, Dick... what's new in town?}
+{Speech 2 Answer 2}{}{Any interesting rumors?}
+{Speech 2 Answer 3}{}{[you can barely hold back your laughter] Atha...Athaaa.... what kind of nickname is that anyway?}
+{Speech 3}{}{Atha-basca, Athabasca. Is it really that hard to say, damn it? Morons. It's just my nickname. You really want to know how I got it?}
+{Speech 3 Answer 6}{}{Well, not really. Can I ask you something else?}
+{Speech 3 Answer Exit}{}{I already know too much as it is. Goodbye.}
+{Speech 4}{}{Sometimes I pull a shift at the "Morning Star" mine. They always need skilled help.}
+{Speech 4 Answer 6}{}{Then let me ask one more question.}
+{Speech 4 Answer Exit}{}{I see. Well, that's all I need to know. Goodbye.}
+{Speech 5}{}{Pretty much the same as always. All of us miners work just enough to scrape together the next dose of jet.}
+{Speech 5 Answer 6}{}{I want to ask something else.}
+{Speech 5 Answer 7}{}{Jet? What is Jet?}
+{Speech 5 Answer Exit}{}{All the best.}
+{Speech 6}{}{Hey, hello. How can old Dick Athabasca help you?}
+{Speech 6 Answer 4}{}{Hm. Dick, what are you doing here?}
+{Speech 6 Answer 5}{}{Hey, Dick... what's new in town?}
+{Speech 6 Answer 6}{}{Any interesting rumors?}
+{Speech 6 Answer 3}{}{Avabaska.... what kind of nickname is that anyway?}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 6}{}{Хочу спросить еще кое что.}
-{Speech 7 Answer Exit}{}{Все с тобой ясно. Пока.}
-{Speech 8}{}{У тебя крыша не на месте, а?@@Добро пожаловать в большой город.@@Мне попадались лопаты поумнее тебя.@@Для работы на шахте у тебя ума не хватит.@@У тебя мозгов, как у червяка на крючке.}
+{Speech 7 Answer 6}{}{I want to ask something else.}
+{Speech 7 Answer Exit}{}{I get the picture. Bye.}
+{Speech 8}{}{You're not all there, huh?@@Welcome to the big city.@@I've met shovels smarter than you.@@You don't have the brains to work the mine.@@You've got the brains of a worm on a hook.}

@@ -261,78 +261,78 @@ Speech 105 # О, привет! Это было круто. Вот тебе 1000 
 {DescAliveFull}{}{You see Ben Vaid, caravan leader from Vault City.}
 {DescAliveFull}{}{You see a man in Vault City suit.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 104}{}{караван дошел до точки назначения. Игрок делал квест впервые}
-{Speech 1 Answer 102}{}{игрок нападал на караванщиков, пытался убить или ограбить караван}
-{Speech 1 Answer 101}{}{игрок бросил караван}
-{Speech 1 Answer 103}{}{игрок погиб во время каравана}
-{Speech 1 Answer 103*}{}{проводника убили во время каравана, охраняемого игроком}
-{Speech 1 Answer 100}{}{игрок нападал на караванщика во время каравана}
-{Speech 1 Answer 105}{}{караван дошел до точки назначения. Игрок делал квест повторно}
-{Speech 1 Answer 4}{}{незнаком, караван доступен в данный момент времени}
-{Speech 1 Answer 5}{}{незнаком, караван недоступен}
-{Speech 1 Answer 2}{}{Низкий интелект}
-{Speech 1 Answer 98}{}{Игрок в составе каравана. Караван на энкаунтере.}
-{Speech 1 Answer 3}{}{Знакомы. Караван в точке отправления.}
-{Speech 1 Answer 3*}{}{Знакомы. Караван доступен}
-{Speech 1 Answer 13}{}{Игрок в составе каравана, караван пока не отправился}
-{Speech 1 Answer 3**}{}{Знакомы. Караван только что закончен}
-{Speech 2}{}{Что ты от меня хочешь?}
-{Speech 2 Answer Exit}{}{Ох. [Уйти]}
-{Speech 3}{}{Привет. Что привело тебя ко мне?}
-{Speech 3 Answer 10}{}{Охранники нужны?}
-{Speech 3 Answer 11}{}{Охранники нужны?}
-{Speech 3 Answer 9}{}{Что перевозит твой караван?}
-{Speech 3 Answer 6}{}{Почему вы ждете до 1го числа?}
-{Speech 3 Answer 7}{}{Почему вы ждете до 1го числа?}
-{Speech 3 Answer Exit}{}{Увидимся позже. Пока.[Уйти]}
-{Speech 4}{}{Привет тебе. Мое имя Бен. Бен Вейд. Я вожу торговые караваны из Реддинга в Город-Убежища и обратно. Лишний охранник моему каравану никогда не помешает. Отправляемся сегодня, в 12 часов.}
-{Speech 4 Answer 10}{}{Охранники нужны?}
-{Speech 4 Answer 9}{}{Что перевозит твой караван?}
-{Speech 4 Answer Exit}{}{Увидимся позже. Пока.[Уйти]}
-{Speech 5}{}{Привет. Меня зовут Бен. Бен Вейд. Я вожу торговые караваны между Городом-Убежища и Реддингом. Я хорошу плачу за охрану своего каравана. Если захочешь заработать, найди меня 1го числа до 12 часов дня.\n }
-{Speech 5 Answer 11}{}{Охранники нужны?}
-{Speech 5 Answer 9}{}{Что перевозит твой караван?}
-{Speech 5 Answer 6}{}{Почему вы ждете до 1го числа?}
-{Speech 5 Answer 7}{}{Почему вы ждете до 1го числа?}
-{Speech 5 Answer Exit}{}{Учту на будущее [Уйти]}
-{Speech 6}{}{Сложно сказать, на самом деле. Думаю, это зависит от того, как быстро они смогут собрать груз. Я не шахтер, но мне кажется, на сборы уходит несколько недель.}
-{Speech 6 Answer Exit}{}{Понятно. Я запомню твое предложение, возможно вернусь. [Уйти]}
-{Speech 7}{}{Ну, я не совсем уверен, почему уходит так много времени на сбор медикаментов. Но пары-тройки недель обычно хватает. Просто вернись ко мне позже, и мы будем готовы.}
-{Speech 7 Answer Exit}{}{Понятно. Удачи с караваном! Уйти]}
-{Speech 8}{}{Прости, @sex@|приятель|подруга|, у нас уже нет мест. Охраны полный комплект.}
-{Speech 8 Answer Exit}{}{Жаль... Ну, может быть в следующий раз успею. [Уйти]}
-{Speech 9}{}{Ну мы забираем кучу медикаментов из Города-Убежища и обмениваем их на другую кучу золотой руды в Реддинге.}
-{Speech 9 Answer 10}{}{Интересно. Ты говоришь, что ищешь охранника?}
-{Speech 9 Answer 11}{}{Интересно. Ты говоришь, что ищешь охранника?}
-{Speech 9 Answer Exit}{}{Наверное, выгодное занятие... [Уйти]}
-{Speech 10}{}{Ты приш@sex@|ел|ла| вовремя. Мы вскоре отправляемся. Я плачу 1000 монет, но плату ты получишь только в месте назначения. Готов@sex@||а| присоединиться?}
-{Speech 10 Answer Exit}{}{Не думаю, что хочу охранять твой караван. Увидимся позже. Пока.[Уйти]}
-{Speech 10 Answer Exit*}{}{Почему бы и нет? Я не прочь заработать.@@Договорились. Я с тобой.}
-{Speech 11}{}{Ближайший караван будет первого числа. Если хочешь подработать охранником, обратись ко мне раньше 12 дня. В полдень мы отправляемся.}
-{Speech 11 Answer 9}{}{Что перевозит твой караван?}
-{Speech 11 Answer 6}{}{Почему вы ждете до 1го числа?}
-{Speech 11 Answer 7}{}{Почему вы ждете до 1го числа?}
-{Speech 11 Answer Exit}{}{Ясно. Возможно, я еще вернусь. [Уйти]}
-{Speech 12}{}{Отлично. Постарайся не опоздать. В 12 часов отправление.}
-{Speech 12 Answer Exit}{}{Не волнуйся. Я буду здесь. [Уйти]}
-{Speech 13}{}{Что-то случилось? Только не говори мне, что ты передумал@sex@||а|.}
-{Speech 13 Answer 14}{}{Когда отправляется наш караван?}
-{Speech 14}{}{Ровно в 12 часов.}
-{Speech 14 Answer Exit}{}{Ровно в 12 часов.}
-{Speech 98}{}{Ха! Неужели кто-то настолько глуп, что решил напасть на мой караван?@@Что за досада. Их не должно было здесь быть.@@Сегодня Пустошь не настолько безопасна, как обычно.}
-{Speech 98 Answer 99}{}{Вроде все спокойно. Мы можем продолжить путь?}
-{Speech 98 Answer Exit}{}{Я вернусь. [Уйти]}
-{Speech 99}{}{Да, мы продолжаем путь. Останавливаться очень опасно.}
-{Speech 99 Answer Exit}{}{Кажется, все готовы.}
-{Speech 100}{}{Не смей даже приближаться ко мне. Ты больше никогда не будешь работать на меня.}
-{Speech 100 Answer Exit}{}{Жалкий подонок! Ты заплатишь за то, что отказал мне. Прощай. [Уйти]}
-{Speech 101}{}{Ты не охранник, ты - мошенник! Убирайся отсюда, трус.}
-{Speech 102}{}{Ты - всего лишь жалкий вор. Ты уже получил свое, проваливай.}
-{Speech 102 Answer Exit}{}{Ты назвал меня вором? Я запомню это, неблагодарный ублюдок. Я ухожу, прощай.}
-{Speech 103}{}{Если бы ты выполнил@sex@||а| свою работу, я, безусловно, заплатил бы тебе. Ты ничего не получишь.}
-{Speech 103 Answer Exit}{}{Однажды, ты еще пожалеешь, что стал на моем пути. Прощай.}
-{Speech 104}{}{Ты справился, вот твои деньги. Приятно работать с тобой, надеюсь мы еше встретимся.}
-{Speech 104 Answer Exit}{}{Приятно видеть человека, который ценит качественную работу. Увидимся. Может быть. [Уйти]}
-{Speech 104 Answer Exit*}{}{Ну уж нет, не хочу снова провести уйму времени, разглядывая жопу брамина. Пока. [Уйти]}
-{Speech 105}{}{ О, привет! Это было круто. Вот тебе 1000 монет, плюс 200 в качестве премии. Будем рады видеть тебя снова.}
-{Speech 105 Answer Exit}{}{Да, было весело. Увидимся, прощай. [Уйти]}
+{Speech 1 Answer 104}{}{caravan reached its destination. Player did the quest for the first time}
+{Speech 1 Answer 102}{}{player attacked the caravan men, tried to kill or rob the caravan}
+{Speech 1 Answer 101}{}{player abandoned the caravan}
+{Speech 1 Answer 103}{}{player died during the caravan run}
+{Speech 1 Answer 103*}{}{the guide was killed during the caravan guarded by the player}
+{Speech 1 Answer 100}{}{player attacked a caravan man during the caravan run}
+{Speech 1 Answer 105}{}{caravan reached its destination. Player did the quest a second time}
+{Speech 1 Answer 4}{}{unknown, caravan is available at the moment}
+{Speech 1 Answer 5}{}{unknown, caravan is unavailable}
+{Speech 1 Answer 2}{}{Low intellect}
+{Speech 1 Answer 98}{}{Player is part of the caravan. Caravan is in an encounter.}
+{Speech 1 Answer 3}{}{Acquainted. Caravan is at the departure point.}
+{Speech 1 Answer 3*}{}{Acquainted. Caravan is available}
+{Speech 1 Answer 13}{}{Player is part of the caravan, caravan hasn't departed yet}
+{Speech 1 Answer 3**}{}{Acquainted. Caravan has just finished}
+{Speech 2}{}{What do you want from me?}
+{Speech 2 Answer Exit}{}{Oh. [Leave]}
+{Speech 3}{}{Hello. What brings you to me?}
+{Speech 3 Answer 10}{}{Need guards?}
+{Speech 3 Answer 11}{}{Need guards?}
+{Speech 3 Answer 9}{}{What does your caravan carry?}
+{Speech 3 Answer 6}{}{Why do you wait until the 1st?}
+{Speech 3 Answer 7}{}{Why do you wait until the 1st?}
+{Speech 3 Answer Exit}{}{See you later. Bye.[Leave]}
+{Speech 4}{}{Hello there. My name is Ben. Ben Vaid. I run trade caravans from Redding to Vault City and back. An extra guard never hurts my caravan. We leave today, at 12 o'clock.}
+{Speech 4 Answer 10}{}{Need guards?}
+{Speech 4 Answer 9}{}{What does your caravan carry?}
+{Speech 4 Answer Exit}{}{See you later. Bye.[Leave]}
+{Speech 5}{}{Hello. My name is Ben. Ben Vaid. I run trade caravans between Vault City and Redding. I pay well for guarding my caravan. If you want to earn some money, find me on the 1st before 12 o'clock noon.\n }
+{Speech 5 Answer 11}{}{Need guards?}
+{Speech 5 Answer 9}{}{What does your caravan carry?}
+{Speech 5 Answer 6}{}{Why do you wait until the 1st?}
+{Speech 5 Answer 7}{}{Why do you wait until the 1st?}
+{Speech 5 Answer Exit}{}{I'll keep that in mind [Leave]}
+{Speech 6}{}{Hard to say, really. I guess it depends on how fast they can gather the cargo. I'm no miner, but it seems to me it takes a few weeks to put together.}
+{Speech 6 Answer Exit}{}{I see. I'll remember your offer, maybe I'll come back. [Leave]}
+{Speech 7}{}{Well, I'm not quite sure why it takes so long to gather the medical supplies. But a couple-three weeks is usually enough. Just come back to me later, and we'll be ready.}
+{Speech 7 Answer Exit}{}{I see. Good luck with the caravan! [Leave]}
+{Speech 8}{}{Sorry, @sex@|buddy|girl|, we have no spots left. The guard detail is full.}
+{Speech 8 Answer Exit}{}{Too bad... Well, maybe I'll make it next time. [Leave]}
+{Speech 9}{}{Well, we pick up a load of medical supplies from Vault City and trade them for another load of gold ore in Redding.}
+{Speech 9 Answer 10}{}{Interesting. You say you're looking for a guard?}
+{Speech 9 Answer 11}{}{Interesting. You say you're looking for a guard?}
+{Speech 9 Answer Exit}{}{Probably a profitable business... [Leave]}
+{Speech 10}{}{You came@sex@|| just in time. We're leaving soon. I pay 1000 coins, but you'll get the pay only at the destination. Ready to join?}
+{Speech 10 Answer Exit}{}{I don't think I want to guard your caravan. See you later. Bye.[Leave]}
+{Speech 10 Answer Exit*}{}{Why not? I wouldn't mind earning some money.@@Deal. I'm with you.}
+{Speech 11}{}{The next caravan leaves on the 1st. If you want to earn some money as a guard, come see me before 12 noon. We leave at midday.}
+{Speech 11 Answer 9}{}{What does your caravan carry?}
+{Speech 11 Answer 6}{}{Why do you wait until the 1st?}
+{Speech 11 Answer 7}{}{Why do you wait until the 1st?}
+{Speech 11 Answer Exit}{}{I see. Maybe I'll come back. [Leave]}
+{Speech 12}{}{Excellent. Try not to be late. We leave at 12 o'clock.}
+{Speech 12 Answer Exit}{}{Don't worry. I'll be here. [Leave]}
+{Speech 13}{}{Did something happen? Don't tell me you changed your mind.}
+{Speech 13 Answer 14}{}{When does our caravan leave?}
+{Speech 14}{}{Exactly at 12 o'clock.}
+{Speech 14 Answer Exit}{}{Exactly at 12 o'clock.}
+{Speech 98}{}{Ha! Is someone really stupid enough to attack my caravan?@@What a nuisance. They shouldn't have been here.@@Today the Wasteland isn't as safe as usual.}
+{Speech 98 Answer 99}{}{Seems quiet now. Can we continue on our way?}
+{Speech 98 Answer Exit}{}{I'll be back. [Leave]}
+{Speech 99}{}{Yes, we're continuing on. Stopping is very dangerous.}
+{Speech 99 Answer Exit}{}{Looks like everyone's ready.}
+{Speech 100}{}{Don't you dare even come near me. You'll never work for me again.}
+{Speech 100 Answer Exit}{}{Pathetic scum! You'll pay for turning me down. Farewell. [Leave]}
+{Speech 101}{}{You're no guard, you're a crook! Get out of here, coward.}
+{Speech 102}{}{You're nothing but a pathetic thief. You already got what you deserve, get lost.}
+{Speech 102 Answer Exit}{}{You called me a thief? I'll remember that, you ungrateful bastard. I'm leaving, farewell.}
+{Speech 103}{}{If you had done@sex@|| your job, I'd certainly have paid you. You'll get nothing.}
+{Speech 103 Answer Exit}{}{Someday you'll regret getting in my way. Farewell.}
+{Speech 104}{}{You did it, here's your money. Pleasure working with you, hope we meet again.}
+{Speech 104 Answer Exit}{}{Nice to see a person who values quality work. See you. Maybe. [Leave]}
+{Speech 104 Answer Exit*}{}{Oh no, I don't want to spend ages staring at a brahmin's ass again. Bye. [Leave]}
+{Speech 105}{}{ Oh, hello! That was great. Here's 1000 coins for you, plus 200 as a bonus. We'd be glad to see you again.}
+{Speech 105 Answer Exit}{}{Yeah, it was fun. See you, farewell. [Leave]}

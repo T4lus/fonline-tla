@@ -23,5 +23,5 @@ Speech 2 # Вы точно ошиблись адресом. Вам нечего 
 {Name}{}{Annet}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Вы точно ошиблись адресом. Вам нечего здесь делать. Не заставляйте меня звать охрану.}
-{Speech 2 Answer Exit}{}{Спокойно, я уже ухожу.}
+{Speech 2}{}{You've definitely got the wrong place. You have no business here. Don't make me call the guards.}
+{Speech 2 Answer Exit}{}{Easy, I'm already leaving.}

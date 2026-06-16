@@ -174,52 +174,52 @@ Speech 20 # Хм, мы... То есть, я... Я уважаю семейные 
 {Name}{}{Customs Officer}
 {Speech 1}{}{Initial preferences}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Чем могу помочь?}
-{Speech 2 Answer Exit}{}{Ничем, я ищу другого человека.}
-{Speech 2 Answer 3}{}{Мне нужно пройти во Внутренний Город.}
-{Speech 2 Answer 4}{}{Мне нужно пройти во Внутренний Город.}
-{Speech 2 Answer 10}{}{У меня есть дневной пропуск Города-Убежища. Я хочу пройти во Внутренний Город.}
-{Speech 2 Answer 14}{}{Как мне быть, я должен посетить могилу родственника...}
-{Speech 3}{}{Я так не думаю. Мне о вас не докладывали, значит, я не могу вас пропустить.}
-{Speech 3 Answer 9}{}{Неужели ничего нельзя сделать? Мне очень нужно пройти через ворота!}
-{Speech 4}{}{Представьтесь.}
-{Speech 4 Answer Exit}{}{Нет, я не могу назвать свое имя.}
-{Speech 4 Answer 5}{}{Меня зовут @pname@.}
-{Speech 5}{}{[Листает бумаги] @pname@, @pname@... Ах, да, вашего имени нет в документах. Тем не менее, я слышал о вас. Вы сможете пройти, но только в дневное время. Оформление пропуска - платное. Вы должны внести в кассу Реддинга 500 монет.}
-{Speech 5 Answer 6}{}{У меня нет таких денег...}
-{Speech 5 Answer 7}{}{Да, пожалуйста. [Заплатить за пропуск]}
-{Speech 6}{}{В таком случае, прошу меня извинить. Правила - общие для всех. Всего доброго.}
-{Speech 6 Answer Exit}{}{Я вернусь, когда достану деньги.}
-{Speech 7}{}{Отлично, пропуск я вам оформил [Ухмыляется и хлопает по карману, в который утекли ваши денежки]. Охрана на воротах вас пропустит. Пропуск действует в течение одного часа. Так что не возитесь слишком долго.}
-{Speech 7 Answer Exit}{}{Благодарю. Прощайте.}
-{Speech 7 Answer 8}{}{Э-э-э... А пропуск? Или чек, может товарную накладную... Я ничего не получу?}
-{Speech 8}{}{Что? Вы чем-то недовольны? Провоцируете конфликт? Грубите представителю власти? Проявляете неуважение к стражу порядка?!!!}
-{Speech 8 Answer Exit}{}{Да! Ты, жалкий взяточник, все узнают о тебе правду!!!}
-{Speech 8 Answer Exit*}{}{Нет-нет, я просто ошиб@sex@|ся|лась|. Мне пора.}
-{Speech 9}{}{Ничего. Прошу вас, уходите, пока я не позвал регуляторов.}
-{Speech 9 Answer Exit}{}{Я ухожу...}
-{Speech 10}{}{Очень интересно... Позвольте взглянуть?}
-{Speech 10 Answer Exit}{}{Еще чего. Вдруг отберешь? Ни за что!}
-{Speech 10 Answer 11}{}{Пожалуйста. [Протянуть фальшивый пропуск]}
-{Speech 11}{}{[Тщательно разглядывает пропуск] Хммм... А знаете ли вы, @sex@|мой друг|милая|, что полагается тем, кто подделывает официальные документы Города-Убежища?}
-{Speech 11 Answer 13}{}{Этот - настоящий, понял?}
-{Speech 11 Answer 12}{}{Может быть и знаю, но ко мне это никак не относится. Мой пропуск подлинный.}
-{Speech 11 Answer Exit}{}{Нет, не знаю. Более того, не горю желанием это узнать. Прощайте.}
-{Speech 12}{}{[Морщины на лице таможенника разгладились и он снова улыбается]  Вот и прекрасно. Вы можете пройти. Я дам знать охране на воротах. Держите пропуск при себе, предъявляйте по требованию регуляторов, чтобы патрульные не посчитали вас нарушителем.}
-{Speech 12 Answer Exit}{}{Благодарю. Всего доброго.}
-{Speech 13}{}{Не пытайтесь меня обмануть. Вам не уйти от правосудия. Регуляторы! Сюда!}
-{Speech 14}{}{Какого родственника?}
-{Speech 14 Answer 15}{}{Мой дядюшка, мистер Руни, похоронен на старом кладбище за баром "Последний Вздох"...}
-{Speech 14 Answer 17}{}{Мой дядюшка, мистер Руни, похоронен на старом кладбище за баром "Последний Вздох"...}
-{Speech 15}{}{Черт подери! Буквально пару часов назад я вас уже пропустил на кладбище. Имейте совесть! У этого Руни слишком много родни. Вы сводите меня с ума, да, все вы, Руни!}
-{Speech 15 Answer 16}{}{Вы не пропустите меня? Неужели?}
-{Speech 16}{}{Именно так.}
-{Speech 17}{}{Хм. [Таможенник просматривает какую-то папку с бумагами, исписанными мелким почерком] Не вижу никаких упоминаний о том, чтобы у вдовы Руни были какие-то родственники.}
-{Speech 17 Answer 19}{}{Это естественно, ведь я - племянни@sex@|к|ца| мистера Руни... Только что вернул@sex@|ся|ась| из дальнего путешествия, и тут оказалось, что я не могу посетить моего любезного дядюшку, чтобы возложить пару цветов на его могилу... }
-{Speech 17 Answer 20}{}{Это естественно, ведь я - племянни@sex@|к|ца| мистера Руни... Только что вернул@sex@|ся|ась| из дальнего путешествия, и тут оказалось, что я не могу посетить моего любезного дядюшку, чтобы возложить пару цветов на его могилу... }
-{Speech 17 Answer 18}{}{Разве моего слова не достаточно?! Немедленно пропустите меня!}
-{Speech 18}{}{Нет, недостаточно. Уходите.}
-{Speech 19}{}{Ха! Да у вас же нет с собой цветов. Меня не обмануть такими глупыми шутками. Уходите.}
-{Speech 20}{}{Хм, мы... То есть, я... Я уважаю семейные традиции и обычаи. Думаю, ничего страшного не произойдет, если вы повидаетесь с дорогим дядюшкой... Можете пройти, только не задерживайтесь.}
-{Speech 20 Answer Exit}{}{Благодарю вас, вы достойный человек!}
-{Speech 20 Answer Exit*}{}{Благодарю вас, вы достойный человек!}
+{Speech 2}{}{How can I help you?}
+{Speech 2 Answer Exit}{}{Nothing, I'm looking for someone else.}
+{Speech 2 Answer 3}{}{I need to get into the Inner City.}
+{Speech 2 Answer 4}{}{I need to get into the Inner City.}
+{Speech 2 Answer 10}{}{I have a Vault City day pass. I want to get into the Inner City.}
+{Speech 2 Answer 14}{}{What am I to do, I have to visit a relative's grave...}
+{Speech 3}{}{I don't think so. No one informed me about you, which means I can't let you through.}
+{Speech 3 Answer 9}{}{Surely something can be done? I really need to get through the gates!}
+{Speech 4}{}{Identify yourself.}
+{Speech 4 Answer Exit}{}{No, I can't give my name.}
+{Speech 4 Answer 5}{}{My name is @pname@.}
+{Speech 5}{}{[Leafs through papers] @pname@, @pname@... Ah, yes, your name isn't in the documents. Nevertheless, I've heard of you. You may pass, but only during the daytime. Issuing a pass costs money. You must pay 500 coins into the Redding treasury.}
+{Speech 5 Answer 6}{}{I don't have that kind of money...}
+{Speech 5 Answer 7}{}{Yes, please. [Pay for the pass]}
+{Speech 6}{}{In that case, I beg your pardon. The rules are the same for everyone. Good day.}
+{Speech 6 Answer Exit}{}{I'll come back when I get the money.}
+{Speech 7}{}{Excellent, I've issued you the pass [Smirks and pats the pocket your money flowed into]. The guards at the gates will let you through. The pass is valid for one hour. So don't dawdle too long.}
+{Speech 7 Answer Exit}{}{Thank you. Farewell.}
+{Speech 7 Answer 8}{}{Uh... And the pass? Or a receipt, maybe an invoice... Do I get nothing?}
+{Speech 8}{}{What? Are you dissatisfied with something? Provoking a conflict? Being rude to a representative of the authorities? Showing disrespect to a keeper of order?!!!}
+{Speech 8 Answer Exit}{}{Yes! You, you pathetic bribe-taker, everyone will learn the truth about you!!!}
+{Speech 8 Answer Exit*}{}{No, no, I just made a @sex@|mistake|mistake|. I have to go.}
+{Speech 9}{}{Nothing. Please, leave, before I call the regulators.}
+{Speech 9 Answer Exit}{}{I'm leaving...}
+{Speech 10}{}{Very interesting... May I take a look?}
+{Speech 10 Answer Exit}{}{No way. What if you take it? Never!}
+{Speech 10 Answer 11}{}{Here you go. [Hand over the forged pass]}
+{Speech 11}{}{[Carefully examines the pass] Hmmm... And do you know, @sex@|my friend|my dear|, what is in store for those who forge official Vault City documents?}
+{Speech 11 Answer 13}{}{This one's real, understand?}
+{Speech 11 Answer 12}{}{Maybe I do know, but it doesn't concern me in any way. My pass is genuine.}
+{Speech 11 Answer Exit}{}{No, I don't know. What's more, I have no desire to find out. Farewell.}
+{Speech 12}{}{[The wrinkles on the customs officer's face smooth out and he smiles again]  Splendid. You may pass. I'll let the guards at the gates know. Keep the pass on you, present it on the regulators' demand, so the patrols don't take you for a trespasser.}
+{Speech 12 Answer Exit}{}{Thank you. Good day.}
+{Speech 13}{}{Don't try to deceive me. You won't escape justice. Regulators! Over here!}
+{Speech 14}{}{Which relative?}
+{Speech 14 Answer 15}{}{My uncle, Mister Rooney, is buried in the old cemetery behind the "Last Breath" bar...}
+{Speech 14 Answer 17}{}{My uncle, Mister Rooney, is buried in the old cemetery behind the "Last Breath" bar...}
+{Speech 15}{}{Damn it all! Just a couple of hours ago I already let you into the cemetery. Have some shame! That Rooney has far too many relatives. You're driving me mad, yes, all of you, the Rooneys!}
+{Speech 15 Answer 16}{}{You won't let me through? Really?}
+{Speech 16}{}{Exactly so.}
+{Speech 17}{}{Hm. [The customs officer looks through some folder of papers covered in fine handwriting] I see no mention of the widow Rooney having any relatives.}
+{Speech 17 Answer 19}{}{That's only natural, since I am Mister Rooney's @sex@|nephew|niece|... I've only just returned from a long journey, and now it turns out I can't visit my dear uncle to lay a few flowers on his grave... }
+{Speech 17 Answer 20}{}{That's only natural, since I am Mister Rooney's @sex@|nephew|niece|... I've only just returned from a long journey, and now it turns out I can't visit my dear uncle to lay a few flowers on his grave... }
+{Speech 17 Answer 18}{}{Isn't my word enough?! Let me through at once!}
+{Speech 18}{}{No, it is not enough. Leave.}
+{Speech 19}{}{Ha! Why, you don't even have any flowers with you. I'm not fooled by such stupid jokes. Leave.}
+{Speech 20}{}{Hm, we... That is, I... I respect family traditions and customs. I suppose nothing terrible will happen if you go see your dear uncle... You may pass, just don't linger.}
+{Speech 20 Answer Exit}{}{Thank you, you're a worthy man!}
+{Speech 20 Answer Exit*}{}{Thank you, you're a worthy man!}

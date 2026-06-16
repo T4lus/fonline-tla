@@ -26,8 +26,8 @@ Speech 3 # Я работаю в шахте. Жду начала смены... У
 [Text engl]
 {Name}{}{Miner}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Мешать? Чему мешать, ты же ничего не делаешь? }
-{Speech 2}{}{Проходи... Не мешай...}
-{Speech 2 Answer 3}{}{Мешать? Чему мешать, ты же ничего не делаешь? }
-{Speech 3}{}{Я работаю в шахте. Жду начала смены... Уходи.}
-{Speech 3 Answer Exit}{}{Что-то с тобой не так, приятель.}
+{Speech 1 Answer 2}{}{In the way? In the way of what, you're not doing anything? }
+{Speech 2}{}{Move along... Don't get in the way...}
+{Speech 2 Answer 3}{}{In the way? In the way of what, you're not doing anything? }
+{Speech 3}{}{I work in the mine. I'm waiting for my shift to start... Go away.}
+{Speech 3 Answer Exit}{}{Something's not right with you, pal.}

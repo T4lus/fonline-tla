@@ -49,19 +49,19 @@ Speech 6 # Ты новеньк@sex@|ий|ая|, что ли? Такие деби
 {Speech 6 Answer 3}{}{У меня еще вопросы!}
 
 [Text engl]
-{Name}{}{none}
+{Name}{}{Miner in the pit}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Эй, займись делом и не лезь ко мне!}
-{Speech 2 Answer 3}{}{Полегче, приятель. У меня к тебе вопросы.}
-{Speech 2 Answer Exit}{}{Да кому ты нужен, работяга.}
-{Speech 3}{}{Какие, к дъяволу, вопросы? Вопросы регуляторам задавай...}
-{Speech 3 Answer 6}{}{Кому сдавать руду?}
-{Speech 3 Answer 4}{}{Как отсюда выйти?}
-{Speech 4}{}{Пока не соберешь 15 самородков, хрен кто тебя выпустит. Потом, как решишь свалить, иди к лифту. Дежурный регулятор тебя выпустит. И не забудь на выходе золотишко сдать, иначе пожалеешь...}
-{Speech 4 Answer Exit}{}{Так и сделаю, до встречи.}
-{Speech 4 Answer 5}{}{Я еще хочу спросить.}
-{Speech 5}{}{Мне надоело, проваливай!}
-{Speech 6}{}{Ты новеньк@sex@|ий|ая|, что ли? Такие дебильные вопросы спрашиваешь. Ну ладно. Видел@sex@||а| вагонетки на путях? Вот в них складывай. Тут повсюду видеокамеры, они [Показывает пальцем в потолок] точно будут знать, сколько самородков ты добыл@sex@||а|.}
-{Speech 6 Answer Exit}{}{Ага, ясно, спасибо.}
-{Speech 6 Answer 3}{}{У меня еще вопросы!}
+{Speech 2}{}{Hey, get to work and stay out of my way!}
+{Speech 2 Answer 3}{}{Easy, pal. I've got some questions for you.}
+{Speech 2 Answer Exit}{}{Who needs you anyway, grunt.}
+{Speech 3}{}{What the hell questions? Ask the regulators your questions...}
+{Speech 3 Answer 6}{}{Who do I hand the ore to?}
+{Speech 3 Answer 4}{}{How do I get out of here?}
+{Speech 4}{}{Until you collect 15 nuggets, no one's letting you out. Then, when you decide to clear off, go to the elevator. The regulator on duty will let you out. And don't forget to hand in the gold on your way out, or you'll be sorry...}
+{Speech 4 Answer Exit}{}{I'll do that, see you.}
+{Speech 4 Answer 5}{}{I want to ask something else.}
+{Speech 5}{}{I've had enough, get lost!}
+{Speech 6}{}{You new here, or what? Asking such idiotic questions. All right. You see the carts on the rails? Load them up. There are cameras everywhere, they [Points his finger at the ceiling] will know exactly how many nuggets you've mined.}
+{Speech 6 Answer Exit}{}{Got it, thanks.}
+{Speech 6 Answer 3}{}{I have more questions!}

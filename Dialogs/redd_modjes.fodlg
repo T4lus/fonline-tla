@@ -214,86 +214,86 @@ Speech 27 # Молодой человек, вы хам!
 {DescAliveShort}{}{You see Madam Mojesca.}
 {DescAliveFull}{}{You see Madam Mojesca.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знакомы}
-{Speech 1 Answer 2*}{}{знакомы}
-{Speech 1 Answer 18}{}{дурак}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 2*}{}{acquainted}
+{Speech 1 Answer 18}{}{fool}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Что вы здесь делаете, мадам Моджеска?}
-{Speech 2 Answer 4}{}{Похоже, тут кругом одни наркоманы. Что происходит?}
-{Speech 2 Answer 6}{}{Есть какие-нибудь интересные слухи?}
-{Speech 2 Answer 2}{}{Почему вас зовут мадам Моджеска?}
-{Speech 2 Answer 19}{}{Мисс Маджеску. Ваша соседка, вдова Руни, жалуется на страшные звуки по ночам. Вы что-нибудь такое слышали?}
-{Speech 3}{}{В последнее время я очень мало что делаю. Когда-то мы вместе с Лу держали салун "Мэйлмют" - но потом мы разошлись, и я ушла из дела.}
-{Speech 3 Answer 2}{}{Тогда позволь мне задать еще один вопрос.}
-{Speech 3 Answer Exit}{}{Я понимаю. Ну, это все, что мне нужно знать. До свидания.}
-{Speech 4}{}{Большинство черни работают только за джет. Им нужно что-то, чтобы хоть в мыслях бежать из этой дыры.}
-{Speech 4 Answer 2}{}{Хочу спросить еще кое что.}
-{Speech 4 Answer 5}{}{Джет? Что такое Джет?}
-{Speech 4 Answer Exit}{}{Понятно. Всего доброго.}
-{Speech 5}{}{Джет - это чудотворный наркотик, который помогает мне взять всю полноту ощущений от этого жалкого прозябания, дорогуша.}
-{Speech 5 Answer 2}{}{Хочу спросить еще кое-что.}
-{Speech 5 Answer Exit}{}{Интересно. Спасибо и до свидания.}
-{Speech 6}{}{Все, что я слышу - одна политика. Всегда разгораются какие-то жаркие дискуссии.}
-{Speech 6 Answer 7}{}{Политика? Что вы имеете в виду?}
-{Speech 6 Answer 2}{}{Конечно-конечно. Я тебя еще кое о чем хочу спросить.}
-{Speech 6 Answer Exit}{}{Ну, это все, что мне нужно знать. До свидания.}
-{Speech 7}{}{Вы когда-нибудь видели состязания по ловле намазанного брамина?}
-{Speech 7 Answer 2}{}{Конечно. Тыщу раз! Позвольте спросить вас о другом.}
-{Speech 7 Answer 8}{}{Неа, в жизни о таком не слышал. Расскажите мне об этом.}
-{Speech 7 Answer Exit}{}{Не знаю, как это относится к местной политике, да и знать не хочу. До свидания.}
-{Speech 8}{}{Делается это так: теленка брамина намазывают салом, а потом вся толпа пытается его поймать. Если вы не можете поймать его сами, то обязаны сделать все, чтобы никто другой его тоже не поймал.}
-{Speech 8 Answer 9}{}{А какое это имеет отношение к политике? Не понимаю.}
-{Speech 8 Answer Exit}{}{Да, конечно. Все, я услышал достаточно, мадам Моджеска. До свидания. }
-{Speech 9}{}{В этой игре намазанный салом брамин - это Реддинг, и заметьте, что это еще и золотой брамин. Нью Рено, НКР и Город убежище изо всех сил пытаются нас поймать... или хотябы не отдать никому другому.}
-{Speech 9 Answer 10}{}{Что вы имеете в виду?}
-{Speech 9 Answer Exit}{}{Это здорово. Ну, я тогда лучше пойду, мадам. Спасибо за глубокий анализ ситуации. До свидания. }
-{Speech 10}{}{Здесь, в Реддинге, мы добываем золото. Потом мы продаем его в НКР, в Город убежище и Нью Рено в обмен на товары. Каждое из этих государств хотело бы загрести себе все золото - и всю торговлю.}
-{Speech 10 Answer 11}{}{А в таком случае почему они просто не нападут на вас и не захватят?}
-{Speech 10 Answer Exit}{}{А кто бы не захотел? Знаете что, попробую-ка найти себе немножко этого золота. До свидания.}
-{Speech 11}{}{Мы достаточно крупный город, и мы слишком далеко, поэтому захват будет опасным и расточительным предприятием. Гораздо эффективнее заставить нас присоедениться добровольно.}
-{Speech 11 Answer 12}{}{Что вы имеете в виду?}
-{Speech 11 Answer Exit}{}{Это имеет смысл. Спасибо что просветили. До свидания. }
-{Speech 12}{}{Эти три силы пытаются сманить Реддинг на свою сторону. У каждой из них в городе есть свои влиятельные союзники, и похоже, что дело близится к развязке. Скоро город встанет перед выбором.}
-{Speech 12 Answer 13}{}{Выбор?}
-{Speech 12 Answer 14}{}{А кто на кого работает?}
-{Speech 12 Answer Exit}{}{Деньги, хмм. Ну, мне пора. До свидания.}
-{Speech 13}{}{Слой жира на этом теленке брамина становится все тоньше. Скоро одной из сил придется предпринять крупные шаги для того, чтобы прибрать Реддинг к рукам раньше остальных. Когда это случится, пострадают люди. Много людей.}
-{Speech 13 Answer 14}{}{А кто на кого работает?}
-{Speech 13 Answer 16}{}{А почему люди пострадают?}
-{Speech 13 Answer Exit}{}{Спасибо за информацию. До свидания.}
-{Speech 14}{}{Я до конца не уверена, но, по-моему, расклад такой: Дэн МакГроу обеими руками за Нью Рено, Мардж Лебарж за НКР, док Джонсон за Город Убежище, и я пока не знаю, за кого мэр Аскорти.}
-{Speech 14 Answer 15}{}{Как эти люди могут содействовать захвату?}
-{Speech 14 Answer Exit}{}{Кто такая Мардж Лебарж?}
-{Speech 14 Answer Exit*}{}{Кто такой Дэн МакГроу?}
-{Speech 14 Answer Exit**}{}{Кто такой док Джонсон?}
-{Speech 14 Answer Exit***}{}{Кто такой мэр Аскорти?}
-{Speech 14 Answer Exit****}{}{Спасибо за информацию. До свидания.}
-{Speech 15}{}{Я думаю, что народ пойдет за тем, кого поддержит мэр Аскорти. Он весьма нечист на руку, но народ ему верит. А он будет за сильнейшего. Видете ли, что хорошо для Аскорти, будет хорошо и для Реддинга. Мне кажется, он сам еще не определился, у кого наивысшие шансы на победу. Но скоро он это сделает.}
-{Speech 15 Answer 2}{}{Позволь спросить у тебя еще кое-что.}
-{Speech 15 Answer Exit}{}{Спасибо, что просветили меня, что тут происходит. До свидания.}
-{Speech 16}{}{Люди пострадают потому, что такого сорта перемены никогда не происходят гладко. Те, кто думает, будто приз им не достанется, упрутся всеми силами, чтобы он не достался никому другому. Единственный способ избежать этой ситуации - это если мы решим пойти на поклон к одной из сил и быстро заключим союз, пока остальные не опомнятся.}
-{Speech 16 Answer 15}{}{Что будет, как вы пологаете?}
-{Speech 16 Answer Exit}{}{Понятно. Спасибо, до свидания.}
-{Speech 17}{}{Я когда то работала в салуне "Мэйлмют". И в связи с характером работы меня звали мадам. А потом имя просто осталось, хотя я там больше и не работаю.}
-{Speech 17 Answer 3}{}{Где вы сейчас работаете?}
-{Speech 17 Answer 2}{}{Можно еще спросить?}
-{Speech 17 Answer Exit}{}{Все с вами ясно. До свидания.}
-{Speech 18}{}{Не надо ко мне приставать.@@Я хочу побыть одна.@@Не лезь ко мне.@@Пожалуйста, оставь мня в покое.}
-{Speech 19}{}{Страшные звуки? По ночам? А в чем дело, собственно?}
-{Speech 19 Answer 20}{}{Руни утверждает, что ванаминго пытаются забраться в ее дом. Звучит невероятно, но...}
-{Speech 20}{}{Ванаминго? В Реддинге? Опять?! Это... Это ужасно.}
-{Speech 20 Answer 21}{}{Успокойтесь, мисс. Еще ничего толком не известно, надеюсь это ложная тревога. Так все-таки, слышали ли вы странные звуки по ночам?}
-{Speech 21}{}{Минутку. Дайте сосредоточиться. Видите ли, мой друг, я очень крепко сплю по ночам. И меня никакой ванаминго не разбудит.}
-{Speech 21 Answer 22}{}{Я так понимаю, вы не слышали ничего подозрительного? Прекрасно!}
-{Speech 22}{}{Не спешите. Как раз прошлой ночью я слишком поздно легла спать. В какой-то момент я услышала ужасный вопль на улице, после чего раздался жуткий грохот.}
-{Speech 22 Answer 23}{}{Вы вышли на улицу посмотреть, что происходит, я надеюсь?}
-{Speech 23}{}{Нет, молодой человек. Я решила, что мне это приснилось. Я была уже в полудреме и не придала этим звукам особого значения. Но после ваших слов... О, боже! Это наверняка был Ванаминго!}
-{Speech 23 Answer 24}{}{Мисс Маджеску, прошу вас не делать скоропалительных выводов. Это мог быть порыв ветра, например.}
-{Speech 24}{}{Ну уж нет. Я теперь совершенно уверена, что слышала вопль ванаминго. Я уверена, один из них сумел выжить!}
-{Speech 24 Answer 25}{}{Хм, ну допустим. Один из ванаминго мог выжить. Но где его искать? Как думаете, мисс?}
-{Speech 25}{}{В шахтах, разумеется. Готова побиться о заклад, наружу он выбирается через раскопанные могилы на кладбище. Поговорите с НПЦ САЛУНЩИК, он наверняка что-нибудь знает.}
-{Speech 25 Answer 26}{}{Благодарю вас, Мисс, вы очень помогли.}
-{Speech 26}{}{С ванаминго нужно что-то делать! И как можно быстрее! Эти чудовища очень опасны! Опросите людей рядом с кладбищем!}
-{Speech 26 Answer Exit}{}{Да, да, мисс Маджеску, вы совершенно правы. Я свяжусь с шерифом при первой возможности, и мы предпримем необходимые действия.}
-{Speech 26 Answer 27}{}{ Реддингу явно нужен психиатр... Уже вторая сумасшедшая за сутки.}
-{Speech 27}{}{Молодой человек, вы хам!}
+{Speech 2 Answer 3}{}{What are you doing here, Madam Mojesca?}
+{Speech 2 Answer 4}{}{Looks like everyone around here is a junkie. What's going on?}
+{Speech 2 Answer 6}{}{Any interesting rumors?}
+{Speech 2 Answer 2}{}{Why are you called Madam Mojesca?}
+{Speech 2 Answer 19}{}{Miss Majescu. Your neighbor, the widow Rooney, complains about terrible noises at night. Have you heard anything like that?}
+{Speech 3}{}{Lately I do very little. Once Lou and I ran the "Malamute" saloon together - but then we parted ways, and I left the business.}
+{Speech 3 Answer 2}{}{Then let me ask one more question.}
+{Speech 3 Answer Exit}{}{I understand. Well, that's all I needed to know. Goodbye.}
+{Speech 4}{}{Most of the rabble work only for jet. They need something, at least in their minds, to escape from this hole.}
+{Speech 4 Answer 2}{}{I want to ask something else.}
+{Speech 4 Answer 5}{}{Jet? What is Jet?}
+{Speech 4 Answer Exit}{}{I see. Take care.}
+{Speech 5}{}{Jet is a miraculous drug that helps me take in the full range of sensations from this miserable existence, darling.}
+{Speech 5 Answer 2}{}{I want to ask something else.}
+{Speech 5 Answer Exit}{}{Interesting. Thanks and goodbye.}
+{Speech 6}{}{All I ever hear is politics. There's always some heated discussion flaring up.}
+{Speech 6 Answer 7}{}{Politics? What do you mean?}
+{Speech 6 Answer 2}{}{Of course, of course. I want to ask you about something else.}
+{Speech 6 Answer Exit}{}{Well, that's all I needed to know. Goodbye.}
+{Speech 7}{}{Have you ever seen the greased brahmin catching contest?}
+{Speech 7 Answer 2}{}{Sure. A thousand times! Let me ask you about something else.}
+{Speech 7 Answer 8}{}{Nah, never heard of such a thing in my life. Tell me about it.}
+{Speech 7 Answer Exit}{}{I don't know how that relates to local politics, and I don't want to know. Goodbye.}
+{Speech 8}{}{It works like this: a brahmin calf is smeared with grease, and then the whole crowd tries to catch it. If you can't catch it yourself, then you're obliged to do everything so that nobody else catches it either.}
+{Speech 8 Answer 9}{}{And what does that have to do with politics? I don't understand.}
+{Speech 8 Answer Exit}{}{Yes, of course. That's it, I've heard enough, Madam Mojesca. Goodbye. }
+{Speech 9}{}{In this game the greased brahmin is Redding, and mind you, it's also a golden brahmin. New Reno, the NCR and Vault City are doing everything they can to catch us... or at least to keep us from anyone else.}
+{Speech 9 Answer 10}{}{What do you mean?}
+{Speech 9 Answer Exit}{}{That's great. Well, I'd better be going then, madam. Thanks for the deep analysis of the situation. Goodbye. }
+{Speech 10}{}{Here in Redding, we mine gold. Then we sell it to the NCR, to Vault City and New Reno in exchange for goods. Each of these states would like to grab all the gold for itself - and all the trade.}
+{Speech 10 Answer 11}{}{In that case, why don't they just attack you and take over?}
+{Speech 10 Answer Exit}{}{Who wouldn't want to? You know what, I think I'll try to find myself some of that gold. Goodbye.}
+{Speech 11}{}{We're a fairly large town, and we're too far away, so a takeover would be a dangerous and wasteful undertaking. It's far more effective to make us join voluntarily.}
+{Speech 11 Answer 12}{}{What do you mean?}
+{Speech 11 Answer Exit}{}{That makes sense. Thanks for enlightening me. Goodbye. }
+{Speech 12}{}{These three powers are trying to lure Redding to their side. Each of them has its own influential allies in town, and it looks like things are coming to a head. Soon the town will have to make a choice.}
+{Speech 12 Answer 13}{}{A choice?}
+{Speech 12 Answer 14}{}{And who works for whom?}
+{Speech 12 Answer Exit}{}{Money, hmm. Well, I must be going. Goodbye.}
+{Speech 13}{}{The layer of grease on that brahmin calf is getting thinner. Soon one of the powers will have to make some serious moves to get its hands on Redding before the others. When that happens, people will suffer. Many people.}
+{Speech 13 Answer 14}{}{And who works for whom?}
+{Speech 13 Answer 16}{}{And why will people suffer?}
+{Speech 13 Answer Exit}{}{Thanks for the information. Goodbye.}
+{Speech 14}{}{I'm not entirely sure, but the way I see it is this: Dan McGrew is all for New Reno, Marge LeBarge for the NCR, Doc Johnson for Vault City, and I still don't know whose side Mayor Ascorti is on.}
+{Speech 14 Answer 15}{}{How can these people help with a takeover?}
+{Speech 14 Answer Exit}{}{Who is Marge LeBarge?}
+{Speech 14 Answer Exit*}{}{Who is Dan McGrew?}
+{Speech 14 Answer Exit**}{}{Who is Doc Johnson?}
+{Speech 14 Answer Exit***}{}{Who is Mayor Ascorti?}
+{Speech 14 Answer Exit****}{}{Thanks for the information. Goodbye.}
+{Speech 15}{}{I think the people will follow whoever Mayor Ascorti backs. He's quite crooked, but the people trust him. And he'll side with the strongest. You see, what's good for Ascorti will be good for Redding. It seems to me he hasn't decided yet who has the best chances of winning. But he will soon.}
+{Speech 15 Answer 2}{}{Let me ask you something else.}
+{Speech 15 Answer Exit}{}{Thanks for enlightening me about what's going on here. Goodbye.}
+{Speech 16}{}{People will suffer because changes of this sort never happen smoothly. Those who think the prize won't go to them will dig in with all their might to keep anyone else from getting it. The only way to avoid this situation is if we decide to bow to one of the powers and quickly forge an alliance before the others come to their senses.}
+{Speech 16 Answer 15}{}{What will happen, do you suppose?}
+{Speech 16 Answer Exit}{}{I see. Thanks, goodbye.}
+{Speech 17}{}{I used to work at the "Malamute" saloon. And because of the nature of the work I was called madam. And then the name just stuck, even though I don't work there anymore.}
+{Speech 17 Answer 3}{}{Where do you work now?}
+{Speech 17 Answer 2}{}{Can I ask something else?}
+{Speech 17 Answer Exit}{}{It's all clear with you. Goodbye.}
+{Speech 18}{}{Don't bother me.@@I want to be alone.@@Don't pester me.@@Please, leave me in peace.}
+{Speech 19}{}{Terrible noises? At night? And what's the matter, exactly?}
+{Speech 19 Answer 20}{}{Rooney claims that wanamingos are trying to break into her house. Sounds unbelievable, but...}
+{Speech 20}{}{Wanamingos? In Redding? Again?! That's... That's terrible.}
+{Speech 20 Answer 21}{}{Calm down, miss. Nothing is known for certain yet, I hope it's a false alarm. So after all, have you heard strange noises at night?}
+{Speech 21}{}{Just a moment. Let me concentrate. You see, my friend, I sleep very soundly at night. And no wanamingo could wake me.}
+{Speech 21 Answer 22}{}{So I take it you haven't heard anything suspicious? Excellent!}
+{Speech 22}{}{Not so fast. Just last night I went to bed too late. At some point I heard a terrible scream in the street, after which there came a horrible crash.}
+{Speech 22 Answer 23}{}{You went outside to see what was happening, I hope?}
+{Speech 23}{}{No, young man. I decided it was just a dream. I was already half-asleep and didn't pay much attention to those sounds. But after your words... Oh, God! It must have been a Wanamingo!}
+{Speech 23 Answer 24}{}{Miss Majescu, I beg you not to jump to conclusions. It could have been a gust of wind, for example.}
+{Speech 24}{}{Oh no. I'm now completely certain that I heard the scream of a wanamingo. I'm sure one of them managed to survive!}
+{Speech 24 Answer 25}{}{Hmm, all right, let's say so. One of the wanamingos could have survived. But where to look for it? What do you think, miss?}
+{Speech 25}{}{In the mines, of course. I'd bet that it gets out through the dug-up graves at the cemetery. Talk to NPC SALOONKEEPER, he surely knows something.}
+{Speech 25 Answer 26}{}{Thank you, Miss, you've been very helpful.}
+{Speech 26}{}{Something must be done about the wanamingo! And as soon as possible! These monsters are very dangerous! Question the people near the cemetery!}
+{Speech 26 Answer Exit}{}{Yes, yes, Miss Majescu, you're absolutely right. I'll contact the sheriff at the first opportunity, and we'll take the necessary action.}
+{Speech 26 Answer 27}{}{ Redding clearly needs a psychiatrist... That's the second madwoman in a day.}
+{Speech 27}{}{Young man, you're a boor!}

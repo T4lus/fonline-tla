@@ -132,50 +132,50 @@ Speech 15 # У тебя шарики за ролики зашли, а?@@Надо
 {DescAliveFull}{}{You see Danger Dan McGru, Morning Star mine owner.}
 {DescAliveFull}{}{You see strong man with scared face. He looks powerful and self-confidence.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{знаком}
-{Speech 1 Answer 2*}{}{не знаком}
-{Speech 1 Answer 15}{}{дурак}
-{Speech 2}{}{Привет. Меня зовут Опасный Ден МакГроу. Я управляю шахтой "Утренняя звезда". Чем могу служить?}
-{Speech 2 Answer 3}{}{Что вы тут добываете?}
-{Speech 2 Answer 10}{}{Почему тебя называют "опасный" Ден МакГроу?}
-{Speech 2 Answer 14}{}{Что нового в городе?}
-{Speech 2 Answer Exit}{}{Просто проходил мимо. До свидания.}
-{Speech 3}{}{Мы добываем золото. А золото нужно всем. Мы отправляем его и в Город Убежище, и в Нью Рено, и даже в НКР. Можно сказать, что у Реддинга есть что-то для каждого - и это позволяет нам сохранять независимость.}
-{Speech 3 Answer 2}{}{Мило, когда тебя вот так все любят. Можно еще кое о чем спросить?}
-{Speech 3 Answer 4}{}{По мне, кто-нибудь обязательно попытался бы подчинить Реддирг себе.}
-{Speech 3 Answer Exit}{}{Спасибо за информацию. До свидания.}
-{Speech 4}{}{А с чего ты взял, что никто не пытается? Каждому хочется прибрать Реддинг к рукам. Готов спорить, что скоро нас кто-нибудь захватит. Все, что мы можем сделать - это выбрать себе господина по лучше, если хотим выжить.}
-{Speech 4 Answer 5}{}{Что вы имеете в виду?}
-{Speech 4 Answer Exit}{}{Пожалуй, это имеет смысл. Ну что ж, удачи и до свидания.}
-{Speech 5}{}{Я имею в виду что скоро мы окажемся у кого-то под каблуком. Только дурак может не согласиться. И по этому, нам стоит выбрать самый комфортный каблук.}
-{Speech 5 Answer 6}{}{Что вы и сделали, разумеется.}
-{Speech 5 Answer Exit}{}{Тогда удачи в поисках каблука. До свидания.}
-{Speech 6}{}{Еще бы. Если мы не вступим в союз с одной из семей Нью-Рено, песенка Реддинга спета. По крайней мере того Реддинга, в котором я хотел бы жить.}
-{Speech 6 Answer 7}{}{Что ты имеешь в виду?}
-{Speech 6 Answer Exit}{}{Понятно. Ну ладно, тогда до свидания.}
-{Speech 7}{}{Если верх возмет НКР, то Реддинг окажется под пятой, и достаточно тяжолой. Они почти не оставляют человеку личной свободы. Реддинг превратится просто в очередную кляксу на карте Новой Калифорнийской Республики. Тот Реддинг, который я знаю, канет в прошлое.}
-{Speech 7 Answer 8}{}{Хм, а как насчет Города Убежища?}
-{Speech 7 Answer Exit}{}{Интересно. До свиданья.}
-{Speech 8}{}{Города Убежища? (хохочет). Да эти расисты превратят Реддинг в концлагерь. Они ведь какие: кто не один из их респектабельных граждан, тот вообще плевка не стоит. И что мне потом, до самой смерти им кланяться и лизать им задницы? Боже сохрани!}
-{Speech 8 Answer 9}{}{А Нью-Рено разве чем-то отличается?}
-{Speech 8 Answer Exit}{}{Спасибо, что просвятил меня, что тут происходит. До свидания.}
-{Speech 9}{}{У Нью-Рено хватит силы, чтобы защитить Реддинг от двух других претендентов. А по скольку в Нью-Рено идет постоянно война гангстерских семей, он достаточно разобщен, чтобы оставить нам шанс автономию. Им в Нью-Рено все равно, что мы тут делаем - до тех пор пока к ним течет золотая река. }
-{Speech 9 Answer 2}{}{Это тоже не самая приятная перспектива.}
-{Speech 10}{}{Потому что я самый здоровый, сильный и крутой змеежор в этих краях. Опасный Ден МакГоу - правильно, это я.}
-{Speech 10 Answer 2}{}{Понятно. Можно спросить тебя о другом, Опасный Ден?}
-{Speech 10 Answer 11}{}{Это ты-то крутой?}
-{Speech 10 Answer Exit}{}{Да, похоже, ты тот еще парень. Ну что ж, не буду отнимать у тебя время. До свидания.}
-{Speech 11}{}{Тут у нас базар фильтруют. Ответишь за базар?}
-{Speech 11 Answer Exit}{}{Да, отвечу. А то слишком уж сильно у тебя хлебало открыто. Хватай пушку... пилигрим.}
-{Speech 11 Answer 13}{}{Я бы с удовольствием, только это удовольствие мне патроны не окупит.}
-{Speech 11 Answer 12}{}{Если бы я хотел, то ответил. Только некогда мне сейчас на тебя время тратить.}
-{Speech 12}{}{Так я и думал. (выдерживает паузу) Желторотый.}
-{Speech 12 Answer Exit}{}{Я тебе покажу желторотого, когда вырежу у тебя селезенку. Это вызов.}
-{Speech 12 Answer Exit*}{}{А это мы еще посмотрим, когда-нибудь. До свидания.}
-{Speech 13}{}{Слушай, мистер, я щас тебе бойню блюющих кукол тут устрою. Пшол вон от сюда!}
-{Speech 13 Answer Exit}{}{Ты от меня что-то хочешь? Иди сюда, получать.}
-{Speech 13 Answer Exit*}{}{Знаешь, я пожалуй правда пойду. Удачи.}
-{Speech 14}{}{Да вобщем-то ничего. Все старое.}
-{Speech 14 Answer 2}{}{Хм. Позволь спросить еще.}
-{Speech 14 Answer Exit}{}{Ясно. Ладно, я пошел. Пока.}
-{Speech 15}{}{У тебя шарики за ролики зашли, а?@@Надо же: цирк уехал, а клоуны остались!@@Не подаю.@@Если у тебя и были мозги, то наверняка сдохли от одиночества.@@Будь я проклят! Эволюция что, обратно пошла?}
+{Speech 1 Answer 2}{}{know}
+{Speech 1 Answer 2*}{}{not know}
+{Speech 1 Answer 15}{}{stupid}
+{Speech 2}{}{Hello. My name is Dangerous Dan McGrew. I run the "Morning Star" mine. What can I do for you?}
+{Speech 2 Answer 3}{}{What do you mine here?}
+{Speech 2 Answer 10}{}{Why do they call you "Dangerous" Dan McGrew?}
+{Speech 2 Answer 14}{}{What's new in town?}
+{Speech 2 Answer Exit}{}{Just passing by. Goodbye.}
+{Speech 3}{}{We mine gold. And everyone needs gold. We ship it to Vault City, and to New Reno, and even to the NCR. You could say Redding has something for everyone - and that lets us keep our independence.}
+{Speech 3 Answer 2}{}{Nice when everybody loves you like that. Can I ask you something else?}
+{Speech 3 Answer 4}{}{Seems to me somebody would surely try to bring Redding under their thumb.}
+{Speech 3 Answer Exit}{}{Thanks for the information. Goodbye.}
+{Speech 4}{}{And what makes you think nobody's trying? Everybody wants to get their hands on Redding. I'll bet somebody takes us over soon. All we can do is pick ourselves a better master, if we want to survive.}
+{Speech 4 Answer 5}{}{What do you mean?}
+{Speech 4 Answer Exit}{}{I suppose that makes sense. Well then, good luck and goodbye.}
+{Speech 5}{}{I mean that soon we'll end up under somebody's heel. Only a fool would disagree. And so, we'd best choose the most comfortable heel.}
+{Speech 5 Answer 6}{}{Which you've done, of course.}
+{Speech 5 Answer Exit}{}{Then good luck finding your heel. Goodbye.}
+{Speech 6}{}{You bet. If we don't ally with one of the New Reno families, Redding's done for. At least the Redding I'd want to live in.}
+{Speech 6 Answer 7}{}{What do you mean?}
+{Speech 6 Answer Exit}{}{I see. Well all right then, goodbye.}
+{Speech 7}{}{If the NCR comes out on top, Redding will end up under their heel, and a heavy one at that. They leave a man hardly any personal freedom. Redding will turn into just another blot on the map of the New California Republic. The Redding I know will be gone forever.}
+{Speech 7 Answer 8}{}{Hmm, and what about Vault City?}
+{Speech 7 Answer Exit}{}{Interesting. Goodbye.}
+{Speech 8}{}{Vault City? (laughs). Why, those racists would turn Redding into a concentration camp. That's how they are: if you're not one of their respectable citizens, you're not worth spitting on. And what then, do I bow and kiss their asses until I die? God forbid!}
+{Speech 8 Answer 9}{}{And is New Reno any different?}
+{Speech 8 Answer Exit}{}{Thanks for enlightening me about what's going on here. Goodbye.}
+{Speech 9}{}{New Reno has enough strength to defend Redding from the other two contenders. And since there's a constant war between the gangster families in New Reno, it's divided enough to leave us a shot at autonomy. They in New Reno don't care what we do here - as long as the river of gold keeps flowing their way. }
+{Speech 9 Answer 2}{}{That's not the most pleasant prospect either.}
+{Speech 10}{}{Because I'm the biggest, strongest and toughest snake-eater in these parts. Dangerous Dan McGrew - that's right, that's me.}
+{Speech 10 Answer 2}{}{I see. Can I ask you about something else, Dangerous Dan?}
+{Speech 10 Answer 11}{}{You, tough?}
+{Speech 10 Answer Exit}{}{Yeah, you seem like quite the fellow. Well then, I won't take up your time. Goodbye.}
+{Speech 11}{}{Around here we watch our mouths. You gonna answer for your words?}
+{Speech 11 Answer Exit}{}{Yeah, I'll answer. Your mouth's running a bit too freely. Grab your gun... pilgrim.}
+{Speech 11 Answer 13}{}{I'd love to, only that pleasure wouldn't pay back the ammo.}
+{Speech 11 Answer 12}{}{If I wanted to, I'd answer. Only I've got no time to waste on you right now.}
+{Speech 12}{}{Just as I thought. (pauses) Greenhorn.}
+{Speech 12 Answer Exit}{}{I'll show you greenhorn when I cut out your spleen. That's a challenge.}
+{Speech 12 Answer Exit*}{}{We'll see about that, someday. Goodbye.}
+{Speech 13}{}{Listen here, mister, I'm about to make a slaughterhouse of puking dolls out of you. Get the hell out of here!}
+{Speech 13 Answer Exit}{}{You want something from me? Come here and get it.}
+{Speech 13 Answer Exit*}{}{You know, I really think I'll go. Good luck.}
+{Speech 14}{}{Nothing much, really. Same old.}
+{Speech 14 Answer 2}{}{Hmm. Let me ask you something else.}
+{Speech 14 Answer Exit}{}{Got it. All right, I'm off. Bye.}
+{Speech 15}{}{Got a screw loose, eh?@@Well now: the circus left, but the clowns stayed!@@I don't give handouts.@@If you ever had any brains, they surely died of loneliness.@@I'll be damned! Did evolution go into reverse?}
