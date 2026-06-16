@@ -27,8 +27,8 @@ Speech 3 # До свиданья!
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Я вас приветствую! Хотите обменять плохую броню на хорошие деньги?}
-{Speech 2 Answer Barter}{}{Конечно, а то рюкзак уж лопается!}
-{Speech 2 Answer 3}{}{Не, я так, мимо прохожу.}
-{Speech 3}{}{До свиданья!}
-{100000001}{}{Походите, уважаемые! @@Сдаем барахлишко! @@А вот выгодный обмен товара на деньги!@@Кручу-верчу, обменять хочу! @@У кого лишнее барахло в рюкзаке - подходим, не стесняемся!}
+{Speech 2}{}{Greetings to you! Want to trade bad armor for good money?}
+{Speech 2 Answer Barter}{}{Of course, my backpack's about to burst!}
+{Speech 2 Answer 3}{}{Nah, I'm just passing by.}
+{Speech 3}{}{Goodbye!}
+{100000001}{}{Step right up, good folks! @@We take your junk! @@Here's a fine trade of goods for money!@@Spin and turn, I want to trade! @@Whoever's got extra junk in their backpack - come on up, don't be shy!}

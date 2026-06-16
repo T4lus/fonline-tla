@@ -117,38 +117,38 @@ Speech 100 # Кто впустил этого дибилоида сюда???
 {DescAliveFull}{}{This is captain Samuel, he is standing on duty.}
 {DescAliveFull}{}{You see Samuel, he is truly all ears.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 100}{}{дибил}
-{Speech 1 Answer 2}{}{БС}
-{Speech 1 Answer 3}{}{отмаз}
-{Speech 1 Answer 11}{}{свой}
-{Speech 1 Answer 12}{}{свой, сержант}
-{Speech 1 Answer 13}{}{свой, капитан}
-{Speech 1 Answer 14}{}{свой, ученый}
+{Speech 1 Answer 100}{}{moron}
+{Speech 1 Answer 2}{}{BoS}
+{Speech 1 Answer 3}{}{excuse}
+{Speech 1 Answer 11}{}{one of us}
+{Speech 1 Answer 12}{}{one of us, sergeant}
+{Speech 1 Answer 13}{}{one of us, captain}
+{Speech 1 Answer 14}{}{one of us, scientist}
 {Speech 2}{}{Время:60000 Нет ответа:Начать атаку}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 4}{}{Так точно!@@Ну конечно!}
-{Speech 3 Answer Exit}{}{Пока еще нет.}
+{Speech 3 Answer 4}{}{Yes, sir!@@Of course!}
+{Speech 3 Answer Exit}{}{Not yet.}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 4 Answer 5}{}{[Вы заполняете кучу бумаг и время летит незаметно]...}
-{Speech 5}{}{Давай шевелись!}
-{Speech 5 Answer 6}{}{Все!}
-{Speech 5 Answer Exit}{}{Ну все у меня лопнуло телрпение! [разрываете бумаги]}
+{Speech 4 Answer 5}{}{[You fill out a pile of papers and time flies by]...}
+{Speech 5}{}{Come on, get moving!}
+{Speech 5 Answer 6}{}{Done!}
+{Speech 5 Answer Exit}{}{That's it, my patience has snapped! [you tear up the papers]}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 7}{}{Конечно воинские!}
-{Speech 6 Answer 8}{}{Мне больше по душе наука, ремонт и все такое.}
-{Speech 6 Answer 9}{}{Ни то и ни другое.}
+{Speech 6 Answer 7}{}{Combat ones, of course!}
+{Speech 6 Answer 8}{}{I'm more into science, repairs and all that.}
+{Speech 6 Answer 9}{}{Neither one nor the other.}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 10}{}{Отлично! Когда я могу приступить к исполнению своих обязанностей?}
-{Speech 7 Answer 10*}{}{Спасибо! Я зайду позже.}
-{Speech 8}{}{В таком случае тебе дорога к старику Генри, с ним и продолжишь разговор.}
+{Speech 7 Answer 10}{}{Excellent! When can I begin my duties?}
+{Speech 7 Answer 10*}{}{Thanks! I'll come back later.}
+{Speech 8}{}{In that case, your way leads to old Henry, you'll continue the conversation with him.}
 {Speech 9}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 10}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 11}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 11 Answer 16}{}{Есть какие-нибудь задания, сэр?}
-{Speech 11 Answer Exit}{}{Ничего. Разрешите уйти.}
+{Speech 11 Answer 16}{}{Are there any tasks, sir?}
+{Speech 11 Answer Exit}{}{Nothing. Permission to leave.}
 {Speech 12}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 13}{}{Капитан @pname@? С чем пожаловали?}
-{Speech 14}{}{А вы ботаник? Ну идите к своим, у меня для вас ничего нет.}
-{Speech 15}{}{Похоже вы успешно справились с заданием. Поздравляю.}
+{Speech 13}{}{Captain @pname@? What brings you here?}
+{Speech 14}{}{Oh, you're a egghead? Well, go to your own kind, I've got nothing for you.}
+{Speech 15}{}{Looks like you completed the task successfully. Congratulations.}
 {Speech 16}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 100}{}{Кто впустил этого дибилоида сюда???}
+{Speech 100}{}{Who let this moron in here???}

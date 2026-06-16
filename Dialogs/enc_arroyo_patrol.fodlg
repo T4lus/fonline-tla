@@ -59,25 +59,25 @@ Speech 6 # Охх... У нас будут трудности с общением
 {Speech 6}{}{Охх... У нас будут трудности с общением.}
 
 [Text engl]
-{Name}{}{Патрульный}
-{DescAliveShort}{}{Вы видите патрульного.}
-{DescAliveFull}{}{Патрульный-доброволец. Не внушает опасения.}
-{Speech 1}{}{Преддиалоговые установки}
+{Name}{}{Patrolman}
+{DescAliveShort}{}{You see a patrolman.}
+{DescAliveFull}{}{A volunteer patrolman. Doesn't seem threatening.}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Привет! Чем могу помочь?}
-{Speech 2 Answer 3}{}{А что вы тут делаете, а?}
-{Speech 2 Answer 5}{}{Не подскажете, далеко ли до Арройо?}
-{Speech 2 Answer Exit}{}{Ничем.}
-{Speech 2 Answer Exit*}{}{Ничем, спасибо.}
-{Speech 2 Answer 6}{}{Бунга-бунга!}
-{Speech 3}{}{Мы - добровольческий патруль Арройо! Патрулируем зону вокруг города, отгоняем от дорог диких зверей.}
-{Speech 3 Answer 5}{}{А далеко вообще до города?}
-{Speech 3 Answer 4}{}{Что, и с бандитами справиться можете?}
-{Speech 3 Answer Exit}{}{Понятно, спасибо.}
+{Speech 2}{}{Hi! How can I help?}
+{Speech 2 Answer 3}{}{So what are you doing here, huh?}
+{Speech 2 Answer 5}{}{Could you tell me, is it far to Arroyo?}
+{Speech 2 Answer Exit}{}{Nothing.}
+{Speech 2 Answer Exit*}{}{Nothing, thanks.}
+{Speech 2 Answer 6}{}{Bunga-bunga!}
+{Speech 3}{}{We're the volunteer patrol of Arroyo! We patrol the area around the town, drive wild beasts away from the roads.}
+{Speech 3 Answer 5}{}{And how far is it to the town anyway?}
+{Speech 3 Answer 4}{}{What, you can handle bandits too?}
+{Speech 3 Answer Exit}{}{I see, thanks.}
 {Speech 4}{}{Usually we don't have enough firepower, so we just call for help and wait.}
 {Speech 4 Answer Exit}{}{Not enough firepower, you say... Well, sorry, I guess it's your unlucky day. [Attack]}
-{Speech 4 Answer Exit*}{}{Понятно. Ну, удачи.}
-{Speech 5}{}{Нет, отсюда до города меньше дня пути. Просто продолжайте двигаться в том же направлении.}
-{Speech 5 Answer Exit}{}{Я вообще-то от города ш@sex@|ёл|ла|...}
-{Speech 5 Answer Exit*}{}{Спасибо!}
-{Speech 6}{}{Охх... У нас будут трудности с общением.}
+{Speech 4 Answer Exit*}{}{I see. Well, good luck.}
+{Speech 5}{}{No, it's less than a day's journey from here to the town. Just keep moving in the same direction.}
+{Speech 5 Answer Exit}{}{Actually, I was coming from the town...}
+{Speech 5 Answer Exit*}{}{Thanks!}
+{Speech 6}{}{Ohh... We're going to have trouble communicating.}

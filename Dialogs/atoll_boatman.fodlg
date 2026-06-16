@@ -80,29 +80,29 @@ Speech 9 # Ох. Еще один пассажир. Ладно, собирай м
 
 [Text engl]
 {Name}{}{Boatman}
-{DescAliveShort}{}{You see a diver.}
-{DescAliveFull}{}{Young man with a pretty good constitution.}
-{Speech 1}{}{Преддиалоговые установки}
+{DescAliveShort}{}{You see the boat captain. Everyone calls him this: Shustry. }
+{DescAliveFull}{}{Before you is a fat, sluggish man with a bloated face. Small bleary eyes, an unshaven mug, untidy clothes stained with engine oil.}
+{Speech 1}{}{Pre-dialogue settings}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{[Громко вздыхает. Говорит медленно] Э... Че хотел?}
-{Speech 2 Answer 3}{}{Домоооой! Моя платить!}
-{Speech 2 Answer 4}{}{Домоооой! Моя платить!}
-{Speech 2 Answer 5}{}{Между прочим, перед тобою дама. Неужели не заметно?}
-{Speech 2 Answer 6}{}{Мне нужно на материк.}
-{Speech 3}{}{Тьфу, мля... Не нужны мне твои деньги. Ладно, отвезу. Нехрен такому чуду на Атолле делать. Свалишься за ограждения, утопнешь, а нам отвечай. Собирайся...}
-{Speech 3 Answer Exit}{}{Моя готова. Собираться - нет.}
-{Speech 3 Answer Exit*}{}{Моя собираться. Готовый - нет.}
-{Speech 4}{}{[Передразнивает] "Его платить!" Ничего не выйдет. Опоздала твоя. Приходи завтра.}
-{Speech 4 Answer Exit}{}{Моя торчать на остров опять?! Блах!}
-{Speech 5}{}{[Закатывает глаза] Дама... Пижама. Мне пох. Нах ты тут?}
-{Speech 5 Answer 6}{}{Мне нужно на материк.}
-{Speech 6}{}{[Долго думает. Когда вы уже решаете его хорошенько двинуть, чтобы соображал быстрей, произносит] Э... Всем нужно на материк. Кроме меня... Мне не нужно.}
-{Speech 6 Answer 7}{}{Но ты же ходишь во Фриско? Возьми пассажиром?}
-{Speech 6 Answer 9}{}{Но ты же ходишь во Фриско? Возьми пассажиром?}
-{Speech 7}{}{[Недовольно морщится] Не нужны мне пассажиры. Ну ладно. Возьму. Только... Э... Потом приходи. }
-{Speech 7 Answer 8}{}{Когда потом?}
-{Speech 8}{}{[Очень долго думает]Потом... ну, позже, мля.}
-{Speech 8 Answer Exit}{}{Черт тебя подери, Шустрый. Я вернусь.}
-{Speech 9}{}{Ох. Еще один пассажир. Ладно, собирай манатки. Скоро выходим.}
-{Speech 9 Answer Exit}{}{Отлично, я готов@sex@||а|.}
-{Speech 9 Answer Exit*}{}{Не сейчас, у меня еще остались дела на Атолле.}
+{Speech 2}{}{[Sighs loudly. Speaks slowly] Eh... What did you want from Shustry?}
+{Speech 2 Answer 3}{}{Hooome! Me pay!}
+{Speech 2 Answer 4}{}{Hooome! Me pay!}
+{Speech 2 Answer 5}{}{By the way, there's a lady standing before you. Don't you notice?}
+{Speech 2 Answer 6}{}{I need to get to the mainland.}
+{Speech 3}{}{Pah, damn... I don't need your money. Fine, I'll take you. Nothing for a wonder like you to do on the Atoll. You'll fall off the railings, drown, and we'll be the ones to answer for it. Get ready...}
+{Speech 3 Answer Exit}{}{Me ready. To pack - not.}
+{Speech 3 Answer Exit*}{}{Me pack. Ready - not.}
+{Speech 4}{}{[Mimics] "Him pay!" Nothing doing. You're too late. Come tomorrow.}
+{Speech 4 Answer Exit}{}{Me stuck on island again?! Blah!}
+{Speech 5}{}{[Rolls his eyes] A lady... Pajama. I don't give a damn. What the hell you here for?}
+{Speech 5 Answer 6}{}{I need to get to the mainland.}
+{Speech 6}{}{[Thinks for a long time. Just as you decide to give him a good whack so he thinks faster, he says] Eh... Everyone needs to get to the mainland. Except me... I don't need to.}
+{Speech 6 Answer 7}{}{But you do go to Frisco, right? Take me as a passenger?}
+{Speech 6 Answer 9}{}{But you do go to Frisco, right? Take me as a passenger?}
+{Speech 7}{}{[Frowns in displeasure] I don't need passengers. Oh well. I'll take you. Only... Eh... Come back later. }
+{Speech 7 Answer 8}{}{Later when?}
+{Speech 8}{}{[Thinks for a very long time]Later... well, later, damn.}
+{Speech 8 Answer Exit}{}{Damn you, Shustry. I'll be back.}
+{Speech 9}{}{Oh. One more passenger. Fine, gather your stuff. We're leaving soon.}
+{Speech 9 Answer Exit}{}{Excellent, I'm ready@sex@||a|.}
+{Speech 9 Answer Exit*}{}{Not now, I still have things to do on the Atoll.}

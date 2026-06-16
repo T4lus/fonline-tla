@@ -42,17 +42,17 @@ Speech 7 # Испытания продолжаются.    P.S. маргарит
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Лаборатория # 112 «Цветок апокалипсиса»\n\nНаши ученые уже долго задаются вопросом, чем же Зергов так привлекают маргаритки. Каждому зергу выдали по цветку и наблюдали за реакцией.}
-{Speech 2 Answer 3}{}{Далее}
-{Speech 3}{}{Испытуемый Чувачелло при добавлении в камеру немного пыльцы проявил повышенный сексуальный «интерес» к нашему новечку Биллу, который не успел покинуть камеру. Бедняга умер от обширного кровоизлияния в…эгхм }
-{Speech 3 Answer 4}{}{Далее}
-{Speech 4}{}{Испытумый Ра. В камеру был помещен огнемет, взрывчатка и маргаритка. По рации ему передали, что он может взять с собой только одну вещь.  Наблюдаемый двое суток бился в истерике и метался от одного предмета к другому. Тест прекращен из-за полного физического истощения испытуемого.}
-{Speech 4 Answer 5}{}{Далее}
-{Speech 5}{}{Испытуемый Ктулха. Данный экземпляр избил и отнял у главного лаборанта данный цветок. Цветок не найден, Ктулха молчит.}
-{Speech 5 Answer 6}{}{Далее}
-{Speech 6}{}{Испытуемый Форевендж. Более менее сносно реагировал на присутствие данного растения в одном помещении вместе с ним. Но стоило механической рукой опрокинуть горшок с растением в огонь, как у подопытного обнаружился резкий впрыск адреналина в кровь, и с криками «УБЬЮ СУКА КИШГИИ» отправился, судя по датчикам, в Кламат.}
-{Speech 6 Answer 7}{}{Далее}
-{Speech 7}{}{Испытания продолжаются.\n\nP.S. маргаритка Ктулхи найдена в заднице у брамина из соседней лаборатории - испытуемый проявил редкую смекалку.}
-{Speech 7 Answer Exit}{}{Выход}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Laboratory # 112 "Flower of the Apocalypse"\n\nOur scientists have long wondered what it is about daisies that attracts the Zerg so much. Each zerg was given a flower and their reaction was observed.}
+{Speech 2 Answer 3}{}{Next}
+{Speech 3}{}{Subject Chuvachello, when a bit of pollen was added to his chamber, showed heightened sexual "interest" in our newcomer Bill, who did not manage to leave the chamber in time. The poor fellow died of a massive hemorrhage in the... ahem }
+{Speech 3 Answer 4}{}{Next}
+{Speech 4}{}{Subject Ra. A flamethrower, explosives and a daisy were placed in the chamber. Over the radio he was told that he could take only one item with him. The observed subject thrashed about in hysterics for two days, rushing from one object to another. The test was halted due to the complete physical exhaustion of the subject.}
+{Speech 4 Answer 5}{}{Next}
+{Speech 5}{}{Subject Cthulha. This specimen beat up the head lab assistant and took the flower from him. The flower has not been found, Cthulha keeps silent.}
+{Speech 5 Answer 6}{}{Next}
+{Speech 6}{}{Subject Forevendzh. Reacted more or less tolerably to the presence of this plant in the same room with him. But the moment a mechanical arm tipped the plant's pot into the fire, the subject experienced a sharp surge of adrenaline into the blood, and with screams of "I'LL KILL YOU BITCH KISHGII" set off, judging by the sensors, toward Klamath.}
+{Speech 6 Answer 7}{}{Next}
+{Speech 7}{}{The experiments continue.\n\nP.S. Cthulha's daisy was found up the rear end of a brahmin from the neighboring laboratory - the subject showed rare cunning.}
+{Speech 7 Answer Exit}{}{Exit}

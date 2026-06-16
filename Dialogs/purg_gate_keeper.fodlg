@@ -66,21 +66,21 @@ Speech 7 # Как пожелаете.
 {Name}{}{GateKeeper}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Вы что-то хотели?}
-{Speech 2 Answer 3}{}{Когда уже начнется побоище?}
-{Speech 2 Answer 4}{}{Известно, сколько будет участников?}
-{Speech 2 Answer 6}{}{Мне здесь надоело. Я могу уйти?}
-{Speech 2 Answer 5}{}{Когда уже эта фигня кончится?}
-{Speech 3}{}{Уже скоро. Точное время @arg time@.}
-{Speech 3 Answer 2}{}{У меня еще вопросы.}
-{Speech 3 Answer Exit}{}{Это все, что я хотел@sex@||а| узнать.}
-{Speech 4}{}{По последним данным всего согласилось принять участие @arg victims@ человек.}
-{Speech 4 Answer 2}{}{У меня еще вопросы.}
-{Speech 4 Answer Exit}{}{Это все, что я хотел@sex@||а| узнать.}
-{Speech 5}{}{Ну когда кто-то победит, очевидно.}
-{Speech 5 Answer Exit}{}{Когда уже эта фигня кончится?}
-{Speech 6}{}{Да, конечно. Точно надоело?}
-{Speech 6 Answer 7}{}{Да, пора идти отсюда!}
-{Speech 6 Answer Exit}{}{Нет, я еще тут постою.}
-{Speech 7}{}{Как пожелаете.}
-{Speech 7 Answer Exit}{}{[Выйти на глобальную карту]}
+{Speech 2}{}{Did you want something?}
+{Speech 2 Answer 3}{}{When will the slaughter finally begin?}
+{Speech 2 Answer 4}{}{Is it known how many participants there will be?}
+{Speech 2 Answer 6}{}{I'm tired of being here. Can I leave?}
+{Speech 2 Answer 5}{}{When will this nonsense finally end?}
+{Speech 3}{}{Soon now. The exact time is @arg time@.}
+{Speech 3 Answer 2}{}{I have more questions.}
+{Speech 3 Answer Exit}{}{That's all I wanted to know.}
+{Speech 4}{}{According to the latest data, a total of @arg victims@ people have agreed to take part.}
+{Speech 4 Answer 2}{}{I have more questions.}
+{Speech 4 Answer Exit}{}{That's all I wanted to know.}
+{Speech 5}{}{When someone wins, obviously.}
+{Speech 5 Answer Exit}{}{When will this nonsense finally end?}
+{Speech 6}{}{Yes, of course. Really tired of it?}
+{Speech 6 Answer 7}{}{Yes, time to get out of here!}
+{Speech 6 Answer Exit}{}{No, I'll stand here a bit longer.}
+{Speech 7}{}{As you wish.}
+{Speech 7 Answer Exit}{}{[Exit to the world map]}

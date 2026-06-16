@@ -89,34 +89,34 @@ Speech 11 # [Укажите пароль для доступа к домену]
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Вам удалось подключиться к одному из компьютеров сети Наварро.}
-{Speech 2 Answer 3}{}{Поиск технической документации.}
-{Speech 2 Answer 4}{}{[Выйти в сетевое окружение]}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 3}{}{Ничего не найдено.}
-{Speech 3 Answer 2}{}{[Назад]}
-{Speech 3 Answer Exit}{}{[Выход]}
-{Speech 4}{}{[Доступ к сети получен. Вам доступны домены Ремонт и Снабжение.]}
-{Speech 4 Answer 5}{}{[Подключиться к домену "Ремонт"]}
-{Speech 4 Answer 11}{}{[Подключиться к домену Снабжение"]}
-{Speech 4 Answer Exit}{}{[Выход]}
-{Speech 5}{}{[Подключение установлено. Выберите раздел]}
-{Speech 5 Answer 6}{}{[Начать поиск по ключевому слову "Схема"]}
-{Speech 6}{}{[Найдено более 1000 документов, удовлетворяющих критериям поиска. Показаны первые 3 из них]}
-{Speech 6 Answer 7}{}{[Посмотреть схему подвески мотора Багги]}
-{Speech 6 Answer 9}{}{[Загрузить схему минных полей вокруг Наварро]}
-{Speech 6 Answer 10}{}{[Открыть схему сбора винтокрыла из мусора, мотора и шкуры брамина]}
-{Speech 6 Answer 4}{}{[Назад]}
-{Speech 6 Answer Exit}{}{[Выход]}
-{Speech 7}{}{[Вашему вниманию представляется уйма технической информации, относящейся к эксплуатации багги, по всей видимости, принадлежавшей местному механику] }
-{Speech 7 Answer 8}{}{[Скачать данные на голодиск]}
-{Speech 7 Answer Exit}{}{[Выход]}
-{Speech 8}{}{[Вы успешно записали информацию о подвеске двигателя багги на голодиск]}
-{Speech 8 Answer Exit}{}{[Выход]}
-{Speech 9}{}{[Секретно. Доступ запрещен]}
-{Speech 9 Answer Exit}{}{[Выход]}
+{Speech 1}{}{Initial preferences}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{You managed to connect to one of the computers of the Navarro network.}
+{Speech 2 Answer 3}{}{Search for technical documentation.}
+{Speech 2 Answer 4}{}{[Enter the network environment]}
+{Speech 2 Answer Exit}{}{[Exit]}
+{Speech 3}{}{Nothing found.}
+{Speech 3 Answer 2}{}{[Back]}
+{Speech 3 Answer Exit}{}{[Exit]}
+{Speech 4}{}{[Network access granted. The domains Repair and Supply are available to you.]}
+{Speech 4 Answer 5}{}{[Connect to the "Repair" domain]}
+{Speech 4 Answer 11}{}{[Connect to the "Supply" domain]}
+{Speech 4 Answer Exit}{}{[Exit]}
+{Speech 5}{}{[Connection established. Select a section]}
+{Speech 5 Answer 6}{}{[Begin a search for the keyword "Schematic"]}
+{Speech 6}{}{[More than 1000 documents matching the search criteria were found. The first 3 of them are shown]}
+{Speech 6 Answer 7}{}{[View the schematic of the Buggy engine suspension]}
+{Speech 6 Answer 9}{}{[Load the schematic of the minefields around Navarro]}
+{Speech 6 Answer 10}{}{[Open the schematic for assembling a vertibird from junk, an engine, and a brahmin hide]}
+{Speech 6 Answer 4}{}{[Back]}
+{Speech 6 Answer Exit}{}{[Exit]}
+{Speech 7}{}{[A great deal of technical information is presented to you, relating to the operation of a buggy that apparently belonged to the local mechanic] }
+{Speech 7 Answer 8}{}{[Download the data to a holodisk]}
+{Speech 7 Answer Exit}{}{[Exit]}
+{Speech 8}{}{[You have successfully recorded the information about the buggy engine suspension to the holodisk]}
+{Speech 8 Answer Exit}{}{[Exit]}
+{Speech 9}{}{[Classified. Access denied]}
+{Speech 9 Answer Exit}{}{[Exit]}
 {Speech 10}{}{}
 {Speech 10 Answer Exit}{}{}
 {Speech 11}{}{}

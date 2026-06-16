@@ -341,7 +341,7 @@ Speech 32 # [Очень нервно] Хехехехе... Ты... шутишь, 
 {Speech 29}{}{In fact, that old bones is the main guy amongst regular vault dwellers and... Hey! How long are you gonna bother me for? I got another stuff to do!}
 {Speech 30}{}{Navarro. I don't know anything else.}
 {Speech 30 Answer 27}{}{Uh, thanks!}
-{Speech 30 Answer 27*}{}{Ух, спасибо!}
+{Speech 30 Answer 27*}{}{Uh, thanks!}
 {Speech 31}{}{Holy Moly! You're a @sex@|tough guy|Judy with balls|! Well what do you want from me? You didn't come here to kill me... did you?}
 {Speech 31 Answer 13}{}{Tell me about this place and what the heck are Enclave soldiers doing here.}
 {Speech 31 Answer 32}{}{You're. Wrong. I. Came. To. Kill. You.}

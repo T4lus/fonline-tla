@@ -84,32 +84,32 @@ Speech 10 # Спрашивай, что хочешь.
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{[Анаферон кивает вам и улыбается] }
-{Speech 2 Answer Exit}{}{Поговорим в следующий раз. [Уйти]}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 3}{}{Я женщина из племени амазонок. Зовут меня Анаферон.}
-{Speech 3 Answer 10}{}{Понятно, можно еще вопрос?}
-{Speech 3 Answer 4}{}{Амазонок? Что за племя такое?}
-{Speech 4}{}{[Смотрит на вас с сочуствием] Никогда о них не слышал@sex@||а|? Мне тебя жаль.}
-{Speech 4 Answer 10}{}{Ответишь еще на один вопрос?}
-{Speech 4 Answer Exit}{}{Мне пора. [Уйти]}
-{Speech 5}{}{Всю жизнь я от кого-то защищалась и умею делать это лучше всего, плюс за это платят, поэтому я занимаюсь охраной караванов. }
-{Speech 5 Answer 10}{}{Понятно, можно еще вопрос?}
-{Speech 5 Answer Exit}{}{Мне пора. [Уйти]}
-{Speech 6}{}{Я умею  метко стрелять, быстро бегать, читать мысли на расстоянии, ну и, конечно, добавляю иммунитет рядом стоящим.}
-{Speech 6 Answer 10}{}{Понятно, можно еще вопрос?}
-{Speech 6 Answer 7}{}{Ха! И о чем я сейчас думаю?}
-{Speech 6 Answer 8}{}{Бред какой. Иммунитет? Ты о чем вообще?}
-{Speech 6 Answer 5}{}{Спасибо за ответы. [Уйти]@@Удачи. [Уйти]@@Увидимся. [Уйти]}
-{Speech 7}{}{[Морщит лоб, изображая серьзеный мыслительный процесс...]@sex@|Пошляк! Даже не мечтай!|Нет милая, не думай об этом, здесь много чужих глаз. Может, в следующий раз...|}
-{Speech 7 Answer Exit}{}{Ты меня пугаешь. [Уйти]}
-{Speech 8}{}{Отвали!}
-{Speech 9}{}{Ничего не бойся, всё что тебе нужно у тебя уже есть.}
-{Speech 9 Answer 10}{}{Понятно, можно еще вопрос?}
-{Speech 10}{}{Спрашивай, что хочешь.}
-{Speech 10 Answer 9}{}{Можешь дать какой-нибудь совет? }
-{Speech 10 Answer 6}{}{Что ты умеешь?}
-{Speech 10 Answer 5}{}{Почему ты занимаешься охраной караванов?}
-{Speech 10 Answer Exit}{}{Спасибо за ответы. [Уйти]@@Удачи. [Уйти]@@Увидимся. [Уйти]}
+{Speech 2}{}{[Anaferon nods at you and smiles] }
+{Speech 2 Answer Exit}{}{Let's talk next time. [Leave]}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 3}{}{I'm a woman from the tribe of Amazons. My name is Anaferon.}
+{Speech 3 Answer 10}{}{I see, can I ask another question?}
+{Speech 3 Answer 4}{}{Amazons? What kind of tribe is that?}
+{Speech 4}{}{[Looks at you with sympathy] You've never heard of them? I feel sorry for you.}
+{Speech 4 Answer 10}{}{Will you answer one more question?}
+{Speech 4 Answer Exit}{}{I have to go. [Leave]}
+{Speech 5}{}{All my life I've been defending myself from someone, and I do it best of all, plus they pay for it, so I guard caravans. }
+{Speech 5 Answer 10}{}{I see, can I ask another question?}
+{Speech 5 Answer Exit}{}{I have to go. [Leave]}
+{Speech 6}{}{I can shoot accurately, run fast, read minds at a distance, and, of course, I grant immunity to those standing nearby.}
+{Speech 6 Answer 10}{}{I see, can I ask another question?}
+{Speech 6 Answer 7}{}{Ha! And what am I thinking about right now?}
+{Speech 6 Answer 8}{}{What nonsense. Immunity? What are you even talking about?}
+{Speech 6 Answer 5}{}{Thanks for the answers. [Leave]@@Good luck. [Leave]@@See you. [Leave]}
+{Speech 7}{}{[Wrinkles her brow, feigning a serious thought process...]@sex@|Pervert! Don't even dream of it!|No, dear, don't think about that, there are many prying eyes here. Maybe next time...|}
+{Speech 7 Answer Exit}{}{You're scaring me. [Leave]}
+{Speech 8}{}{Get lost!}
+{Speech 9}{}{Don't be afraid of anything, everything you need you already have.}
+{Speech 9 Answer 10}{}{I see, can I ask another question?}
+{Speech 10}{}{Ask whatever you want.}
+{Speech 10 Answer 9}{}{Can you give me some advice? }
+{Speech 10 Answer 6}{}{What can you do?}
+{Speech 10 Answer 5}{}{Why do you guard caravans?}
+{Speech 10 Answer Exit}{}{Thanks for the answers. [Leave]@@Good luck. [Leave]@@See you. [Leave]}

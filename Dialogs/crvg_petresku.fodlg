@@ -55,20 +55,20 @@ Speech 5 # Молиться, молиться и молиться.@@Только
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Приветствую тебя, дитя.}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 2 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 2 Answer 5}{}{Как выжить в Пустоши?}
-{Speech 2 Answer Exit}{}{Мне пора. [Уйти]@@Поговорим позже. [Уйти]}
-{Speech 3}{}{Меня зовут отец Петреску. Я монах. Возможно, последний францисканец на всей земле.}
-{Speech 3 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 3 Answer 5}{}{Как выжить в Пустоши?}
-{Speech 3 Answer Exit}{}{Мне пора. [Уйти]@@Поговорим позже. [Уйти]}
-{Speech 4}{}{По пути каравана мы часто встречаемся с заблудшими душами. Я не теряю надежды наставить каждого павшего духом на путь истинный.}
-{Speech 4 Answer 5}{}{Как выжить в Пустоши?}
-{Speech 4 Answer Exit}{}{Мне пора. [Уйти]@@Поговорим позже. [Уйти]}
-{Speech 5}{}{Молиться, молиться и молиться.@@Только молитва и пост, @sex@|сын мой|дочь моя|, молитва и пост.}
-{Speech 5 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 5 Answer Exit}{}{Мне пора. [Уйти]@@Поговорим позже. [Уйти]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Greetings, child.}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{Why do you guard caravans?}
+{Speech 2 Answer 5}{}{How to survive in the Wasteland?}
+{Speech 2 Answer Exit}{}{I have to go. [Leave]@@Let's talk later. [Leave]}
+{Speech 3}{}{My name is Father Petresku. I am a monk. Perhaps the last Franciscan on all the earth.}
+{Speech 3 Answer 4}{}{Why do you guard caravans?}
+{Speech 3 Answer 5}{}{How to survive in the Wasteland?}
+{Speech 3 Answer Exit}{}{I have to go. [Leave]@@Let's talk later. [Leave]}
+{Speech 4}{}{Along the caravan's path we often meet lost souls. I never lose hope of guiding every dispirited one onto the true path.}
+{Speech 4 Answer 5}{}{How to survive in the Wasteland?}
+{Speech 4 Answer Exit}{}{I have to go. [Leave]@@Let's talk later. [Leave]}
+{Speech 5}{}{To pray, to pray, and to pray.@@Only prayer and fasting, @sex@|my son|my daughter|, prayer and fasting.}
+{Speech 5 Answer 4}{}{Why do you guard caravans?}
+{Speech 5 Answer Exit}{}{I have to go. [Leave]@@Let's talk later. [Leave]}

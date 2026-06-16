@@ -17,6 +17,6 @@ Speech 2 # Пони! Бабочки! Какашки!@@У меня в глазу 
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Пони! Бабочки! Какашки!@@У меня в глазу сова!@@ЫыыыЫ@@REDRUM@@Плоть падших ангелов!@@Я сумею восстановить жесткий диск, я хочу награду...@@Я не хочу стать гномом!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Ponies! Butterflies! Poopies!@@There's an owl in my eye!@@Yyyyy@@REDRUM@@Flesh of the fallen angels!@@I can recover the hard drive, I want a reward...@@I don't want to become a gnome!}

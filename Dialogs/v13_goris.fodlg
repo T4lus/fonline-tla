@@ -102,18 +102,18 @@ Speech 7 # Поспеши.
 {Speech 1 Answer 5}{}{Quest finished}
 {Speech 1 Answer 4*}{}{Quest not started, not allowed}
 {Speech 2}{}{How did you get here?@@Did you break through the guards?}
-{Speech 2 Answer 6}{}{Чо твоя хотеть?}
-{Speech 2 Answer Exit}{}{Не, моя не помогать для говорящий зверь...}
-{Speech 2 Answer Exit*}{}{Не сейчаса... Твоя ждать, моя быстро вернуться.}
-{Speech 2 Answer 6*}{}{Что ты хочешь?@@Какая помощь тебе нужна?}
-{Speech 2 Answer Exit**}{}{Я не стану помогать тебе, мерзкая тварь!}
-{Speech 2 Answer Exit***}{}{Подожди, я сейчас вернусь...}
-{Speech 3}{}{Что тебе нужно?@@Что?..@@Опять издеваться пришли?..}
-{Speech 4}{}{Спасибо, что согласился помочь мне, поторопись...}
-{Speech 5}{}{Спасибо, за помощь, друг...}
-{Speech 6}{}{Вот, яйцо... Возми его и отнеси профессору в Брокен Хиллс. Поговори с ним, возможно ему удастся вырастить разумного смертокогта.}
-{Speech 6 Answer Exit}{}{Я не стану помогать тебе, мерзкая тварь!}
-{Speech 6 Answer 7}{}{Хорошо, я отнесу яйцо профессору. Давай скорее, пока охрана не пришла...}
-{Speech 6 Answer Exit*}{}{Моя не будет помогать для говорящий зверь...}
-{Speech 6 Answer 7*}{}{Моя помогать для говорящий зверь. Твоя давать яйцо, быстро-быстро.}
-{Speech 7}{}{Поспеши.}
+{Speech 2 Answer 6}{}{What you want?}
+{Speech 2 Answer Exit}{}{No, me no help talking beast...}
+{Speech 2 Answer Exit*}{}{Not now... You wait, me come back quick.}
+{Speech 2 Answer 6*}{}{What do you want?@@What kind of help do you need?}
+{Speech 2 Answer Exit**}{}{I won't help you, you vile creature!}
+{Speech 2 Answer Exit***}{}{Wait, I'll be right back...}
+{Speech 3}{}{What do you need?@@What?..@@Did you come to mock me again?..}
+{Speech 4}{}{Thank you for agreeing to help me, hurry...}
+{Speech 5}{}{Thank you for the help, friend...}
+{Speech 6}{}{Here, the egg... Take it and bring it to the professor in Broken Hills. Talk to him, maybe he'll manage to raise an intelligent deathclaw.}
+{Speech 6 Answer Exit}{}{I won't help you, you vile creature!}
+{Speech 6 Answer 7}{}{Alright, I'll bring the egg to the professor. Let's hurry, before the guards come...}
+{Speech 6 Answer Exit*}{}{Me no help talking beast...}
+{Speech 6 Answer 7*}{}{Me help talking beast. You give egg, quick-quick.}
+{Speech 7}{}{Hurry up.}

@@ -137,53 +137,53 @@ Speech 17 # Говорят, у вас добавили дождь? Надо бы
 
 [Text engl]
 {Name}{}{Tim}
-{DescAliveShort}{}{Вы видите весёлого бородача.}
-{DescAliveFull}{}{Весёлый бородач в очках.}
+{DescAliveShort}{}{You see a cheerful bearded man.}
+{DescAliveFull}{}{A cheerful bearded man in glasses.}
 {Speech 1}{}{Initial preferences}
-{Speech 1 Answer 2}{}{Первый диалог.}
-{Speech 1 Answer 16}{}{После диалога - не говорил про ТЛА}
-{Speech 1 Answer 17}{}{После диалога - говорил про ТЛА}
-{Speech 2}{}{Привет, путешественник! Приятно увидеть кого-то живого в этих диких местах. Я Тим.}
-{Speech 2 Answer 3}{}{Очень приятно, Тим. Я @pname@. Куда направляетесь?}
-{Speech 2 Answer 15}{}{Ха-ха-ха. Это ограбление!}
-{Speech 2 Answer Exit}{}{Ага. Удачного пути.}
-{Speech 2 Answer 14}{}{Бу-бу.}
-{Speech 2 Answer 14*}{}{Вака-Вака.}
-{Speech 3}{}{Очень приятно, @pname@. Толком никуда не направляюсь - пытаюсь найти Избранного.}
-{Speech 3 Answer 4}{}{Избранного? Какое совпадение. Вот и я его ищу. Вас тоже наняли в Арройо?}
-{Speech 3 Answer 12}{}{Опасный, наверное, путь.}
-{Speech 3 Answer Exit}{}{Ну не хочешь говорить, так и не надо.}
-{Speech 4}{}{Арройо? Нет, я там был только мельком. Меня послал его дед.}
-{Speech 4 Answer 5}{}{Выходец? А разве он ещё не умер?}
-{Speech 4 Answer 10}{}{Дед? А для чего?}
-{Speech 5}{}{С чего бы это? Между выходом Фаллаут 1 и 2 прошёл всего год. Разумеется, актёр, который его играл, ещё не умер.}
-{Speech 5 Answer 6}{}{Мужик, это не Фаллаут 2, это Жизнь После. Уже 13 лет прошло.}
-{Speech 6}{}{Да?! Ну нихрена себе я заблудился. Вроде дошёл до НКР, а потом всё время на север... А что за Жизнь После? Это третья часть?}
-{Speech 6 Answer 7}{}{Не, третья так и не вышла. Не хватило денег. Но мы сейчас онлайн.}
-{Speech 7}{}{Онлайн? Круто. Так Избранному, получается, ГЕКК уже не нужен?}
-{Speech 7 Answer 8}{}{Ну да, он уже отстроил свою деревушку и благополучно смылся.}
-{Speech 8}{}{Чёрт, зря ходил получается. Ну раз всё хорошо, то я спокоен. Ну, пока!}
-{Speech 8 Answer Exit}{}{Бывай.}
-{Speech 8 Answer 9}{}{А отдай мне ГЕКК, а? Раз тебе уже не нужен.}
-{Speech 9}{}{Хе-хе, смешная шутка.}
-{Speech 10}{}{Просил кое-что передать. ГЕКК, если конкретней. Нам просто сказали, что Избранный облажался и потерял свой. Положил в машину, а её угнали. На землю-то ему его запретили класть...}
-{Speech 10 Answer 11}{}{ГЕКК? Круто! А он у тебя с собой?}
-{Speech 10 Answer 5}{}{А я вообще всегда думал@sex@||а|, что Выходец уже умер.}
-{Speech 11}{}{Хе-хе, даже не думай об этом. ГЕКК я вызову консольной командой, когда найду этого туземного засранца.}
-{Speech 11 Answer 15}{}{Ммм. А если найду?}
-{Speech 11 Answer 5}{}{А Выходец, что, жив ещё? Я думал@sex@||а|, он умер.}
-{Speech 11 Answer Exit}{}{Ну ясно. Интересная история, спасибо, я пойду.}
-{Speech 12}{}{Да, но и я не лыком шит. [Улыбается] Набрал полный карман собак, чтобы было поспокойней, и отправился.}
-{Speech 12 Answer 13}{}{Собак? Карман собак? Ты не оговорился, точно "карман собак"?}
-{Speech 12 Answer 4}{}{Так... Я предвкушаю интересную историю... Ну а что тебя сподвигло пойти искать Избранного с собаками в кармане? Тоже из Арройо послали?}
-{Speech 12 Answer Exit}{}{Собак, говоришь... Знаешь, мне пора убегать, впереди ещё долгий путь.}
-{Speech 13}{}{Ну да. Баг с собакопушкой пофиксили, поэтому приходится их метать просто так. Набираешь в карман и отбрасываешься потом, если кто пристанет.}
-{Speech 13 Answer Exit}{}{Извини, мне что-то не по себе рядом с психом. Я пойду своей дорогой, и тебе то же самое советую.}
-{Speech 13 Answer 4}{}{Мдаа. А чего ты, значит, пошёл искать Избранного? Тоже в Арройо наняли?}
-{Speech 14}{}{Извини, я не понимаю твоего языка.}
-{Speech 15}{}{Жри собак!}
-{Speech 15 Answer Exit}{}{Ага. Удачного пути.}
-{Speech 15 Answer 14}{}{Бу-бу.}
-{Speech 15 Answer 14*}{}{Вака-Вака.}
-{Speech 16}{}{Опять ты?@@Чего тебе?@@Не думаю, что мы знакомы.@@Идите своей дорогой.@@Не мешайте, я собирался отдохнуть.@@Давайте разделим территорию? Я сижу тут, а вы где-нибудь подальше.}
-{Speech 17}{}{Говорят, у вас добавили дождь? Надо бы посмотреть.@@Сколько лет прошло, а графика не улучшилась.@@Вы всё ещё в 2D? Делали же что-то трёхмерное...@@Все говорят про какого-то Цвета, кто это?@@А у вас можно кататься на машине по локации?@@Кто делал Дэн? В мои времена там были интересные квесты.@@Так Избранный нашёл в итоге ГЕКК?@@Хочу потом заглянуть в Мальтийский Сокол... Там оставалась одна рыжеволосая девушка. И почему мы не дали ей главной роли?@@Слышали, что этот парниша Авеллоне сейчас вытворяет?@@Фарго, говорят, в изгнании каком-то.@@Если бы не мы, они бы не смогли сделать вторую часть всего за год.@@Почему хабологи у вас носят пурпурные робы? Это же цвет Детей Собора.}
+{Speech 1 Answer 2}{}{First dialogue.}
+{Speech 1 Answer 16}{}{After dialogue - didn't talk about TLA}
+{Speech 1 Answer 17}{}{After dialogue - talked about TLA}
+{Speech 2}{}{Hello, traveler! Nice to see someone alive in these wild parts. I'm Tim.}
+{Speech 2 Answer 3}{}{Nice to meet you, Tim. I'm @pname@. Where are you headed?}
+{Speech 2 Answer 15}{}{Ha-ha-ha. This is a robbery!}
+{Speech 2 Answer Exit}{}{Yep. Have a safe trip.}
+{Speech 2 Answer 14}{}{Boo-boo.}
+{Speech 2 Answer 14*}{}{Waka-Waka.}
+{Speech 3}{}{Nice to meet you, @pname@. I'm not really headed anywhere in particular - I'm trying to find the Chosen One.}
+{Speech 3 Answer 4}{}{The Chosen One? What a coincidence. I'm looking for him too. Were you also hired in Arroyo?}
+{Speech 3 Answer 12}{}{A dangerous path, I'd imagine.}
+{Speech 3 Answer Exit}{}{Well, if you don't want to talk, then never mind.}
+{Speech 4}{}{Arroyo? No, I was only there briefly. His grandfather sent me.}
+{Speech 4 Answer 5}{}{The Vault Dweller? But isn't he dead already?}
+{Speech 4 Answer 10}{}{Grandfather? What for?}
+{Speech 5}{}{Why would he be? Only a year passed between the release of Fallout 1 and 2. Naturally, the actor who played him hasn't died yet.}
+{Speech 5 Answer 6}{}{Man, this isn't Fallout 2, this is The Life After. It's been 13 years already.}
+{Speech 6}{}{Really?! Well damn, I sure got lost. I thought I reached the NCR, and then kept going north all the time... So what's this The Life After? Is it the third part?}
+{Speech 6 Answer 7}{}{Nah, the third one never came out. Ran out of money. But we're online now.}
+{Speech 7}{}{Online? Cool. So the Chosen One doesn't need the GECK anymore, then?}
+{Speech 7 Answer 8}{}{Yeah, he already built up his little village and made off safely.}
+{Speech 8}{}{Damn, turns out I came all this way for nothing. Well, since everything's fine, I'm at ease. Well, see ya!}
+{Speech 8 Answer Exit}{}{Take care.}
+{Speech 8 Answer 9}{}{Hey, give me the GECK, will you? Since you don't need it anymore.}
+{Speech 9}{}{Heh-heh, funny joke.}
+{Speech 10}{}{He asked me to deliver something. The GECK, to be specific. We were just told that the Chosen One screwed up and lost his. Put it in a car, and the car got stolen. They forbade him from setting it down on the ground...}
+{Speech 10 Answer 11}{}{The GECK? Cool! Do you have it on you?}
+{Speech 10 Answer 5}{}{Actually, I always thought@sex@||| that the Vault Dweller was already dead.}
+{Speech 11}{}{Heh-heh, don't even think about it. I'll summon the GECK with a console command once I find that native bastard.}
+{Speech 11 Answer 15}{}{Mmm. And what if I find it?}
+{Speech 11 Answer 5}{}{The Vault Dweller, he's still alive? I thought@sex@||| he was dead.}
+{Speech 11 Answer Exit}{}{I see. Interesting story, thanks, I'll be going.}
+{Speech 12}{}{Yes, but I'm no fool either. [Smiles] I stuffed a whole pocket full of dogs to feel safer, and set off.}
+{Speech 12 Answer 13}{}{Dogs? A pocket of dogs? You didn't misspeak, definitely "a pocket of dogs"?}
+{Speech 12 Answer 4}{}{So... I'm anticipating an interesting story... So what made you go looking for the Chosen One with dogs in your pocket? Were you also sent from Arroyo?}
+{Speech 12 Answer Exit}{}{Dogs, you say... You know, I've got to run, there's still a long road ahead.}
+{Speech 13}{}{Yeah. They fixed the dog-launcher bug, so now I have to throw them by hand. You stuff a pocketful and chuck them later if someone bothers you.}
+{Speech 13 Answer Exit}{}{Sorry, I feel a bit uneasy around a psycho. I'll go my own way, and I advise you to do the same.}
+{Speech 13 Answer 4}{}{Yeah... So why did you set off to find the Chosen One? Were you also hired in Arroyo?}
+{Speech 14}{}{Sorry, I don't understand your language.}
+{Speech 15}{}{Eat dogs!}
+{Speech 15 Answer Exit}{}{Yep. Have a safe trip.}
+{Speech 15 Answer 14}{}{Boo-boo.}
+{Speech 15 Answer 14*}{}{Waka-Waka.}
+{Speech 16}{}{You again?@@What do you want?@@I don't think we've met.@@Go on your way.@@Don't bother me, I was about to rest.@@How about we split the territory? I'll sit here, and you go somewhere farther off.}
+{Speech 17}{}{They say you've added rain? I should take a look.@@So many years have passed, and the graphics haven't improved.@@You're still in 2D? You guys did do something three-dimensional...@@Everyone's talking about some Tsvet, who's that?@@Can you drive a car around the location at your place?@@Who made the Den? Back in my day there were interesting quests there.@@So did the Chosen One find the GECK in the end?@@I want to drop by the Maltese Falcon later... There was a redheaded girl left there. And why didn't we give her the lead role?@@Did you hear what that Avellone fellow is up to these days?@@Fargo, they say, is in some kind of exile.@@If it weren't for us, they wouldn't have been able to make the second part in just a year.@@Why do your hubologists wear purple robes? That's the color of the Children of the Cathedral.}

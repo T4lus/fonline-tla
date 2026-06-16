@@ -69,25 +69,25 @@ Speech 8 # Не выйдет. Мне ещё тебя тестировать ну
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{первый диалог}
-{Speech 1 Answer 7}{}{последующие диалоги}
-{Speech 2}{}{Так, ну по показаниям, всё должно быть  в норме. Ты слышишь меня? Скажи что нибудь…}
-{Speech 2 Answer 3}{}{Эээээ….}
-{Speech 2 Answer 3*}{}{Аааа…}
-{Speech 3}{}{Что-нибудь содержательное, чтоб я понял, что мозг работает.}
-{Speech 3 Answer 4}{}{Содержательное тебе? Уточни тему тогда…}
-{Speech 3 Answer 4*}{}{Мозг у меня получше чем у многих работает…}
-{Speech 3 Answer 4**}{}{Что ты сделал со мной, чудовище?!!}
-{Speech 4}{}{Замечательно, я просто молодец. Всё вышло, как надо. Поздравляю тебя. Как, кстати, себя чувствуешь? Боль, дискомфорт присутствуют ?  Зрение, равновесие в норме? }
-{Speech 4 Answer 5}{}{Хм, не хотелось этого говорить, но я действительно в норме.}
-{Speech 4 Answer 5*}{}{Нет! Нет! Как я могу быть в норме, ты, долбаный идиот!}
-{Speech 5}{}{Ага, ага. Отлично. Ну, если я не ошибся, то ты будешь ощущать небывалый душевный подъем, от того, что свободен от бренного тела. }
-{Speech 5 Answer 6}{}{Да что-то ничего такого не замечаю…Может, я пойду уже?}
-{Speech 5 Answer 6*}{}{Во, точно! Да меня просто пополам рвёт от счастья. Можно мне уже идти?}
-{Speech 6}{}{Нет, пока нет. Нужны дополнительные исследования. Мне интересно, как это тебе удалось выжить, мдя. Пара десятков анализов, сотня - другая тестов - и сможешь идти, нести благую весть в пустоши. А сейчас оставь меня, мне нужно подумать.}
-{Speech 6 Answer Exit}{}{Как скажешь, док.}
-{Speech 7}{}{Чего тебе. Я занят. Размышляю. Потом тобой займусь, подожди пару месяцев.}
-{Speech 7 Answer 8}{}{Да мне бы, домой бы, по-любому бы}
-{Speech 8}{}{Не выйдет. Мне ещё тебя тестировать нужно.  Дверь блокирована,  ключ  у меня. Ты получишь  его только через мой труп. Выход на поверхность, кстати, заминирован. Иди давай в свою камеру.}
-{Speech 8 Answer Exit}{}{Через труп, говоришь? Ты выбрал!}
-{Speech 8 Answer Exit*}{}{Ладно, я еще подожду.}
+{Speech 1 Answer 2}{}{first dialog}
+{Speech 1 Answer 7}{}{subsequent dialogs}
+{Speech 2}{}{Right, well, by the readings, everything should be  normal. Do you hear me? Say something…}
+{Speech 2 Answer 3}{}{Uhhhh….}
+{Speech 2 Answer 3*}{}{Aaaa…}
+{Speech 3}{}{Something meaningful, so I can tell your brain is working.}
+{Speech 3 Answer 4}{}{Meaningful, for you? Then specify a topic…}
+{Speech 3 Answer 4*}{}{My brain works better than most people's…}
+{Speech 3 Answer 4**}{}{What did you do to me, you monster?!!}
+{Speech 4}{}{Wonderful, I'm a real genius. It all worked out just as it should. Congratulations. By the way, how do you feel? Any pain, discomfort ?  Vision, balance normal? }
+{Speech 4 Answer 5}{}{Hm, I didn't want to say it, but I really am fine.}
+{Speech 4 Answer 5*}{}{No! No! How can I be fine, you bloody idiot!}
+{Speech 5}{}{Yeah, yeah. Excellent. Well, if I didn't make a mistake, you'll feel an unprecedented spiritual elation at being free from your mortal body. }
+{Speech 5 Answer 6}{}{Yeah, I don't really notice anything like that…Maybe I'll just go now?}
+{Speech 5 Answer 6*}{}{Oh, exactly! I'm just bursting in two from happiness. Can I go now?}
+{Speech 6}{}{No, not yet. Additional research is needed. I'm curious how you managed to survive, hmm. A couple dozen analyses, a hundred or two tests - and you'll be able to go, spread the good news through the wasteland. But for now leave me, I need to think.}
+{Speech 6 Answer Exit}{}{Whatever you say, doc.}
+{Speech 7}{}{What do you want. I'm busy. Thinking. I'll get to you later, wait a couple of months.}
+{Speech 7 Answer 8}{}{I'd really, really like to go home, no matter what}
+{Speech 8}{}{Not gonna happen. I still need to test you.  The door's locked,  I've got the key. You'll only get it over my dead body. The exit to the surface, by the way, is mined. Go on, get back to your cell.}
+{Speech 8 Answer Exit}{}{Over your dead body, you say? You chose this!}
+{Speech 8 Answer Exit*}{}{Fine, I'll wait a bit longer.}

@@ -28,7 +28,7 @@ Speech 3 # Прочь отсюда, вам здесь не место!
 {DescAliveFull}{}{You see pretty woman in a laboratory coat. This is assistant Ashley.}
 {DescAliveFull}{}{ You see pretty woman in a laboratory coat. She is working at this moment.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{Ответ}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 2}{}{Извините, я занята.@@Если вам что-то нужно, обратитесь к профессору Генри.@@Сейчас не самое время для разговоров.}
-{Speech 3}{}{Прочь отсюда, вам здесь не место!}
+{Speech 1 Answer 3}{}{Answer}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 2}{}{Sorry, I'm busy.@@If you need something, go to Professor Henry.@@Now is not the best time for talking.}
+{Speech 3}{}{Get out of here, this is no place for you!}

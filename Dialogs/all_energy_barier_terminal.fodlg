@@ -111,36 +111,36 @@ Speech 12 # [Терминал не отвечает.]
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Начало.}
-{Speech 2}{}{[Компьютер готов к вводу команд.]}
-{Speech 2 Answer 3}{}{Попытаться отключить поле.}
-{Speech 2 Answer 2}{}{Использовать пропуск.}
-{Speech 2 Answer 2*}{}{Ударить терминал кулаком.}
-{Speech 2 Answer Exit}{}{Уйти. [Выход.]}
-{Speech 3}{}{Возможно, при научном подходе вы получите больше пользы.}
-{Speech 3 Answer 3}{}{Ударить терминал кулаком.}
-{Speech 3 Answer 3*}{}{Использовать пропуск.}
-{Speech 3 Answer Exit}{}{Уйти. [Выход.]}
-{Speech 4}{}{Энергетическое поле отключено.\nИнициализация процедуры ремонта.}
-{Speech 5}{}{[Попытка взлома безуспешна.]}
-{Speech 5 Answer 5}{}{Попытаться еще.}
-{Speech 5 Answer 5*}{}{Ударить кулаком прямо в экран.}
-{Speech 5 Answer 5**}{}{Использовать пропуск.}
-{Speech 5 Answer Exit}{}{Уйти. [Выход.]}
-{Speech 6}{}{[Вы получайте доступ к системным командам.]}
-{Speech 6 Answer Exit}{}{Отключить поле.}
-{Speech 6 Answer Exit*}{}{Уйти. [Выход.]}
-{Speech 7}{}{Терминал неисправен. Повторите попытку позже.}
-{Speech 7 Answer Exit}{}{[Воткнуть карту в слот, вдруг повезет.]}
-{Speech 7 Answer Exit*}{}{[Выход.]}
-{Speech 8}{}{Доступ временно заблокирован.}
-{Speech 8 Answer Exit}{}{[Воткнуть карту в слот, вдруг повезет.]}
-{Speech 8 Answer Exit*}{}{[Выход.]}
-{Speech 9}{}{Энергетическое поле отключено.}
-{Speech 10}{}{Срок действия пропуска истек.}
-{Speech 11}{}{[Терминал продолжил работать как ни в чем не бывало.]}
-{Speech 11 Answer 11}{}{Использовать пропуск.}
-{Speech 11 Answer Exit}{}{Уйти. [Выход.]}
-{Speech 11 Answer 11*}{}{Ударить еще раз.@@Попытаться еще раз.@@Ударить сильнее.@@Провести удар с разворота.}
-{Speech 12}{}{[Терминал не отвечает.]}
-{Speech 12 Answer Exit}{}{Уйти. [Выход.]}
+{Speech 1 Answer 2}{}{Start.}
+{Speech 2}{}{[The computer is ready to accept commands.]}
+{Speech 2 Answer 3}{}{Try to shut down the field.}
+{Speech 2 Answer 2}{}{Use the access card.}
+{Speech 2 Answer 2*}{}{Punch the terminal.}
+{Speech 2 Answer Exit}{}{Leave. [Exit.]}
+{Speech 3}{}{Perhaps a scientific approach would do you more good.}
+{Speech 3 Answer 3}{}{Punch the terminal.}
+{Speech 3 Answer 3*}{}{Use the access card.}
+{Speech 3 Answer Exit}{}{Leave. [Exit.]}
+{Speech 4}{}{Energy field shut down.\nInitializing repair procedure.}
+{Speech 5}{}{[The hacking attempt failed.]}
+{Speech 5 Answer 5}{}{Try again.}
+{Speech 5 Answer 5*}{}{Punch your fist right into the screen.}
+{Speech 5 Answer 5**}{}{Use the access card.}
+{Speech 5 Answer Exit}{}{Leave. [Exit.]}
+{Speech 6}{}{[You gain access to the system commands.]}
+{Speech 6 Answer Exit}{}{Shut down the field.}
+{Speech 6 Answer Exit*}{}{Leave. [Exit.]}
+{Speech 7}{}{Terminal malfunction. Please try again later.}
+{Speech 7 Answer Exit}{}{[Stick the card into the slot, maybe you'll get lucky.]}
+{Speech 7 Answer Exit*}{}{[Exit.]}
+{Speech 8}{}{Access temporarily blocked.}
+{Speech 8 Answer Exit}{}{[Stick the card into the slot, maybe you'll get lucky.]}
+{Speech 8 Answer Exit*}{}{[Exit.]}
+{Speech 9}{}{Energy field shut down.}
+{Speech 10}{}{The access card has expired.}
+{Speech 11}{}{[The terminal kept working as if nothing had happened.]}
+{Speech 11 Answer 11}{}{Use the access card.}
+{Speech 11 Answer Exit}{}{Leave. [Exit.]}
+{Speech 11 Answer 11*}{}{Hit it again.@@Try again.@@Hit it harder.@@Deliver a spinning blow.}
+{Speech 12}{}{[The terminal does not respond.]}
+{Speech 12 Answer Exit}{}{Leave. [Exit.]}

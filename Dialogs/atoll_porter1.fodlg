@@ -106,38 +106,38 @@ Speech 17 # Хо, ну спасибо, ети.  Обязательно на дн
 {Name}{}{Porter}
 {DescAliveShort}{}{You see a porter.}
 {DescAliveFull}{}{A grim worker.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 3}{}{Дурачина}
-{Speech 1 Answer 2}{}{все остальные}
-{Speech 2}{}{Ннну?}
-{Speech 2 Answer 5}{}{Здравствуйте! Не расскажете, чем вы здесь занимаетесь.}
-{Speech 3}{}{Что смотришь, тупица?}
-{Speech 3 Answer 4}{}{Ну эта...}
-{Speech 4}{}{Иди в своё стойло...}
-{Speech 5}{}{Ну чем занимаюсь, ети. Я тут мерчандайзером подрабатываю. Ети.}
-{Speech 5 Answer 6}{}{Оу! А что эта фигня значит?}
-{Speech 6}{}{Да  товар принимаю, ети. Раскладываю. Грузчик, короче, ети.}
-{Speech 6 Answer Exit}{}{А. Вопросов больше не имею.\n}
-{Speech 6 Answer 7}{}{Ну,  не самая плохая работа. Я, собственно, вот по какому вопросу. Вы что-нибудь слышали о технологии репликации?\n}
-{Speech 7}{}{Ха, слышал, а как же, ети. Тут до тебя приходил такой один…ети…}
-{Speech 7 Answer 8}{}{Какой один?\n}
-{Speech 8}{}{Ну такой … Как-то Ленин - не Ленин,  Просто Ленин, или что-то такое. Унылый такой волосатик, ети. Не знаешь его, нет?}
-{Speech 8 Answer 9}{}{Нет, не знаю таких. И что же он?\n}
-{Speech 8 Answer 10}{}{Ну а как же, это же мой лучший просто-напросто друг.\n\n}
-{Speech 9}{}{Да вот тоже про репликации рассказывал. Только что-то долго и нудно, и не понятно ничего, ети.}
-{Speech 9 Answer 11}{}{Хм. Что там можно долго рассказывать. Репликация позволяет человеку после смерти ожить. В своем собственном  теле, со своими воспоминаниями и опытом. Собственно, если коротко, это всё.\n\n}
-{Speech 10}{}{Таких друзей за жопу и в музей. Ети. Отвали, мне работать надо.}
-{Speech 11}{}{О. Ничего себе.  Ожить?  Это как? Я умер и ожил, что ли, ети?}
-{Speech 11 Answer 12}{}{Совершенно верно, гм…ети. Вот упал ты в море, тебя съела акула, а ты опа! - и снова живой. Ети.\n\n}
-{Speech 12}{}{Ну а если не съела, ети? Если от старости помру?}
-{Speech 12 Answer 13}{}{Ага, ну тогда оживешь в том возрасте, когда сканирование прошел. Вот сколько тебе сейчас?\n\n}
-{Speech 13}{}{Ну, сорок восемь, ети.}
-{Speech 13 Answer 14}{}{Вот если сейчас сканирование пройдешь, так и будешь всегда оживать как в сорок восемь.\n\n}
-{Speech 14}{}{Вона! А можно так,  чтоб в тридцать?}
-{Speech 14 Answer 15}{}{Нет, к сожалению.\n\n}
-{Speech 15}{}{Ну вот всегда так , ети. Ладно. А че за сканирование?}
-{Speech 15 Answer 16}{}{Да это просто матрицу с твоего тела снимут….Короче, это не больно и занимает пару минут. А, да, и бесплатно,  ети.\n\n}
-{Speech 16}{}{О, ты подумай, ети, бесплатно. И как это сделать, и где?}
-{Speech 16 Answer 17}{}{Да рядом вон, в Сан-Фране. Найдешь хабологов, скажешь, что от меня. Я, кстати @pname@. Они тебя без  очереди обслужат… Ети.\n\n}
-{Speech 17}{}{Хо, ну спасибо, ети.  Обязательно на днях займусь.}
-{Speech 17 Answer Exit}{}{Да не за что. Приходите к нам ещё.\n\n}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 3}{}{Moron}
+{Speech 1 Answer 2}{}{everyone else}
+{Speech 2}{}{Wweell?}
+{Speech 2 Answer 5}{}{Hello! Won't you tell me what you do here?}
+{Speech 3}{}{What are you looking at, dummy?}
+{Speech 3 Answer 4}{}{Well, uh...}
+{Speech 4}{}{Go back to your stall...}
+{Speech 5}{}{Well, what do I do, eti. I do a bit of merchandising here. Eti.}
+{Speech 5 Answer 6}{}{Whoa! And what does that gibberish mean?}
+{Speech 6}{}{Well, I take in the goods, eti. Stack them. A porter, in short, eti.}
+{Speech 6 Answer Exit}{}{Ah. I have no more questions.\n}
+{Speech 6 Answer 7}{}{Well, it's not the worst job. Actually, here's my question. Have you heard anything about replication technology?\n}
+{Speech 7}{}{Ha, sure I have, eti. Some guy came by here before you… eti…}
+{Speech 7 Answer 8}{}{What guy?\n}
+{Speech 8}{}{Well, this guy … Something like Lenin - not Lenin,  Just Lenin, or something like that. A gloomy long-haired type, eti. You don't know him, no?}
+{Speech 8 Answer 9}{}{No, don't know anyone like that. So what about him?\n}
+{Speech 8 Answer 10}{}{Well of course, he's only my very best friend.\n\n}
+{Speech 9}{}{Well, he was also telling me about replication. Only it was long and dull, and I didn't understand a thing, eti.}
+{Speech 9 Answer 11}{}{Hmm. What's there to tell at length. Replication lets a person come back to life after death. In your own body, with your own memories and experience. Actually, in short, that's all there is to it.\n\n}
+{Speech 10}{}{Friends like that you grab by the ass and put in a museum. Eti. Get lost, I've got work to do.}
+{Speech 11}{}{Oh. Wow.  Come back to life?  How's that? I died and came back, or what, eti?}
+{Speech 11 Answer 12}{}{Exactly right, um… eti. So you fall into the sea, a shark eats you, and then bam! - and you're alive again. Eti.\n\n}
+{Speech 12}{}{And what if it didn't eat me, eti? What if I die of old age?}
+{Speech 12 Answer 13}{}{Yep, well then you'll come back at the age you were when you got scanned. So how old are you now?\n\n}
+{Speech 13}{}{Well, forty-eight, eti.}
+{Speech 13 Answer 14}{}{So if you get scanned now, you'll always come back like you're forty-eight.\n\n}
+{Speech 14}{}{There you go! And can it be done so I'm thirty?}
+{Speech 14 Answer 15}{}{No, unfortunately.\n\n}
+{Speech 15}{}{Well, it's always like that, eti. Fine. And what's this scanning?}
+{Speech 15 Answer 16}{}{They just take a matrix off your body….In short, it doesn't hurt and takes a couple of minutes. Oh, and it's free,  eti.\n\n}
+{Speech 16}{}{Oh, imagine that, eti, free. And how do I do it, and where?}
+{Speech 16 Answer 17}{}{Just nearby, in San Fran. Find the hubologists, tell them you're from me. By the way, I'm @pname@. They'll serve you without a queue… Eti.\n\n}
+{Speech 17}{}{Ho, well thanks, eti.  I'll definitely get to it one of these days.}
+{Speech 17 Answer Exit}{}{Don't mention it. Come see us again.\n\n}

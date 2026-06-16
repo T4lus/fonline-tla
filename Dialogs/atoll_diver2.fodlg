@@ -106,33 +106,33 @@ Speech 12 # Очень гут. Вау, как блестит! Рейнджеры
 {Name}{}{Diver}
 {DescAliveShort}{}{You see a diver.}
 {DescAliveFull}{}{Young man with a pretty good constitution.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{ДУРАЧИНА}
-{Speech 1 Answer 3}{}{человек}
-{Speech 2}{}{Кто тебя выпустил без намордника? @@Потерялся, что ли? @@В дурдоме день открытых дверей?}
-{Speech 3}{}{Говори, что нужно?}
-{Speech 3 Answer 11}{}{Я по поводу нашего договора…}
-{Speech 3 Answer Exit}{}{Не, это я так.\n}
-{Speech 3 Answer 4}{}{Я  @pname@ . Я хочу поговорить с вами о репликации.\n}
-{Speech 4}{}{Говори, коли хочешь.}
-{Speech 4 Answer 5}{}{Вы ведь не проходили ещё сканирование у хабологов?\n}
-{Speech 5}{}{Не, не проходил. А что?}
-{Speech 5 Answer 6}{}{А не хотели бы пройти? С такой опасной работой, как ваша, это было бы вполне оправдано.}
-{Speech 6}{}{Ты разговариваешь, как  агенты сетевого маркетинга. Ты ж вроде не  Цептер продаёшь.  Давай конкретно: что ты от меня хочешь?}
-{Speech 6 Answer 7}{}{Ну эээ…}
-{Speech 7}{}{Тебе зачем-то надо, чтоб  я прошел сканирование, я так понимаю.}
-{Speech 7 Answer 8}{}{Да, верно.}
-{Speech 8}{}{Ну, раз тебе это надо, придется постараться. Выполнишь мою просьбу - пойду на сканирование.}
-{Speech 8 Answer 9}{}{Ну хорошо, а какую просьбу.}
-{Speech 9}{}{Ну мне нужна броня Тесла. Говорят, её продают, но мне ни разу не попалась. Принесешь - в тот же день пройду сканирование у хабологов.}
-{Speech 9 Answer 10}{}{Ладно. А зачем тебе броня, если не секрет?}
-{Speech 10}{}{Ну не буду же я тут вечно торчать. Я хочу отправиться на материк и стать лолодином…тьфу Паладином, в смысле. Или даже Рейнджером Карателя! Они сеют кругом дружбу и милосердие путём уничтожения всяких сволочей.   Вот круто будет!}
-{Speech 10 Answer Exit}{}{А, да,  ходят слухи про таких людей. Это несомненно будет круто. Ну, жди меня с бронёй.\n}
-{Speech 10 Answer Exit*}{}{Ну уж нет, увольте. помощь лолодинчикам- это не для меня.\n}
-{Speech 11}{}{Готово?}
-{Speech 11 Answer 12}{}{Да, вот, получи.\n}
-{Speech 11 Answer Exit}{}{Еще подвоза не было, но обещают.\n}
-{Speech 11 Answer 12*}{}{Да, вот, получи.}
-{Speech 12}{}{Очень гут. Вау, как блестит! Рейнджеры, ждите меня, я скоро!... Вот тебе за беготню. Ну,  я, как обещал, пройду сканирование на днях.}
-{Speech 12 Answer Exit}{}{Угу. Карателю от меня привет передай.\n}
-{Speech 12 Answer Exit*}{}{Желаю всяческих успехов.\n}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 2}{}{MORON}
+{Speech 1 Answer 3}{}{human}
+{Speech 2}{}{Who let you out without a muzzle? @@Got lost, did you? @@Is it open house day at the loony bin?}
+{Speech 3}{}{Speak, what do you need?}
+{Speech 3 Answer 11}{}{It's about our deal…}
+{Speech 3 Answer Exit}{}{Nah, never mind.\n}
+{Speech 3 Answer 4}{}{I'm  @pname@ . I want to talk to you about replication.\n}
+{Speech 4}{}{Speak, if you want.}
+{Speech 4 Answer 5}{}{You haven't been scanned by the hubologists yet, have you?\n}
+{Speech 5}{}{Nah, haven't. What of it?}
+{Speech 5 Answer 6}{}{Wouldn't you like to? It's risky living, probably, in the middle of all this water, replication could come in handy. What if your boat gets flipped in a storm or a shark attacks you while you swim. You know, 17 species of sharks live off the coast of San Francisco...}
+{Speech 6}{}{You talk like the guys who push cheap goods at the bazaars for big money.  Let's get specific: what do you want from me?}
+{Speech 6 Answer 7}{}{Well, uhh…}
+{Speech 7}{}{For some reason you need me to get scanned, the way I figure it.}
+{Speech 7 Answer 8}{}{Yes, that's right.}
+{Speech 8}{}{Well, since you need it, you'll have to try hard. Do me a favor - and I'll go get scanned.}
+{Speech 8 Answer 9}{}{All right. And what favor?}
+{Speech 9}{}{Well, I need Tesla armor. They say it's for sale, but I've never come across it. Bring it - and that same day I'll get scanned by the hubologists.}
+{Speech 9 Answer 10}{}{Fine. And why do you need the armor, if it's not a secret?}
+{Speech 10}{}{Well, I'm not going to hang around here forever. I want to head to the mainland and become some kind of Brotherhood paladin. Or even an NCR Ranger! They spread friendship and mercy all around by destroying all sorts of scum. That'll be cool!}
+{Speech 10 Answer Exit}{}{Ah, yeah,  there are rumors about people like that. That'll undoubtedly be cool. Well, wait for me to bring the armor.\n}
+{Speech 10 Answer Exit*}{}{No way, count me out. Helping all those "fighters against injustice" - that's not for me.\n}
+{Speech 11}{}{Done?}
+{Speech 11 Answer 12}{}{Yeah, here, take it.\n}
+{Speech 11 Answer Exit}{}{No shipment has come in yet, but they promise.\n}
+{Speech 11 Answer 12*}{}{Yeah, here, take it.}
+{Speech 12}{}{Very gut. Wow, how it shines! Rangers, wait for me, I'm coming soon!... Here's something for your running around. Well, as I promised, I'll get scanned one of these days.}
+{Speech 12 Answer Exit}{}{Yep. Give my regards to the NCR President.\n}
+{Speech 12 Answer Exit*}{}{I wish you every success.\n}

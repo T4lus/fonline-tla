@@ -17,6 +17,6 @@ Speech 2 # Привет!
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{*пищание*@@Пиииииииии!@@Го-пииии!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{*squeaking*@@Squeeeeeeak!@@Go-peeeee!}

@@ -16,9 +16,9 @@ Speech 2 # Все вопросы к боссу.@@Пополняй счёт, ин
 {Speech 2}{}{Все вопросы к боссу.@@Пополняй счёт, иначе мы придём за тобой.@@Мне запрещено говорить с посторонними.@@Если есть какие-то вопросы - спрашивай у босса.@@Отвали.@@Отойди.@@Держи дистанцию.@@Ты подош@sex@|ёл|ла| слишком близко.@@Не делай резких движений вблизи от меня.@@Три шага назад, быстро!}
 
 [Text engl]
-{Name}{}{Патрульный}
-{DescAliveShort}{}{Вы видите патрульного.}
-{DescAliveFull}{}{Патрульный хабологов. Может перекусить железный прут зубами, но ему этого не надо - у него есть пушка.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Все ответы.}
-{Speech 2}{}{Все вопросы к боссу.@@Пополняй счёт, иначе мы придём за тобой.@@Мне запрещено говорить с посторонними.@@Если есть какие-то вопросы - спрашивай у босса.@@Отвали.@@Отойди.@@Держи дистанцию.@@Ты подош@sex@|ёл|ла| слишком близко.@@Не делай резких движений вблизи от меня.@@Три шага назад, быстро!}
+{Name}{}{Patrolman}
+{DescAliveShort}{}{You see a patrolman.}
+{DescAliveFull}{}{A Hubologist patrolman. He could bite through an iron bar with his teeth, but he doesn't need to - he's got a gun.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{All answers.}
+{Speech 2}{}{Take all questions to the boss.@@Pay off your account, or we'll come for you.@@I'm forbidden to talk to outsiders.@@If you've got any questions - ask the boss.@@Buzz off.@@Step back.@@Keep your distance.@@You've come too close.@@Don't make any sudden moves near me.@@Three steps back, now!}

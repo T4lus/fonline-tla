@@ -70,27 +70,27 @@ Speech 6 # Не доверяй тому, что видишь.
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Кто здесь?!}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 2 Answer 4}{}{Почему ты охраняешь караваны?}
-{Speech 2 Answer 5}{}{Что ты умеешь?}
-{Speech 2 Answer 6}{}{Может дать какой-нибудь совет?}
-{Speech 3}{}{Твой ангел хранитель. [Рэт вам подмигивает]}
-{Speech 3 Answer 4}{}{Почему ты охраняешь караваны?}
-{Speech 3 Answer 5}{}{Что ты умеешь?}
-{Speech 3 Answer 6}{}{Может дать какой-нибудь совет?}
-{Speech 3 Answer Exit}{}{Рад@sex@||а| был@sex@||а| поболтать с тобой, Рэт. [Уйти]@@Мне пора. [Уйти]}
-{Speech 4}{}{Ну а кто, если не я?}
-{Speech 4 Answer 5}{}{Что ты умеешь?}
-{Speech 4 Answer 6}{}{Может дать какой-нибудь совет?}
-{Speech 4 Answer Exit}{}{Рад@sex@||а| был@sex@||а| поболтать с тобой, Рэт. [Уйти]@@Мне пора. [Уйти]}
-{Speech 5}{}{Могу копать. Могу не копать! Не приставай ко мне с идиотскими вопросами.}
-{Speech 5 Answer 4}{}{Почему ты охраняешь караваны?}
-{Speech 5 Answer 6}{}{Может дать какой-нибудь совет?}
-{Speech 5 Answer Exit}{}{Рад@sex@||а| был@sex@||а| поболтать с тобой, Рэт. [Уйти]@@Мне пора. [Уйти]}
-{Speech 6}{}{Не доверяй тому, что видишь.}
-{Speech 6 Answer 4}{}{Почему ты охраняешь караваны?}
-{Speech 6 Answer 5}{}{Что ты умеешь?}
-{Speech 6 Answer Exit}{}{Рад@sex@||а| был@sex@||а| поболтать с тобой, Рэт. [Уйти]@@Мне пора. [Уйти]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Who's there?!}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{Why do you guard caravans?}
+{Speech 2 Answer 5}{}{What can you do?}
+{Speech 2 Answer 6}{}{Can you give me some advice?}
+{Speech 3}{}{Your guardian angel. [Ret winks at you]}
+{Speech 3 Answer 4}{}{Why do you guard caravans?}
+{Speech 3 Answer 5}{}{What can you do?}
+{Speech 3 Answer 6}{}{Can you give me some advice?}
+{Speech 3 Answer Exit}{}{It was a pleasure chatting with you, Ret. [Leave]@@I have to go. [Leave]}
+{Speech 4}{}{Well, who else, if not me?}
+{Speech 4 Answer 5}{}{What can you do?}
+{Speech 4 Answer 6}{}{Can you give me some advice?}
+{Speech 4 Answer Exit}{}{It was a pleasure chatting with you, Ret. [Leave]@@I have to go. [Leave]}
+{Speech 5}{}{I can dig. I can not dig! Don't bother me with idiotic questions.}
+{Speech 5 Answer 4}{}{Why do you guard caravans?}
+{Speech 5 Answer 6}{}{Can you give me some advice?}
+{Speech 5 Answer Exit}{}{It was a pleasure chatting with you, Ret. [Leave]@@I have to go. [Leave]}
+{Speech 6}{}{Don't trust what you see.}
+{Speech 6 Answer 4}{}{Why do you guard caravans?}
+{Speech 6 Answer 5}{}{What can you do?}
+{Speech 6 Answer Exit}{}{It was a pleasure chatting with you, Ret. [Leave]@@I have to go. [Leave]}

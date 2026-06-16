@@ -57,20 +57,20 @@ Speech 5 # [Терминал вышел из строя]
 {Speech 5 Answer Exit}{}{[Выход]}
 
 [Text engl]
-{Name}{}{Компьютер}
+{Name}{}{Computer}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{...}
-{Speech 1 Answer 5}{}{уже сделано}
-{Speech 2}{}{Для тестирования телепортационного устройства установите на правой платформе (белая дверь) предметы общим весом не более 10 кг. Производите установку точно по центру платформы (отмечено крестом).}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 2 Answer 3}{}{[Отключить контроль веса предметов]}
-{Speech 2 Answer 4}{}{[Отключить контроль веса предметов]}
-{Speech 2 Answer Exit*}{}{[Начать тестирование]}
-{Speech 3}{}{Несанкционированный доступ. Запрещена настройка параметра телепортатора.}
-{Speech 3 Answer Exit}{}{[Выход]}
-{Speech 4}{}{Контроль веса отключен. Для тестирования телепортационного устройства установите на платформе предметы, подлежащие телепортации.}
-{Speech 4 Answer Exit}{}{[Выход]}
-{Speech 4 Answer Exit*}{}{[Начать тестирование]}
-{Speech 4 Answer Exit**}{}{[Начать тестирование]}
-{Speech 5}{}{[Терминал вышел из строя]}
-{Speech 5 Answer Exit}{}{[Выход]}
+{Speech 1 Answer 5}{}{already done}
+{Speech 2}{}{To test the teleportation device, place items with a total weight of no more than 10 kg on the right platform (white door). Place them exactly at the center of the platform (marked with a cross).}
+{Speech 2 Answer Exit}{}{[Exit]}
+{Speech 2 Answer 3}{}{[Disable item weight control]}
+{Speech 2 Answer 4}{}{[Disable item weight control]}
+{Speech 2 Answer Exit*}{}{[Begin testing]}
+{Speech 3}{}{Unauthorized access. Adjusting the teleporter parameter is forbidden.}
+{Speech 3 Answer Exit}{}{[Exit]}
+{Speech 4}{}{Weight control disabled. To test the teleportation device, place items to be teleported on the platform.}
+{Speech 4 Answer Exit}{}{[Exit]}
+{Speech 4 Answer Exit*}{}{[Begin testing]}
+{Speech 4 Answer Exit**}{}{[Begin testing]}
+{Speech 5}{}{[Terminal out of order]}
+{Speech 5 Answer Exit}{}{[Exit]}

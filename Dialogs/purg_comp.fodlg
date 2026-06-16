@@ -142,41 +142,41 @@ Speech 13 # Команда 4 станции репликации:  @arg players@
 {Name}{}{purgatory computer}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{[Вас приветствует система  "M.P.C Minor 2.0"]}
-{Speech 2 Answer 3}{}{Информация.}
-{Speech 2 Answer 4}{}{Снабжение.}
-{Speech 2 Answer 8}{}{Снабжение.}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 3}{}{Статистика. Укажите, какого рода информация вас интересует.}
-{Speech 3 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 3 Answer 9}{}{Общее число участников Испытания.}
-{Speech 3 Answer 10}{}{Состав команды №1.}
-{Speech 3 Answer 11}{}{Состав команды №2.}
-{Speech 3 Answer 12}{}{Состав команды №3.}
-{Speech 3 Answer 13}{}{Состав команды №4.}
-{Speech 4}{}{[Вы можете выбрать один из стандартных комплектов снаряжения]}
-{Speech 4 Answer 5}{}{[Охотничья винтовка и кожаная броня]}
-{Speech 4 Answer 5*}{}{[Автомат 10мм и металлическая броня]}
-{Speech 4 Answer 5**}{}{[Комплект гранат, маузер и мина]}
-{Speech 4 Answer 5***}{}{[Кувалда и металлическая броня]}
-{Speech 4 Answer 5****}{}{[Лазерный пистолет и роба]}
-{Speech 4 Answer 5*****}{}{[Дробовик и кожаная куртка]}
-{Speech 4 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 5}{}{[Подтверждена выдача комплекта снаряжения]}
-{Speech 5 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 6}{}{[Время до начала Испытания, минут: @arg minutes@]}
-{Speech 6 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 7}{}{[Время до окончания Испытания, минут: @arg minutes@]}
-{Speech 7 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 8}{}{[Лимит исчерпан]}
-{Speech 8 Answer 2}{}{[Вернуться в главное меню]}
-{Speech 9}{}{[Всего участников: @arg total@; из них мертвы: @arg dead@]}
-{Speech 9 Answer Back}{}{[Назад]}
-{Speech 10}{}{Команда 1 станции репликации:\n@arg players@.\n}
-{Speech 10 Answer Back}{}{[Назад]}
-{Speech 11}{}{Команда 2 станции репликации:\n@arg players@.\n}
-{Speech 11 Answer Back}{}{[Назад]}
-{Speech 12}{}{Команда 3 станции репликации:\n@arg players@.\n}
-{Speech 12 Answer Back}{}{[Назад]}
-{Speech 13}{}{Команда 4 станции репликации:\n@arg players@.\n}
-{Speech 13 Answer Back}{}{[Назад]}
+{Speech 2}{}{[You are greeted by the "M.P.C Minor 2.0" system]}
+{Speech 2 Answer 3}{}{Information.}
+{Speech 2 Answer 4}{}{Supplies.}
+{Speech 2 Answer 8}{}{Supplies.}
+{Speech 2 Answer Exit}{}{[Exit]}
+{Speech 3}{}{Statistics. Specify what kind of information you are interested in.}
+{Speech 3 Answer 2}{}{[Return to main menu]}
+{Speech 3 Answer 9}{}{Total number of Trial participants.}
+{Speech 3 Answer 10}{}{Composition of team #1.}
+{Speech 3 Answer 11}{}{Composition of team #2.}
+{Speech 3 Answer 12}{}{Composition of team #3.}
+{Speech 3 Answer 13}{}{Composition of team #4.}
+{Speech 4}{}{[You may choose one of the standard equipment kits]}
+{Speech 4 Answer 5}{}{[Hunting rifle and leather armor]}
+{Speech 4 Answer 5*}{}{[10mm SMG and metal armor]}
+{Speech 4 Answer 5**}{}{[Grenade kit, mauser and mine]}
+{Speech 4 Answer 5***}{}{[Sledgehammer and metal armor]}
+{Speech 4 Answer 5****}{}{[Laser pistol and robe]}
+{Speech 4 Answer 5*****}{}{[Shotgun and leather jacket]}
+{Speech 4 Answer 2}{}{[Return to main menu]}
+{Speech 5}{}{[Issuance of the equipment kit confirmed]}
+{Speech 5 Answer 2}{}{[Return to main menu]}
+{Speech 6}{}{[Time until the Trial begins, minutes: @arg minutes@]}
+{Speech 6 Answer 2}{}{[Return to main menu]}
+{Speech 7}{}{[Time until the Trial ends, minutes: @arg minutes@]}
+{Speech 7 Answer 2}{}{[Return to main menu]}
+{Speech 8}{}{[Limit exhausted]}
+{Speech 8 Answer 2}{}{[Return to main menu]}
+{Speech 9}{}{[Total participants: @arg total@; of them dead: @arg dead@]}
+{Speech 9 Answer Back}{}{[Back]}
+{Speech 10}{}{Team 1 of the replication station:\n@arg players@.\n}
+{Speech 10 Answer Back}{}{[Back]}
+{Speech 11}{}{Team 2 of the replication station:\n@arg players@.\n}
+{Speech 11 Answer Back}{}{[Back]}
+{Speech 12}{}{Team 3 of the replication station:\n@arg players@.\n}
+{Speech 12 Answer Back}{}{[Back]}
+{Speech 13}{}{Team 4 of the replication station:\n@arg players@.\n}
+{Speech 13 Answer Back}{}{[Back]}

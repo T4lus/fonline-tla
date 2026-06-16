@@ -177,63 +177,63 @@ Speech 18 # Надеюсь, ты используешь их с умом.
 {DescAliveShort}{}{You see a citizen in blue jumpsuit without any number on the back.}
 {DescAliveFull}{}{You see officer Darrow.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 4}{}{тупой}
-{Speech 1 Answer 6}{}{квест пройден}
-{Speech 1 Answer 5}{}{Текст ответа}
-{Speech 1 Answer 2}{}{не взят}
+{Speech 1 Answer 4}{}{dumb}
+{Speech 1 Answer 6}{}{quest completed}
+{Speech 1 Answer 5}{}{Answer text}
+{Speech 1 Answer 2}{}{not taken}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2}{}{Прошу прощения, чем могу служить?}
-{Speech 2 Answer 7}{}{Можно поглядеть, что у тебя есть?}
-{Speech 2 Answer 3}{}{Что это за место?}
-{Speech 2 Answer Exit}{}{Ничем, спасибо.}
-{Speech 3}{}{Служба Обустройства A... мы поставляем в город инструменты и оборудование для ремонта. Вы уверены, что попали по адресу?}
-{Speech 3 Answer Exit}{}{Да, абсолютно. Могу я посмотреть, что у вас есть?}
-{Speech 3 Answer Exit*}{}{Вряд ли. До свидания.}
-{Speech 7}{}{Текст диалога}
-{Speech 7 Answer 13}{}{Ясно. И как обстоят ваши дела?}
-{Speech 7 Answer 10}{}{А поподробнее?}
-{Speech 7 Answer 14}{}{Расскажи мне о хозяйстве Церкви.}
-{Speech 7 Answer 8}{}{Прохладная история. Оу, я хотел сказать, ничего скучнее в жизни не слышал. [Выход]}
-{Speech 8}{}{Текст диалога}
-{Speech 10}{}{о церкви}
-{Speech 10 Answer 12}{}{Теперь понятно. И как обстоят ваши дела?}
-{Speech 10 Answer Exit}{}{Это все, что я хотел знать. [Выход]}
-{Speech 10 Answer 8}{}{Скучнейшая история в жизни. [Выход]}
-{Speech 5}{}{Текст диалога}
-{Speech 5 Answer 9}{}{Вот, держите. Учачной проповеди}
-{Speech 5 Answer 7}{}{Джерико, можно у тебя спросить?}
-{Speech 5 Answer Exit}{}{Нет, еще не нашел. [Выход]}
-{Speech 9}{}{проповедь}
-{Speech 6}{}{Текст диалога}
-{Speech 6 Answer Exit}{}{Все просто замечательно. Но я спешу. [Выход]}
-{Speech 6 Answer 11}{}{Все с божьей помощью. Вам не требуется помощь?}
-{Speech 6 Answer 7}{}{Джерико, можно у тебя спросить?}
-{Speech 11}{}{Текст диалога}
-{Speech 11 Answer Exit}{}{Ну и отлично. [Выход]}
-{Speech 12}{}{Текст диалога}
-{Speech 12 Answer 3}{}{Текст ответа}
-{Speech 12 Answer 7}{}{Я хочу спросить еще кое-что}
-{Speech 12 Answer Exit}{}{Текст ответа}
-{Speech 12 Answer 8}{}{Текст ответа}
-{Speech 13}{}{Текст диалога}
-{Speech 13 Answer 3}{}{Почему же тогда загон такой грязный?}
-{Speech 13 Answer 7}{}{Я хочу спросить еще кое-что}
-{Speech 13 Answer 15}{}{Наверняка ты собираешь брок и зандер?}
-{Speech 13 Answer Exit}{}{Поговорим позже. [Выход]}
-{Speech 14}{}{Текст диалога}
-{Speech 14 Answer 7}{}{Да, я гляжу вы неплохо устроились... Можно еще вопрос?}
-{Speech 14 Answer Exit}{}{Спасибо, это все, что я хотел знать.}
-{Speech 15}{}{Священные растения? Да, я собираю их на нужды монастыря.}
-{Speech 15 Answer 16}{}{А можешь поделиться со мной?}
-{Speech 16}{}{Сам понимаешь, не за бесплатно. Уступлю цветы брока за 250 монет за 25 штук, корни зандера - 125 монет за 25 штук.}
-{Speech 16 Answer 17}{}{А что, подешевле никак?}
-{Speech 16 Answer 18}{}{Ладно, дай мне цветов брока. [Отдать 500 монет]}
-{Speech 16 Answer 18*}{}{Ладно, дай мне корней зандера. [Отдать 250 монет]}
-{Speech 16 Answer 7}{}{Ладно, лучше я спрошу еще кое-что...}
-{Speech 17}{}{Ладно, для тебя - брок по 300 монет, зандер по 150}
-{Speech 17 Answer 18}{}{Ладно, дай мне цветов брока. [Отдать 300 монет]}
-{Speech 17 Answer 18*}{}{Ладно, дай мне корней зандера. [Отдать 250 монет]}
-{Speech 17 Answer 7}{}{Я передумал.}
-{Speech 18}{}{Надеюсь, ты используешь их с умом.}
-{Speech 18 Answer 7}{}{Позволь спросить еще кое-что.}
-{Speech 18 Answer Exit}{}{Спасибо, я пойду.}
+{Speech 2}{}{I beg your pardon, how may I serve you?}
+{Speech 2 Answer 7}{}{Can I take a look at what you've got?}
+{Speech 2 Answer 3}{}{What is this place?}
+{Speech 2 Answer Exit}{}{Nothing, thanks.}
+{Speech 3}{}{Refit Service A... we supply the town with tools and equipment for repairs. Are you sure you've come to the right place?}
+{Speech 3 Answer Exit}{}{Yes, absolutely. May I see what you have?}
+{Speech 3 Answer Exit*}{}{Hardly. Goodbye.}
+{Speech 7}{}{Dialogue text}
+{Speech 7 Answer 13}{}{I see. And how are things going for you?}
+{Speech 7 Answer 10}{}{In more detail?}
+{Speech 7 Answer 14}{}{Tell me about the Church's farm.}
+{Speech 7 Answer 8}{}{Cool story. Oh, I meant to say, I've never heard anything more boring in my life. [Exit]}
+{Speech 8}{}{Dialogue text}
+{Speech 10}{}{about the church}
+{Speech 10 Answer 12}{}{Now I understand. And how are things going for you?}
+{Speech 10 Answer Exit}{}{That's all I wanted to know. [Exit]}
+{Speech 10 Answer 8}{}{The most boring story of my life. [Exit]}
+{Speech 5}{}{Dialogue text}
+{Speech 5 Answer 9}{}{Here, take this. A successful sermon}
+{Speech 5 Answer 7}{}{Jericho, can I ask you something?}
+{Speech 5 Answer Exit}{}{No, haven't found it yet. [Exit]}
+{Speech 9}{}{sermon}
+{Speech 6}{}{Dialogue text}
+{Speech 6 Answer Exit}{}{Everything is just wonderful. But I'm in a hurry. [Exit]}
+{Speech 6 Answer 11}{}{All by God's grace. Do you need any help?}
+{Speech 6 Answer 7}{}{Jericho, can I ask you something?}
+{Speech 11}{}{Dialogue text}
+{Speech 11 Answer Exit}{}{Well, that's fine. [Exit]}
+{Speech 12}{}{Dialogue text}
+{Speech 12 Answer 3}{}{Answer text}
+{Speech 12 Answer 7}{}{I want to ask one more thing}
+{Speech 12 Answer Exit}{}{Answer text}
+{Speech 12 Answer 8}{}{Answer text}
+{Speech 13}{}{Dialogue text}
+{Speech 13 Answer 3}{}{Then why is the pen so dirty?}
+{Speech 13 Answer 7}{}{I want to ask one more thing}
+{Speech 13 Answer 15}{}{I bet you gather broc and xander?}
+{Speech 13 Answer Exit}{}{We'll talk later. [Exit]}
+{Speech 14}{}{Dialogue text}
+{Speech 14 Answer 7}{}{Yes, I see you've settled in nicely... Can I ask another question?}
+{Speech 14 Answer Exit}{}{Thanks, that's all I wanted to know.}
+{Speech 15}{}{Sacred plants? Yes, I gather them for the monastery's needs.}
+{Speech 15 Answer 16}{}{Can you share some with me?}
+{Speech 16}{}{You understand, not for free. I'll let you have broc flowers for 250 coins per 25 pieces, xander roots - 125 coins per 25 pieces.}
+{Speech 16 Answer 17}{}{Come on, no cheaper at all?}
+{Speech 16 Answer 18}{}{All right, give me broc flowers. [Give 500 coins]}
+{Speech 16 Answer 18*}{}{All right, give me xander roots. [Give 250 coins]}
+{Speech 16 Answer 7}{}{All right, I'd better ask something else...}
+{Speech 17}{}{All right, for you - broc at 300 coins, xander at 150}
+{Speech 17 Answer 18}{}{All right, give me broc flowers. [Give 300 coins]}
+{Speech 17 Answer 18*}{}{All right, give me xander roots. [Give 250 coins]}
+{Speech 17 Answer 7}{}{I changed my mind.}
+{Speech 18}{}{I hope you'll use them wisely.}
+{Speech 18 Answer 7}{}{Let me ask one more thing.}
+{Speech 18 Answer Exit}{}{Thanks, I'll be going.}

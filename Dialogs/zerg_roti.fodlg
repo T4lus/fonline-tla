@@ -217,88 +217,88 @@ Speech 32 # За жопу девок мацаю - мне хватает. Тем 
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Pre-dialogue settings}
 {Speech 1 Answer 33}{}{ }
-{Speech 33}{}{Приветствую. Я Роти - генерал казахской армии пустоши.}
-{Speech 33 Answer 2}{}{Странно увидеть тут генерала.}
-{Speech 33 Answer 4}{}{Роти, а у тебя девушка есть?}
-{Speech 2}{}{ Но перед тобой, никто иной, как генерал казахской армии пустоши.}
-{Speech 2 Answer 3}{}{Но как ты попал сюда?}
-{Speech 2 Answer 4}{}{У тебя есть любимая женщина?}
-{Speech 3}{}{ Плохо помню. Помню удар дрыном по голове.. и больше ничего.}
-{Speech 3 Answer 4}{}{А у тебя девушка есть?}
-{Speech 3 Answer 19}{}{А что у тебя на лбу?}
-{Speech 4}{}{Была. Расстался на прошлой неделе.}
-{Speech 4 Answer 5}{}{А что такое? Почему расстался?}
-{Speech 4 Answer 5*}{}{ Расскажи мне.}
-{Speech 5}{}{Сосаться не хотела. Вот я и кинул.}
-{Speech 5 Answer 6}{}{Сосаться? Это что? }
-{Speech 5 Answer 6*}{}{Что ты понимаешь под "сосаться"?}
-{Speech 6}{}{Поцелуй в засос.}
-{Speech 6 Answer 7}{}{А-а-а.}
-{Speech 6 Answer 8}{}{А секс, я так понимаю, не было?}
-{Speech 7}{}{Что А-а-а?}
-{Speech 7 Answer 8}{}{Секса, значит, не было?}
-{Speech 8}{}{Если сасаться не хочет, о сексе и речи быть не может.}
-{Speech 8 Answer 9}{}{Так ты девственник? Жаль.}
-{Speech 8 Answer 31}{}{Так ты дрочишь на порно?}
-{Speech 9}{}{Я не девственник. Уффф-уффф пару раз [Краснеет] .}
-{Speech 9 Answer 10}{}{Да? А когда у тебя был первый секс, и с кем? У меня не было еще, а хочется.}
-{Speech 10}{}{С одной бабой с моего класса раз было  и с параллельного. В 15 лет первый раз. Потом на шалав перешел, но иногда только.}
-{Speech 10 Answer 11}{}{А расскажи... Как это было, с бабой той? Ну мне интересно о тебе узнать.}
-{Speech 10 Answer 22}{}{И как это было с шлюхой?}
-{Speech 11}{}{С какой именно?}
-{Speech 11 Answer 12}{}{Ну. С той, что с параллельного.}
-{Speech 11 Answer 25}{}{С однокласницей.}
-{Speech 11 Answer 22}{}{С шлюхой же.}
-{Speech 12}{}{Я с ней встречался. Потом я ее домой привел. }
-{Speech 12 Answer 13}{}{Ты сам процесс давай, где вы и как с ней.}
-{Speech 13}{}{Мы сели на диван, начали целоваться. Потом я спрашиваю ты любишь меня, она говорит - да.}
-{Speech 13 Answer 14}{}{Она говорит: Да!}
-{Speech 14}{}{ Я говорю докажи. Она говорит - каким образом? Я - без слов. \nБеру ее за каленку, поднимаю все выше и выше. Потом поднимаю ее ковту. Дальше она сама сняла свою ковту и спрашиваю, поняла намек?}
-{Speech 14 Answer 15}{}{Ну, а какая она? Грудь была?}
+{Speech 33}{}{Greetings. I'm Roti - general of the Kazakh army of the wasteland.}
+{Speech 33 Answer 2}{}{Strange to see a general here.}
+{Speech 33 Answer 4}{}{Roti, have you got a girlfriend?}
+{Speech 2}{}{ But standing before you is none other than the general of the Kazakh army of the wasteland.}
+{Speech 2 Answer 3}{}{But how did you end up here?}
+{Speech 2 Answer 4}{}{Have you got a woman you love?}
+{Speech 3}{}{ I barely remember. I remember a blow to the head with a stick.. and nothing more.}
+{Speech 3 Answer 4}{}{And have you got a girlfriend?}
+{Speech 3 Answer 19}{}{And what's that on your forehead?}
+{Speech 4}{}{There was. We broke up last week.}
+{Speech 4 Answer 5}{}{What's the matter? Why did you break up?}
+{Speech 4 Answer 5*}{}{ Tell me.}
+{Speech 5}{}{She didn't want to make out. So I dumped her.}
+{Speech 5 Answer 6}{}{Make out? What's that? }
+{Speech 5 Answer 6*}{}{What do you mean by "making out"?}
+{Speech 6}{}{A deep, sucking kiss.}
+{Speech 6 Answer 7}{}{A-a-ah.}
+{Speech 6 Answer 8}{}{And sex, I take it, there was none?}
+{Speech 7}{}{What "a-a-ah"?}
+{Speech 7 Answer 8}{}{So there was no sex, then?}
+{Speech 8}{}{If she doesn't want to make out, then there's no talk of sex at all.}
+{Speech 8 Answer 9}{}{So you're a virgin? Pity.}
+{Speech 8 Answer 31}{}{So you jerk off to porn?}
+{Speech 9}{}{I'm not a virgin. Uhhh-uhhh, a couple of times [Blushes] .}
+{Speech 9 Answer 10}{}{Yeah? And when did you have your first time, and with whom? I haven't had it yet, but I'd like to.}
+{Speech 10}{}{Once with a girl from my class and one from the parallel class. First time at 15. Then I switched to hookers, but only now and then.}
+{Speech 10 Answer 11}{}{Come on, tell me... How was it, with that girl? I want to learn about you.}
+{Speech 10 Answer 22}{}{And how was it with the whore?}
+{Speech 11}{}{With which one exactly?}
+{Speech 11 Answer 12}{}{Well. With the one from the parallel class.}
+{Speech 11 Answer 25}{}{With the classmate.}
+{Speech 11 Answer 22}{}{With the whore, of course.}
+{Speech 12}{}{I was dating her. Then I brought her to my place. }
+{Speech 12 Answer 13}{}{Give me the actual process, where you were and how you did it with her.}
+{Speech 13}{}{We sat on the couch, started making out. Then I ask her, do you love me, she says - yes.}
+{Speech 13 Answer 14}{}{She says: Yes!}
+{Speech 14}{}{ I say prove it. She says - how? Me - without words. \nI take her by the knee, raise it higher and higher. Then I lift her top. After that she took off her top herself and I ask, you got the hint?}
+{Speech 14 Answer 15}{}{So, what was she like? Did she have tits?}
 {Speech 15}{}{2}
-{Speech 15 Answer 16}{}{Что? Две?}
-{Speech 16}{}{ Второй размер же. Смотрю, ты ещё салага совсем в таких делах.\n Она говорит - да, поняла. Снимает с меня футболку, я снял с нее юбку. Снимаю с себя штаны и валю ее на диван.}
-{Speech 16 Answer 17}{}{Ну.}
-{Speech 17}{}{Снял трусы, с нее потом с себя. Раздвинул ей ноги и вперед и с песней. Она была целка, так орала благо у мну частный дом.}
-{Speech 17 Answer 18}{}{Ох, мне бы так. А дальше что?}
-{Speech 18}{}{Потом я кончил. Не в пилотку конечно, высунуть успел и кончил прям на пузо. Подтер своей майкой, она помылсь, оделась, я ее проводил до хаты. Поцеловались и она домой зашла.}
-{Speech 18 Answer 22}{}{Как это благородно! А как же ты начал ходить по шлюхах?}
-{Speech 18 Answer Exit}{}{ Ясно, ну знайш, лучше я пойду, искать выход с этой адской лаборатории.}
-{Speech 19}{}{ Это все Зерг. Они пообещали сделать меня одним из них.}
-{Speech 19 Answer 4}{}{Роти, а у тебя девушка есть?}
-{Speech 19 Answer Exit}{}{Ясно, мне пора.}
-{Speech 19 Answer 20}{}{ И для этого обязательно было рисовать ... эмм ... хер на лбу?}
-{Speech 20}{}{Да, это часть процесса трансформации. Потом я должен буду насрать сам себе на голову и процесс будет завершен.}
-{Speech 20 Answer Exit}{}{Ясно, мне пора.}
-{Speech 20 Answer 4}{}{Ты встречаешься с девушкой?}
-{Speech 20 Answer 21}{}{Но, как же можно самому себе того..}
-{Speech 21}{}{ Специально для этого, зерги годами разрабатывали секретную антигравитационную установку. Врядли они стали бы мне врать.}
-{Speech 21 Answer Exit}{}{Убегу ка я отсюда.}
-{Speech 21 Answer 4}{}{А нет ли теперь проблем с противоположным полом? Девушка есть?}
-{Speech 22}{}{Я пришел на одну улицу. Кажется Сейфулина, там кафе. А внутри бабы в мини юбках сидят. Я выбрал, подошел и сказал, что есть желание поразвлечься.}
-{Speech 22 Answer 23}{}{Ну?}
-{Speech 23}{}{Она говорит - есть. Мы отошли в какую то комнату, я сел, а она давай с меня штаны стягивать. Сняла и давай сосать. Потом увалила мну на кровать. Взяла открыла гандон и рот. Я думаю, че за фигня, а она ртом одела мне его.}
-{Speech 23 Answer 24}{}{А я и гандона в руках не держал. И дальше что?}
-{Speech 24}{}{Залезла на меня и давай вверх-вниз, вверх-вниз. Одна палка стоила мне 3000 тенге.}
-{Speech 24 Answer 25}{}{А как же твоя однокласница?}
-{Speech 24 Answer Exit}{}{Ладно, я пошол.}
-{Speech 24 Answer 12}{}{А та, что с паралельного класа как?}
-{Speech 25}{}{Ну короч, она была как бы моя девушка. Мы с ней гуляли, целовались как всегда. А однажды, мы зашли в учительский туалет. }
-{Speech 25 Answer 26}{}{Зачем? [Недоумеваете]}
-{Speech 26}{}{Чтобы целоваться.}
-{Speech 26 Answer 27}{}{Давай подробнее.}
-{Speech 27}{}{Мы целовались, целовались и потом я ее голову все ниже и ниже спускаю. Она спрашивает - ты хочешь этого? Я говорю - да. Точно хочешь, говорит. Я говорю - да. }
-{Speech 27 Answer 28}{}{Ну!!}
-{Speech 28}{}{Она расстегивает шеринку, достает член и начинает сосать. Весь урок она у мну сосала, потом она говорит - все? Я говорю - хорош.}
-{Speech 28 Answer 29}{}{И что она?}
-{Speech 29}{}{ Она пророскала рот и мы пошли в класс. Я ей в рот раз семь накончал.}
-{Speech 29 Answer 30}{}{7 раз за 45 минут? Да я ничтожество в сравнении с тобой. И больше у тебя не было?}
-{Speech 30}{}{Нет, но хотелось бы.}
-{Speech 30 Answer 31}{}{А ты дрочишь на порно? Я да, девки не дают.}
-{Speech 31}{}{Нет. Анонизмом не занимаюсь.}
-{Speech 31 Answer 32}{}{Почему? Ну у тебя же давно секса не было.}
-{Speech 32}{}{За жопу девок мацаю - мне хватает. Тем более голодняки меня не берут.}
-{Speech 32 Answer Exit}{}{Ясно. Пока.}
-{Speech 32 Answer 11}{}{А расскажи...Как это было, с бабой той? Ну мне интересно о тебе узнать.}
+{Speech 15 Answer 16}{}{What? Two?}
+{Speech 16}{}{ B-cup, that is. I can see you're still a total greenhorn in these matters.\n She says - yeah, got it. Takes off my t-shirt, I took off her skirt. I pull off my pants and throw her onto the couch.}
+{Speech 16 Answer 17}{}{And?}
+{Speech 17}{}{Took off my underwear, then hers. Spread her legs and off we go, full steam ahead. She was a virgin, screamed so much, good thing I've got a private house.}
+{Speech 17 Answer 18}{}{Oh, I wish I had it like that. And what next?}
+{Speech 18}{}{Then I came. Not inside her, of course, I managed to pull out and came right on her belly. Wiped it with my shirt, she washed up, got dressed, I walked her home. We kissed and she went into her house.}
+{Speech 18 Answer 22}{}{How noble of you! But how did you start going to whores?}
+{Speech 18 Answer Exit}{}{ Got it, well, you know, I'd better go look for the way out of this hellish laboratory.}
+{Speech 19}{}{ It's all the Zerg. They promised to make me one of them.}
+{Speech 19 Answer 4}{}{Roti, have you got a girlfriend?}
+{Speech 19 Answer Exit}{}{Got it, I have to go.}
+{Speech 19 Answer 20}{}{ And for that you really had to draw ... um ... a dick on your forehead?}
+{Speech 20}{}{Yes, it's part of the transformation process. Then I'll have to crap on my own head and the process will be complete.}
+{Speech 20 Answer Exit}{}{Got it, I have to go.}
+{Speech 20 Answer 4}{}{Are you dating a girl?}
+{Speech 20 Answer 21}{}{But how can you do that to yourself..}
+{Speech 21}{}{ Specifically for this, the zerg spent years developing a secret anti-gravity device. They'd hardly lie to me.}
+{Speech 21 Answer Exit}{}{I think I'll run away from here.}
+{Speech 21 Answer 4}{}{And aren't there any problems now with the opposite sex? Got a girlfriend?}
+{Speech 22}{}{I came to a certain street. Seifulin Street, I think, there's a cafe there. And inside there are broads in mini skirts sitting around. I picked one, walked up and said I had a wish to have some fun.}
+{Speech 22 Answer 23}{}{And?}
+{Speech 23}{}{She says - sure. We went off to some room, I sat down, and she started pulling off my pants. Took them off and started sucking. Then she dropped me onto the bed. Took out a rubber and opened her mouth. I'm thinking, what the hell, and she put it on me with her mouth.}
+{Speech 23 Answer 24}{}{And I've never even held a rubber in my hands. And what next?}
+{Speech 24}{}{She climbed on top of me and went up-down, up-down. One round cost me 3000 tenge.}
+{Speech 24 Answer 25}{}{But what about your classmate?}
+{Speech 24 Answer Exit}{}{Alright, I'm off.}
+{Speech 24 Answer 12}{}{And the one from the parallel class, how about her?}
+{Speech 25}{}{Well in short, she was sort of my girlfriend. We went around together, kissed as usual. And one day, we went into the teachers' bathroom. }
+{Speech 25 Answer 26}{}{What for? [You're puzzled]}
+{Speech 26}{}{To make out.}
+{Speech 26 Answer 27}{}{Tell me in more detail.}
+{Speech 27}{}{We kissed and kissed and then I push her head lower and lower. She asks - do you want this? I say - yes. You really want it, she says. I say - yes. }
+{Speech 27 Answer 28}{}{And?!}
+{Speech 28}{}{She unzips my fly, takes out my dick and starts sucking. She sucked me the whole lesson, then she says - that's it? I say - that's enough.}
+{Speech 28 Answer 29}{}{And what about her?}
+{Speech 29}{}{ She rinsed out her mouth and we went to class. I came in her mouth about seven times.}
+{Speech 29 Answer 30}{}{7 times in 45 minutes? I'm a nobody compared to you. And you didn't have any more after that?}
+{Speech 30}{}{No, but I'd like to.}
+{Speech 30 Answer 31}{}{Do you jerk off to porn? I do, the girls don't put out.}
+{Speech 31}{}{No. I don't do masturbation.}
+{Speech 31 Answer 32}{}{Why? You haven't had sex in a long time.}
+{Speech 32}{}{I grope girls by the ass - that's enough for me. Besides, the cravings don't get to me.}
+{Speech 32 Answer Exit}{}{Got it. Bye.}
+{Speech 32 Answer 11}{}{Come on, tell me...How was it, with that girl? I want to learn about you.}

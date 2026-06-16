@@ -48,7 +48,7 @@ Speech 4 # [Доступ разрешен. Выполняю]
 {Speech 2 Answer 3*}{}{[Close the door]}
 {Speech 2 Answer 4}{}{[Open the door]}
 {Speech 2 Answer 4*}{}{[Close the door]}
-{Speech 2 Answer Exit}{}{[Выход]}
+{Speech 2 Answer Exit}{}{[Exit]}
 {Speech 3}{}{[Access denied]}
 {Speech 3 Answer Exit}{}{[Exit]}
 {Speech 4}{}{[Access granted. Implementing...]}

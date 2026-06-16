@@ -88,31 +88,31 @@ Speech 9 # Это один из них! Уничтожить!
 {Speech 9}{}{Это один из них! Уничтожить!}
 
 [Text engl]
-{Name}{}{Хаболог}
-{DescAliveShort}{}{Вы видите хаболога.}
-{DescAliveFull}{}{Этот хаболог очень пристально на вас смотрит.}
-{Speech 1}{}{Преддиалоговые установки}
+{Name}{}{Hubologist}
+{DescAliveShort}{}{You see a Hubologist.}
+{DescAliveFull}{}{This Hubologist is staring at you very intently.}
+{Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{-}
-{Speech 1 Answer 7}{}{Прошёл проверку.}
-{Speech 2}{}{Приветствую! Хорошо, что мы вас встретили. Видите ли, у нас беда: из-под стражи сбежала группа должников-каторжников. Не видели, случайно, их? Это опасные ребята, у них не всё в порядке с головой. Мы боимся, что доберутся до какого-нибудь поселения и там натворят дел.}
-{Speech 2 Answer 5}{}{Нет, не видел@sex@||а|.}
-{Speech 2 Answer 3}{}{Да, видел@sex@||а|.}
-{Speech 2 Answer 9}{}{Отстаньте от меня! Чёртовы хабологи!}
-{Speech 2 Answer 8}{}{Ух?}
-{Speech 3}{}{О! И куда они побежали?}
-{Speech 3 Answer 4}{}{На север.}
-{Speech 3 Answer 4*}{}{В сторону Реддинга.}
-{Speech 3 Answer 4**}{}{На юго-восток.}
-{Speech 3 Answer 5}{}{Не помню.}
-{Speech 4}{}{Большое спасибо! Хабология вас не забудет!}
-{Speech 5}{}{Хммм. Печально, печально. А вы, случайно, сами не беглый должник? Давайте-ка проверим ваш счёт. Протяните вперёд руку с пип-боем для идентификации.}
-{Speech 5 Answer 6}{}{[Подчиниться]}
-{Speech 5 Answer 7}{}{[Подчиниться]}
-{Speech 5 Answer Exit}{}{Ещё чего! Вы нарушаете мои гражданские права!}
-{Speech 6}{}{Это должник! Уничтожить!@@Вы нелегально находитесь в этой телесной оболочке! Просьба её покинуть!@@Мы заберём с собой ваше тело!@@Время отправляться назад в Ад!@@Вас ждут на рудниках!}
-{Speech 7}{}{Всё в порядке. Удачной дороги, АХС-0.@@Всё в порядке, проходите.}
-{Speech 8}{}{Да ты, похоже, од@sex@|ин|на| из них! Стой смирно, мы тебя просканируем!}
-{Speech 8 Answer 6}{}{[Подчиниться]}
-{Speech 8 Answer 7}{}{[Подчиниться]}
-{Speech 8 Answer Exit}{}{Ррррраааарррргх!}
-{Speech 9}{}{Это один из них! Уничтожить!}
+{Speech 1 Answer 7}{}{Passed the check.}
+{Speech 2}{}{Greetings! Good thing we ran into you. You see, we have a problem: a group of debtor-convicts has escaped from custody. You haven't happened to see them, have you? They're dangerous folks, something's not right with their heads. We're afraid they'll reach some settlement and cause trouble there.}
+{Speech 2 Answer 5}{}{No, I haven't seen them.}
+{Speech 2 Answer 3}{}{Yes, I have seen them.}
+{Speech 2 Answer 9}{}{Get away from me! Damn Hubologists!}
+{Speech 2 Answer 8}{}{Ugh?}
+{Speech 3}{}{Oh! And which way did they run?}
+{Speech 3 Answer 4}{}{To the north.}
+{Speech 3 Answer 4*}{}{Toward Redding.}
+{Speech 3 Answer 4**}{}{To the southeast.}
+{Speech 3 Answer 5}{}{I don't remember.}
+{Speech 4}{}{Thank you very much! Hubology won't forget you!}
+{Speech 5}{}{Hmmm. Sad, very sad. And you, by any chance, aren't a fugitive debtor yourself? Let's check your account. Hold out your hand with the Pip-Boy for identification.}
+{Speech 5 Answer 6}{}{[Comply]}
+{Speech 5 Answer 7}{}{[Comply]}
+{Speech 5 Answer Exit}{}{No way! You're violating my civil rights!}
+{Speech 6}{}{It's a debtor! Destroy!@@You are illegally occupying this bodily shell! Please vacate it!@@We'll take your body with us!@@Time to head back to Hell!@@They're waiting for you at the mines!}
+{Speech 7}{}{Everything's in order. Have a good journey, AHS-0.@@Everything's in order, go ahead.}
+{Speech 8}{}{Looks like you're one of them! Stand still, we'll scan you!}
+{Speech 8 Answer 6}{}{[Comply]}
+{Speech 8 Answer 7}{}{[Comply]}
+{Speech 8 Answer Exit}{}{Rrrraaaarrrrgh!}
+{Speech 9}{}{It's one of them! Destroy!}

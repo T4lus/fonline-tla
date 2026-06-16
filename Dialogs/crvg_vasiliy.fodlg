@@ -116,48 +116,48 @@ Speech 13 # Чтобы выжить в постъядерном мире, гла
 {100000007}{}{Неудачник. Чур, пушка моя!}
 
 [Text engl]
-{Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Здарова, напарни@sex@|к|ца|. Чего тебе?}
-{Speech 2 Answer Exit}{}{Сейчас ничего. [Уйти]}
-{Speech 2 Answer 3}{}{Расскажи о себе?}
-{Speech 2 Answer 11}{}{Почему ты занимаешься охраной караванов?}
-{Speech 2 Answer 12}{}{Что ты умеешь?}
-{Speech 2 Answer 13}{}{Как выжить в Пустоши?}
-{Speech 3}{}{Когда-то я был охотником на гекконов. Шкуры сдавал торговцам из города, но эти мерзавцы обчищали меня, покупали шкуры задешево, а продавали втридорога. }
-{Speech 3 Answer 4}{}{[Слушать дальше]}
-{Speech 3 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 4}{}{Тогда я решил охотиться на золотых гекконов, их шкуры трудно достать, но стоят они дороже. Поначалу все шло хорошо.}
-{Speech 4 Answer 5}{}{[Слушать дальше]}
-{Speech 4 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 5}{}{Но эти твари оказались умнее, чем я думал. Как-то раз они подкараулили меня и чуть не прикончили. Если бы я удачно не притворился мертвым, то расстался бы со своей шкурой.}
-{Speech 5 Answer 6}{}{[Слушать дальше]}
-{Speech 5 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 6}{}{Я решил, что теперь имею полное право сам наживаться на торговцах, и вступил в банду, которая занималась грабежом караванов.}
-{Speech 6 Answer 7}{}{[Слушать дальше]}
-{Speech 6 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 7}{}{Какое-то время все складывалось удачно, и я даже накопил на приличную пушку. Однако караванщимки оказались умнее, чем мы думали.}
-{Speech 7 Answer 8}{}{[Слушать дальше]}
-{Speech 7 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 8}{}{Во время очередного налета мы напали на караван, чья охрана была вооружена намного лучше чем мы.}
-{Speech 8 Answer 9}{}{[Слушать дальше]}
-{Speech 8 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 9}{}{Всех моих напарников перебили, но я удачно прикинулся мертвым. Пушку у меня отобрали, а вместе с ней и все награбленное.}
-{Speech 9 Answer 10}{}{[Слушать дальше]}
-{Speech 9 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 10}{}{После этого я понял, что охранники караванов неплохо зарабатывают на жизнь, обчищая таких несчастных как я, и сам решил податься в охранники. Пока все идет просто замечательно.}
-{Speech 10 Answer Exit}{}{Интересная история. Ладно, поговорим позже. [Уйти]}
-{Speech 10 Answer 13}{}{Как выжить в Пустоши?}
-{Speech 11}{}{Мне нравится охранять караваны. Работа непыльная, платят хорошо, отличные пушки за казенный счет. Все, что остается от неудачников, пытающихся нападать на караваны, делим с напарниками.}
-{Speech 11 Answer 12}{}{Что ты умеешь?}
-{Speech 11 Answer 13}{}{Как выжить в Пустоши?}
-{Speech 11 Answer Exit}{}{Ладно, я пош@sex@|ел|ла| [Уйти]@@Будь начеку. [Уйти]@@Надеюсь, в этот раз все будет в порядке.[Уйти]}
-{Speech 12}{}{Умею профессионально прикидываться мертвым.}
-{Speech 12 Answer 11}{}{Почему ты занимаешься охраной караванов?}
-{Speech 12 Answer 13}{}{Как выжить в Пустоши?}
-{Speech 12 Answer Exit}{}{Ладно, я пош@sex@|ел|ла| [Уйти]@@Будь начеку. [Уйти]@@Надеюсь, в этот раз все будет в порядке.[Уйти]}
-{Speech 13}{}{Чтобы выжить в постъядерном мире, главное найти свое призвание.}
-{Speech 13 Answer 11}{}{Почему ты занимаешься охраной караванов?}
-{Speech 13 Answer 12}{}{Что ты умеешь?}
-{Speech 13 Answer Exit}{}{Ладно, я пош@sex@|ел|ла| [Уйти]@@Будь начеку. [Уйти]@@Надеюсь, в этот раз все будет в порядке.[Уйти]}
+{Name}{}{Vasiliy}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Howdy, partner@sex@||. What do you need?}
+{Speech 2 Answer Exit}{}{Nothing right now. [Leave]}
+{Speech 2 Answer 3}{}{Tell me about yourself?}
+{Speech 2 Answer 11}{}{Why do you work guarding caravans?}
+{Speech 2 Answer 12}{}{What can you do?}
+{Speech 2 Answer 13}{}{How do you survive in the Wasteland?}
+{Speech 3}{}{Once I was a gecko hunter. I turned the hides over to the city traders, but those bastards fleeced me, bought the hides on the cheap and sold them for three times the price. }
+{Speech 3 Answer 4}{}{[Keep listening]}
+{Speech 3 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 4}{}{So then I decided to hunt golden geckos, their hides are hard to come by, but they're worth more. At first everything went well.}
+{Speech 4 Answer 5}{}{[Keep listening]}
+{Speech 4 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 5}{}{But those critters turned out to be smarter than I thought. One time they ambushed me and nearly finished me off. If I hadn't pulled off playing dead, I'd have parted with my own hide.}
+{Speech 5 Answer 6}{}{[Keep listening]}
+{Speech 5 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 6}{}{I decided that now I had every right to profit off the traders myself, and joined a gang that was robbing caravans.}
+{Speech 6 Answer 7}{}{[Keep listening]}
+{Speech 6 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 7}{}{For a while everything worked out well, and I even saved up for a decent gun. However, the caravaneers turned out to be smarter than we thought.}
+{Speech 7 Answer 8}{}{[Keep listening]}
+{Speech 7 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 8}{}{During another raid we attacked a caravan whose guards were armed much better than we were.}
+{Speech 8 Answer 9}{}{[Keep listening]}
+{Speech 8 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 9}{}{All my partners were killed, but I successfully played dead. They took my gun, and with it all the loot.}
+{Speech 9 Answer 10}{}{[Keep listening]}
+{Speech 9 Answer Exit}{}{We'll continue next time. [Leave]}
+{Speech 10}{}{After that I realized that caravan guards make a pretty good living fleecing poor wretches like me, so I decided to become a guard myself. So far everything's going just wonderfully.}
+{Speech 10 Answer Exit}{}{Interesting story. Alright, we'll talk later. [Leave]}
+{Speech 10 Answer 13}{}{How do you survive in the Wasteland?}
+{Speech 11}{}{I like guarding caravans. The work's easy, the pay's good, great guns at the company's expense. Whatever's left over from the losers who try to attack the caravans, we split with my partners.}
+{Speech 11 Answer 12}{}{What can you do?}
+{Speech 11 Answer 13}{}{How do you survive in the Wasteland?}
+{Speech 11 Answer Exit}{}{Alright, I'm off@sex@|| [Leave]@@Stay sharp. [Leave]@@Hope this time everything goes okay.[Leave]}
+{Speech 12}{}{I can play dead like a professional.}
+{Speech 12 Answer 11}{}{Why do you work guarding caravans?}
+{Speech 12 Answer 13}{}{How do you survive in the Wasteland?}
+{Speech 12 Answer Exit}{}{Alright, I'm off@sex@|| [Leave]@@Stay sharp. [Leave]@@Hope this time everything goes okay.[Leave]}
+{Speech 13}{}{To survive in the post-nuclear world, the main thing is to find your calling.}
+{Speech 13 Answer 11}{}{Why do you work guarding caravans?}
+{Speech 13 Answer 12}{}{What can you do?}
+{Speech 13 Answer Exit}{}{Alright, I'm off@sex@|| [Leave]@@Stay sharp. [Leave]@@Hope this time everything goes okay.[Leave]}

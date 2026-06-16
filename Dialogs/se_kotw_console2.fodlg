@@ -171,55 +171,55 @@ Speech 14 # Поздравляем! Тестирование пройдено у
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 12}{}{Тест не проходился}
-{Speech 1 Answer 13}{}{Тест проходился}
-{Speech 2}{}{С какой целью был создан Орден Рыцарей Пустоши? }
-{Speech 2 Answer Exit}{}{Что бы надирать задницы и жевать жвачку.}
-{Speech 2 Answer 4}{}{Что бы защищать слабых от беззакония и насилия. }
-{Speech 2 Answer 3}{}{[Ещё]}
-{Speech 3}{}{С какой целью был создан Орден Рыцарей Пустоши? }
-{Speech 3 Answer Exit}{}{Что бы скрыть свои зверства под личиной праведности.}
-{Speech 3 Answer Exit*}{}{Что бы проводить такую политику, как будто политико-административный рынок состоит из множества центров силы, пусть даже они и уверены в их стратегическом превосходстве.}
-{Speech 3 Answer 2}{}{[Назад]}
-{Speech 3 Answer Exit**}{}{[Выход]}
-{Speech 4}{}{С кем борются Рыцари Пустоши?}
-{Speech 4 Answer Exit}{}{Со скукой и унынием.}
-{Speech 4 Answer 6}{}{С рейдерами и бандами разбойников и убийц.}
-{Speech 4 Answer Exit*}{}{Со здравым смыслом.}
-{Speech 4 Answer Exit**}{}{С космополитами, буржуями и империалистами.}
-{Speech 6}{}{Что говорят Рыцари Пустоши за 5 секунд до боя?}
-{Speech 6 Answer 8}{}{Они говорят все это сразу.}
-{Speech 6 Answer Exit}{}{Привет, Вализар!}
-{Speech 6 Answer Exit*}{}{АРАРАРАРАРАРАРА}
-{Speech 6 Answer Exit**}{}{Я считаю, надо упороться.}
-{Speech 6 Answer 7}{}{[Ещё]}
-{Speech 7}{}{Что говорят Рыцари Пустоши за 5 секунд до боя?}
-{Speech 7 Answer Exit}{}{А вы что, уже уехали?}
-{Speech 7 Answer Exit*}{}{Заходите, я их всех ранил!}
-{Speech 7 Answer 6}{}{[Назад]}
-{Speech 7 Answer Exit**}{}{[Выход]}
-{Speech 8}{}{Почему магистром Ордена Рыцарей Пустоши стал Денергар?}
-{Speech 8 Answer Exit}{}{В этой анархо-синдикалистской коммуне каждую неделю выбирают исполнительного чиновника. Но все решения этого чиновника должны быть ратифицированы специальным собранием простым большинством голосов.}
-{Speech 8 Answer Exit*}{}{Денергар обещал поднять экономику и ударить по олигархам.}
-{Speech 8 Answer 9}{}{[Ещё]}
-{Speech 9}{}{Почему магистром Ордена Рыцарей Пустоши стал Денергар?}
-{Speech 9 Answer Exit}{}{Он убил всех конкурентов и подкупил коллегию выборщиков.}
-{Speech 9 Answer 10}{}{Леди Озера рукой в убранстве чистейшей венецианской парчи подняла Экскалибур из водных глубин и провозвестила, что Божественным Провидением Денергар, был предназначен для Экскалибура.}
-{Speech 9 Answer 9}{}{[Назад]}
-{Speech 9 Answer Exit*}{}{[Выход]}
-{Speech 10}{}{Сколько имен выгравировано на мемориале Рыцарей Пустоши?}
-{Speech 10 Answer Exit}{}{Эмм… а ну это… я не стал читать.}
+{Speech 1 Answer 12}{}{Test not taken}
+{Speech 1 Answer 13}{}{Test taken}
+{Speech 2}{}{For what purpose was the Order of the Knights of the Wasteland created? }
+{Speech 2 Answer Exit}{}{To kick ass and chew bubblegum.}
+{Speech 2 Answer 4}{}{To protect the weak from lawlessness and violence. }
+{Speech 2 Answer 3}{}{[More]}
+{Speech 3}{}{For what purpose was the Order of the Knights of the Wasteland created? }
+{Speech 3 Answer Exit}{}{To hide their atrocities behind a mask of righteousness.}
+{Speech 3 Answer Exit*}{}{To pursue a policy as though the politico-administrative market consists of many centers of power, even if they are convinced of their strategic superiority.}
+{Speech 3 Answer 2}{}{[Back]}
+{Speech 3 Answer Exit**}{}{[Exit]}
+{Speech 4}{}{Whom do the Knights of the Wasteland fight against?}
+{Speech 4 Answer Exit}{}{Against boredom and gloom.}
+{Speech 4 Answer 6}{}{Against raiders and gangs of bandits and murderers.}
+{Speech 4 Answer Exit*}{}{Against common sense.}
+{Speech 4 Answer Exit**}{}{Against cosmopolitans, bourgeois and imperialists.}
+{Speech 6}{}{What do the Knights of the Wasteland say 5 seconds before a battle?}
+{Speech 6 Answer 8}{}{They say all of this at once.}
+{Speech 6 Answer Exit}{}{Hello, Valizar!}
+{Speech 6 Answer Exit*}{}{ARARARARARARARA}
+{Speech 6 Answer Exit**}{}{I reckon we ought to get wasted.}
+{Speech 6 Answer 7}{}{[More]}
+{Speech 7}{}{What do the Knights of the Wasteland say 5 seconds before a battle?}
+{Speech 7 Answer Exit}{}{What, you've already left?}
+{Speech 7 Answer Exit*}{}{Come on in, I've wounded them all!}
+{Speech 7 Answer 6}{}{[Back]}
+{Speech 7 Answer Exit**}{}{[Exit]}
+{Speech 8}{}{Why did Denergar become the Magister of the Order of the Knights of the Wasteland?}
+{Speech 8 Answer Exit}{}{In this anarcho-syndicalist commune they elect an executive officer every week. But all the decisions of this officer must be ratified by a special assembly by a simple majority of votes.}
+{Speech 8 Answer Exit*}{}{Denergar promised to lift the economy and strike at the oligarchs.}
+{Speech 8 Answer 9}{}{[More]}
+{Speech 9}{}{Why did Denergar become the Magister of the Order of the Knights of the Wasteland?}
+{Speech 9 Answer Exit}{}{He killed all his rivals and bribed the college of electors.}
+{Speech 9 Answer 10}{}{The Lady of the Lake, her arm clad in the purest shimmering samite, held aloft Excalibur from the depths of the water and proclaimed that by Divine Providence Denergar was destined for Excalibur.}
+{Speech 9 Answer 9}{}{[Back]}
+{Speech 9 Answer Exit*}{}{[Exit]}
+{Speech 10}{}{How many names are engraved on the memorial of the Knights of the Wasteland?}
+{Speech 10 Answer Exit}{}{Umm… well, that… I didn't bother reading it.}
 {Speech 10 Answer Exit*}{}{51}
-{Speech 10 Answer 11}{}{[Ещё]}
-{Speech 11}{}{Сколько имен выгравировано на мемориале Рыцарей Пустоши?}
+{Speech 10 Answer 11}{}{[More]}
+{Speech 11}{}{How many names are engraved on the memorial of the Knights of the Wasteland?}
 {Speech 11 Answer Exit}{}{45}
 {Speech 11 Answer 14}{}{54}
-{Speech 11 Answer 11}{}{[Назад]}
-{Speech 11 Answer Exit*}{}{[Выход]}
-{Speech 12}{}{[Вы видите мигающий монитор. Экран приветствия предлагает вам пройти какое-то тестирование]}
-{Speech 12 Answer 2}{}{[Начать прохождение тестирования]}
-{Speech 12 Answer 12}{}{[Выход]}
-{Speech 13}{}{[Вы правильно ответили на все вопросы. Терминал больше не реагирует на ваши команды]}
-{Speech 13 Answer Exit}{}{[Выход]}
-{Speech 14}{}{Поздравляем! Тестирование пройдено успешно. [Вы слышите скрежет открываемой двери]}
-{Speech 14 Answer Exit}{}{[Выход]}
+{Speech 11 Answer 11}{}{[Back]}
+{Speech 11 Answer Exit*}{}{[Exit]}
+{Speech 12}{}{[You see a blinking monitor. The welcome screen offers you to take some kind of test]}
+{Speech 12 Answer 2}{}{[Begin taking the test]}
+{Speech 12 Answer 12}{}{[Exit]}
+{Speech 13}{}{[You answered all the questions correctly. The terminal no longer responds to your commands]}
+{Speech 13 Answer Exit}{}{[Exit]}
+{Speech 14}{}{Congratulations! The test has been passed successfully. [You hear the grinding of a door opening]}
+{Speech 14 Answer Exit}{}{[Exit]}

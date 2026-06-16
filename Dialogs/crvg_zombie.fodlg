@@ -73,28 +73,28 @@ Speech 6 # Прячься и убивай.
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Ты умн@sex@|ый|ая|? Мозг большой?}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 2 Answer 4}{}{Почему ты занимаешься охраной караванов? }
-{Speech 2 Answer 6}{}{Как выжить в Пустоши?}
-{Speech 2 Answer 5}{}{Что ты умеешь?}
-{Speech 2 Answer Exit}{}{Будь здоров. [Уйти]@@Позже поболтаем. [Уйти]}
-{Speech 3}{}{Меня зовут Жраль.}
-{Speech 3 Answer 4}{}{Почему ты занимаешься охраной караванов? }
-{Speech 3 Answer 5}{}{Что ты умеешь?}
-{Speech 3 Answer 6}{}{Как выжить в Пустоши?}
-{Speech 3 Answer Exit}{}{Будь здоров. [Уйти]@@Позже поболтаем. [Уйти]}
-{Speech 4}{}{Здесь всегда есть чем поживиться.}
-{Speech 4 Answer 5}{}{Что ты умеешь?}
-{Speech 4 Answer 6}{}{Как выжить в Пустоши?}
-{Speech 4 Answer Exit}{}{Будь здоров. [Уйти]@@Позже поболтаем. [Уйти]}
-{Speech 5}{}{Я умею убивать.}
-{Speech 5 Answer 4}{}{Почему ты занимаешься охраной караванов? }
-{Speech 5 Answer 6}{}{Как выжить в Пустоши?}
-{Speech 5 Answer Exit}{}{Будь здоров. [Уйти]@@Позже поболтаем. [Уйти]}
-{Speech 6}{}{Прячься и убивай.}
-{Speech 6 Answer 4}{}{Почему ты занимаешься охраной караванов? }
-{Speech 6 Answer 5}{}{Что ты умеешь?}
-{Speech 6 Answer Exit}{}{Будь здоров. [Уйти]@@Позже поболтаем. [Уйти]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Are you smart? Big brain?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{Why do you guard caravans? }
+{Speech 2 Answer 6}{}{How to survive in the Wasteland?}
+{Speech 2 Answer 5}{}{What can you do?}
+{Speech 2 Answer Exit}{}{Stay well. [Leave]@@Let's chat later. [Leave]}
+{Speech 3}{}{My name is Zhral.}
+{Speech 3 Answer 4}{}{Why do you guard caravans? }
+{Speech 3 Answer 5}{}{What can you do?}
+{Speech 3 Answer 6}{}{How to survive in the Wasteland?}
+{Speech 3 Answer Exit}{}{Stay well. [Leave]@@Let's chat later. [Leave]}
+{Speech 4}{}{There's always something to feed on here.}
+{Speech 4 Answer 5}{}{What can you do?}
+{Speech 4 Answer 6}{}{How to survive in the Wasteland?}
+{Speech 4 Answer Exit}{}{Stay well. [Leave]@@Let's chat later. [Leave]}
+{Speech 5}{}{I know how to kill.}
+{Speech 5 Answer 4}{}{Why do you guard caravans? }
+{Speech 5 Answer 6}{}{How to survive in the Wasteland?}
+{Speech 5 Answer Exit}{}{Stay well. [Leave]@@Let's chat later. [Leave]}
+{Speech 6}{}{Hide and kill.}
+{Speech 6 Answer 4}{}{Why do you guard caravans? }
+{Speech 6 Answer 5}{}{What can you do?}
+{Speech 6 Answer Exit}{}{Stay well. [Leave]@@Let's chat later. [Leave]}

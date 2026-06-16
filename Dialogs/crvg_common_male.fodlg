@@ -20,4 +20,4 @@ Speech 2 # Привет.@@Не мешай.@@Здесь слишком опасн
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Привет.@@Не мешай.@@Здесь слишком опасно, поговорим позже.@@О-па! Кто это там, у повозок?@@Если груз дойдет в целости и сохранности, обещали премию...@@Если выживу сегодня, нажрусь в баре.@@Что-то сегодня нам не везет.@@Отвали.@@Тихо! Ничего не слышал@sex@||а| подозрительного?@@Я всех начальников караванов знаю. Наш - самый честный.@@У тебя проблемы?@@Отстань... [Зевает]}
+{Speech 2}{}{Hello.@@Don't get in the way.@@It's too dangerous here, let's talk later.@@Whoa! Who's that over there, by the wagons?@@If the cargo arrives safe and sound, they promised a bonus...@@If I survive today, I'll get hammered at the bar.@@Something's not going our way today.@@Get lost.@@Quiet! Didn't you hear anything suspicious?@@I know all the caravan masters. Ours is the most honest.@@You got a problem?@@Buzz off... [Yawns]}

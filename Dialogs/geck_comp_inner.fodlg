@@ -176,9 +176,9 @@ Speech 18 # [Персональная репликация]  Объект: @pnam
 {Speech 2 Answer 11}{}{[Energy barrier]}
 {Speech 2 Answer 6}{}{[Add a citizen]}
 {Speech 2 Answer 5}{}{[Remove a citizen]}
-{Speech 2 Answer 15}{}{[Очистить списки граждан]}
-{Speech 2 Answer 17}{}{[Настройка персональной репликации]}
-{Speech 2 Answer 18}{}{[Настройка персональной репликации]}
+{Speech 2 Answer 15}{}{[Clear citizen lists]}
+{Speech 2 Answer 17}{}{[Personal replication setup]}
+{Speech 2 Answer 18}{}{[Personal replication setup]}
 {Speech 2 Answer Exit}{}{[Exit]}
 {Speech 3}{}{[Door control]}
 {Speech 3 Answer 4}{}{[Open the door]}
@@ -213,17 +213,17 @@ Speech 18 # [Персональная репликация]  Объект: @pnam
 {Speech 14}{}{[Cannot activate the barrier. Please charge the generator.]}
 {Speech 14 Answer 2}{}{[Main menu]}
 {Speech 14 Answer Exit}{}{[Exit]}
-{Speech 15}{}{[Подтвердите выполнение очистки всех списков граждан]}
-{Speech 15 Answer 16}{}{[Подтверждаю]}
-{Speech 15 Answer 2}{}{[Отмена]}
-{Speech 16}{}{[Списки жителей обнулены]}
-{Speech 16 Answer 2}{}{[Главное меню]}
-{Speech 16 Answer Exit}{}{[Выход]}
+{Speech 15}{}{[Confirm the wipe of all citizen lists]}
+{Speech 15 Answer 16}{}{[Confirm]}
+{Speech 15 Answer 2}{}{[Cancel]}
+{Speech 16}{}{[Citizen lists have been wiped]}
+{Speech 16 Answer 2}{}{[Main menu]}
+{Speech 16 Answer Exit}{}{[Exit]}
 {Speech 17}{}{}
-{Speech 17 Answer 18}{}{[Включить репликацию в городе из ГЕКК]}
-{Speech 17 Answer 2}{}{[Главное меню]}
-{Speech 17 Answer Exit}{}{[Выход]}
+{Speech 17 Answer 18}{}{[Enable replication in the G.E.C.K. city]}
+{Speech 17 Answer 2}{}{[Main menu]}
+{Speech 17 Answer Exit}{}{[Exit]}
 {Speech 18}{}{}
-{Speech 18 Answer 17}{}{[Не использовать репликацию в городе из ГЕКК]}
-{Speech 18 Answer 2}{}{[Главное меню]}
-{Speech 18 Answer Exit}{}{[Выход]}
+{Speech 18 Answer 17}{}{[Do not use replication in the G.E.C.K. city]}
+{Speech 18 Answer 2}{}{[Main menu]}
+{Speech 18 Answer Exit}{}{[Exit]}

@@ -72,28 +72,28 @@ Speech 6 # Лутай все, что плохо лежит, что-нибудь 
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Чего тебе, нуб?}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 2 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 2 Answer 5}{}{Что ты умеешь?}
-{Speech 2 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 2 Answer Exit}{}{Хорошо, что ты с нами. [Уйти]@@Пока. [Уйти]@@Увидимся.[Уйти]}
-{Speech 3}{}{Бывший заядный игроман-студент, задрот, в час Х с испугу заклинившийся и не воспринимающий мир серьезно.}
-{Speech 3 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 3 Answer 5}{}{Что ты умеешь?}
-{Speech 3 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 3 Answer Exit}{}{Хорошо, что ты с нами. [Уйти]@@Пока. [Уйти]@@Увидимся.[Уйти]}
-{Speech 4}{}{Временная работа, позволяющая поднять денег и лута, если повезет, весьма неплохо.}
-{Speech 4 Answer 5}{}{Что ты умеешь?}
-{Speech 4 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 4 Answer Exit}{}{Хорошо, что ты с нами. [Уйти]@@Пока. [Уйти]@@Увидимся.[Уйти]}
-{Speech 5}{}{Умею стрелять очередями из плазмогана и отсиживаться в тылу со снайперкой.}
-{Speech 5 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 5 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 5 Answer Exit}{}{Хорошо, что ты с нами. [Уйти]@@Пока. [Уйти]@@Увидимся.[Уйти]}
-{Speech 6}{}{Лутай все, что плохо лежит, что-нибудь да пригодится.@@Если кто-то умер, то не пропадать же добру.@@Читай гайды, нуб@sex@|ас|ка|, там все есть.}
-{Speech 6 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 6 Answer 5}{}{Что ты умеешь?}
-{Speech 6 Answer Exit}{}{Хорошо, что ты с нами. [Уйти]@@Пока. [Уйти]@@Увидимся.[Уйти]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{What do you want, noob?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{Why do you guard caravans?}
+{Speech 2 Answer 5}{}{What can you do?}
+{Speech 2 Answer 6}{}{Can you give me some advice? }
+{Speech 2 Answer Exit}{}{It's good that you're with us. [Leave]@@Bye. [Leave]@@See you.[Leave]}
+{Speech 3}{}{A former hardcore gamer student, a nerd, who froze up in fright when the hour came and doesn't take the world seriously.}
+{Speech 3 Answer 4}{}{Why do you guard caravans?}
+{Speech 3 Answer 5}{}{What can you do?}
+{Speech 3 Answer 6}{}{Can you give me some advice? }
+{Speech 3 Answer Exit}{}{It's good that you're with us. [Leave]@@Bye. [Leave]@@See you.[Leave]}
+{Speech 4}{}{Temporary work that lets you make some money and loot, pretty decent if you're lucky.}
+{Speech 4 Answer 5}{}{What can you do?}
+{Speech 4 Answer 6}{}{Can you give me some advice? }
+{Speech 4 Answer Exit}{}{It's good that you're with us. [Leave]@@Bye. [Leave]@@See you.[Leave]}
+{Speech 5}{}{I can fire bursts from a plasma gun and hang back in the rear with a sniper rifle.}
+{Speech 5 Answer 4}{}{Why do you guard caravans?}
+{Speech 5 Answer 6}{}{Can you give me some advice? }
+{Speech 5 Answer Exit}{}{It's good that you're with us. [Leave]@@Bye. [Leave]@@See you.[Leave]}
+{Speech 6}{}{Loot everything that lies around, something will come in handy.@@If someone died, no sense in letting the goods go to waste.@@Read the guides, noob@sex@|ster|ette|, it's all there.}
+{Speech 6 Answer 4}{}{Why do you guard caravans?}
+{Speech 6 Answer 5}{}{What can you do?}
+{Speech 6 Answer Exit}{}{It's good that you're with us. [Leave]@@Bye. [Leave]@@See you.[Leave]}

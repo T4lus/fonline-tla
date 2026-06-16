@@ -30,9 +30,9 @@ Speech 4 # Последний раз повторяю, не лезь сюда!
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Начало.}
-{Speech 2}{}{Эй, сюда нельзя. Не пытайся туда пройти.}
-{Speech 2 Answer Exit}{}{Уже ухожу. [Выход.]}
-{Speech 2 Answer Exit*}{}{Получить карту доступа. [DEBUG.]}
-{Speech 3}{}{Я тебя предупреждал.}
-{Speech 4}{}{Последний раз повторяю, не лезь сюда!}
+{Speech 1 Answer 2}{}{Start.}
+{Speech 2}{}{Hey, you can't go in there. Don't even try to get through.}
+{Speech 2 Answer Exit}{}{I'm already leaving. [Exit.]}
+{Speech 2 Answer Exit*}{}{Get the access card. [DEBUG.]}
+{Speech 3}{}{I warned you.}
+{Speech 4}{}{I'm telling you for the last time, don't go in here!}

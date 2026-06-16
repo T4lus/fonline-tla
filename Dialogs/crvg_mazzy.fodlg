@@ -73,28 +73,28 @@ Speech 6 # I am MAZZy!@@I'm hungry!
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{[MAZZy хмурится и смотрит на вас]}
-{Speech 2 Answer 3}{}{Кто ты?}
-{Speech 2 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 2 Answer 5}{}{Что ты умеешь?}
-{Speech 2 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 2 Answer Exit}{}{Не бери в голову. [Уйти]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{[MAZZy frowns and looks at you]}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer 4}{}{Why do you guard caravans?}
+{Speech 2 Answer 5}{}{What can you do?}
+{Speech 2 Answer 6}{}{Can you give me some advice? }
+{Speech 2 Answer Exit}{}{Never mind. [Leave]}
 {Speech 3}{}{I am MAZZy!}
-{Speech 3 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 3 Answer 5}{}{Что ты умеешь?}
-{Speech 3 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 3 Answer Exit}{}{Не бери в голову. [Уйти]}
+{Speech 3 Answer 4}{}{Why do you guard caravans?}
+{Speech 3 Answer 5}{}{What can you do?}
+{Speech 3 Answer 6}{}{Can you give me some advice? }
+{Speech 3 Answer Exit}{}{Never mind. [Leave]}
 {Speech 4}{}{I'm hungry!}
-{Speech 4 Answer 5}{}{Что ты умеешь?}
-{Speech 4 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 4 Answer Exit}{}{Не бери в голову. [Уйти]}
+{Speech 4 Answer 5}{}{What can you do?}
+{Speech 4 Answer 6}{}{Can you give me some advice? }
+{Speech 4 Answer Exit}{}{Never mind. [Leave]}
 {Speech 5}{}{I'm hungry!}
-{Speech 5 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 5 Answer 6}{}{Можешь дать какой-нибудь совет? }
-{Speech 5 Answer Exit}{}{Не бери в голову. [Уйти]}
+{Speech 5 Answer 4}{}{Why do you guard caravans?}
+{Speech 5 Answer 6}{}{Can you give me some advice? }
+{Speech 5 Answer Exit}{}{Never mind. [Leave]}
 {Speech 6}{}{I am MAZZy!@@I'm hungry!}
-{Speech 6 Answer 4}{}{Почему ты занимаешься охраной караванов?}
-{Speech 6 Answer 5}{}{Что ты умеешь?}
-{Speech 6 Answer Exit}{}{Не бери в голову. [Уйти]}
+{Speech 6 Answer 4}{}{Why do you guard caravans?}
+{Speech 6 Answer 5}{}{What can you do?}
+{Speech 6 Answer Exit}{}{Never mind. [Leave]}

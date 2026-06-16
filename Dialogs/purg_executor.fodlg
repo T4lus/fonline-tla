@@ -191,67 +191,67 @@ Speech 20 # Команда 4 станции репликации:  @arg players@
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{[Смотрит на вас с наигранной печалью и состраданием] Дитя мое. Чем я могу тебе помочь?@@Говори.@@Зачем ты здесь?}
-{Speech 2 Answer 3}{}{Расскажите о Чистилище?}
-{Speech 2 Answer Exit}{}{Я лучше пойду прочь отсюда.}
-{Speech 2 Answer 11}{}{Я хочу записаться в участники Испытания.}
-{Speech 2 Answer Exit*}{}{Ох. Потом. Пока. [Уйти]}
-{Speech 2 Answer 12}{}{Моя хотеть драться!}
-{Speech 2 Answer 15}{}{Когда начнется Испытание?}
-{Speech 3}{}{Иногда мы устраиваем объективный тест работоспособности репликационных комплексов. Сравниваем мощности и оцениваем чистоту процесса репликации на различных станциях. Для этого нам служит Чистилище.}
-{Speech 3 Answer Exit}{}{Я так и думал@sex@||а|. Прощайте.}
-{Speech 3 Answer 4}{}{Каким образом происходит "Оценка"?}
-{Speech 4}{}{Лучший показатель эффективности репликации - здоровый, жизнеспособный репликант. Мы дарим человеку вторую, третью, седьмую жизни. Если реплицируемый здоров, организм функционирует нормально, человек мыслит - наша задача выполнена. В Чистилище мы допускаем всех желающих, там они должны проявить свои лучшие качества и подтвердить, что мы все сделали правильно.}
-{Speech 4 Answer 5}{}{Проявить себя? Что это значит?}
-{Speech 5}{}{то значит... [На мгновение хаболог задумывается] Это значит, что участники заварушки в Чистилище должны убить нескольких себе подобных.}
-{Speech 5 Answer 6}{}{Не понимаю, вы, можно сказать, возвращаете человека к жизни. И после этого помогаете ему убить другого! Это неправильно!}
-{Speech 5 Answer 7}{}{Интересно. Как это происходит?}
-{Speech 6}{}{Неисповедимы пути Хаба, @sex@|сын мой|дочь моя|. [Ухмыляется]}
-{Speech 6 Answer Exit}{}{Пожалуй, я лучше пойду.}
-{Speech 7}{}{В Чистилище есть четыре специально оборудованных здания, мы называем их "боксами". В момент начала Испытания все участники получают сообщение на пипбой. Если участник подтверждает участие,  он умерщвляется, а дальше мы уже обеспечиваем попадание в Чистилище.}
-{Speech 7 Answer 8}{}{То есть, меня прикончит мой собственный пипбой?!}
-{Speech 8}{}{[Брезгливо морщится] Можно сказать и так, если для вас это звучит понятнее. После того, как вы придете в себя на территории Чистилища, у вас будет один час, который придется провести взаперти. По истечению часа системы Чистилища проверяют, достаточное ли число реплицированных ждут начала Испытания в боксах. Если да, двери, ведущие в Чистилище будут открыты.}
-{Speech 8 Answer 9}{}{А если нет? Если я буду од@sex@|ин|на| в этой дыре?}
-{Speech 9}{}{В таком случае, откроется дверь, ведущая прочь с территории Чистилища.}
-{Speech 9 Answer Exit}{}{Это ужасно! Надеюсь, никто не согласится на ваши условия, и Чистилище будет пустовать!}
-{Speech 9 Answer 10}{}{А что я получу за участие в "испытании"?}
-{Speech 10}{}{Вы получите перевод в сумме 300 монет на личный репликационный счет за каждого убитого вами. Также вы можете оставить себе все снаряжение, которое найдете на территории Чистилища.}
-{Speech 10 Answer Exit}{}{Я подумаю. Мне нужно время, чтобы взвесить все "за" и "против".}
-{Speech 11}{}{Прекрасно, @sex@|сын мой|дочь моя|, прекрасно. Ты не пожалеешь об этом поступке. Какую из Станций Репликации ты хочешь представлять?}
-{Speech 11 Answer 13}{}{Первую.}
-{Speech 11 Answer 13*}{}{Вторую.}
-{Speech 11 Answer 13**}{}{Третью.}
-{Speech 11 Answer 13***}{}{Четвертую.}
-{Speech 11 Answer 14}{}{Я передумал@sex@||а|.}
-{Speech 12}{}{Ты делаешь правильный выбор. Какая цифра тебе больше нравится? За кого будешь выступать?}
-{Speech 12 Answer 13}{}{Показать один палец.}
-{Speech 12 Answer 13*}{}{Показать два пальца.}
-{Speech 12 Answer 13**}{}{Показать три  пальца.}
-{Speech 12 Answer 13***}{}{Показать 10 пальцев на обеих руках..}
-{Speech 12 Answer 14}{}{Нет! Моя уходит!}
-{Speech 13}{}{Отлично. Информация о твоей заявке занесена в систему. Дата и время ближайшего испытания: @arg time_fun@. Я уже настроил твой ПипБой, в нужное время ты получишь оповещение. Если будешь готов@sex@||а| выступить в Чистилище, подтверди свое участие. Ты будешь умерщвлен@sex@||а| высокочастотным разрядом, а поднимем мы тебя уже в Чистилище. Можешь идти. Жди сообщения.}
-{Speech 13 Answer Exit}{}{[Уйти]}
-{Speech 13 Answer 15}{}{Когда начало?}
-{Speech 14}{}{Мы еще встретимся.@@Надолго ли?@@Я не говорю "прощай", я говорю "до свидания". [Широко улыбается]@@До скорой встречи!}
-{Speech 14 Answer Exit}{}{[Уйти]}
-{Speech 15}{}{Дата и время ближайшего испытания: @arg time_fun@. Не терпится поскорее отправить к праотцам кого-нибудь? Понимаю. [Ухмыляется]}
-{Speech 15 Answer Exit}{}{Может быть...}
-{Speech 15 Answer 16}{}{Имена участников уже известны?}
-{Speech 16}{}{Уже подано @arg total@ заявок. Могу рассказать, кто войдет в состав каждой команды.}
-{Speech 16 Answer 17}{}{Первая станция репликации.}
-{Speech 16 Answer 18}{}{Вторая станция репликации.}
-{Speech 16 Answer 19}{}{Третья станция репликации.}
-{Speech 16 Answer 20}{}{Четвертая станция репликации.}
-{Speech 16 Answer Exit}{}{Нет, мне это неинтересно.}
-{Speech 17}{}{Команда 1 станции репликации:\n@arg players@.}
-{Speech 17 Answer 16}{}{Я хочу спросить о другой команде.}
-{Speech 17 Answer Exit}{}{Я, пожалуй, пойду.}
-{Speech 18}{}{Команда 2 станции репликации:\n@arg players@.}
-{Speech 18 Answer 16}{}{Я хочу спросить о другой команде.}
-{Speech 18 Answer Exit}{}{Я, пожалуй, пойду.}
-{Speech 19}{}{Команда 3 станции репликации:\n@arg players@.}
-{Speech 19 Answer 16}{}{Я хочу спросить о другой команде.}
-{Speech 19 Answer Exit}{}{Я, пожалуй, пойду.}
-{Speech 20}{}{Команда 4 станции репликации:\n@arg players@.}
-{Speech 20 Answer 16}{}{Я хочу спросить о другой команде.}
-{Speech 20 Answer Exit}{}{Я, пожалуй, пойду.}
+{Speech 2}{}{[Looks at you with feigned sorrow and compassion] My child. How can I help you?@@Speak.@@Why are you here?}
+{Speech 2 Answer 3}{}{Tell me about Purgatory?}
+{Speech 2 Answer Exit}{}{I'd better go away from here.}
+{Speech 2 Answer 11}{}{I want to sign up as a participant in the Trial.}
+{Speech 2 Answer Exit*}{}{Ugh. Later. Bye. [Leave]}
+{Speech 2 Answer 12}{}{Me want fight!}
+{Speech 2 Answer 15}{}{When does the Trial begin?}
+{Speech 3}{}{Sometimes we conduct an objective test of the performance of the replication complexes. We compare capacities and evaluate the purity of the replication process at the various stations. Purgatory serves us for this.}
+{Speech 3 Answer Exit}{}{That's what I thought. Farewell.}
+{Speech 3 Answer 4}{}{How is the "Evaluation" carried out?}
+{Speech 4}{}{The best indicator of replication efficiency is a healthy, viable replicant. We grant a person a second, third, seventh life. If the replicated one is healthy, the body functions normally, the person thinks - our task is accomplished. In Purgatory we admit all comers, there they must display their best qualities and confirm that we did everything right.}
+{Speech 4 Answer 5}{}{Display themselves? What does that mean?}
+{Speech 5}{}{It means... [For a moment the Hubologist falls into thought] It means that the participants of the brawl in Purgatory must kill several of their own kind.}
+{Speech 5 Answer 6}{}{I don't understand, you, one might say, bring a person back to life. And after that you help him kill another! That's wrong!}
+{Speech 5 Answer 7}{}{Interesting. How does it happen?}
+{Speech 6}{}{The ways of the Hub are inscrutable, @sex@|my son|my daughter|. [Smirks]}
+{Speech 6 Answer Exit}{}{I think I'd better go.}
+{Speech 7}{}{In Purgatory there are four specially equipped buildings, we call them "boxes". At the moment the Trial begins, all participants receive a message on their Pip-Boy. If a participant confirms participation, he is put to death, and after that we ensure his arrival in Purgatory.}
+{Speech 7 Answer 8}{}{So my own Pip-Boy will finish me off?!}
+{Speech 8}{}{[Grimaces with distaste] You could put it that way, if it sounds clearer to you. After you come to your senses within the grounds of Purgatory, you will have one hour that you'll have to spend locked up. After the hour passes, the systems of Purgatory check whether a sufficient number of the replicated are awaiting the start of the Trial in their boxes. If so, the doors leading into Purgatory will be opened.}
+{Speech 8 Answer 9}{}{And if not? What if I'm al@sex@|one|one| in this hole?}
+{Speech 9}{}{In that case, the door leading away from the grounds of Purgatory will open.}
+{Speech 9 Answer Exit}{}{That's terrible! I hope no one agrees to your terms, and Purgatory will stand empty!}
+{Speech 9 Answer 10}{}{And what will I get for taking part in the "trial"?}
+{Speech 10}{}{You will receive a transfer of 300 coins to your personal replication account for each person you kill. You may also keep all the gear you find within the grounds of Purgatory.}
+{Speech 10 Answer Exit}{}{I'll think about it. I need time to weigh all the pros and cons.}
+{Speech 11}{}{Wonderful, @sex@|my son|my daughter|, wonderful. You won't regret this deed. Which of the Replication Stations do you wish to represent?}
+{Speech 11 Answer 13}{}{The first.}
+{Speech 11 Answer 13*}{}{The second.}
+{Speech 11 Answer 13**}{}{The third.}
+{Speech 11 Answer 13***}{}{The fourth.}
+{Speech 11 Answer 14}{}{I've changed my mind.}
+{Speech 12}{}{You're making the right choice. Which number do you like more? Who will you fight for?}
+{Speech 12 Answer 13}{}{Show one finger.}
+{Speech 12 Answer 13*}{}{Show two fingers.}
+{Speech 12 Answer 13**}{}{Show three fingers.}
+{Speech 12 Answer 13***}{}{Show 10 fingers on both hands..}
+{Speech 12 Answer 14}{}{No! Me leave!}
+{Speech 13}{}{Excellent. The information about your application has been entered into the system. The date and time of the nearest trial: @arg time_fun@. I've already set up your Pip-Boy, at the right time you'll receive a notification. If you're ready to fight in Purgatory, confirm your participation. You will be put to death by a high-frequency discharge, and we'll raise you up in Purgatory. You may go. Wait for the message.}
+{Speech 13 Answer Exit}{}{[Leave]}
+{Speech 13 Answer 15}{}{When does it start?}
+{Speech 14}{}{We'll meet again.@@For long?@@I don't say "goodbye", I say "see you later". [Smiles broadly]@@See you soon!}
+{Speech 14 Answer Exit}{}{[Leave]}
+{Speech 15}{}{The date and time of the nearest trial: @arg time_fun@. Can't wait to send someone to their ancestors? I understand. [Smirks]}
+{Speech 15 Answer Exit}{}{Maybe...}
+{Speech 15 Answer 16}{}{Are the names of the participants already known?}
+{Speech 16}{}{There are already @arg total@ applications submitted. I can tell you who will be in each team.}
+{Speech 16 Answer 17}{}{The first replication station.}
+{Speech 16 Answer 18}{}{The second replication station.}
+{Speech 16 Answer 19}{}{The third replication station.}
+{Speech 16 Answer 20}{}{The fourth replication station.}
+{Speech 16 Answer Exit}{}{No, I'm not interested in that.}
+{Speech 17}{}{Team 1 of the replication station:\n@arg players@.}
+{Speech 17 Answer 16}{}{I want to ask about another team.}
+{Speech 17 Answer Exit}{}{I think I'll be going.}
+{Speech 18}{}{Team 2 of the replication station:\n@arg players@.}
+{Speech 18 Answer 16}{}{I want to ask about another team.}
+{Speech 18 Answer Exit}{}{I think I'll be going.}
+{Speech 19}{}{Team 3 of the replication station:\n@arg players@.}
+{Speech 19 Answer 16}{}{I want to ask about another team.}
+{Speech 19 Answer Exit}{}{I think I'll be going.}
+{Speech 20}{}{Team 4 of the replication station:\n@arg players@.}
+{Speech 20 Answer 16}{}{I want to ask about another team.}
+{Speech 20 Answer Exit}{}{I think I'll be going.}

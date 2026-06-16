@@ -27,11 +27,11 @@ Speech 4 # Результатом теста является Коэффицие
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Лаборатория №12\nЛаборатория представляет из себя тестовую комнату, в которой любой Зерг может пройти простой тест и узнать, насколько он полезен для организации. \nИспытуемые: ТОЛЬКО члены Зерга. Ни в коем случае не допускать подопытного Патриарха, дабы не вызвать коллапс мозг.\n}
-{Speech 2 Answer 3}{}{Далее}
-{Speech 3}{}{Испытуемому необходимо выполнить три простых действия:\n1) Сорвать все цветы\n2) Оставить свои экскременты в колодце\n3) Совокупиться с брамином\n*не забывайте уничтожить брамина после получения оргазма\n}
-{Speech 3 Answer 4}{}{Далее}
-{Speech 4}{}{Результатом теста является Коэффициент Полезности Зерга - [время, потраченное на выполнение тестовых заданий] / 100.\nЧем он меньше - тем данный ценней индивидуум для группировки.\nЦель: создание идеального Зерга путем ежедневных тренировок.\n}
-{Speech 4 Answer Exit}{}{Выход}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Laboratory No. 12\nThe laboratory is a test room in which any Zerg can take a simple test and find out how useful he is to the organization. \nTest subjects: ONLY members of the Zerg. Under no circumstances admit the Patriarch as a test subject, so as not to cause a brain collapse.\n}
+{Speech 2 Answer 3}{}{Next}
+{Speech 3}{}{The test subject must perform three simple actions:\n1) Pick all the flowers\n2) Leave his excrement in the well\n3) Copulate with a brahmin\n*don't forget to destroy the brahmin after reaching orgasm\n}
+{Speech 3 Answer 4}{}{Next}
+{Speech 4}{}{The result of the test is the Zerg Usefulness Coefficient - [time spent completing the test tasks] / 100.\nThe lower it is - the more valuable the given individual is to the group.\nGoal: creating the perfect Zerg through daily training.\n}
+{Speech 4 Answer Exit}{}{Exit}

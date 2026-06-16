@@ -73,20 +73,20 @@ Speech 7 # Чертовы яйцеголовые! Сколько проблем 
 {Name}{}{Smallet}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 7}{}{Все будет хорошо.}
-{Speech 2}{}{Это тебя прислали хабологи? Господи спаси, ну и…. Ладно, лучше чем ничего.  Даже такое …гм… думаю, нам пригодится.}
-{Speech 2 Answer Exit}{}{Пригожусь!}
-{Speech 2 Answer Exit*}{}{Да иди ты. }
-{Speech 2 Answer 3}{}{Угу. Говорили,  вам помощь  нужна.}
-{Speech 2 Answer 6}{}{Задание выполнено, сэр!}
-{Speech 3}{}{Слушай задание. Я сейчас выдам тебе взрывчатку. Ты должен дойти до репликаторов и взорвать любой из них в первом ряду. Именно из этих репликаторов лезут хреновы гули. Нужно сделать именно это – дойти и взорвать, а дойти туда не просто.  После того, как взорвешь, можешь подохнуть с радостной улыбкой – твоя работа сделана, хабологи воскресят и денег дадут. Задание ясно?}
-{Speech 3 Answer 5}{}{Ясней некуда. Так я приступаю?	}
-{Speech 3 Answer 4}{}{Какой именно репликатор взорвать?}
-{Speech 3 Answer Exit}{}{Не, что-то мне это всё не нравится, пойду-ка я отсюда.}
-{Speech 4}{}{Твою жэж! Наберут по объявлению! Я ж тебе крупными буквами сказал – любой в первом ряду. Первом считая от того места, где войдешь!!!  ТАК понятно???}
-{Speech 4 Answer 5}{}{Понятно. Разрешите бегом?}
-{Speech 5}{}{Вперед!}
-{Speech 6}{}{Насчет награды поговоришь с любым торговцем Хаба на любой репликационной станции. Разрешаю идти.}
-{Speech 6 Answer Exit}{}{Ясно}
-{Speech 7}{}{Чертовы яйцеголовые! Сколько проблем из-за тупого эксперимента. Ну что ж, и в этот раз мы справились.}
-{Speech 7 Answer Exit}{}{Все будет хорошо.}
+{Speech 1 Answer 7}{}{Everything will be fine.}
+{Speech 2}{}{Did the hubologists send you? Lord help us, well... Okay, better than nothing. Even something like that... hmm... I think we can use it.}
+{Speech 2 Answer Exit}{}{I'll be of use!}
+{Speech 2 Answer Exit*}{}{Get lost. }
+{Speech 2 Answer 3}{}{Yep. They said you need help.}
+{Speech 2 Answer 6}{}{Mission accomplished, sir!}
+{Speech 3}{}{Listen to your task. I'll give you some explosives now. You have to reach the replicators and blow up any one of them in the first row. It's from these replicators that the damn ghouls keep crawling out. That's exactly what you need to do - get there and blow it up, and getting there isn't easy. Once you blow it up, you can drop dead with a happy smile - your job's done, the hubologists will resurrect you and pay you. Is the task clear?}
+{Speech 3 Answer 5}{}{Couldn't be clearer. So do I get started?	}
+{Speech 3 Answer 4}{}{Which replicator exactly should I blow up?}
+{Speech 3 Answer Exit}{}{Nah, something about this whole thing doesn't sit right with me, I'm out of here.}
+{Speech 4}{}{Damn it! They'll hire anyone off the street! I told you in big letters - any one in the first row. First, counting from where you come in!!!  Is THAT clear???}
+{Speech 4 Answer 5}{}{Understood. Permission to move out?}
+{Speech 5}{}{Go!}
+{Speech 6}{}{About the reward, talk to any Hub trader at any replication station. You're dismissed.}
+{Speech 6 Answer Exit}{}{Got it.}
+{Speech 7}{}{Damn eggheads! So much trouble over a stupid experiment. Well, we pulled through this time too.}
+{Speech 7 Answer Exit}{}{Everything will be fine.}

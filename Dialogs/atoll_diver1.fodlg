@@ -110,36 +110,38 @@ Speech 13 # Скажу, скажу. Квест проходишь, что ли? 
 {Name}{}{Diver}
 {DescAliveShort}{}{You see a diver.}
 {DescAliveFull}{}{Young man with a pretty good constitution.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Низкий интеллект}
-{Speech 1 Answer 9}{}{Низкий интеллект}
-{Speech 2}{}{[Кивает] Слушаю тебя.@@Я не видел тебя раньше на Атолле. Что привело тебя к нам?@@Я один из лучших здесь. Если тебе нужен хороший пловец, ты по адресу.@@Зачем ты здесь?}
-{Speech 2 Answer Exit}{}{Просто мимо прохожу.@@Не бери в голову.}
-{Speech 2 Answer 3}{}{Чем ты занимаешься?@@Кто ты}
-{Speech 2 Answer 10}{}{Я хочу поговорить о репликации.}
-{Speech 3}{}{Я - ныряльщик. Опускаюсь на дно и достаю подарки из прошлого. Тебе тоже нужен такой подарок?}
-{Speech 3 Answer Exit}{}{Нет.}
-{Speech 3 Answer 4}{}{А что ты можешь предложить?}
-{Speech 3 Answer 8}{}{А что ты можешь предложить?}
-{Speech 4}{}{У меня есть одна вещь. Когда-то считалась очень ценной. Да и сейчас, вторую такую нигде не найти. Могу продать. Но стоит это... Очень дорого.}
-{Speech 4 Answer 5}{}{Что это?}
-{Speech 5}{}{Смотри. [Пловец показывает вам небольшой серебристый чемоданчик. На нем выбиты четыре символа. Г.Э.К.К.]}
-{Speech 5 Answer Exit}{}{Меня это не интересует.}
-{Speech 5 Answer 6}{}{Сколько?}
-{Speech 6}{}{Я хочу получить триста тридцать три тысячи монет. Сразу скажу, никаких торгов, никаких скидок. Если попробуешь на меня напасть, я выброшу это в океан, и Г.Э.К.К. никому не достанется.}
-{Speech 6 Answer Exit}{}{Это слишком дорого. У меня нет таких денег.}
-{Speech 6 Answer 7}{}{Годится. Покупаю.}
-{Speech 7}{}{Люблю тех, кто не торгуется. Как я слышал, использовать эту штуку выгоднее всего в пустыне. Найди ровное, сухое место и преврати его в цветущий сад! "Просто добавь воды", как говорили когда-то...}
-{Speech 7 Answer Exit}{}{Спасибо за совет. Посмотрим, что получится.}
-{Speech 8}{}{Сейчас ничего. Все у нашего торговца, Стива. Обращайся к нему.}
-{Speech 8 Answer Exit}{}{Хорошо.}
-{Speech 9}{}{Нет. Я не стану разговаривать с тобой. Убирайся!}
-{Speech 9 Answer Exit}{}{Шо за!?!}
-{Speech 10}{}{А, вон оно что. Ты от братьев хабологов! А я думаю, что он тут ходит?}
-{Speech 10 Answer 11}{}{Да, совершенно верно. Я хочу поговорить с вами  о репликации.}
-{Speech 11}{}{Да что там говорить-то. Полезная штука, сам знаю. Всё никак не соберусь сходть на сканирование.}
-{Speech 11 Answer 12}{}{О, не стоит откладывать. Может, вам помочь, деньги на дорогу, материальная помощь...}
-{Speech 12}{}{Ой, не грузи. Я не беднее тебя. Ладно. На этой неделе точно пойду. Дел вроде особых нет}
-{Speech 12 Answer 13}{}{Да? Отлично. Скажите им только, что вы от меня. Не забудете?}
-{Speech 13}{}{Скажу, скажу. Квест проходишь, что ли? В смысле задание хабы дали, народ агитировать?}
-{Speech 13 Answer Exit}{}{Угу. Так не забудьте про сканирование. До свидания.}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 2}{}{Normal intellect}
+{Speech 1 Answer 9}{}{Low intellect}
+{Speech 2}{}{[Nods] I'm listening.@@I haven't seen you before on the Atoll. What brings you to us?@@I'm one of the best here. If you need a good swimmer, you've come to the right place.@@Why are you here?}
+{Speech 2 Answer Exit}{}{Just passing by.@@Never mind.}
+{Speech 2 Answer 3}{}{What do you do?@@Who are you?}
+{Speech 2 Answer 10}{}{I want to talk about replication.}
+{Speech 3}{}{I'm a diver. I go down to the bottom and bring back gifts from the past. Do you need such a gift too?}
+{Speech 3 Answer Exit}{}{No.}
+{Speech 3 Answer 4}{}{And what can you offer?}
+{Speech 3 Answer 8}{}{And what can you offer?}
+{Speech 4}{}{I have one thing. It used to be considered very valuable. And even now, you won't find a second one like it anywhere. I can sell it. But it costs... A lot.}
+{Speech 4 Answer 5}{}{What is it?}
+{Speech 5}{}{Look. [The swimmer shows you a small silvery briefcase. Four symbols are stamped on it. G.E.C.K.]}
+{Speech 5 Answer Exit}{}{I'm not interested in that.}
+{Speech 5 Answer 6}{}{How much?}
+{Speech 6}{}{I want three hundred thirty-three thousand coins. I'll say right away, no haggling, no discounts. If you try to attack me, I'll throw it into the ocean, and nobody will get the G.E.C.K.}
+{Speech 6 Answer Exit}{}{That's too expensive. I don't have that kind of money.}
+{Speech 6 Answer 7}{}{Fair enough. I'll buy it.}
+{Speech 7}{}{I like those who don't haggle. From what I've heard, the best way to use this thing is in the desert. Find a flat, dry spot and turn it into a blooming garden! "Just add water," as they used to say...}
+{Speech 7 Answer Exit}{}{Thanks for the advice. We'll see how it turns out.}
+{Speech 8}{}{Nothing right now. It's all with our trader, Steve. Go see him.}
+{Speech 8 Answer Exit}{}{All right.}
+{Speech 9}{}{No. I won't talk to you. Get lost!}
+{Speech 9 Answer Exit}{}{What the?!?}
+{Speech 10}{}{Ah, so that's it. You're from the hubologist brothers! And here I was wondering who's been hanging around.}
+{Speech 10 Answer 11}{}{Yes, exactly right. I want to talk to you  about replication.}
+{Speech 11}{}{What's there to talk about. A useful thing, I know it myself. I just never get around to going for the scan.}
+{Speech 11 Answer 12}{}{Oh, you shouldn't put it off. Maybe I can help, money for the road, financial assistance...}
+{Speech 12}{}{Oh, don't lay it on. I'm no poorer than you. Fine. I'll definitely go this week. Don't seem to have much to do}
+{Speech 12 Answer 13}{}{Yeah? Great. Just tell them you're from me. You won't forget?}
+{Speech 13}{}{I'll tell them, I'll tell them. Doing a quest, are you? I mean, the hub gave you a job, to rally the folks?}
+{Speech 13 Answer Exit}{}{Yep. So don't forget about the scan. Goodbye.}
+{100000001}{}{Congratulations! You got the G.E.C.K. With this magical device you can bring any desert of the wasteland to life. }
+{100000002}{}{Go into any desert encounter and use the G.E.C.K! Whoever activates the G.E.C.K is automatically appointed the leader of the new settlement. You'll be able to appoint new residents or expel undesirable ones from your glorious city.}

@@ -34,13 +34,13 @@ Speech 4 # Используйте фикс-бой для управления с
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Нет программ.}
-{Speech 1 Answer 4}{}{Есть драйвера от станка (этого или похожего).}
-{Speech 2}{}{Это автоматический пресс для производства патронов. На стареньком монохромном чёрно-зелёном экране светится надпись: "Для запуска процесса загрузите в контейнеры на передней панели необходимые материалы и выберите необходимую программу через Фикс-Бой. Напоминание мастерам: запрещается выдавать Фикс-Бой необученному персоналу."}
-{Speech 2 Answer 3}{}{[Загрузить программы в Фикс-Бой]}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 3}{}{[Программы загружены]}
-{Speech 3 Answer Exit}{}{[Выход]}
-{Speech 4}{}{Используйте фикс-бой для управления станком.}
-{Speech 4 Answer Exit}{}{[Выход]}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{No programs.}
+{Speech 1 Answer 4}{}{I have the drivers for the machine (this one or a similar one).}
+{Speech 2}{}{This is an automatic press for manufacturing ammo. An old monochrome black-and-green screen glows with the text: "To start the process, load the required materials into the containers on the front panel and select the necessary program through your Fixboy. A reminder to the masters: it is forbidden to hand a Fixboy to untrained personnel."}
+{Speech 2 Answer 3}{}{[Load the programs into the Fixboy]}
+{Speech 2 Answer Exit}{}{[Exit]}
+{Speech 3}{}{[Programs loaded]}
+{Speech 3 Answer Exit}{}{[Exit]}
+{Speech 4}{}{Use the Fixboy to operate the machine.}
+{Speech 4 Answer Exit}{}{[Exit]}

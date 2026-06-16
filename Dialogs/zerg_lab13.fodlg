@@ -37,15 +37,15 @@ Speech 6 # Один из испытуемых показал крайне стр
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 2}{}{Лаборатория №13\nВ данной лаборатории проводятся испытания психики людей\nИспытуемые: ТОЛЬКО пленные из Альянса\n}
-{Speech 2 Answer 3}{}{Далее}
-{Speech 3}{}{Испытуемого помещают в кресло, закапывают глаза веществом с кодовым названием "СОВА-4" и фиксируют их в открытом положении на период от одной недели до двух месяцев.\nИспытуемому показывают бесконечное повторение фильма с кодовым названием "ККГ".\n}
-{Speech 3 Answer 4}{}{Далее}
-{Speech 4}{}{Испытуемый регулярно получает еду, и новую порцию вещества с кодовым названием "СОВА-4", после чего сопровождаются в зрительный зал, где не имеют возможности отвести глаза от экранов на протяжении теста. По завершению эксперимента испытуемые выпускаются на волю.\n}
-{Speech 4 Answer 5}{}{Далее}
-{Speech 5}{}{Цель: разрушение психики бойцов Альянса, превращение их в замедленную бомбу.\nЭксперимент успешно проведен на Роки и Чанкайши. Ожидается, что в скором времени они убьют своих близких, после чего отправятся убивать все живое.\n}
-{Speech 5 Answer 6}{}{Выход}
-{Speech 6}{}{Один из испытуемых показал крайне странную реакцию на препарат "СОВА-4". Тело подопытного изменилось, он стал метаться по комнате с нечеловеческой скоростью, ударяясь головой о металлические стены, оставляя следы крови и мозга, постоянно крича про пони, бабочек и какашки, после чего скончался.}
-{Speech 6 Answer Exit}{}{[Выход]}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 2}{}{Laboratory No.13\nThis laboratory conducts experiments on the human psyche\nSubjects: ONLY prisoners from the Alliance\n}
+{Speech 2 Answer 3}{}{Next}
+{Speech 3}{}{The subject is placed in a chair, their eyes are treated with a substance codenamed "OWL-4" and held open for a period of one week to two months.\nThe subject is shown an endless loop of a film codenamed "KKG".\n}
+{Speech 3 Answer 4}{}{Next}
+{Speech 4}{}{The subject regularly receives food and a new dose of the substance codenamed "OWL-4", after which they are escorted to the auditorium, where they have no way to look away from the screens for the duration of the test. Upon completion of the experiment the subjects are released into the wild.\n}
+{Speech 4 Answer 5}{}{Next}
+{Speech 5}{}{Objective: to destroy the psyche of Alliance fighters, turning them into a delayed bomb.\nThe experiment was successfully carried out on Rocky and Chiang Kai-shek. It is expected that they will soon kill their loved ones, after which they will set out to kill all living things.\n}
+{Speech 5 Answer 6}{}{Exit}
+{Speech 6}{}{One of the subjects showed an extremely strange reaction to the drug "OWL-4". The subject's body changed, he began to dart around the room at inhuman speed, smashing his head against the metal walls, leaving traces of blood and brain, constantly screaming about ponies, butterflies and poop, after which he died.}
+{Speech 6 Answer Exit}{}{[Exit]}
