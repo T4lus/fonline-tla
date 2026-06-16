@@ -150,52 +150,52 @@ Speech 15 # Прости, @pname@, но это невозможно. Ты сли
 {DescAliveShort}{}{You see a man of an average height in dusty clothes.}
 {DescAliveFull}{}{You see a man of an average height in dusty clothes. He smells like he works with Brahmins all day.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 1 Answer 3}{}{Не знаком}
-{Speech 1 Answer 8}{}{Знаком}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 1 Answer 3}{}{Not acquainted}
+{Speech 1 Answer 8}{}{Acquainted}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 4}{}{Няма адя да!}
-{Speech 2 Answer 12}{}{Твоя есть работа?}
+{Speech 2 Answer 4}{}{Nyama adya da!}
+{Speech 2 Answer 12}{}{You have work?}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 11}{}{Я ищу работу.}
-{Speech 3 Answer Barter}{}{Я хочу купить кое-что.}
-{Speech 3 Answer 3}{}{Что ты можешь рассказать мне о Чеде?}
-{Speech 3 Answer 7}{}{Кто вы?}
-{Speech 3 Answer 13}{}{Билл, где мои деньги за караван Гекко?@@Я здесь, чтобы получить плату за охрану каравана.}
-{Speech 3 Answer 14}{}{Билл, предлагаю разобраться с нашими проблемами.  В последнем караване все пошло не так. Это не только моя вина.}
-{Speech 3 Answer 15}{}{Билл, предлагаю разобраться с нашими проблемами.  В последнем караване все пошло не так. Это не только моя вина.}
+{Speech 3 Answer 11}{}{I'm looking for work.}
+{Speech 3 Answer Barter}{}{I want to buy something.}
+{Speech 3 Answer 3}{}{What can you tell me about Chad?}
+{Speech 3 Answer 7}{}{Who are you?}
+{Speech 3 Answer 13}{}{Bill, where's my money for the Gecko caravan?@@I'm here to collect my pay for guarding the caravan.}
+{Speech 3 Answer 14}{}{Bill, I propose we sort out our problems.  Everything went wrong on the last caravan. It's not only my fault.}
+{Speech 3 Answer 15}{}{Bill, I propose we sort out our problems.  Everything went wrong on the last caravan. It's not only my fault.}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 4 Answer Exit}{}{О-ооо!}
-{Speech 5}{}{Да? Чего ты хочешь купить?}
-{Speech 6}{}{Ты хочешь спросить о Чеде? Что конкретно?}
-{Speech 6 Answer 9}{}{Вы ему доверяете?}
-{Speech 6 Answer 10}{}{Что вы можете рассказать мне о нем?}
+{Speech 4 Answer Exit}{}{O-ooo!}
+{Speech 5}{}{Yeah? What do you want to buy?}
+{Speech 6}{}{You want to ask about Chad? What exactly?}
+{Speech 6 Answer 9}{}{Do you trust him?}
+{Speech 6 Answer 10}{}{What can you tell me about him?}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 11}{}{Работу? Какую работу?}
-{Speech 7 Answer Exit}{}{Спасибо. Пока.}
-{Speech 8}{}{Что вам надо?}
-{Speech 8 Answer 11}{}{Я ищу работу.}
-{Speech 8 Answer Barter}{}{Я хочу купить кое-что.}
-{Speech 8 Answer 6}{}{Что ты можешь рассказать мне о Чеде?}
-{Speech 8 Answer 7}{}{Кто вы?}
-{Speech 8 Answer 13}{}{Билл, где мои деньги за караван Гекко?@@Я здесь, чтобы получить плату за охрану каравана.}
-{Speech 8 Answer 14}{}{Билл, предлагаю разобраться с нашими проблемами.  В последнем караване все пошло не так. Это не только моя вина.}
-{Speech 8 Answer 15}{}{Билл, предлагаю разобраться с нашими проблемами.  В последнем караване все пошло не так. Это не только моя вина.}
+{Speech 7 Answer 11}{}{Work? What kind of work?}
+{Speech 7 Answer Exit}{}{Thanks. Bye.}
+{Speech 8}{}{What do you need?}
+{Speech 8 Answer 11}{}{I'm looking for work.}
+{Speech 8 Answer Barter}{}{I want to buy something.}
+{Speech 8 Answer 6}{}{What can you tell me about Chad?}
+{Speech 8 Answer 7}{}{Who are you?}
+{Speech 8 Answer 13}{}{Bill, where's my money for the Gecko caravan?@@I'm here to collect my pay for guarding the caravan.}
+{Speech 8 Answer 14}{}{Bill, I propose we sort out our problems.  Everything went wrong on the last caravan. It's not only my fault.}
+{Speech 8 Answer 15}{}{Bill, I propose we sort out our problems.  Everything went wrong on the last caravan. It's not only my fault.}
 {Speech 9}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 9 Answer 8}{}{У меня есть еще вопросы.}
-{Speech 9 Answer Exit}{}{Замечательно. Спасибо за разговор.}
-{Speech 10}{}{Что я о нем знаю? Он пришел в Брокен Хиллс из пустыни. У него не было ничего, кроме собственных рук и головы. Он выглядел так, как будто за ним кто-то охотится, но он не говорил кто. Вообще он всегда помалкивал о своем прошлом. И... он просто великолепный караванщик. Это все.}
-{Speech 10 Answer 8}{}{У меня есть еще вопросы.}
-{Speech 10 Answer Exit}{}{Спасибо.}
-{Speech 11}{}{Прошу прощения, но работы у меня пока нет.}
-{Speech 11 Answer 8}{}{Я хочу еще кое-что.}
-{Speech 11 Answer Exit}{}{Спасибо.}
+{Speech 9 Answer 8}{}{I have more questions.}
+{Speech 9 Answer Exit}{}{Wonderful. Thanks for the talk.}
+{Speech 10}{}{What do I know about him? He came to Broken Hills out of the desert. He had nothing but his own hands and head. He looked like someone was hunting him, but he wouldn't say who. In general he always kept quiet about his past. And... he's just a magnificent caravan master. That's all.}
+{Speech 10 Answer 8}{}{I have more questions.}
+{Speech 10 Answer Exit}{}{Thanks.}
+{Speech 11}{}{My apologies, but I don't have any work for you yet.}
+{Speech 11 Answer 8}{}{I want something else.}
+{Speech 11 Answer Exit}{}{Thanks.}
 {Speech 12}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 12 Answer Exit}{}{[КОНЕЦ]}
-{Speech 13}{}{Ты отлично справил@sex@|ся|ась| со своей задачей! Как насчет того, чтобы еще на нас поработать?}
-{Speech 13 Answer Exit}{}{Я подумаю.@@Все может быть.@@Спасибо.}
-{Speech 14}{}{Ах, да. @arg leader@ рассказал мне об этой проблеме. Тебе придется заплатить, чтобы мы забыли об этом досадном недоразумении. Плата составит @arg money@ монет.}
-{Speech 14 Answer Exit}{}{Годится. [Отдать деньги]}
-{Speech 14 Answer Exit*}{}{Я обдумаю условия и вернусь.}
-{Speech 15}{}{Прости, @pname@, но это невозможно. Ты слишком часто нас подводишь. Это не может продолжаться бесконечно.}
-{Speech 15 Answer Exit}{}{Ты совершаешь большую ошибку, Билл. }
+{Speech 12 Answer Exit}{}{[END]}
+{Speech 13}{}{You did a great job with your task, @sex@|mister|miss|! How about you work for us some more?}
+{Speech 13 Answer Exit}{}{I'll think about it.@@Anything's possible.@@Thanks.}
+{Speech 14}{}{Ah, yes. @arg leader@ told me about this problem. You'll have to pay so we can forget about this unfortunate misunderstanding. The fee will be @arg money@ coins.}
+{Speech 14 Answer Exit}{}{Fine. [Hand over the money]}
+{Speech 14 Answer Exit*}{}{I'll think over the terms and come back.}
+{Speech 15}{}{Sorry, @pname@, but it's impossible. You let us down too often. This can't go on forever.}
+{Speech 15 Answer Exit}{}{You're making a big mistake, Bill. }

@@ -80,24 +80,24 @@ Speech 9 # В деле? Ну, хорошо. Вот место, где у нас 
 {Name}{}{Tuko}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 4}{}{Привет незнаком@sex@|ец|ка|! Что скажешь?\n}
-{Speech 2}{}{Бармен, еще пива!@@Только посмей что-нибудь ляпнуть про мою руку.@@Показать, где выход?@@[Морщится от боли в руке]@@Не сейчас.@@Ты мне мешаешь.@@Какого дьявола?}
-{Speech 2 Answer 3}{}{Так, Туко! Ты сволочь! Ты подставил меня, засранец!}
-{Speech 3}{}{Понятия не имею, о чем ты.@@Что ты такое несешь??@@В первый раз тебя вижу.@@Ты меня с кем-то путаешь.@@В психушке день открытых дверей? Ты бредишь.}
-{Speech 4}{}{Привет незнаком@sex@|ец|ка|! Что скажешь?}
-{Speech 4 Answer 5}{}{Ходят слухи, ты ищешь людей для серьезного дела...}
-{Speech 5}{}{Верно. Ищу. Меня зовут Туко  Пасифико Мария Рамирес, но для друзей просто Туко. Сам-то я, как видишь, сейчас не в форме. Сцепился в пустоши  с мафией, за руку укусили…Теперь прикурить-то трудно, не то, что стрелять, да…\n}
-{Speech 5 Answer 6}{}{Так что за дело?}
-{Speech 5 Answer Exit}{}{Пойду-ка я отсюда. Не нравишься ты мне, Туко.\n}
-{Speech 6}{}{Понимаешь, мы с ребятами вычислили одну нычку, которая стоит закрытая еще с довоенных времен. Естественно, там охраняемый периметр, все дела. Ну, и сговорились встретиться да пойти её курочить. А тут со мной такая байда - руку повредил. А там каждый человек на счету. Не хочется мне парней подводить, вот и думаю кого-то вместо себя отправить.\n}
-{Speech 6 Answer 7}{}{А что за нычка?}
-{Speech 6 Answer Exit}{}{Чушь какая. Ищи дурака.}
-{Speech 7}{}{Так мы ж внутри не были. Но, думаю, место жирное, просто так минировать и ворота железные ставить не будут.}
-{Speech 7 Answer 8}{}{И ты типа такой добрый, просто так мне это отдашь? А, Туко?}
-{Speech 7 Answer Exit}{}{Враньё, я считаю. Пока.}
-{Speech 8}{}{Хе, я вроде про «просто так» не говорил. Ты получишь ровно половину моей доли. Ребята проследят.  Не беспокойся, там и половины доли хватит на то, чтоб пол- Рено купить.}
-{Speech 8 Answer 9}{}{Хм, звучит неплохо. Я в деле.}
-{Speech 8 Answer Exit}{}{Вот, с этого и следовало начинать. Ты жадная сволочь. Прощай.}
-{Speech 9}{}{В деле? Ну, хорошо. Вот место, где у нас встреча назначена. Ребята уже там, да. Ты, это, ну подготовься получше, броню посерьезней, оружие топовое, медицину.  А то мало ли, что там …}
-{Speech 9 Answer Exit}{}{Ясно, обязательно в полном обвесе пойду. Спасибо за наводку}
-{Speech 9 Answer Exit*}{}{Не учи ученого. }
+{Speech 1 Answer 4}{}{Hey there, strang@sex@|er|er|! What do you say?\n}
+{Speech 2}{}{Barkeep, another beer!@@Don't you dare say a word about my arm.@@Want me to show you the exit?@@[Winces from the pain in his arm]@@Not now.@@You're bothering me.@@What the hell?}
+{Speech 2 Answer 3}{}{So, Tuko! You bastard! You set me up, you son of a bitch!}
+{Speech 3}{}{I have no idea what you're talking about.@@What are you going on about??@@First time I've seen you.@@You're confusing me with someone else.@@Is it open house day at the nuthouse? You're raving.}
+{Speech 4}{}{Hey there, strang@sex@|er|er|! What do you say?}
+{Speech 4 Answer 5}{}{Word is you're looking for people for some serious business...}
+{Speech 5}{}{That's right. I am. My name's Tuko Pacifico Maria Ramirez, but for friends just Tuko. As you can see, I'm not in shape right now. Got into it with the mafia out in the wasteland, got bitten on the arm... Now it's hard to even light a smoke, let alone shoot, yeah...\n}
+{Speech 5 Answer 6}{}{So what's the job?}
+{Speech 5 Answer Exit}{}{I'm getting out of here. I don't like you, Tuko.\n}
+{Speech 6}{}{See, me and the boys spotted a stash that's been sealed up since before the war. Naturally, there's a guarded perimeter, the whole deal. So we agreed to meet up and go crack it open. And then this thing happens to me - I hurt my arm. And out there every man counts. I don't want to let the boys down, so I'm thinking of sending someone in my place.\n}
+{Speech 6 Answer 7}{}{What kind of stash?}
+{Speech 6 Answer Exit}{}{What nonsense. Find yourself another fool.}
+{Speech 7}{}{Well, we haven't been inside. But I figure the place is rich, they wouldn't mine it and put up iron gates for nothing.}
+{Speech 7 Answer 8}{}{And you're so kind you'll just hand it over to me? Eh, Tuko?}
+{Speech 7 Answer Exit}{}{It's a lie, I reckon. Bye.}
+{Speech 8}{}{Heh, I don't think I said "for nothing." You'll get exactly half of my share. The boys will keep an eye on it. Don't worry, half a share is enough to buy half of Reno.}
+{Speech 8 Answer 9}{}{Hmm, sounds good. I'm in.}
+{Speech 8 Answer Exit}{}{There, that's where you should've started. You greedy bastard. Farewell.}
+{Speech 9}{}{In? Well, all right. Here's the place where we set the meeting. The boys are already there, yeah. You, uh, get yourself ready, better armor, top-notch weapons, some medicine. You never know what's in there...}
+{Speech 9 Answer Exit}{}{Got it, I'll definitely go in full gear. Thanks for the tip.}
+{Speech 9 Answer Exit*}{}{Don't teach the teacher. }

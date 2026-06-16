@@ -131,7 +131,7 @@ Speech 15 # Еще вопросы?
 {Speech 2 Answer 5}{}{Dugstore? Rugstore?}
 {Speech 3}{}{Hi there. I’m Jacob, the chemist of the Chemist’s Drugstore. What can I do for you?@@What do you want?}
 {Speech 3 Answer 8}{}{What can you tell me about Broken Hills?}
-{Speech 3 Answer 6}{}{Хочу купить кое-что.}
+{Speech 3 Answer 6}{}{I want to buy something.}
 {Speech 3 Answer Exit}{}{Bye.}
 {Speech 4}{}{[A look of disgust crosses his face] Get out of here. I don’t have time for you.}
 {Speech 4 Answer Exit}{}{[DONE]}
@@ -139,9 +139,9 @@ Speech 15 # Еще вопросы?
 {Speech 5 Answer 4}{}{‘Es!}
 {Speech 5 Answer Exit}{}{Unh uh.}
 {Speech 6}{}{Fine. Let’s see what you want.}
-{Speech 6 Answer Barter}{}{[Бартер]}
-{Speech 6 Answer 15}{}{Хотел@sex@||а| вообще узнать ещё кое-что...}
-{Speech 6 Answer Exit}{}{Хватит торговли.}
+{Speech 6 Answer Barter}{}{[Barter]}
+{Speech 6 Answer 15}{}{I wanted@sex@||| to ask about something else entirely...}
+{Speech 6 Answer Exit}{}{Enough trading.}
 {Speech 8}{}{Why don’t you tell me how you feel about mutants first?}
 {Speech 8 Answer 9}{}{I hate them.}
 {Speech 8 Answer 11}{}{I’m ambivalent about them.}
@@ -168,5 +168,5 @@ Speech 15 # Еще вопросы?
 {Speech 14 Answer 15}{}{No, I’m not really interested.}
 {Speech 15}{}{More questions?}
 {Speech 15 Answer 8}{}{What can you tell me about Broken Hills?}
-{Speech 15 Answer 6}{}{Хочу купить кое-что.}
+{Speech 15 Answer 6}{}{I want to buy something.}
 {Speech 15 Answer Exit}{}{Nothing. Bye.}

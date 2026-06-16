@@ -241,18 +241,18 @@ Speech 20 # Заходите, конечно.
 {Speech 2}{}{What is it you want? Out with it! I'm a busy man!}
 {Speech 2 Answer 8}{}{Who are you? And what's with the scorpion?}
 {Speech 2 Answer 7}{}{Nothing. Bye.}
-{Speech 2 Answer 11}{}{Я встретил разумного смертокогта. Он попросил отнести вам это яйцо. Возможно вы могли бы попробовать вырастить из него смертокогта?}
+{Speech 2 Answer 11}{}{I met an intelligent deathclaw. He asked me to bring you this egg. Perhaps you could try to raise a deathclaw from it?}
 {Speech 3}{}{You again?}
 {Speech 3 Answer 8}{}{Who are you? And what's with the scorpion?}
 {Speech 3 Answer 7}{}{Nothing. Bye.}
-{Speech 3 Answer 11}{}{Я встретил разумного смертокогта. Он попросил отнести вам это яйцо. Возможно вы могли бы попробовать вырастить из него смертокогта?}
-{Speech 3 Answer 7*}{}{Здравствуйте, профессор. Работёнки для меня не найдётся?}
-{Speech 3 Answer 15}{}{Здравствуйте, профессор. Работёнки для меня не найдётся?}
+{Speech 3 Answer 11}{}{I met an intelligent deathclaw. He asked me to bring you this egg. Perhaps you could try to raise a deathclaw from it?}
+{Speech 3 Answer 7*}{}{Hello, Professor. Got any work for me?}
+{Speech 3 Answer 15}{}{Hello, Professor. Got any work for me?}
 {Speech 4}{}{You again?}
 {Speech 4 Answer 5}{}{Noo beezy?}
 {Speech 5}{}{What is it you want? Out with it! I'm a busy man!}
 {Speech 5 Answer 6}{}{Noo beezy?}
-{Speech 5 Answer 11}{}{Моя приносить яйцо от говорящий зверь!}
+{Speech 5 Answer 11}{}{Me bring egg from talking beast!}
 {Speech 6}{}{Then why are you wasting my time? I told you I'm busy, didn't I? I have too much to do to stand around wasting time talking to people like ... why am I still talking to you? Good day!}
 {Speech 6 Answer Exit}{}{Byeeeeee!}
 {Speech 7}{}{Then why are you wasting my time? I told you I'm busy, didn't I? I have too much to do to stand around wasting time talking to people like ... why am I still talking to you? Good day!}
@@ -266,37 +266,37 @@ Speech 20 # Заходите, конечно.
 {Speech 9 Answer Exit}{}{That's all I wanted to know.}
 {Speech 10}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
 {Speech 10 Answer Exit}{}{All right, I believe you. I'll just be leaving.}
-{Speech 10 Answer 16}{}{Ну это отрава для людей,понятно. А кроме этого, что-нибудь получилось сделать?}
-{Speech 11}{}{Яйцо разумного смертокогта? Так давай его скорее сюда, дубина!}
-{Speech 11 Answer 6}{}{Моя терять яйцо...}
-{Speech 11 Answer 12}{}{Вота яйцо говорящей смертокоги.}
-{Speech 11 Answer 6*}{}{Лучше моя съедать большое вкусное яйцо!}
-{Speech 11 Answer 7}{}{Я кажется потерял его...}
-{Speech 11 Answer 12*}{}{Вот, профессор. [Осторожно передаёте яйцо профессору] }
-{Speech 11 Answer 13}{}{Вот, профессор. [Протягиваете яйцо профессору, но ваше постоянное невезение и тут застает вас и вы роняете его. Яйцо разбито]}
-{Speech 11 Answer 13*}{}{Вот, профессор. [Протягиваете яйцо профессору, но ваше постоянное невезение и тут застает вас и вы роняете его. Яйцо разбито]}
-{Speech 11 Answer 7*}{}{Я не отдам вам яйцо. Лучше я оставлю его себе.}
-{Speech 12}{}{Отлично! Ты не так уж бесполез@sex@|ен|на|... Это яйцо очень пригодится в моих исследованиях.}
-{Speech 12 Answer Exit}{}{Ага! Благодари меня! Моя такая!}
-{Speech 12 Answer Exit*}{}{[Уходите]}
-{Speech 12 Answer 14}{}{Попробуйте вырастить малыша, профессор.}
-{Speech 13}{}{Ах, ты глуп@sex@|ый неудычник|ая неудачница|. Ты ни на что не @sex@|годен|годна|! Убирайся вон!}
-{Speech 13 Answer Exit}{}{Ох!..}
-{Speech 14}{}{Да, да... Конечно... [Бурчит себе под нос. Кажется он уже забыл о вас]}
-{Speech 15}{}{Нет, у меня нет никакой работы. Однако я купил-бы мяса. У меня нет времени заниматься этим, а мои питомцы очень прожорливы...}
-{Speech 15 Answer 15}{}{Вот, у меня как-раз есть кусок мяса.}
-{Speech 15 Answer Exit}{}{Отлично! Я скоро буду с мясом.}
-{Speech 15 Answer Exit*}{}{Нет. Я не стану носить вам мясо.}
-{Speech 16}{}{Мне удалось снизить агрессивность диких мантисов.}
-{Speech 16 Answer Exit}{}{Это очень важно конечно! Тьху! Я ухожу.}
-{Speech 16 Answer 17}{}{Ух ты. И они не нападают? А можно их дома держать?}
-{Speech 17}{}{Да, всё верно.Можно держать его дома. Или таскать с собой, если уж совсем крыша поехала.}
-{Speech 17 Answer 18}{}{О да, это сбыча мечт! А вы мне продатите одного?}
-{Speech 17 Answer Exit}{}{Про крышу- это ты верно заметил. Пойду я отсюда.}
-{Speech 18}{}{Продам, отчего нет. Из-за этого всё и затевалось...эээ ...гм. В общем, 4800 монет - и вас есть собственный лим-лим! Ну, это, мантис я хотел сказать.}
-{Speech 18 Answer 19}{}{О! Позвольте вручить вам деньги. }
-{Speech 18 Answer 20}{}{О! У меня кошелек дома остался! Но я обязательно ещё зайду!}
-{Speech 18 Answer Exit}{}{Да имейте же совесть! За какого-то сраного акрида 4800! Куда мир катится! Ноги моей тут больше не будет!}
-{Speech 19}{}{Вот, держите. Периодически выпускайте его из коробки. Поесть он сам найдет. Особого ухода не требует. }
-{Speech 19 Answer Exit}{}{Благодарю! }
-{Speech 20}{}{Заходите, конечно.}
+{Speech 10 Answer 16}{}{Well, that's poison for people, sure. But besides that, have you managed to make anything?}
+{Speech 11}{}{An egg of an intelligent deathclaw? Then hand it over here quick, you blockhead!}
+{Speech 11 Answer 6}{}{Me lose egg...}
+{Speech 11 Answer 12}{}{Here egg of talking deathclaw.}
+{Speech 11 Answer 6*}{}{Better me eat big tasty egg!}
+{Speech 11 Answer 7}{}{I think I lost it...}
+{Speech 11 Answer 12*}{}{Here you go, Professor. [Carefully hand the egg to the Professor] }
+{Speech 11 Answer 13}{}{Here you go, Professor. [Hold out the egg to the Professor, but your constant bad luck catches up with you here too and you drop it. The egg is smashed]}
+{Speech 11 Answer 13*}{}{Here you go, Professor. [Hold out the egg to the Professor, but your constant bad luck catches up with you here too and you drop it. The egg is smashed]}
+{Speech 11 Answer 7*}{}{I won't give you the egg. I'd rather keep it for myself.}
+{Speech 12}{}{Excellent! You're not so useless after all... This egg will be very useful in my research.}
+{Speech 12 Answer Exit}{}{Yeah! Thank me! Me like that!}
+{Speech 12 Answer Exit*}{}{[Leave]}
+{Speech 12 Answer 14}{}{Try to raise the little one, Professor.}
+{Speech 13}{}{Oh, you stupid @sex@|loser|loser|. You're @sex@|good|good| for nothing! Get out of here!}
+{Speech 13 Answer Exit}{}{Ow!..}
+{Speech 14}{}{Yes, yes... Of course... [Mutters to himself. It seems he's already forgotten about you]}
+{Speech 15}{}{No, I don't have any work. However, I would buy some meat. I don't have time to deal with it, and my pets are very voracious...}
+{Speech 15 Answer 15}{}{Here, I happen to have a piece of meat.}
+{Speech 15 Answer Exit}{}{Excellent! I'll be back with meat soon.}
+{Speech 15 Answer Exit*}{}{No. I won't bring you meat.}
+{Speech 16}{}{I managed to reduce the aggressiveness of wild mantises.}
+{Speech 16 Answer Exit}{}{That's very important, of course! Bah! I'm leaving.}
+{Speech 16 Answer 17}{}{Wow. And they don't attack? Can you keep them at home?}
+{Speech 17}{}{Yes, that's right. You can keep one at home. Or carry it around with you, if you've really gone off your rocker.}
+{Speech 17 Answer 18}{}{Oh yes, that's a dream come true! Would you sell me one?}
+{Speech 17 Answer Exit}{}{About the rocker - you got that right. I'm out of here.}
+{Speech 18}{}{I'll sell, why not. That's what all this was for...uhh ...hmm. In short, 4800 coins - and you've got your own lim-lim! Well, a mantis, I mean.}
+{Speech 18 Answer 19}{}{Oh! Allow me to hand you the money. }
+{Speech 18 Answer 20}{}{Oh! I left my wallet at home! But I'll definitely come back!}
+{Speech 18 Answer Exit}{}{Have a conscience, will you! 4800 for some lousy bug! Where is the world heading! I'll never set foot in here again!}
+{Speech 19}{}{Here, take it. Let it out of the box from time to time. It'll find food on its own. It doesn't need any special care. }
+{Speech 19 Answer Exit}{}{Thank you! }
+{Speech 20}{}{Come on in, of course.}

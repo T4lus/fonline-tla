@@ -103,39 +103,39 @@ Speech 11 # Например?
 {DescAliveFull}{}{You see Typhon, Seth's son.}
 {DescAliveFull}{}{You see an old ghoul. His eyes are very intelligent.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 1 Answer 3}{}{Не знаком}
-{Speech 1 Answer 7}{}{Знаком}
-{Speech 2}{}{Привет, дитя, и добро пожаловать в Дом престарелых гулей!}
-{Speech 2 Answer 4}{}{Лелых хули?}
-{Speech 3}{}{Привет, дитя, и добро пожаловать в Дом престарелых гулей!}
-{Speech 3 Answer 8}{}{Дом престарелых гулей?}
-{Speech 3 Answer 9}{}{Кто вы?}
-{Speech 3 Answer Exit}{}{Пока.}
-{Speech 4}{}{Очередное дитя пустошей, да?}
-{Speech 4 Answer 5}{}{Агы!}
-{Speech 4 Answer Exit}{}{Не-а.}
-{Speech 5}{}{Хе. Ну хорошо. Тогда у меня для тебя ничего нет. Иди отсюда.}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 1 Answer 3}{}{Not acquainted}
+{Speech 1 Answer 7}{}{Acquainted}
+{Speech 2}{}{Greetings, child, and welcome to the Ghoul Retirement Home!}
+{Speech 2 Answer 4}{}{Wetiwement whut?}
+{Speech 3}{}{Greetings, child, and welcome to the Ghoul Retirement Home!}
+{Speech 3 Answer 8}{}{Ghoul Retirement Home?}
+{Speech 3 Answer 9}{}{Who are you?}
+{Speech 3 Answer Exit}{}{Bye.}
+{Speech 4}{}{Another child of the wasteland, eh?}
+{Speech 4 Answer 5}{}{Uh-huh!}
+{Speech 4 Answer Exit}{}{Nope.}
+{Speech 5}{}{Heh. All right then. In that case I've got nothing for you. Get out of here.}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 5}{}{Агы!}
-{Speech 6 Answer Exit}{}{Не-а.}
-{Speech 7}{}{Ты вернулся, да?}
-{Speech 7 Answer 11}{}{У меня есть еще кое-какие вопросы.}
-{Speech 7 Answer 8}{}{Так это Дом престарелых гулей?}
-{Speech 7 Answer 9}{}{Кто вы?}
-{Speech 7 Answer 11*}{}{Можешь еще что-нибудь мне рассказать?}
-{Speech 8}{}{Это такая шутка. Все гули, так или иначе, престарелые. Видишь ли, мы все бесплодны, но очень долго живем. Мы - первое и последнее поколение гулей. Это место для тех из нас, кто хотел бы немного отдохнуть.}
-{Speech 8 Answer 11}{}{Я вижу. У меня есть еще вопросы.}
-{Speech 8 Answer Exit}{}{Ясно. Пока.}
-{Speech 9}{}{Я Тифон. Ты когда-нибудь слышал о Сете? Когда-то он был главой старого города Некрополиса. Я его сын. Родился до того, как радиация нанесла нам удар, поэтому рос и мутировал. Другим я никогда не был.}
-{Speech 9 Answer 10}{}{Расскажи мне о Сете.}
-{Speech 9 Answer 10*}{}{Сет? Я слышал, он был редкая мразь!}
-{Speech 9 Answer 11}{}{Я вижу. У меня есть еще вопросы.}
-{Speech 9 Answer Exit}{}{Ясно. Пока.}
-{Speech 10}{}{"Редкая мразь" - да, точнее его не опишешь. От того, что он превратился в гуля из-за радиации, у него не пострадали ни чувство юмора, ни начальственные замашки. Конечно, такое пережить - кому угодно мозги свернет набекрень. Мне-то пришлось гораздо легче, я не был взрослым натуралом.}
-{Speech 10 Answer 11}{}{Я вижу. У меня есть еще вопросы.}
-{Speech 10 Answer Exit}{}{Спасибо. Пока.}
-{Speech 11}{}{Например?}
-{Speech 11 Answer 8}{}{Так это Дом престарелых гулей?}
-{Speech 11 Answer 9}{}{Кто вы?}
-{Speech 11 Answer Exit}{}{Пока.}
+{Speech 6 Answer 5}{}{Uh-huh!}
+{Speech 6 Answer Exit}{}{Nope.}
+{Speech 7}{}{You're back, eh?}
+{Speech 7 Answer 11}{}{I've got a few more questions.}
+{Speech 7 Answer 8}{}{So this is the Ghoul Retirement Home?}
+{Speech 7 Answer 9}{}{Who are you?}
+{Speech 7 Answer 11*}{}{Can you tell me anything else?}
+{Speech 8}{}{It's a kind of joke. All ghouls are aged, one way or another. You see, we're all infertile, but we live a very long time. We are the first and last generation of ghouls. This is a place for those of us who'd like a little rest.}
+{Speech 8 Answer 11}{}{I see. I've got more questions.}
+{Speech 8 Answer Exit}{}{Got it. Bye.}
+{Speech 9}{}{I'm Typhon. Have you ever heard of Seth? He was once the head of the old city of Necropolis. I'm his son. I was born before the radiation hit us, so I grew up and mutated. I've never been anything else.}
+{Speech 9 Answer 10}{}{Tell me about Seth.}
+{Speech 9 Answer 10*}{}{Seth? I heard he was a real scumbag!}
+{Speech 9 Answer 11}{}{I see. I've got more questions.}
+{Speech 9 Answer Exit}{}{Got it. Bye.}
+{Speech 10}{}{"A real scumbag" - yes, you couldn't describe him more precisely. Turning into a ghoul from the radiation didn't damage either his sense of humor or his bossy ways. Of course, living through something like that would twist anyone's mind out of shape. I had it much easier, I wasn't a grown-up normal.}
+{Speech 10 Answer 11}{}{I see. I've got more questions.}
+{Speech 10 Answer Exit}{}{Thanks. Bye.}
+{Speech 11}{}{Such as?}
+{Speech 11 Answer 8}{}{So this is the Ghoul Retirement Home?}
+{Speech 11 Answer 9}{}{Who are you?}
+{Speech 11 Answer Exit}{}{Bye.}
