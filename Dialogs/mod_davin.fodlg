@@ -151,56 +151,56 @@ Speech 18 # Я занят, зайдите позже.
 {DescAliveFull}{}{You see Davine.}
 {DescAliveFull}{}{Young man, near his twenties. He is very similar to Grishem.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 18}{}{тупой}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 1 Answer 5}{}{Ответ}
-{Speech 2}{}{Привет! Меня зовут Дэвин. Я помогаю отцу на скотобойне в Модоке.}
-{Speech 2 Answer 6}{}{Чем ты занимаешься на скотобойне?}
-{Speech 2 Answer 7}{}{До меня дошли слухи о тебе и браминах.}
-{Speech 2 Answer 8}{}{Расскажи мне о своем отце.}
-{Speech 2 Answer 17}{}{Мне пора идти. Пока.}
-{Speech 4}{}{Конечно, у меня не очень много дел. Спрашивай.}
-{Speech 4 Answer 6}{}{Чем ты занимаешься на скотобойне?}
-{Speech 4 Answer 7}{}{До меня дошли слухи о тебе и браминах.}
-{Speech 4 Answer 8}{}{Расскажи мне о своем отце.}
-{Speech 4 Answer 9}{}{Может, нам устроится поудобнее?}
-{Speech 4 Answer 17}{}{Мне пора идти. Пока.}
-{Speech 5}{}{Привет еще раз.}
-{Speech 5 Answer 6}{}{Чем ты занимаешься на скотобойне?}
-{Speech 5 Answer 7}{}{До меня дошли слухи о тебе и браминах.}
-{Speech 5 Answer 8}{}{Расскажи мне о своем отце.}
-{Speech 5 Answer 9}{}{Может, нам устроится поудобнее?}
-{Speech 5 Answer 17}{}{Мне пора идти. Пока.}
+{Speech 1 Answer 18}{}{dumb}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 1 Answer 5}{}{Answer}
+{Speech 2}{}{Hi! My name is Davine. I help my father at the slaughterhouse in Modoc.}
+{Speech 2 Answer 6}{}{What do you do at the slaughterhouse?}
+{Speech 2 Answer 7}{}{I've heard rumors about you and the brahmin.}
+{Speech 2 Answer 8}{}{Tell me about your father.}
+{Speech 2 Answer 17}{}{I have to go. Bye.}
+{Speech 4}{}{Sure, I don't have much to do. Ask away.}
+{Speech 4 Answer 6}{}{What do you do at the slaughterhouse?}
+{Speech 4 Answer 7}{}{I've heard rumors about you and the brahmin.}
+{Speech 4 Answer 8}{}{Tell me about your father.}
+{Speech 4 Answer 9}{}{Maybe we should get more comfortable?}
+{Speech 4 Answer 17}{}{I have to go. Bye.}
+{Speech 5}{}{Hello again.}
+{Speech 5 Answer 6}{}{What do you do at the slaughterhouse?}
+{Speech 5 Answer 7}{}{I've heard rumors about you and the brahmin.}
+{Speech 5 Answer 8}{}{Tell me about your father.}
+{Speech 5 Answer 9}{}{Maybe we should get more comfortable?}
+{Speech 5 Answer 17}{}{I have to go. Bye.}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 4}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 6 Answer 17}{}{Пока.}
-{Speech 7}{}{Это ложь. Я просто хожу в загон по ночам, чтобы... э-э... убедиться, что все заперто. Знаешь, тут столько диких зверей вокруг и все такое.}
-{Speech 7 Answer 4}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 7 Answer 17}{}{Пока.}
+{Speech 6 Answer 4}{}{Can I ask you a few more questions?}
+{Speech 6 Answer 17}{}{Bye.}
+{Speech 7}{}{That's a lie. I just go to the pen at night to... uh... make sure everything's locked up. You know, there are so many wild animals around and all that.}
+{Speech 7 Answer 4}{}{Can I ask you a few more questions?}
+{Speech 7 Answer 17}{}{Bye.}
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 8 Answer 4}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 8 Answer Exit}{}{Пока.}
-{Speech 9}{}{@sex@|Ух ты, никогда бы не подумал, что такая красивая женщина попытается меня соблазнить. Что? Ты не женщина! Не волнуйся, ты такая симпатяга, что я совсем не возражаю, если ты мужчина.|Мне, наверное, снится. Поверить не могу, что такая красивая женщина пытается меня соблазнить. Ты ведь пытаешься меня соблазнить, так?|}
-{Speech 9 Answer 10}{}{Смотреть в твои глаза - райское наслаждение. Давай не будем портить этот волшебный момент словами. Пусть наши действия говорят сами за себя.}
-{Speech 9 Answer 13}{}{Хватит слов, ты испортишь удовольствие нам обоим. Просто расслабься и получай удовольствие.}
-{Speech 9 Answer 14}{}{[Вы обнимаете Дэвина, а дальше... инициатива переходит к нему]}
-{Speech 9 Answer 15}{}{[Вы в растерянности, но Дэвин не теряется..]}
-{Speech 9 Answer 16}{}{[Вы сами не поняли что сказали, но...]}
-{Speech 9 Answer 4}{}{Должно быть, это какая-то ошибка. Мне просто нужно было задать тебе несколько вопросов.}
-{Speech 9 Answer 17}{}{Спасибо за предложение, но нет. Э-э... Мне пора идти.}
+{Speech 8 Answer 4}{}{Can I ask you a few more questions?}
+{Speech 8 Answer Exit}{}{Bye.}
+{Speech 9}{}{@sex@|Wow, I never would have thought such a beautiful woman would try to seduce me. What? You're not a woman! Don't worry, you're so cute that I don't mind at all if you're a man.|I must be dreaming. I can't believe such a beautiful woman is trying to seduce me. You are trying to seduce me, right?|}
+{Speech 9 Answer 10}{}{Looking into your eyes is heavenly bliss. Let's not spoil this magical moment with words. Let our actions speak for themselves.}
+{Speech 9 Answer 13}{}{Enough talk, you'll ruin the pleasure for both of us. Just relax and enjoy it.}
+{Speech 9 Answer 14}{}{[You embrace Davine, and then... he takes the initiative]}
+{Speech 9 Answer 15}{}{[You're at a loss, but Davine isn't.]}
+{Speech 9 Answer 16}{}{[You didn't quite understand what you said yourself, but...]}
+{Speech 9 Answer 4}{}{There must be some kind of mistake. I just needed to ask you a few questions.}
+{Speech 9 Answer 17}{}{Thanks for the offer, but no. Uh... I have to go.}
 {Speech 10}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 10 Answer 12}{}{Далее..}
+{Speech 10 Answer 12}{}{Next..}
 {Speech 12}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 12 Answer Exit}{}{[КОНЕЦ.]}
+{Speech 12 Answer Exit}{}{[THE END.]}
 {Speech 13}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 13 Answer Exit}{}{[КОНЕЦ.]}
+{Speech 13 Answer Exit}{}{[THE END.]}
 {Speech 14}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 14 Answer Exit}{}{[КОНЕЦ.]}
+{Speech 14 Answer Exit}{}{[THE END.]}
 {Speech 15}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 15 Answer Exit}{}{[КОНЕЦ.]}
+{Speech 15 Answer Exit}{}{[THE END.]}
 {Speech 16}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 16 Answer Exit}{}{[КОНЕЦ.]}
-{Speech 17}{}{Возвращайся меня навестить, если захочешь... поговорить.}
-{Speech 17 Answer Exit}{}{До свидания.}
-{Speech 18}{}{Я занят, зайдите позже.}
-{Speech 18 Answer Exit}{}{Уго уго.}
+{Speech 16 Answer Exit}{}{[THE END.]}
+{Speech 17}{}{Come back and visit me, if you want to... talk.}
+{Speech 17 Answer Exit}{}{Goodbye.}
+{Speech 18}{}{I'm busy, come back later.}
+{Speech 18 Answer Exit}{}{Ugo ugo.}

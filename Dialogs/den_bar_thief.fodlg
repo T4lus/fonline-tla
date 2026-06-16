@@ -148,7 +148,7 @@ Speech 12 # Предлагаю разойтись мирно. Я тебе дам
 {Speech 9 Answer Exit*}{}{Uuugh!}
 {Speech 10}{}{Where from?}
 {Speech 10 Answer 11}{}{Well, you know, I'm to earning my living by that profession.}
-{Speech 11}{}{Что ты хочешь?}
+{Speech 11}{}{What do you want?}
 {Speech 11 Answer 12}{}{I've been hired by the owner. She's out of her mind, practically ready to kill the guy who's been pinching up from her clients' pockets. What do you say about that?}
 {Speech 12}{}{I say we break this up peacefully. I'll give you the money and you'll never, ever, see me here again. Goodbye! [He throws a sack with 500 coins' worth in it at you and runs away from the bar.]}
 {Speech 12 Answer Exit}{}{Hey, stop! Oh whatever, go to hell.}

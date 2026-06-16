@@ -64,23 +64,23 @@ Speech 6 # 04 марта 2246 года. 23:08    Как я и думал, они
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{высокая наука}
-{Speech 2}{}{[Вам удалось взломать систему защиты]}
-{Speech 2 Answer 3}{}{[Открыть дневник Люка]}
-{Speech 2 Answer Exit}{}{[Выход]}
-{Speech 3}{}{15 февраля 2246 года. \nРейнджеры и Шейман.\n\nКарлсон допустил очень сильный политический промах. То, что он отдал управление армией бывшему полковнику, а ныне генералу, Шейману - самая главная ошибка в его, думаю, недолгой политической карьере.\nНе сомневаюсь... Нет, даже так. Я уверен, что Шейман избавится от президента Карлсона очень скоро. Уже сейчас Карлсон ничего не решает без него, и этого выскочки, Сантьяго. Советники практически утратили свою власть. \nЗа исключением Вейстина, который поддерживает военных из Хаба.}
-{Speech 3 Answer 2}{}{[Назад]}
-{Speech 3 Answer 4}{}{[Далее]}
-{Speech 3 Answer Exit}{}{[Выход]}
-{Speech 4}{}{24 февраля 2246 года.\n\nКарлсон заперт в своей резиденции, ему запрещено выходить на улицу. В городе объявлен комендантский час. Я не удивлен. Шейман инициировал тихий переворот и объявил, что вся власть в НКР переходит в руки военных.\nУ меня неожиданно начались проблемы со связью. Такое чувство, что сигнал нашей радиостанции глушат эти чертовы контрразведчики...}
-{Speech 4 Answer 3}{}{[Назад]}
-{Speech 4 Answer 5}{}{[Далее]}
-{Speech 4 Answer Exit}{}{[Выход]}
-{Speech 5}{}{04 марта 2246 года. 18:45\n\nШейман обвинил Братство Стали в провокациях, снабжении оружием рейдеров и пособничестве работорговцам. Он сошел с ума! Я так и не смог связаться с паладинами Братства. Нужно уносить ноги из НКР, пока они не пришли за мной.}
-{Speech 5 Answer 4}{}{[Назад]}
-{Speech 5 Answer 6}{}{[Далее]}
-{Speech 5 Answer Exit}{}{[Выход]}
-{Speech 6}{}{04 марта 2246 года. 23:08\n\nКак я и думал, они пришли. На улице стоят рейнджеры и шестерки Сантьяго. Я должен выходить и сдать ключи от аванпоста. Я заблокирую доступ к данным так, чтобы только писцы Братства могли расшифровать. Прощайте, ребята!}
-{Speech 6 Answer 5}{}{[Назад]}
-{Speech 6 Answer Exit}{}{[Выход]}
-{Speech 6 Answer Exit*}{}{[Выход]}
+{Speech 1 Answer 2}{}{high science}
+{Speech 2}{}{[You managed to break through the security system]}
+{Speech 2 Answer 3}{}{[Open Luke's diary]}
+{Speech 2 Answer Exit}{}{[Exit]}
+{Speech 3}{}{February 15, 2246. \nThe Rangers and Sheiman.\n\nCarlson made a very serious political blunder. Handing control of the army to a former colonel, now general, Sheiman - that is the gravest mistake of his, I think, short political career.\nI have no doubt... No, even more than that. I am certain Sheiman will get rid of President Carlson very soon. Already now Carlson decides nothing without him and that upstart, Santiago. The councilors have all but lost their power. \nExcept for Westin, who backs the military men from the Hub.}
+{Speech 3 Answer 2}{}{[Back]}
+{Speech 3 Answer 4}{}{[Next]}
+{Speech 3 Answer Exit}{}{[Exit]}
+{Speech 4}{}{February 24, 2246.\n\nCarlson is locked up in his residence, he is forbidden to go outside. A curfew has been declared in the city. I am not surprised. Sheiman has launched a quiet coup and announced that all power in the NCR is passing into the hands of the military.\nMy communications suddenly started having problems. It feels like the signal of our radio station is being jammed by those damned counterintelligence agents...}
+{Speech 4 Answer 3}{}{[Back]}
+{Speech 4 Answer 5}{}{[Next]}
+{Speech 4 Answer Exit}{}{[Exit]}
+{Speech 5}{}{March 04, 2246. 18:45\n\nSheiman accused the Brotherhood of Steel of provocations, supplying weapons to raiders, and aiding slavers. He has lost his mind! I still couldn't reach the Brotherhood paladins. I need to get out of the NCR before they come for me.}
+{Speech 5 Answer 4}{}{[Back]}
+{Speech 5 Answer 6}{}{[Next]}
+{Speech 5 Answer Exit}{}{[Exit]}
+{Speech 6}{}{March 04, 2246. 23:08\n\nJust as I thought, they came. Rangers and Santiago's goons are standing in the street. I have to go out and hand over the keys to the outpost. I will lock access to the data so that only the Brotherhood scribes can decrypt it. Farewell, guys!}
+{Speech 6 Answer 5}{}{[Back]}
+{Speech 6 Answer Exit}{}{[Exit]}
+{Speech 6 Answer Exit*}{}{[Exit]}

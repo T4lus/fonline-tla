@@ -247,88 +247,88 @@ Speech 24 # Да я ждал этот товар давно, вот твои 245
 {Name}{}{Sajag}
 {DescAliveShort}{}{You see a short, swarthy man. He is smiling to you.}
 {DescAliveFull}{}{You see Sajag, the Gold Gecko's barman and owner.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 23}{}{тупой}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 4}{}{знаком}
-{Speech 2}{}{Приветствую тебя, незнакомец. Добро пожаловать в таверну Золотой Гекко, в наш отель и рынок. Я Саджаг, содержу это место. Чем могу служить?}
-{Speech 2 Answer 3}{}{Огого!}
-{Speech 2 Answer 3*}{}{Опа! (показываете на стакан)}
-{Speech 2 Answer 8}{}{Я выпью.}
-{Speech 2 Answer 15}{}{Налей мне чего-нибудь особенного.}
-{Speech 2 Answer 9}{}{Я бы хотел каждому тут по выпивке купить, чтобы себя представить.}
-{Speech 2 Answer 6}{}{Я бы хотел поменяться.}
-{Speech 2 Answer 13}{}{Мне нужна комната на одну ночь.}
-{Speech 3}{}{Черт меня побери, если это не очередной идиот вроде Торра. Убирайся из моего бара.}
-{Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4 Answer 24}{}{Ты ждешь кожаные курточки от Балтаса? У меня все с собой.}
-{Speech 4 Answer 8}{}{Дайте немного пива.}
-{Speech 4 Answer 15}{}{Налей мне чего-нибудь особенного.}
-{Speech 4 Answer 9}{}{Я хотел бы купить всем по выпивке в этом баре.}
-{Speech 4 Answer 6}{}{Я хотел бы поторговаться.}
-{Speech 4 Answer 13}{}{Мне нужна комната на одну ночь.}
-{Speech 4 Answer Exit}{}{Спасибо за помощь. До свидания.}
-{Speech 5}{}{Кажется, вы не очень популярны в этой части города. Может, против вас еще существует мнение? Как я мог бы вам помочь?}
-{Speech 6}{}{У меня тут все есть, парень: медицинские принадлежности, выпивка, все что вообще нужно. У меня особые поставщики, должен сказать. Всегда рад взглянуть на хорошую шкурку гекко.}
-{Speech 6 Answer Barter}{}{Давай посмотрим, что у тебя есть.}
-{Speech 6 Answer 7}{}{Думаю, мне ничего не нужно прямо сейчас. Но у меня несколько вопросов к вам.}
-{Speech 7}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 7 Answer 21}{}{Поблизости нет никаких поселений?}
-{Speech 7 Answer 22}{}{В Кламате есть торговцы?}
-{Speech 7 Answer 18}{}{Что-нибудь необычное в Кламате происходит?}
-{Speech 7 Answer 20}{}{Мне нужна работа. Есть вакансии?}
-{Speech 7 Answer 6}{}{Где бы мне достать лекарство или получить медицинскую помощь?}
-{Speech 7 Answer 4}{}{Это пока все, что я хочу знать. Но мне нужно еще кое-что.}
-{Speech 7 Answer Exit}{}{Думаю, достаточно информации пока.}
-{Speech 8}{}{Одна большая крушка Мочи Золотого Гекко. Только 5 баксов за лучшее пиво к северу от Реддинга.}
-{Speech 8 Answer 10}{}{Ты налил мне кружку мочи!?!}
-{Speech 8 Answer 11}{}{Эмм... кажется у меня недостаточно денег.}
-{Speech 8 Answer 7}{}{Спасибо за пиво. А теперь мне хотелось бы кое-что узнать.}
-{Speech 8 Answer Exit}{}{Спасибо, это все, что я хотел знать.}
-{Speech 9}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 9 Answer 10}{}{Все тут пьют мочу ящериц?}
-{Speech 9 Answer 11}{}{Небольшая заминка с деньгами.}
-{Speech 9 Answer 7}{}{Надеюсь, всем нравится пиво. Саджаг, мне нужна информация.}
-{Speech 9 Answer Exit}{}{Наслаждайтесь вашей порцией мочи. Всем пока.}
-{Speech 10}{}{Расслабься, парень, это то, что здесь называется пиво. Ты в Золотом Гекко, не забывай.}
-{Speech 10 Answer 12}{}{Ух! Ну как бы там ни было...}
-{Speech 10 Answer 3}{}{Я мочу не пью! Меня не касается, где ее подают...}
-{Speech 11}{}{Похоже у тебя нет таких денег прямо сейчас. Извини, друг. Здесь нет кредитов. [улыбаясь]}
-{Speech 12}{}{Теперь у нас самые основные понятия совпадают... Чем все-таки я могу вам помочь? [улыбаясь]}
-{Speech 12 Answer 8}{}{Думаю, что еще выпить.}
-{Speech 12 Answer 15}{}{Налей мне чего-нибудь особенного.}
-{Speech 12 Answer 9}{}{Я хотел бы всех здесь угостить.}
-{Speech 12 Answer 7}{}{У меня есть несколько вопросов для вас.}
-{Speech 12 Answer Exit}{}{Думаю, это все, что хотел узнать.}
-{Speech 13}{}{Для друзей всегда большой выбор комнат. Только 20 долларов за восемь часов спокойствия и безопасности. Целая комната для тебя. Наслаждайся.}
-{Speech 13 Answer 14}{}{20 долларов для меня в самый раз. Я беру комнату.}
-{Speech 13 Answer 11}{}{20 долларов для меня в самый раз. Я беру комнату.}
-{Speech 13 Answer 4}{}{Не думаю, что воспользуюсь твоим предложением прямо сейчас, Саджаг. Может быть что-нибудь еще?}
-{Speech 14}{}{Можешь занимать любую свободную комнату.}
-{Speech 15}{}{Конечно, у меня кое-что. Называется Золотое Гекко, забавно не так ли? Эта детка уделает тебя только так. Всего 50 баксов.}
-{Speech 15 Answer 16}{}{Золотое Гекко? Ух, конечно беру!}
-{Speech 15 Answer 11}{}{Нет, спасибо я на мели.}
-{Speech 15 Answer 4}{}{Я передумал, мне нужно кое-что другое.}
-{Speech 16}{}{Наслаждайся. Вот твое пиво.}
-{Speech 16 Answer 17}{}{Спасибо. А что это за Золотое Гекко такое?}
-{Speech 16 Answer 7}{}{Мне нужно кое-что у тебя спросить.}
-{Speech 16 Answer Exit}{}{С меня хватит.}
-{Speech 17}{}{Ты разве не знаешь? Старик Боб поставляет мне это пиво, приготовленное по его секретному рецепту. Раньше мы с ним часто были в разногласиях, но мне показалось сотрудничество с ним очень выгодно.}
-{Speech 17 Answer 7}{}{Здорово. Дай еще спрошу кое-что.}
-{Speech 17 Answer Exit}{}{Это все, что мне нужно было узнать. Пока.}
-{Speech 18}{}{Ну, давай посмотрим. Все, что произошло в последнее время в городе. Недавно вернулся из путешествия Вик, торговец. Нашелся Смайли, охотник на гекко. Боб открыл свой завод и сбывает мне спиртное по льготным ценам.}
-{Speech 18 Answer 19}{}{[Далее.]}
-{Speech 19}{}{Из плохого могу отметить, что братья Дантоны окончательно отморозились и сколотили свою шайку. Дурачок Торр попал под их плохое влияние и теперь у них как шестерка.}
-{Speech 19 Answer 7}{}{Ну и дела. Дай еще спрошу.}
-{Speech 19 Answer Exit}{}{Спасибо за информацию.}
-{Speech 20}{}{Не знаю, что насчет работы, у меня никаких вакансий. Я бы спросил у Виски Боба или Вика.}
-{Speech 20 Answer 7}{}{Отлично. Но у  меня еще остались вопросы.}
-{Speech 20 Answer Exit}{}{Это все, что мне нужно было узнать. До свидания.}
-{Speech 21}{}{Поблизости есть пара поселений. Несколько диких племен на северо-западе от нас и на юго-западе. Затем Дэн в нескольких днях к югу от нас -- он наиболее близок -- и город шахтеров под названием Реддинг довольно далеко на юго-запад.}
-{Speech 21 Answer 7}{}{У меня еще вопросы.}
-{Speech 21 Answer Exit}{}{Спасибо за информацию.}
-{Speech 22}{}{В городе не так уж много торговцев. Один Вик, если говорить не задумываясь. У него дом в восточной части города. Он продает довоенные вещи в Дэне и дикарям.}
-{Speech 22 Answer 7}{}{Загляну обязательно. У меня все еще остались вопросы.}
-{Speech 22 Answer Exit}{}{Спасибо за информацию.}
-{Speech 23}{}{Пошел отсюда тороподобный!}
-{Speech 24}{}{Да я ждал этот товар давно, вот твои 2450 монет. Передавай Балтасу привет.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 23}{}{dumb}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 4}{}{acquainted}
+{Speech 2}{}{Greetings, stranger. Welcome to the Golden Gecko tavern, our hotel and market. I'm Sajag, I run this place. What can I do for you?}
+{Speech 2 Answer 3}{}{Ho-ho!}
+{Speech 2 Answer 3*}{}{Oop! (point at the glass)}
+{Speech 2 Answer 8}{}{I'll have a drink.}
+{Speech 2 Answer 15}{}{Pour me something special.}
+{Speech 2 Answer 9}{}{I'd like to buy everyone here a drink, to introduce myself.}
+{Speech 2 Answer 6}{}{I'd like to trade.}
+{Speech 2 Answer 13}{}{I need a room for one night.}
+{Speech 3}{}{Damn me if it isn't another idiot like Torr. Get out of my bar.}
+{Speech 4}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 4 Answer 24}{}{Are you waiting for the leather jackets from Baltas? I've got them all with me.}
+{Speech 4 Answer 8}{}{Give me some beer.}
+{Speech 4 Answer 15}{}{Pour me something special.}
+{Speech 4 Answer 9}{}{Drinks for everyone in the bar, on me!}
+{Speech 4 Answer 6}{}{I'd like to trade.}
+{Speech 4 Answer 13}{}{I need a room for one night.}
+{Speech 4 Answer Exit}{}{Thanks for the help. Goodbye.}
+{Speech 5}{}{Seems you're not very popular in this part of town. Maybe there's still a grudge against you? How could I help you?}
+{Speech 6}{}{I've got everything here, kid: medical supplies, drink, anything you could need. I've got special suppliers, I should say. Always glad to look at a good gecko hide.}
+{Speech 6 Answer Barter}{}{Let's see what you've got.}
+{Speech 6 Answer 7}{}{I don't think I need anything right now. But I've got a few questions for you.}
+{Speech 7}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 7 Answer 21}{}{Aren't there any settlements nearby?}
+{Speech 7 Answer 22}{}{Are there any traders in Klamath?}
+{Speech 7 Answer 18}{}{Anything unusual going on in Klamath?}
+{Speech 7 Answer 20}{}{I need work. Any openings?}
+{Speech 7 Answer 6}{}{Where could I get medicine or some medical help?}
+{Speech 7 Answer 4}{}{That's all I want to know for now. But I need something else.}
+{Speech 7 Answer Exit}{}{I think that's enough information for now.}
+{Speech 8}{}{One big mug of Golden Gecko Piss. Just 5 bucks for the best beer north of Redding.}
+{Speech 8 Answer 10}{}{You poured me a mug of piss!?!}
+{Speech 8 Answer 11}{}{Umm... seems I don't have enough money.}
+{Speech 8 Answer 7}{}{Thanks for the beer. Now I'd like to find something out.}
+{Speech 8 Answer Exit}{}{Thanks, that's all I wanted to know.}
+{Speech 9}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 9 Answer 10}{}{Does everyone here drink lizard piss?}
+{Speech 9 Answer 11}{}{A little snag with the money.}
+{Speech 9 Answer 7}{}{I hope everyone likes the beer. Sajag, I need some information.}
+{Speech 9 Answer Exit}{}{Enjoy your share of piss. So long, everyone.}
+{Speech 10}{}{Relax, kid, that's what's called beer around here. You're in the Golden Gecko, don't forget.}
+{Speech 10 Answer 12}{}{Ugh! Well, whatever...}
+{Speech 10 Answer 3}{}{I don't drink piss! I don't care where it's served...}
+{Speech 11}{}{Looks like you don't have that kind of money right now. Sorry, friend. There's no credit here. [smiling]}
+{Speech 12}{}{Now our most basic ideas match up... So what can I help you with after all? [smiling]}
+{Speech 12 Answer 8}{}{I think I'll have another drink.}
+{Speech 12 Answer 15}{}{Pour me something special.}
+{Speech 12 Answer 9}{}{I'd like to treat everyone here.}
+{Speech 12 Answer 7}{}{I've got a few questions for you.}
+{Speech 12 Answer Exit}{}{I think that's all I wanted to know.}
+{Speech 13}{}{For friends there's always a big choice of rooms. Just 20 dollars for eight hours of peace and safety. A whole room to yourself. Enjoy.}
+{Speech 13 Answer 14}{}{20 dollars is just right for me. I'll take the room.}
+{Speech 13 Answer 11}{}{20 dollars is just right for me. I'll take the room.}
+{Speech 13 Answer 4}{}{I don't think I'll take you up on your offer right now, Sajag. Maybe something else?}
+{Speech 14}{}{You can take any free room.}
+{Speech 15}{}{Of course, I've got something. It's called the Golden Gecko, funny isn't it? This baby will knock you out cold. Just 50 bucks.}
+{Speech 15 Answer 16}{}{The Golden Gecko? Heh, sure, I'll take it!}
+{Speech 15 Answer 11}{}{No, thanks, I'm broke.}
+{Speech 15 Answer 4}{}{I've changed my mind, I need something else.}
+{Speech 16}{}{Enjoy. Here's your beer.}
+{Speech 16 Answer 17}{}{Thanks. And what is this Golden Gecko anyway?}
+{Speech 16 Answer 7}{}{I need to ask you something.}
+{Speech 16 Answer Exit}{}{I've had enough.}
+{Speech 17}{}{Don't you know? Old Bob supplies me this beer, brewed by his secret recipe. We used to be at odds a lot, but I found working with him very profitable.}
+{Speech 17 Answer 7}{}{Great. Let me ask something else.}
+{Speech 17 Answer Exit}{}{That's all I needed to know. Bye.}
+{Speech 18}{}{Well, let's see. Everything that's happened in town lately. Vic the trader recently came back from a journey. Smiley the gecko hunter turned up. Bob opened his brewery and sells me liquor at a discount.}
+{Speech 18 Answer 19}{}{[Next.]}
+{Speech 19}{}{On the bad side, I can mention that the Dunton brothers have gone completely cold and put together their own gang. Poor fool Torr fell under their bad influence and now he's like their lackey.}
+{Speech 19 Answer 7}{}{Well, well. Let me ask more.}
+{Speech 19 Answer Exit}{}{Thanks for the information.}
+{Speech 20}{}{I don't know about work, I've got no openings. I'd ask Whiskey Bob or Vic.}
+{Speech 20 Answer 7}{}{Great. But I've still got some questions.}
+{Speech 20 Answer Exit}{}{That's all I needed to know. Goodbye.}
+{Speech 21}{}{There are a couple of settlements nearby. A few wild tribes to the northwest of us and to the southwest. Then the Den a few days south of us -- it's the closest -- and a miners' town called Redding pretty far to the southwest.}
+{Speech 21 Answer 7}{}{I've got more questions.}
+{Speech 21 Answer Exit}{}{Thanks for the information.}
+{Speech 22}{}{There aren't many traders in town. Just Vic, off the top of my head. He's got a house in the eastern part of town. He sells pre-war goods in the Den and to the savages.}
+{Speech 22 Answer 7}{}{I'll be sure to drop by. I've still got some questions.}
+{Speech 22 Answer Exit}{}{Thanks for the information.}
+{Speech 23}{}{Get out of here, you Torr-like fool!}
+{Speech 24}{}{Yeah, I've been waiting for this shipment for a long time, here's your 2450 coins. Give my regards to Baltas.}

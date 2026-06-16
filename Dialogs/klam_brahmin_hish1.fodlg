@@ -41,7 +41,7 @@ Speech 3 # Му? [Брамин явно удивлён]@@Му-Му.@@Мууу!@@
 {DescAliveFull}{}{Brahmins are a mutated cow breed.}
 {DescAliveFull}{}{This is the brahmin. Twin-headed.}
 {Speech 1}{}{Initial preferences}
-{Speech 1 Answer 2}{}{Ioaao}
+{Speech 1 Answer 2}{}{Answer}
 {Speech 2}{}{Moo!@@Mooooooo!@@Moo?@@MOO!!! MOO!!! MOOOOO!!!@@moo, moo, moo?@@Moo.}
-{Speech 2 Answer 3}{}{Привет, дорогой. Я долж@sex@|ен|на| сделать тебе укольчик... [Воткнуть шприц]@@Извини, чувак. Это просто бизнес. [Воткнуть шприц]@@Извини. Ничего личного. [Воткнуть шприц]@@Смотри! Там Избранный! [Быстро воткнуть шприц]@@Потерти, сейчас я сделаю тебе больно. [Воткнуть шприц]}
-{Speech 3}{}{Му? [Брамин явно удивлён]@@Му-Му.@@Мууу!@@Му-му.@@[Удивлённо смотрит]@@Мууу.}
+{Speech 2 Answer 3}{}{Hi there, dear. I have to give you a little shot... [Stick in the syringe]@@Sorry, pal. It's just business. [Stick in the syringe]@@Sorry. Nothing personal. [Stick in the syringe]@@Look! There's the Chosen One! [Quickly stick in the syringe]@@Hold still, this is going to hurt. [Stick in the syringe]}
+{Speech 3}{}{Moo? [The brahmin is clearly surprised]@@Moo-Moo.@@Mooo!@@Moo-moo.@@[Looks surprised]@@Mooo.}

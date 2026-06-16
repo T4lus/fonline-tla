@@ -29,7 +29,7 @@ Speech 3 # Привет снова.
 {DescAliveFull}{}{You see Gordon from Gecko.}
 {DescAliveFull}{}{You see a well-dressed ghoul with sleek hair.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Не знает имени}
+{Speech 1 Answer 2}{}{Doesn't know the name}
 {Speech 1 Answer 3}{}{ }
-{Speech 2}{}{Эй, привет. Меня зовут Гордон. Гордон из Гекко.}
-{Speech 3}{}{Привет снова.}
+{Speech 2}{}{Hey there. The name's Gordon. Gordon from Gecko.}
+{Speech 3}{}{Hello again.}

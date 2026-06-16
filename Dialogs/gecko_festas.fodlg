@@ -185,70 +185,70 @@ Speech 31 # Чего надо?
 {DescAliveFull}{}{You see Festus, the administrator of the nuclear power plant.}
 {DescAliveFull}{}{You see a ghoul with very unattractive appearance. He looks gloomily. He smells like badly infected wound.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 6}{}{Игрок тупой}
+{Speech 1 Answer 6}{}{Player is dumb}
 {Speech 1 Answer 7}{}{ }
-{Speech 1 Answer 31}{}{Лоялность < 4}
-{Speech 1 Answer 8}{}{Обычное начало}
+{Speech 1 Answer 31}{}{Loyalty < 4}
+{Speech 1 Answer 8}{}{Normal start}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 3 Answer Exit}{}{ }
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 31}{}{Эээ... Ну нет.}
+{Speech 6 Answer 31}{}{Uhhh... Well, no.}
 {Speech 6 Answer Exit}{}{ }
-{Speech 7}{}{Эй, привет. Я Фестас. Я управляю целым реактором. Без меня здесь все бы остановилось. Я очень занятой человек. Меня действительно здесь перегружают работой. }
-{Speech 7 Answer 11}{}{Что ты здесь делаешь?}
-{Speech 7 Answer 9}{}{Насколько я понимаю, реактор работает не очень хорошо. Это правда? }
-{Speech 7 Answer 3}{}{Почему ты выглядишь -- и пахнешь -- как будто ты скоро развалишься на части?}
-{Speech 7 Answer Exit}{}{Ну что ж, не хочу отнимать твое драгоценное время. Я пойду. До свидания. }
+{Speech 7}{}{Hey there. I'm Festus. I run this whole reactor. Without me everything around here would grind to a halt. I'm a very busy man. They really overwork me here. }
+{Speech 7 Answer 11}{}{What do you do here?}
+{Speech 7 Answer 9}{}{From what I understand, the reactor isn't running very well. Is that true? }
+{Speech 7 Answer 3}{}{Why do you look -- and smell -- like you're about to fall apart?}
+{Speech 7 Answer Exit}{}{Well then, I don't want to take up your precious time. I'll be going. Goodbye. }
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 8 Answer 11}{}{Что вы здесь делаете?}
-{Speech 8 Answer 9}{}{Насколько я понимаю, реактор работает не очень хорошо. Это правда? }
-{Speech 8 Answer 3}{}{Почему вы выглядете --и пахнете-- как будто вы скоро развалитесь на части?}
-{Speech 8 Answer Exit}{}{Ну что ж, не хочу отнимать ваше драгоценное время. Я пойду. До свидания. }
+{Speech 8 Answer 11}{}{What do you do here?}
+{Speech 8 Answer 9}{}{From what I understand, the reactor isn't running very well. Is that true? }
+{Speech 8 Answer 3}{}{Why do you look -- and smell -- like you're about to fall apart?}
+{Speech 8 Answer Exit}{}{Well then, I don't want to take up your precious time. I'll be going. Goodbye. }
 {Speech 9}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 9 Answer Exit}{}{ }
 {Speech 10}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 10 Answer Exit}{}{Ну, ничто не идеально. До свиданиия, Фестас.}
+{Speech 10 Answer Exit}{}{Well, nothing's perfect. Goodbye, Festus.}
 {Speech 11}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 11 Answer 12}{}{В одиночку?}
-{Speech 12}{}{Ага, я управляю всем - в качестве администратора. Все сам. Это было бы невозможно, если бы я настолько прекрасно не знал своего дела. У меня действительно талант. }
-{Speech 12 Answer 13}{}{Сами? Чем же тогда занимаются все эти люди в соседнем помещении?}
-{Speech 12 Answer 14}{}{Тогда вы должны знать порядочно об атомной энергии.}
-{Speech 12 Answer Exit}{}{Ну, не буду отрывать вас от работы. До свидания.}
-{Speech 13}{}{Никудышные люди. Вот, кто они. Они даже не понимают, что нужно делать. Они просто служащие. Меня раздражает то, что они считают, будто знают что-то о заводах по производству атомной энергии. Да если бы не я...}
-{Speech 13 Answer 15}{}{Хм. Что, вы сказали, вы здесь делаете?}
-{Speech 13 Answer Exit}{}{А, да. Ну, я луше пойду. До свидания.}
-{Speech 14}{}{Знаю об атомной энергии? Ну, я практически изобрел ее. Я знаю больше об атомной энергии, чем кто-либо другой. Если дело связано с атомной энергией, я тот, кто вам нужен.}
-{Speech 14 Answer 15}{}{Хм. Что, вы сказали, вы здесь делаете?}
-{Speech 14 Answer Exit}{}{А, да. Ну, я лучше пойду. До свидания.}
+{Speech 11 Answer 12}{}{All by yourself?}
+{Speech 12}{}{Yep, I run everything - as the administrator. All on my own. It would be impossible if I didn't know my business so perfectly well. I really have a talent. }
+{Speech 12 Answer 13}{}{All by yourself? Then what exactly do all those people in the next room do?}
+{Speech 12 Answer 14}{}{Then you must know quite a lot about nuclear energy.}
+{Speech 12 Answer Exit}{}{Well, I won't keep you from your work. Goodbye.}
+{Speech 13}{}{Worthless people. That's what they are. They don't even understand what needs to be done. They're just employees. It irritates me that they think they know something about nuclear power plants. Why, if it weren't for me...}
+{Speech 13 Answer 15}{}{Hmm. What did you say you do here?}
+{Speech 13 Answer Exit}{}{Ah, yes. Well, I'd better be going. Goodbye.}
+{Speech 14}{}{Know about nuclear energy? Well, I practically invented it. I know more about nuclear energy than anyone else. If it has anything to do with nuclear energy, I'm the one you need.}
+{Speech 14 Answer 15}{}{Hmm. What did you say you do here?}
+{Speech 14 Answer Exit}{}{Ah, yes. Well, I'd better be going. Goodbye.}
 {Speech 15}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 15 Answer 16}{}{Вы должны быть мастером своего дела.}
-{Speech 15 Answer 15}{}{Я уверен, что так и есть. Ну, я лучше пойду. До свидания.}
-{Speech 16}{}{Многие думают, это легко. Они думают, что каждый может управлять атомным реактором. Но это не для необученных или слабонервных. Я здесь добываю энергию атома!}
-{Speech 16 Answer 17}{}{Впечатляет.}
-{Speech 16 Answer Exit}{}{Ну, не хотелось бы вас отвлекать. До свидания.}
+{Speech 15 Answer 16}{}{You must be a master of your trade.}
+{Speech 15 Answer 15}{}{I'm sure that's so. Well, I'd better be going. Goodbye.}
+{Speech 16}{}{Many think it's easy. They think anyone can run a nuclear reactor. But it's not for the untrained or the faint of heart. I harness the power of the atom here!}
+{Speech 16 Answer 17}{}{Impressive.}
+{Speech 16 Answer Exit}{}{Well, I wouldn't want to distract you. Goodbye.}
 {Speech 17}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 17 Answer 18}{}{Как же все надеются работать наравне с вами?}
-{Speech 17 Answer 17}{}{Вы, без сомнения, незаурядная личность. До свидания.}
+{Speech 17 Answer 18}{}{How could anyone ever hope to work on a par with you?}
+{Speech 17 Answer 17}{}{You are, without a doubt, an extraordinary individual. Goodbye.}
 {Speech 18}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 18 Answer 29}{}{Вы бы и городом управляли?}
-{Speech 18 Answer Exit}{}{Ааааа! Я ухожу. Ухожу. Не пытайтесь остановить меня. До свидания!}
+{Speech 18 Answer 29}{}{You would run the city too?}
+{Speech 18 Answer Exit}{}{Aaaah! I'm leaving. Leaving. Don't try to stop me. Goodbye!}
 {Speech 19}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 19 Answer Exit}{}{Не могу поверить, что никто в Гекко не видит ваших истинных достоинств. Я пойду и расскажу им прямо сейчас. До свидания.}
-{Speech 19 Answer Exit*}{}{Надо отдохнуть. Силы сдают. Пора идти.}
+{Speech 19 Answer Exit}{}{I can't believe nobody in Gecko sees your true worth. I'll go and tell them right now. Goodbye.}
+{Speech 19 Answer Exit*}{}{I need to rest. My strength is failing. Time to go.}
 {Speech 20}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 20 Answer Exit}{}{А, я просто осматриваюсь. До свидания.}
+{Speech 20 Answer Exit}{}{Ah, I'm just looking around. Goodbye.}
 {Speech 22}{}{Время:60000 Нет ответа:Завершить диалог}
 {Speech 23}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 29}{}{Не было бы никакой торговли с Брокен Хиллс по поводу урановой руды. Мы бы просто отдавали им энергию.}
-{Speech 29 Answer 30}{}{Ты собрался передавать энергию через эту огромную сухую пустыню?}
-{Speech 29 Answer Exit}{}{Что-то гниет. Мне нужен свежий ветерок. До свидания.}
-{Speech 30}{}{Думаю да. Потом бы мы продавали им батареи с энергией. Такие большие, красивые. Вообще у меня на этот счет много планов, например...}
-{Speech 30 Answer 19}{}{Ты и политик тоже? Удивительно, как такой талант направлен в такое русло...}
-{Speech 30 Answer Exit}{}{Чувствуешь? Что-то пахнет. Пора идти.}
-{Speech 31}{}{Чего надо?}
-{Speech 31 Answer 11}{}{Обычное начало}
-{Speech 31 Answer 9}{}{Насколько я понимаю, реактор работает не очень хорошо. Это правда? }
-{Speech 31 Answer 3}{}{Почему ты выглядишь -- и пахнешь -- как будто ты скоро развалишься на части?}
-{Speech 31 Answer Exit}{}{Ну что ж, не хочу отнимать твое драгоценное время. Я пойду. До свидания. }
+{Speech 29}{}{There would be no trade with Broken Hills over uranium ore. We'd just give them the energy.}
+{Speech 29 Answer 30}{}{You're planning to transmit energy across that huge dry desert?}
+{Speech 29 Answer Exit}{}{Something's rotting. I need a breath of fresh air. Goodbye.}
+{Speech 30}{}{I think so. Then we'd sell them batteries full of energy. Big, beautiful ones. In general I have a lot of plans on this score, for example...}
+{Speech 30 Answer 19}{}{You're a politician too? Amazing how such talent is channeled in such a direction...}
+{Speech 30 Answer Exit}{}{Do you feel it? Something smells. Time to go.}
+{Speech 31}{}{What do you want?}
+{Speech 31 Answer 11}{}{Normal start}
+{Speech 31 Answer 9}{}{From what I understand, the reactor isn't running very well. Is that true? }
+{Speech 31 Answer 3}{}{Why do you look -- and smell -- like you're about to fall apart?}
+{Speech 31 Answer Exit}{}{Well then, I don't want to take up your precious time. I'll be going. Goodbye. }

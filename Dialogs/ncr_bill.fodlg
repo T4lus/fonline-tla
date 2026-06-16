@@ -132,47 +132,47 @@ Speech 21 # Покеда!
 {Name}{}{Bill}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Че?@@Тушенка кончилась.@@Некогда мне.@@У сержанта спроси.@@То, что кто-то там траванулся консервами, меня не касается.@@Не мешай. Видишь, я жратву готовлю. Хы.}
-{Speech 2 Answer 3}{}{Эй, Билл, найдется, чего пожевать?}
-{Speech 3}{}{Куда прешь до обеда? Отойди от кастрюли, жулик! Стоп. Да ты вообще не из наших. Ты че тут делаешь?}
-{Speech 3 Answer Exit}{}{ А я так, мимо прохожу... [Уйти]}
-{Speech 3 Answer 4}{}{Всегда мечтал@sex@||а| попробовать полевой кухни. А ты, как я вижу, повар от бога!}
-{Speech 4}{}{От бога? Хы. Это ты хорошо так говоришь, нравится мне. Попробовать хочешь? На, хлебни борщеца. [Опускает половник в кипящую кастрюлю и протягивает вам]}
-{Speech 4 Answer 5}{}{Буэ-э-э. Это выглядит, как дерьмо брамина! Ты меня убить хочешь?! }
-{Speech 4 Answer 6}{}{[Зажать нос, чтобы не чувствовать запаха варева и попробовать капельку]}
-{Speech 5}{}{@sex@|Недоумок|Гребаная дура|, будешь подыхать с голоду, печеного мутафрукта не подам! И да, это, в натуре, дерьмо брамина.}
-{Speech 5 Answer Exit}{}{И рейнджеры это жрут?! Фу... [Уйти]}
-{Speech 6}{}{[Билл с наглой ухмылкой следит за вашей реакцией] Ы, маладца. Ну. Чо? Вкусно?}
-{Speech 6 Answer 7}{}{[Незаметно сплюнуть и ответить] Вкусно! Очень!}
-{Speech 6 Answer 8}{}{Ничего более отвратительного я не пробовал@sex@||а| а в своей жизни! Как ты это делаешь?}
-{Speech 7}{}{Ну че ты врешь та. Вот зараза. Взял бы честно сказал, дерьмо полное. Эх!}
-{Speech 8}{}{[Печально чещет половником спину] Угу. Факт. Отрава, а не борщ. Но я не знаю, как это получается. Видать, от природы дано. Сто крышек, не обошлось без Божественного Вмешательства. [Крестится]}
-{Speech 8 Answer 9}{}{А рейнджеры как к твоей кухне относятся?}
-{Speech 9}{}{С пониманием. Если не я, кто их тогда накормит? И сержант поддерживает, говорит, рекруты должны страдать. Дисциплина, етить! [Поднимает к небу грязный указательный палец]}
-{Speech 9 Answer 10}{}{Да уж, без дисциплины сейчас никуда.... А ты-то, сам, давно здесь?}
-{Speech 10}{}{Сколько себя помню. Еще половничек отведаешь?}
-{Speech 10 Answer 11}{}{Нет, спасибо, Билл, я сыт@sex@||а|. Лучше расскажи, давно здесь тренировочный лагерь устроили?}
-{Speech 11}{}{[С грустью принимает ваш отказ, и сам пробует варево из кастрюли. После того, как силой воли гасит рвотные позывы, пожимает плечами] Очень давно. Неделю назад.}
-{Speech 11 Answer 12}{}{Да ладно?}
-{Speech 12}{}{Ну да. Может, две недели, в крайнем случае шесть лет.}
-{Speech 12 Answer Exit}{}{Я, пожалуй, пойду. Мне нужно в туалет. [Уйти]}
-{Speech 12 Answer 13}{}{Понятно. А раньше что тут было?}
-{Speech 13}{}{Раньше? Это как? }
-{Speech 13 Answer Exit}{}{Знаешь что, повар. Ты поменьше жри свою стряпню. Последние мозги уже протухли. [Уйти]}
-{Speech 13 Answer 14}{}{Ну как, до лагеря. Что тут было? Две недели или шесть лет назад.}
-{Speech 14}{}{Аааа! Вот ты об чем, хы. Ну да, было здесь КОЕ-ЧТО. [Билл вам подмигивает]}
-{Speech 14 Answer 15}{}{Неужели, твой ресторан?}
-{Speech 15}{}{Какой такой ресторан, что ты гонишь. Я поваром у Вортиса работал. Хороший мужик, рабами торговал. Очень рабов своих любил. Мне разрешал им готовить. Только он кончил плохо.}
-{Speech 15 Answer 16}{}{Неудивительно, отравился, наверное? }
-{Speech 16}{}{Почему отравился? Нет. Рейнджеры его порешили, когда Шельма этот начал в НКР рулить.}
-{Speech 16 Answer 17}{}{Ты имеешь в виду, Генерал Шейман?}
-{Speech 17}{}{Ы! Точно. Дегенерал Шельма. Толковый мужик. Вот они, как узнали, что я на вортиса работаю, и решили с торговцами рабами покончить, лишь бы меня у вортиса переманить.}
-{Speech 17 Answer 18}{}{Только ради этого?}
-{Speech 18}{}{Ну ты даешь. А ради чего еще? Шельма тогда еще половником был. Он конечно всем глаза запудрил, да.}
-{Speech 18 Answer 19}{}{Половником? Ты имеешь в виду, полковником? А что он говорил?}
-{Speech 19}{}{оловник Шельма говорил, что они борятся за сва... сво... сву... Не помню. За что-то они там боролись. Ну и под это дело убили вортиса, всех рабов выпустили, а вокруг Меня построили казармы. }
-{Speech 19 Answer 20}{}{Охренеть!}
-{Speech 20}{}{ А ты думал@sex@||а|. Я - важная птица тут. Ну что, будешь еще супчика?}
-{Speech 20 Answer 21}{}{Спасибо, нет. Мне нужно идти. Пока. [Убежать от повара]}
-{Speech 21}{}{Покеда!}
-{100000001}{}{Вы прослушали историю Билла. И попробовали его "замечательной" стряпни. Теперь постарайтесь найти доктора, пока отравление не нанесло непоправимого вреда вашему организму.}
+{Speech 2}{}{Huh?@@The stew's all gone.@@No time for you.@@Ask the sergeant.@@The fact that somebody got poisoned by canned food is none of my business.@@Don't bother me. Can't you see, I'm cooking grub. Heh.}
+{Speech 2 Answer 3}{}{Hey, Bill, got anything to chew on?}
+{Speech 3}{}{Where you barging to before lunch? Step away from the pot, you crook! Hold on. You're not one of ours at all. What are you doing here?}
+{Speech 3 Answer Exit}{}{ Oh, I'm just passing by... [Leave]}
+{Speech 3 Answer 4}{}{I've always dreamed@sex@||| of trying field kitchen cooking. And you, I can see, are a cook touched by god!}
+{Speech 4}{}{Touched by god? Heh. Now that's a nice way to put it, I like that. Want a taste? Here, slurp some borscht. [Dips the ladle into the boiling pot and holds it out to you]}
+{Speech 4 Answer 5}{}{Bleagh. This looks like brahmin crap! Are you trying to kill me?! }
+{Speech 4 Answer 6}{}{[Pinch your nose so as not to smell the brew and try a tiny drop]}
+{Speech 5}{}{@sex@|Moron|Damn fool|, even if you're starving to death, I won't give you so much as a baked mutfruit! And yeah, this is, in fact, brahmin crap.}
+{Speech 5 Answer Exit}{}{And the rangers eat this?! Ugh... [Leave]}
+{Speech 6}{}{[Bill watches your reaction with a smug grin] Heh, good job. Well. So? Tasty?}
+{Speech 6 Answer 7}{}{[Quietly spit it out and answer] Tasty! Very!}
+{Speech 6 Answer 8}{}{Nothing more disgusting have I ever tasted@sex@||| in my life! How do you do it?}
+{Speech 7}{}{Now what are you lying for. Damn it. You should've honestly said it's complete crap. Eh!}
+{Speech 8}{}{[Sadly scratches his back with the ladle] Yep. It's a fact. Poison, not borscht. But I don't know how it happens. Must be a natural gift. A hundred caps say it didn't go without Divine Intervention. [Crosses himself]}
+{Speech 8 Answer 9}{}{And how do the rangers feel about your cooking?}
+{Speech 9}{}{They understand. If not me, who'd feed them then? And the sergeant backs me up, says the recruits gotta suffer. Discipline, dammit! [Raises a dirty index finger to the sky]}
+{Speech 9 Answer 10}{}{Yeah, you can't go anywhere without discipline these days... And you yourself, been here long?}
+{Speech 10}{}{For as long as I can remember. Care for another ladleful?}
+{Speech 10 Answer 11}{}{No thanks, Bill, I'm full@sex@|||. Better tell me, has the training camp been set up here long?}
+{Speech 11}{}{[Sadly accepts your refusal, and tries the brew from the pot himself. After fighting down his gag reflex by sheer willpower, he shrugs] A very long time. A week ago.}
+{Speech 11 Answer 12}{}{No way?}
+{Speech 12}{}{Yep. Maybe two weeks, six years at the most.}
+{Speech 12 Answer Exit}{}{I think I'll be going. I need to use the toilet. [Leave]}
+{Speech 12 Answer 13}{}{I see. And what was here before?}
+{Speech 13}{}{Before? How do you mean? }
+{Speech 13 Answer Exit}{}{You know what, cook. Eat less of your own slop. Your last brain cells have already gone rotten. [Leave]}
+{Speech 13 Answer 14}{}{Well, before the camp. What was here? Two weeks or six years ago.}
+{Speech 14}{}{Aaah! That's what you mean, heh. Yeah, there was SOMETHING here. [Bill winks at you]}
+{Speech 14 Answer 15}{}{Don't tell me, your restaurant?}
+{Speech 15}{}{What restaurant, what are you on about. I worked as a cook for Vortis. Good fellow, traded in slaves. Loved his slaves very much. Let me cook for them. Only he came to a bad end.}
+{Speech 15 Answer 16}{}{No surprise, got poisoned, probably? }
+{Speech 16}{}{Why poisoned? No. The rangers did him in, when that Sheyman started running things in NCR.}
+{Speech 16 Answer 17}{}{You mean, General Sheyman?}
+{Speech 17}{}{Heh! Right. Degenerate Sheyman. A smart fella. So when they found out I worked for Vortis, they decided to wipe out the slave traders, just to lure me away from Vortis.}
+{Speech 17 Answer 18}{}{Just for that?}
+{Speech 18}{}{Come on. What else for? Sheyman was still a ladle-nant back then. Sure, he pulled the wool over everybody's eyes, yeah.}
+{Speech 18 Answer 19}{}{A ladle-nant? You mean, a lieutenant? And what did he say?}
+{Speech 19}{}{Ladle-nant Sheyman said they were fighting for free... fre... fru... I don't remember. They were fighting for something. So under that pretext they killed Vortis, freed all the slaves, and built barracks around Me. }
+{Speech 19 Answer 20}{}{Holy crap!}
+{Speech 20}{}{ Well what'd you think. I'm a big shot around here. So, want some more soup?}
+{Speech 20 Answer 21}{}{Thanks, no. I gotta go. Bye. [Run away from the cook]}
+{Speech 21}{}{Later!}
+{100000001}{}{You've heard Bill's story. And tasted his "wonderful" cooking. Now try to find a doctor before the poisoning does irreparable harm to your body.}

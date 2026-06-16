@@ -437,138 +437,138 @@ Speech 67 # И ты, Брут. Чем он вас всех так пленил, 
 [Text engl]
 {Name}{}{error}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 7}{}{тупой}
+{Speech 1 Answer 7}{}{dumb}
 {Speech 1 Answer 3}{}{ }
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3}{}{Чем могу помочь, чужеземец?}
-{Speech 3 Answer 4}{}{Мне нужно войти.}
-{Speech 3 Answer 4*}{}{Я хотел бы попасть в НКР.}
-{Speech 3 Answer Exit}{}{Ничего.}
-{Speech 3 Answer 20}{}{Да я просто посмотреть на вас хотел.}
-{Speech 3 Answer 40}{}{Мэм, я представляю одного человека, который хочет сохранить инкогнито. Он убежден, что один из высоких чинов города хочет его убить.}
-{Speech 3 Answer 50}{}{Мэм, я хотел@sex@||а| бы поговорить с вами об одном человеке.}
-{Speech 4}{}{Хмм... окей, вы достаточно прилично выглядите. Как вас зовут? Мне нужно вас записать в гостевую книгу.}
-{Speech 5}{}{Вам тут нечего делать, пока не спрячете оружие.}
-{Speech 6}{}{Хорошо, я через секунду открою вам ворота.}
-{Speech 7}{}{Чем могу помочь?}
-{Speech 7 Answer Exit}{}{Агу-агу!}
-{Speech 7 Answer 63}{}{Драсти! Бу!}
-{Speech 20}{}{[Хмурится] Посмотреть? Ну и как, посмотрел? Что увидел?}
-{Speech 20 Answer 21}{}{Всегда привлекали женщины в форме. Наверное, сложно, с вашим изяществом и привлекательностью, занимать такой отвественный пост?}
-{Speech 20 Answer 22}{}{Всегда привлекали женщины в форме. Наверное, сложно, с вашим изяществом и привлекательностью, занимать такой отвественный пост?}
-{Speech 21}{}{Ты находишь меня привлекательной? Или просто льстишь, чтобы получить пропуск?}
-{Speech 21 Answer 23}{}{Конечно, мне только пропуск нужен, уродина.}
-{Speech 21 Answer 24}{}{Ни в коем случае! Я ничуть не кривил душой. Наоборот, я был удивлен, увидев такую очаровательную и милую крошку в звании офицера.}
-{Speech 22}{}{Ты не убедителен. Никакие хитрости не помогут получить тебе пропуск, жулик. Убирайся!}
-{Speech 23}{}{Сволочь. Все вы одинаковые, пошел прочь.}
-{Speech 24}{}{Перестань, хватит комплиментов. [Вы заметили легкий румянец на ее щеках] Ты отвлекаешь меня от работы. Это не понравится моему начальству.}
-{Speech 24 Answer 25}{}{Прошу прощения. Я просто не могу сдержаться. Вы - украшение НКР, я покорен вашей красотой!}
-{Speech 25}{}{[Капитан тихо смеется неожиданно приятным голосом] Однако, мне давно не доводилось слышать таких слов. Умеешь ты привлечь внимание женщины.}
-{Speech 25 Answer 26}{}{Не может быть! Не верю, что у такого ангела нет десятка верных поклонников!}
-{Speech 26}{}{[Грустнеет] Поклонники, как же... }
-{Speech 26 Answer 27}{}{Ох, похоже, я ляпнул глупость. Прости, не хотел будить старые воспоминания.}
-{Speech 27}{}{Да нет, ничего. Знаешь...}
-{Speech 27 Answer 28}{}{Что я должен знать? Что, о прекраснейшая из офицеров?}
-{Speech 28}{}{[Улыбается] Предлагаю избавиться от этого пафосного стиля. Как тебя зовут, напомни?}
-{Speech 28 Answer 23}{}{Ха, развел, как девчонку! Ну ты и дура! Меня зовут "досвидания!" [Уйти]}
-{Speech 28 Answer 29}{}{[шутливо отдать честь] Разрешите представиться, капитан. Мое имя @pname@.}
-{Speech 29}{}{[Cмеется] К пустой голове руку не прикладывают, @pname@. Ты забавный малый! Не хочешь ли выпить, за знакомство?}
-{Speech 29 Answer 30}{}{Конечно, я не против!}
-{Speech 30}{}{[Воровато оглядывается] Пока не видит никто... [Достает из ящика стола бутылку Рот Гута] Во мне редко кто видит человека. Для всех я - обычный офицер при исполнении. Но ты другой.}
-{Speech 30 Answer 32}{}{Наливай, крошка! Буду только рад составить тебе компанию. }
-{Speech 30 Answer 31}{}{Прости! Мне нужна эта бутылка!!! [Выхватить Рот Гут у нее из рук и удрать]}
-{Speech 30 Answer 31*}{}{Прости! Мне нужна эта бутылка!!! [Выхватить Рот Гут у нее из рук и удрать]}
-{Speech 30 Answer 31**}{}{Прости! Мне нужна эта бутылка!!! [Выхватить Рот Гут у нее из рук и удрать]}
-{Speech 30 Answer 31***}{}{Прости! Мне нужна эта бутылка!!! [Выхватить Рот Гут у нее из рук и удрать]}
-{Speech 31}{}{[Ошеломленно смотрит вам в след не произнося ни слова]}
-{Speech 32}{}{[Вы долго говорили на различные темы и расстались довольными друг другом]}
-{Speech 40}{}{Кто и кого хочет убить? Что за бред!}
-{Speech 40 Answer 41}{}{Я не готов называть имена, чтобы не сесть в лужу, если предположение моего клиента окажутся напрасными.}
-{Speech 41}{}{А я здесь причем? Что вам нужно от меня?}
-{Speech 41 Answer 42}{}{Видите ли, капитан. Нам нужно войти в город, чтобы развеять или подтвердить наши подозрения.}
-{Speech 42}{}{Отлично, оформляйте пропуск и проходите. И не компостируйте мне мозг.}
-{Speech 42 Answer 43}{}{В том то и дело, капитан. Дело в том, что моему клиенту нельзя попасть на глаза полиции города. Вам я это говорю, поскольку доверяю.}
-{Speech 43}{}{Ох, глупость. Глупость неискоренима.}
-{Speech 43 Answer 44}{}{Капитан, я прошу вас разрешить моему спутнику пройти в город без оформления документов.}
-{Speech 43 Answer 44*}{}{Забудьте. [Уйти]}
-{Speech 44}{}{Это невозможно.}
-{Speech 44 Answer 45}{}{Под мою ответственность. }
-{Speech 44 Answer 44}{}{Под мою ответственность.}
-{Speech 44 Answer 47}{}{Я внесу залог за моего спутника. Это послужит гарантией того, что мы не нанесем вреда городу.}
-{Speech 44 Answer Exit}{}{Жаль. [Уйти]}
-{Speech 45}{}{Хорошо. Мы сделаем исключение для вашего случая. Но если что-то случится... Отвечать будете вы.}
-{Speech 45 Answer 46}{}{Спасибо капитан, никаких проблем не будет. Я обещаю.}
-{Speech 46}{}{Можете идти. Охрана на воротах вас пропустит.}
-{Speech 47}{}{Такой вариант возможен. Сумма залога составит... скажем... 500 монет.}
-{Speech 47 Answer 46}{}{Годится. Вот деньги.}
-{Speech 47 Answer 48}{}{У меня нет в наличии такой суммы.}
-{Speech 48}{}{В таком случае, ничем помочь не могу.}
-{Speech 50}{}{[Нервно] Сегодня все с ума посходили. Все хотят со мной поговорить. А я, между прочим, очень занята!}
-{Speech 50 Answer Exit}{}{В таком случае, не стану вас беспокоить, капитан. [Уйти]}
-{Speech 50 Answer 51}{}{Это Майкл.}
-{Speech 51}{}{[Капитан явно недовольна темой разговора] Майкл? Человек, который околачивается на Базаре?}
-{Speech 51 Answer 52}{}{Вы слышали о нем?}
-{Speech 52}{}{Каждый третий считает своим долгом заглянуть ко мне и заступиться за этого подозрительного хмыря.}
-{Speech 52 Answer 53}{}{Ну я за него заступаться не буду. Я считаю, что таким психам, как он, не место в НКР.}
-{Speech 52 Answer 55}{}{Капитан, поверьте мне, Майкл не может принести вреда.}
-{Speech 53}{}{О! Неужели, здравомыслящий человек!}
-{Speech 53 Answer 54}{}{Мне кажется, Майкл представляет опасность. Ни в коем случае нельзя допустить, чтобы он проник на территорию города.}
-{Speech 54}{}{Согласна с вами. Благодарю за информацию.}
-{Speech 55}{}{С чего вы так решили?}
-{Speech 55 Answer 56}{}{Он всего лишь старый военный, многое пережил. Он хочет вернуться в город, в котором провел молодость, только и всего.}
-{Speech 56}{}{А почему вы за него заступаетесь?}
-{Speech 56 Answer 57}{}{Он вызывает у меня симпатию.}
-{Speech 56 Answer 58}{}{Он вызывает у меня симпатию.}
-{Speech 57}{}{Дааа... Это, безусловно, важнейшая причина. Хорошо, я подумаю. А теперь оставьте меня.}
-{Speech 58}{}{Хорошо. Предположим, что я ошибалась. Все-таки, вы - уже 10ый человек, заступившийся за Майкла. Он может пройти внутрь, но пусть помнит, что при малейшей ошибке...}
-{Speech 58 Answer Exit}{}{Благодарю, мэм. Ошибки Майкл не совершит. [Уйти]}
-{Speech 59}{}{Что, "АГА"???}
-{Speech 59 Answer 60}{}{ОГО!!!!}
-{Speech 59 Answer 61}{}{ЭГЕГЕЙ!!!!}
-{Speech 59 Answer 62}{}{ХА!}
-{Speech 59 Answer 63}{}{БУУУУ!!!!}
-{Speech 59 Answer 64}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 59 Answer 66}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 59 Answer Exit}{}{Пока! [Уйти]}
-{Speech 60}{}{Что значит, "ого"??!!}
-{Speech 60 Answer 59}{}{АГА!}
-{Speech 60 Answer 61}{}{ЭГЕГЕЙ!!!!}
-{Speech 60 Answer 62}{}{ХА!}
-{Speech 60 Answer 63}{}{БУУУУ!!!!}
-{Speech 60 Answer 66}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 60 Answer 64}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 60 Answer Exit}{}{Пока! [Уйти]}
-{Speech 61}{}{Что, "эгегей"?!}
-{Speech 61 Answer 59}{}{АГА!}
-{Speech 61 Answer 60}{}{ОГО!!!!}
-{Speech 61 Answer 63}{}{БУУУУ!!!!}
-{Speech 61 Answer 64}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 61 Answer 66}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 61 Answer Exit}{}{Пока! [Уйти]}
-{Speech 62}{}{Сколько можно, что все это значит??!}
-{Speech 62 Answer 59}{}{АГА!}
-{Speech 62 Answer 60}{}{ОГО!!!!}
-{Speech 62 Answer 61}{}{ЭГЕГЕЙ!!!!}
-{Speech 62 Answer 66}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 62 Answer 64}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 62 Answer Exit}{}{Пока! [Уйти]}
-{Speech 63}{}{Что тебе нужно, я не понимаю!}
-{Speech 63 Answer 59}{}{АГА!}
-{Speech 63 Answer 60}{}{ОГО!!!!}
-{Speech 63 Answer 61}{}{ЭГЕГЕЙ!!!!}
-{Speech 63 Answer 62}{}{ХА!}
-{Speech 63 Answer 64}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 63 Answer 66}{}{[Скорчить рожу. И показать в сторону двери] Маклик! [Показать в сторону ворот] Можно? Пить! Бар!}
-{Speech 63 Answer Exit}{}{Пока! [Уйти]}
-{Speech 64}{}{Ох. И тебе нужен Майкл? Никогда!}
-{Speech 64 Answer 65}{}{Ох! Твоя злая! Нуууу!}
-{Speech 65}{}{Прекрати!}
-{Speech 65 Answer 60}{}{ОГО!!!!}
-{Speech 65 Answer 61}{}{ЭГЕГЕЙ!!!!}
-{Speech 65 Answer 62}{}{ХА!}
-{Speech 65 Answer 63}{}{БУУУУ!!!!}
-{Speech 65 Answer Exit}{}{Пока! [Уйти]}
-{Speech 66}{}{Майкл? И ты его пропустить просишь? Проклятье, вы все сговорились что ли? Ладно, я подумаю.}
-{Speech 66 Answer 67}{}{Твоя мудр! Маклик добрая!}
-{Speech 66 Answer Exit}{}{Ха! Моя довольный!}
-{Speech 67}{}{И ты, Брут. Чем он вас всех так пленил, этот Майкл. Хорошо, передай ему, он может пройти.}
+{Speech 3}{}{How can I help you, stranger?}
+{Speech 3 Answer 4}{}{I need to get in.}
+{Speech 3 Answer 4*}{}{I'd like to get into NCR.}
+{Speech 3 Answer Exit}{}{Nothing.}
+{Speech 3 Answer 20}{}{I just wanted to take a look at you.}
+{Speech 3 Answer 40}{}{Ma'am, I represent a man who wishes to remain incognito. He's convinced that one of the city's high officials wants him dead.}
+{Speech 3 Answer 50}{}{Ma'am, I'd like@sex@||| to talk to you about a certain man.}
+{Speech 4}{}{Hmm... okay, you look decent enough. What's your name? I need to write you down in the guest book.}
+{Speech 5}{}{You've got no business here until you put your weapon away.}
+{Speech 6}{}{All right, I'll open the gates for you in a second.}
+{Speech 7}{}{How can I help you?}
+{Speech 7 Answer Exit}{}{Goo-goo!}
+{Speech 7 Answer 63}{}{Howdy! Boo!}
+{Speech 20}{}{[Frowns] Take a look? Well, did you look your fill? What did you see?}
+{Speech 20 Answer 21}{}{I've always been drawn to women in uniform. It must be hard, with your grace and charm, to hold such a responsible post?}
+{Speech 20 Answer 22}{}{I've always been drawn to women in uniform. It must be hard, with your grace and charm, to hold such a responsible post?}
+{Speech 21}{}{Do you find me attractive? Or are you just flattering me to get a pass?}
+{Speech 21 Answer 23}{}{Of course, I just need a pass, you ugly hag.}
+{Speech 21 Answer 24}{}{Not at all! I wasn't being false in the least. On the contrary, I was surprised to see such a charming and lovely beauty with an officer's rank.}
+{Speech 22}{}{You're not convincing. No tricks will get you a pass, you swindler. Get out!}
+{Speech 23}{}{Scum. You're all the same, get lost.}
+{Speech 24}{}{Stop it, that's enough compliments. [You noticed a faint blush on her cheeks] You're distracting me from my work. My superiors won't like that.}
+{Speech 24 Answer 25}{}{I beg your pardon. I just can't help myself. You're the pride of NCR, I am captivated by your beauty!}
+{Speech 25}{}{[The captain laughs softly in an unexpectedly pleasant voice] Still, it's been a long time since I heard such words. You know how to catch a woman's attention.}
+{Speech 25 Answer 26}{}{It can't be! I don't believe an angel like you doesn't have a dozen devoted admirers!}
+{Speech 26}{}{[Grows sad] Admirers, sure... }
+{Speech 26 Answer 27}{}{Oh, looks like I blurted out something stupid. Forgive me, I didn't mean to stir up old memories.}
+{Speech 27}{}{No, it's nothing. You know...}
+{Speech 27 Answer 28}{}{What should I know? What, O fairest of officers?}
+{Speech 28}{}{[Smiles] I suggest we drop this pompous style. What's your name again, remind me?}
+{Speech 28 Answer 23}{}{Ha, played you like a little girl! What a fool you are! My name is "goodbye!" [Leave]}
+{Speech 28 Answer 29}{}{[jokingly salute] Allow me to introduce myself, Captain. My name is @pname@.}
+{Speech 29}{}{[Laughs] You don't salute a bare head, @pname@. You're a funny fellow! Care for a drink, to our acquaintance?}
+{Speech 29 Answer 30}{}{Of course, I don't mind!}
+{Speech 30}{}{[Glances around furtively] While no one's watching... [Takes a bottle of Rot Gut out of her desk drawer] Few people ever see a real person in me. To everyone I'm just an ordinary officer on duty. But you're different.}
+{Speech 30 Answer 32}{}{Pour it, sweetheart! I'd be glad to keep you company. }
+{Speech 30 Answer 31}{}{Sorry! I need this bottle!!! [Snatch the Rot Gut from her hands and run off]}
+{Speech 30 Answer 31*}{}{Sorry! I need this bottle!!! [Snatch the Rot Gut from her hands and run off]}
+{Speech 30 Answer 31**}{}{Sorry! I need this bottle!!! [Snatch the Rot Gut from her hands and run off]}
+{Speech 30 Answer 31***}{}{Sorry! I need this bottle!!! [Snatch the Rot Gut from her hands and run off]}
+{Speech 31}{}{[Stares after you, stunned, without saying a word]}
+{Speech 32}{}{[You talked for a long time about various topics and parted pleased with each other]}
+{Speech 40}{}{Who wants to kill whom? What nonsense!}
+{Speech 40 Answer 41}{}{I'm not ready to name names, so as not to fall flat on my face if my client's suspicions turn out to be groundless.}
+{Speech 41}{}{And what's it got to do with me? What do you need from me?}
+{Speech 41 Answer 42}{}{You see, Captain. We need to enter the city to dispel or confirm our suspicions.}
+{Speech 42}{}{Fine, get a pass and go on through. And don't muddle my brain.}
+{Speech 42 Answer 43}{}{That's just the thing, Captain. The point is, my client mustn't be seen by the city police. I'm telling you this because I trust you.}
+{Speech 43}{}{Oh, foolishness. Foolishness is ineradicable.}
+{Speech 43 Answer 44}{}{Captain, I ask you to allow my companion to enter the city without filing any documents.}
+{Speech 43 Answer 44*}{}{Forget it. [Leave]}
+{Speech 44}{}{That's impossible.}
+{Speech 44 Answer 45}{}{On my responsibility. }
+{Speech 44 Answer 44}{}{On my responsibility.}
+{Speech 44 Answer 47}{}{I'll post a deposit for my companion. That will serve as a guarantee that we'll bring no harm to the city.}
+{Speech 44 Answer Exit}{}{A pity. [Leave]}
+{Speech 45}{}{All right. We'll make an exception in your case. But if something happens... You'll answer for it.}
+{Speech 45 Answer 46}{}{Thank you, Captain, there won't be any problems. I promise.}
+{Speech 46}{}{You may go. The guards at the gate will let you through.}
+{Speech 47}{}{Such an arrangement is possible. The deposit will come to... let's say... 500 coins.}
+{Speech 47 Answer 46}{}{That'll do. Here's the money.}
+{Speech 47 Answer 48}{}{I don't have that kind of sum on hand.}
+{Speech 48}{}{In that case, I can't help you.}
+{Speech 50}{}{[Nervously] Everyone's gone mad today. Everyone wants to talk to me. And I, by the way, am very busy!}
+{Speech 50 Answer Exit}{}{In that case, I won't trouble you, Captain. [Leave]}
+{Speech 50 Answer 51}{}{It's about Michael.}
+{Speech 51}{}{[The captain is clearly displeased with the topic] Michael? The man who hangs around the Bazaar?}
+{Speech 51 Answer 52}{}{You've heard of him?}
+{Speech 52}{}{Every third person makes it their duty to drop by and stand up for that suspicious creep.}
+{Speech 52 Answer 53}{}{Well, I won't stand up for him. I think there's no place in NCR for psychos like him.}
+{Speech 52 Answer 55}{}{Captain, believe me, Michael can do no harm.}
+{Speech 53}{}{Oh! A sensible person, at last!}
+{Speech 53 Answer 54}{}{I think Michael is dangerous. He must by no means be allowed to enter the city's territory.}
+{Speech 54}{}{I agree with you. Thank you for the information.}
+{Speech 55}{}{What makes you so sure?}
+{Speech 55 Answer 56}{}{He's just an old soldier, he's been through a lot. He wants to return to the city where he spent his youth, that's all.}
+{Speech 56}{}{And why are you standing up for him?}
+{Speech 56 Answer 57}{}{I find him likable.}
+{Speech 56 Answer 58}{}{I find him likable.}
+{Speech 57}{}{Yeaah... That is, without a doubt, a most important reason. Fine, I'll think about it. Now leave me.}
+{Speech 58}{}{All right. Let's suppose I was mistaken. After all, you're already the 10th person to stand up for Michael. He may come inside, but let him remember that at the slightest mistake...}
+{Speech 58 Answer Exit}{}{Thank you, ma'am. Michael won't make a mistake. [Leave]}
+{Speech 59}{}{What, "AHA"???}
+{Speech 59 Answer 60}{}{WHOA!!!!}
+{Speech 59 Answer 61}{}{YOO-HOO!!!!}
+{Speech 59 Answer 62}{}{HA!}
+{Speech 59 Answer 63}{}{BOOO!!!!}
+{Speech 59 Answer 64}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 59 Answer 66}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 59 Answer Exit}{}{Bye! [Leave]}
+{Speech 60}{}{What do you mean, "whoa"??!!}
+{Speech 60 Answer 59}{}{AHA!}
+{Speech 60 Answer 61}{}{YOO-HOO!!!!}
+{Speech 60 Answer 62}{}{HA!}
+{Speech 60 Answer 63}{}{BOOO!!!!}
+{Speech 60 Answer 66}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 60 Answer 64}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 60 Answer Exit}{}{Bye! [Leave]}
+{Speech 61}{}{What, "yoo-hoo"?!}
+{Speech 61 Answer 59}{}{AHA!}
+{Speech 61 Answer 60}{}{WHOA!!!!}
+{Speech 61 Answer 63}{}{BOOO!!!!}
+{Speech 61 Answer 64}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 61 Answer 66}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 61 Answer Exit}{}{Bye! [Leave]}
+{Speech 62}{}{How long is this going to go on, what does it all mean??!}
+{Speech 62 Answer 59}{}{AHA!}
+{Speech 62 Answer 60}{}{WHOA!!!!}
+{Speech 62 Answer 61}{}{YOO-HOO!!!!}
+{Speech 62 Answer 66}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 62 Answer 64}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 62 Answer Exit}{}{Bye! [Leave]}
+{Speech 63}{}{What do you want, I don't understand!}
+{Speech 63 Answer 59}{}{AHA!}
+{Speech 63 Answer 60}{}{WHOA!!!!}
+{Speech 63 Answer 61}{}{YOO-HOO!!!!}
+{Speech 63 Answer 62}{}{HA!}
+{Speech 63 Answer 64}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 63 Answer 66}{}{[Make a face. And point toward the door] Macklik! [Point toward the gate] Can? Drink! Bar!}
+{Speech 63 Answer Exit}{}{Bye! [Leave]}
+{Speech 64}{}{Oh. And you want Michael too? Never!}
+{Speech 64 Answer 65}{}{Oh! You mean! Awww!}
+{Speech 65}{}{Stop it!}
+{Speech 65 Answer 60}{}{WHOA!!!!}
+{Speech 65 Answer 61}{}{YOO-HOO!!!!}
+{Speech 65 Answer 62}{}{HA!}
+{Speech 65 Answer 63}{}{BOOO!!!!}
+{Speech 65 Answer Exit}{}{Bye! [Leave]}
+{Speech 66}{}{Michael? And you're asking me to let him through too? Damn it, did you all conspire or what? Fine, I'll think about it.}
+{Speech 66 Answer 67}{}{You wise! Macklik kind!}
+{Speech 66 Answer Exit}{}{Ha! Me happy!}
+{Speech 67}{}{And you too, Brutus. What is it about this Michael that captivated you all so. All right, tell him he can pass.}

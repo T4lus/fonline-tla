@@ -34,9 +34,9 @@ Speech 4 # Ой, лапочка как@sex@|ой|ая|!
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
 {Speech 1 Answer 4}{}{low int}
-{Speech 2}{}{[При виде вас Джоанна оживляется и начинает тараторить] Ой, неужели, новое лицо в нашем заведении? Ах, как я рада. Я так рада! Желаете игуану на палочке? Или без палочки? Или одну палочку? У нас очень богатый выбор...}
-{Speech 2 Answer 3}{}{Джоанна, чем вы занимаетесь?}
-{Speech 3}{}{Ах, я же ничего не рассказала о себе! [Джоанна широко улыбается] Но мы это исправим! Сейчас! Я все расскажу! Я помогаю красавчику Майки продавать игуан! Это очень весело! Майки, такой милый! И такой мужественный, если вы понимаете о чем я. [Джоанна вам подмигивает] Я очень рада, что я с ним познакомилась! Если бы не Майки...}
-{Speech 3 Answer Exit}{}{Уфф. Надо бежать! [Уйти]}
-{Speech 4}{}{Ой, лапочка как@sex@|ой|ая|}
-{Speech 4 Answer Exit}{}{Рргарр! [Уйти]}
+{Speech 2}{}{[At the sight of you Joahna perks up and starts rattling away] Oh, can it be, a new face in our establishment? Ah, how glad I am. I'm so glad! Would you like an iguana on a stick? Or without a stick? Or just the stick? We have a very rich selection...}
+{Speech 2 Answer 3}{}{Joahna, what do you do here?}
+{Speech 3}{}{Ah, but I haven't told you anything about myself! [Joahna grins widely] But we'll fix that! Right now! I'll tell you everything! I help the handsome Mikey sell iguanas! It's a lot of fun! Mikey is so sweet! And so manly, if you know what I mean. [Joahna winks at you] I'm so glad I met him! If it weren't for Mikey...}
+{Speech 3 Answer Exit}{}{Phew. Gotta run! [Leave]}
+{Speech 4}{}{Oh, what a cuti@sex@|e|e pie|!}
+{Speech 4 Answer Exit}{}{Rrgarr! [Leave]}

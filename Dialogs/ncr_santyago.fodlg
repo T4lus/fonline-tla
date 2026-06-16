@@ -431,100 +431,100 @@ Speech 44 # Мы справимся сами. Вот ваша награда, б
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 3}{}{низкий инт}
-{Speech 1 Answer 2}{}{норм инт}
-{Speech 2}{}{[Сантьяго удивлен вашему визиту] Если вы здесь, значит это действительно необходимо. Что случилось?}
-{Speech 2 Answer Exit}{}{Не стану отнимать у вас много времени. [Уйти]}
-{Speech 2 Answer 4}{}{Приветствую! Насколько мне известно, вы ищете надежного человека?}
-{Speech 2 Answer 10}{}{Сантьяго, я выполнил@sex@||а| ваше задание. [Передать магнитофон]}
-{Speech 2 Answer 20}{}{Я хотел@sex@||а| бы предложить свои услуги вашему ведомству.}
-{Speech 2 Answer 20*}{}{Я хотел@sex@||а| бы предложить свои услуги вашему ведомству.}
-{Speech 2 Answer 21}{}{Я хотел@sex@||а| бы предложить свои услуги вашему ведомству.}
-{Speech 2 Answer 27}{}{Я опросил@sex@||а| граждан НКР.}
-{Speech 2 Answer 32}{}{Сантьяга, я выяснил, кто мутил воду.}
-{Speech 2 Answer 38}{}{Мистер Сантьяга, я знаю, кого прислал в НКР Бишоп.}
-{Speech 3}{}{Немедленно покиньте помещение.}
-{Speech 4}{}{Я наслышан о вас. То, что вас рекомендует сам Шейман, о многом говорит. Да, у меня есть ответственное задание, чтобы его выполнить, потребуется применить все ваши незаурядные способности.}
-{Speech 4 Answer 5}{}{Что мне необходимо сделать?}
-{Speech 5}{}{Это специальная операция. Республике необходимо быть в курсе всех настроений Пустоши. В данном случае, нас интересует положение дел в Городе-Убежища.}
-{Speech 5 Answer 6}{}{Как я могу в этом помочь?}
-{Speech 6}{}{Вам будет выдано специальное оборудование. Вы должны проникнуть в Город-Убежище и записать на пленку ежедневный доклад одного из советников Линетт.}
-{Speech 6 Answer 7}{}{Когда производится доклад?}
-{Speech 7}{}{Каждые сутки, ровно в 18 часов. Также, вас не должны заметить. Если Линетт раскроет вашу миссию, операцию можно будет считать проваленной. Еще вопросы?}
-{Speech 7 Answer 8}{}{Мне нужно время, чтобы принять решение.}
-{Speech 7 Answer 9}{}{Все предельно ясно. Я готов@sex@||а| приступить к выполнению задания.}
-{Speech 8}{}{Не тяните слишком долго. Операция должна быть выполнена в ближайшие сроки. }
-{Speech 8 Answer Exit}{}{До встречи. [Уйти]}
-{Speech 9}{}{Замечательно. Получите оборудование. Кассету с записью доклада принесете лично мне. До встречи.}
-{Speech 9 Answer Exit}{}{До встречи. [Уйти]}
-{Speech 10}{}{Хорошо. Я доложу генералу Шейману о вашей роли в данной миссии. Вы очень помогли Республике. Можете выбрать награду по своему желанию.}
-{Speech 10 Answer Exit}{}{Я возьму штурмовую винтовку и патроны.}
-{Speech 10 Answer Exit*}{}{[Набор суперинструментов]}
-{Speech 10 Answer Exit**}{}{[Осколочные гранаты. 10 шт]}
-{Speech 10 Answer Exit***}{}{[Металлическая броня]}
-{Speech 10 Answer Exit****}{}{[Пластиковая взрывчатка]}
-{Speech 10 Answer Exit*****}{}{[Миниган "Виндикатор"]}
-{Speech 10 Answer Exit******}{}{[Электронные отмычки]}
-{Speech 10 Answer Exit*******}{}{[Плазменные гранаты. 5 шт]}
-{Speech 10 Answer Exit********}{}{[Боевая броня]}
-{Speech 10 Answer Exit*********}{}{[Суперкувалда]}
-{Speech 10 Answer Exit**********}{}{[Плазменное ружье]}
-{Speech 10 Answer Exit***********}{}{[Мотор]}
-{Speech 10 Answer Exit************}{}{[Плазменные гранаты. 20 шт]}
-{Speech 10 Answer Exit*************}{}{[Моторизированная броня]}
-{Speech 10 Answer Exit**************}{}{[Потрошитель и малые батареи (100 шт)]}
-{Speech 10 Answer Exit***************}{}{Мне не нужна награда. Я делаю это ради Республики! [Уйти]}
-{Speech 20}{}{Не думаю. Мы справляемся.}
-{Speech 20 Answer Exit}{}{Ясно. [Уйти]}
-{Speech 21}{}{А вы обладаете какими-то особенными навыками, которые могли бы нам пригодиться?}
-{Speech 21 Answer 22}{}{Конечно. Я быстр@sex@||а| как @sex@|волк|волчица|, мудр@sex@||а| как черепаха, опас@sex@|ен|на| как дъявол.}
-{Speech 21 Answer Exit}{}{Нет, ничего особенного... [Уйти]}
-{Speech 22}{}{Хм... Быстр, как черепаха, говорите... В принципе, НКР не испытывает недостатка в опытных людях. Тем не менее, я готов предоставить вам шанс доказать свою преданность нашим идеалам.}
-{Speech 22 Answer 23}{}{Ваши идеалы - фальш и обман. В гробу я их видел@sex@||а|.}
-{Speech 22 Answer Exit}{}{Я вернусь очень скоро, а сейчас, увы, долж@sex@|ен|на| идти. [Уйти]}
-{Speech 22 Answer 24}{}{Что мне нужно сделать?}
-{Speech 23}{}{Я не потерплю оскорбления законов Республики. Охрана!}
-{Speech 24}{}{Поступила информация, что в НКР в настоящее время находятся одно или несколько лиц, связанных с преступными кланами Нью-Рено. Мы пока не знаем, какие интересы они преследуют, но само наличие слухов вызывает беспокойство.}
-{Speech 24 Answer 25}{}{Понятно. Я долж@sex@|ен|на| вырезать всех подозрительных типов в НКР?! }
-{Speech 25}{}{[Морщится] Это не наши методы. Найдите этих людей и соберите доказательства о их причастности к сговору, если он действительно существует.}
-{Speech 25 Answer 26}{}{Могу ли я применять силу для нейтрализации этих людей?}
-{Speech 26}{}{Постарайтесь обойтись без применения силы. Как только появится информация, любого рода, сообщите лично мне.}
-{Speech 26 Answer Exit}{}{Это слишком ответственное задание для меня. Я не готов@sex@||а|, простите. [Уйти]}
-{Speech 26 Answer Exit*}{}{Хорошо. Я обязательно выясню, в чем дело, и кто эти люди. [Уйти]}
-{Speech 27}{}{И?}
-{Speech 27 Answer 28}{}{В заговоре участвуют почти все! Идейный лидер бунтовщиков - мутант Ленни. Они собираются взорвать госпиталь и выпить всю касторку!}
-{Speech 27 Answer 29}{}{Никакой конкретики. Только Дороти рассказала интересную байку.}
-{Speech 28}{}{Это плохая шутка. Я разочарован.}
-{Speech 29}{}{Что за байка? Конкретнее.}
-{Speech 29 Answer 30}{}{По ее словам, каждую ночь неизвестные лица организовывают канал связи. Общение ведется с помощью шифра и смысл переговоров непонятен.}
-{Speech 30}{}{Интересно. Еще что-нибудь?}
-{Speech 30 Answer 31}{}{Остальные из опрошенных не замечали ничего подозрительного.}
-{Speech 31}{}{Попробуем проработать версию с радио переговорами. Попробуйте найти того, кто выходит на связь из НКР.}
-{Speech 31 Answer Exit}{}{Ясно. Постараюсь найти этого радиолюбителя. [Уйти]}
-{Speech 32}{}{Кто эти люди?}
-{Speech 32 Answer 33}{}{Это один человек. Вернее, был один человек... Некто Смит.}
-{Speech 33}{}{Что значит, "был"? Он мертв?}
-{Speech 33 Answer 34}{}{Увы. Он заметил меня, когда говорил по рации с Бишопом из Нью-Рено. Завязался драка, мне пришлось его убить, чтобы выжить.}
-{Speech 34}{}{Печально. Теперь мы не сможем узнать, какие планы преследует Бишоп в НКР.}
-{Speech 34 Answer 35}{}{Из того, что я успел услышать, можно судить, что Бишоп планировал убийство советника Вейстина.}
-{Speech 35}{}{Это только ваши слова. Вы могли ошибиться, или неправильно что-то истолковать... Тем не менее я прикажу усилить охрану мистера Вейстина.}
-{Speech 35 Answer 36}{}{Я не ошибся. Если бы Смит был жив, вы бы в этом убедились.}
-{Speech 36}{}{Смит мертв, в этом дело. Как бы то ни было, благодарю вас за помощь от имени Республики. Всего доброго.}
-{Speech 36 Answer Exit}{}{Пока, Сантьяга. [Уйти]}
-{Speech 36 Answer 37}{}{И это все? Я рисковал@sex@||а| своей шкурой. Пули летели над головой! И вместо награды получаю только благодарность?!}
-{Speech 37}{}{Республика оценила вашу помощь. На сегодня это все.}
-{Speech 38}{}{Бишоп? Глава одного из кланов Нью-Рено?}
-{Speech 38 Answer 39}{}{Да. Это Смит - один из новеньких в городе. Я подслушал, как он выходил на связь с Бишопом.}
-{Speech 39}{}{О чем шел разговор?}
-{Speech 39 Answer 42}{}{Смит планирует убийство Вейстина!}
-{Speech 39 Answer 40}{}{Смит собирается устроить крутую вечеринку!}
-{Speech 39 Answer 41}{}{Смит поздравил Бишопа с днем рыбака!}
-{Speech 40}{}{Что за бред! Убирайтесь!}
-{Speech 41}{}{Вы издеваетесь надо мной? Я не потерплю подобного поведения.}
-{Speech 41 Answer Exit}{}{Простите, Сантьяго, я просто пошутил@sex@||а|...}
-{Speech 42}{}{У Бишопа с Вейстином старая вражда. Похоже на правду. Хорошо, мы примем меры и пресечем убийство.}
-{Speech 42 Answer 43}{}{ Может быть, проще грохнуть Смита не дожидаясь, пока он перейдет к активным действиям?}
-{Speech 43}{}{ Нет. Слишком рано. Необходимо выяснить, есть ли у Смита сообщники в НКР.}
-{Speech 43 Answer 44}{}{Согласен. Я могу в этом помочь?}
-{Speech 44}{}{Мы справимся сами. Вот ваша награда, благодарю за помощь.}
-{Speech 44 Answer Exit}{}{Не стоит благодарности, удачи со Смитом. [Уйти]}
+{Speech 1 Answer 3}{}{low int}
+{Speech 1 Answer 2}{}{normal int}
+{Speech 2}{}{[Santiago is surprised by your visit] If you're here, it means it really is necessary. What happened?}
+{Speech 2 Answer Exit}{}{I won't take up much of your time. [Leave]}
+{Speech 2 Answer 4}{}{Greetings! As I understand it, you're looking for a reliable person?}
+{Speech 2 Answer 10}{}{Santiago, I've completed your assignment. [Hand over the tape recorder]}
+{Speech 2 Answer 20}{}{I'd like to offer my services to your agency.}
+{Speech 2 Answer 20*}{}{I'd like to offer my services to your agency.}
+{Speech 2 Answer 21}{}{I'd like to offer my services to your agency.}
+{Speech 2 Answer 27}{}{I've questioned the citizens of the NCR.}
+{Speech 2 Answer 32}{}{Santiago, I've found out who was stirring up trouble.}
+{Speech 2 Answer 38}{}{Mister Santiago, I know who Bishop sent to the NCR.}
+{Speech 3}{}{Leave the premises immediately.}
+{Speech 4}{}{I've heard a lot about you. The fact that Sheiman himself recommends you says a great deal. Yes, I have an important assignment; to complete it, you'll need to apply all of your remarkable abilities.}
+{Speech 4 Answer 5}{}{What do I need to do?}
+{Speech 5}{}{This is a special operation. The Republic needs to be aware of every mood in the Wasteland. In this case, we're interested in the state of affairs in Vault City.}
+{Speech 5 Answer 6}{}{How can I help with that?}
+{Speech 6}{}{You will be issued special equipment. You must infiltrate Vault City and record on tape the daily report of one of Lynette's advisors.}
+{Speech 6 Answer 7}{}{When is the report made?}
+{Speech 7}{}{Every day, at exactly 18:00. Also, you must not be noticed. If Lynette uncovers your mission, the operation can be considered a failure. Any more questions?}
+{Speech 7 Answer 8}{}{I need time to make a decision.}
+{Speech 7 Answer 9}{}{Everything is perfectly clear. I'm ready to begin the assignment.}
+{Speech 8}{}{Don't drag it out too long. The operation must be carried out in the near future. }
+{Speech 8 Answer Exit}{}{See you. [Leave]}
+{Speech 9}{}{Excellent. Take the equipment. Bring the cassette with the recorded report to me personally. See you.}
+{Speech 9 Answer Exit}{}{See you. [Leave]}
+{Speech 10}{}{Good. I'll report your role in this mission to General Sheiman. You've been a great help to the Republic. You may choose a reward as you wish.}
+{Speech 10 Answer Exit}{}{I'll take the assault rifle and ammo.}
+{Speech 10 Answer Exit*}{}{[Super tool kit]}
+{Speech 10 Answer Exit**}{}{[Frag grenades. 10 pcs]}
+{Speech 10 Answer Exit***}{}{[Metal armor]}
+{Speech 10 Answer Exit****}{}{[Plastic explosives]}
+{Speech 10 Answer Exit*****}{}{[Vindicator minigun]}
+{Speech 10 Answer Exit******}{}{[Electronic lockpicks]}
+{Speech 10 Answer Exit*******}{}{[Plasma grenades. 5 pcs]}
+{Speech 10 Answer Exit********}{}{[Combat armor]}
+{Speech 10 Answer Exit*********}{}{[Super sledgehammer]}
+{Speech 10 Answer Exit**********}{}{[Plasma rifle]}
+{Speech 10 Answer Exit***********}{}{[Motor]}
+{Speech 10 Answer Exit************}{}{[Plasma grenades. 20 pcs]}
+{Speech 10 Answer Exit*************}{}{[Powered armor]}
+{Speech 10 Answer Exit**************}{}{[Ripper and small energy cells (100 pcs)]}
+{Speech 10 Answer Exit***************}{}{I don't need a reward. I do this for the Republic! [Leave]}
+{Speech 20}{}{I don't think so. We're managing.}
+{Speech 20 Answer Exit}{}{Got it. [Leave]}
+{Speech 21}{}{And do you possess any special skills that might be of use to us?}
+{Speech 21 Answer 22}{}{Of course. I'm as fast as a @sex@|wolf|she-wolf|, as wise as a turtle, as dangerous as the devil.}
+{Speech 21 Answer Exit}{}{No, nothing special... [Leave]}
+{Speech 22}{}{Hmm... As fast as a turtle, you say... In principle, the NCR doesn't lack for experienced people. Nevertheless, I'm willing to give you a chance to prove your devotion to our ideals.}
+{Speech 22 Answer 23}{}{Your ideals are a sham and a deception. I couldn't care less about them.}
+{Speech 22 Answer Exit}{}{I'll be back very soon, but for now, alas, I must go. [Leave]}
+{Speech 22 Answer 24}{}{What do I need to do?}
+{Speech 23}{}{I will not tolerate insults to the laws of the Republic. Guards!}
+{Speech 24}{}{We've received information that one or more persons connected to the criminal clans of New Reno are currently in the NCR. We don't yet know what interests they're pursuing, but the very existence of these rumors is cause for concern.}
+{Speech 24 Answer 25}{}{I see. Am I supposed to cut down all the suspicious types in the NCR?! }
+{Speech 25}{}{[Frowns] That's not our way. Find these people and gather evidence of their involvement in the conspiracy, if one really exists.}
+{Speech 25 Answer 26}{}{May I use force to neutralize these people?}
+{Speech 26}{}{Try to manage without using force. The moment any kind of information comes up, report it to me personally.}
+{Speech 26 Answer Exit}{}{This assignment is too important for me. I'm not ready, sorry. [Leave]}
+{Speech 26 Answer Exit*}{}{All right. I'll definitely find out what's going on and who these people are. [Leave]}
+{Speech 27}{}{And?}
+{Speech 27 Answer 28}{}{Almost everyone is in on the conspiracy! The ideological leader of the rebels is the mutant Lenny. They're planning to blow up the hospital and drink all the castor oil!}
+{Speech 27 Answer 29}{}{Nothing concrete. Only Dorothy told an interesting tale.}
+{Speech 28}{}{That's a bad joke. I'm disappointed.}
+{Speech 29}{}{What tale? Be more specific.}
+{Speech 29 Answer 30}{}{According to her, every night unknown persons set up a communications channel. They talk using a cipher and the meaning of the conversations is unclear.}
+{Speech 30}{}{Interesting. Anything else?}
+{Speech 30 Answer 31}{}{The rest of those questioned noticed nothing suspicious.}
+{Speech 31}{}{Let's work the radio communications angle. Try to find the one who goes on the air from the NCR.}
+{Speech 31 Answer Exit}{}{Got it. I'll try to find this radio operator. [Leave]}
+{Speech 32}{}{Who are these people?}
+{Speech 32 Answer 33}{}{It's one man. Or rather, there was one man... A certain Smith.}
+{Speech 33}{}{What do you mean, "was"? Is he dead?}
+{Speech 33 Answer 34}{}{Alas. He spotted me while he was talking over the radio with Bishop from New Reno. A fight broke out, I had to kill him to survive.}
+{Speech 34}{}{Sad. Now we won't be able to find out what plans Bishop is pursuing in the NCR.}
+{Speech 34 Answer 35}{}{From what I managed to overhear, one can judge that Bishop was planning the murder of councilor Westin.}
+{Speech 35}{}{That's just your word. You could have been mistaken, or misinterpreted something... Nevertheless, I'll order the guard on Mister Westin to be strengthened.}
+{Speech 35 Answer 36}{}{I wasn't mistaken. If Smith were alive, you'd see it for yourself.}
+{Speech 36}{}{Smith is dead, that's the thing. Be that as it may, I thank you for your help on behalf of the Republic. All the best.}
+{Speech 36 Answer Exit}{}{Bye, Santiago. [Leave]}
+{Speech 36 Answer 37}{}{And that's all? I risked my own skin. Bullets were flying over my head! And instead of a reward I get only thanks?!}
+{Speech 37}{}{The Republic appreciated your help. That's all for today.}
+{Speech 38}{}{Bishop? The head of one of the New Reno clans?}
+{Speech 38 Answer 39}{}{Yes. It's Smith - one of the newcomers in town. I overheard him going on the air with Bishop.}
+{Speech 39}{}{What was the conversation about?}
+{Speech 39 Answer 42}{}{Smith is planning the murder of Westin!}
+{Speech 39 Answer 40}{}{Smith is going to throw a cool party!}
+{Speech 39 Answer 41}{}{Smith congratulated Bishop on Fisherman's Day!}
+{Speech 40}{}{What nonsense! Get out!}
+{Speech 41}{}{Are you mocking me? I will not tolerate such behavior.}
+{Speech 41 Answer Exit}{}{Sorry, Santiago, I was just joking...}
+{Speech 42}{}{Bishop and Westin have an old feud. Sounds plausible. All right, we'll take measures and prevent the murder.}
+{Speech 42 Answer 43}{}{ Maybe it'd be simpler to just whack Smith before he moves to active measures?}
+{Speech 43}{}{ No. Too soon. We need to find out whether Smith has accomplices in the NCR.}
+{Speech 43 Answer 44}{}{Agreed. Can I help with that?}
+{Speech 44}{}{We'll handle it ourselves. Here's your reward, thank you for your help.}
+{Speech 44 Answer Exit}{}{Don't mention it, good luck with Smith. [Leave]}

@@ -100,31 +100,31 @@ Speech 10 # Отлично. Вот твои деньги. [Он дает вам 
 {Name}{}{Fred}
 {DescAliveShort}{}{You see Fred.}
 {DescAliveFull}{}{Looks like Fred is very proud of his elegant suit.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 2}{}{Привет. Я Фред, занимаюсь продажей всяких вещей. Чем обязан?}
-{Speech 2 Answer 4}{}{Меня прислал Джеймс за деньгами.}
-{Speech 2 Answer Barter}{}{Давай посмотрим, что у тебя есть.}
-{Speech 2 Answer Exit}{}{Мне пора.}
-{Speech 3}{}{Снова ты. Чем могу помочь на этот раз?}
-{Speech 3 Answer 4}{}{Меня прислал Джеймс за деньгами.}
-{Speech 3 Answer 7}{}{У тебя стимпаки есть?}
-{Speech 3 Answer 9}{}{У тебя стимпаки есть?}
-{Speech 3 Answer 8}{}{У тебя стимпаки есть?}
-{Speech 3 Answer 10}{}{У меня есть несколько стимпаков для тебя.}
-{Speech 3 Answer Barter}{}{Давай торговаться.}
-{Speech 3 Answer Exit}{}{Спасибо, пока ничего.}
-{Speech 4}{}{Да верно, вот держи.}
-{Speech 5}{}{В данное время у меня нет денег, чтобы выплатить долг. Зайди попозже.}
-{Speech 7}{}{Нет, закончились... Зайди попозже.}
-{Speech 7 Answer Barter}{}{Покажи тогда другой товар.}
-{Speech 7 Answer Exit}{}{Окей.}
-{Speech 8}{}{Должно быть, осталось немного. Желаешь купить?}
-{Speech 8 Answer Barter}{}{Давай. [Бартер]}
-{Speech 8 Answer Exit}{}{Мне уже хватит.}
-{Speech 9}{}{Нет, закончились. Может ты принесешь мне хоть 3 штуки? Я заплачу тебе по 100 баксов за каждый.}
-{Speech 9 Answer Exit}{}{По рукам!}
-{Speech 9 Answer Exit*}{}{Нет, не хочу тратить время.}
-{Speech 10}{}{Отлично. Вот твои деньги. [Он дает вам 300 долларов]}
-{Speech 10 Answer Exit}{}{[Выход]}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 2}{}{Hi. I'm Fred, I sell all sorts of things. What can I do for you?}
+{Speech 2 Answer 4}{}{James sent me for the money.}
+{Speech 2 Answer Barter}{}{Let's see what you've got.}
+{Speech 2 Answer Exit}{}{I have to go.}
+{Speech 3}{}{You again. What can I do for you this time?}
+{Speech 3 Answer 4}{}{James sent me for the money.}
+{Speech 3 Answer 7}{}{Got any stimpaks?}
+{Speech 3 Answer 9}{}{Got any stimpaks?}
+{Speech 3 Answer 8}{}{Got any stimpaks?}
+{Speech 3 Answer 10}{}{I've got some stimpaks for you.}
+{Speech 3 Answer Barter}{}{Let's barter.}
+{Speech 3 Answer Exit}{}{Thanks, nothing for now.}
+{Speech 4}{}{That's right, here you go.}
+{Speech 5}{}{I don't have the money to pay off the debt right now. Come back later.}
+{Speech 7}{}{No, sold out... Come back later.}
+{Speech 7 Answer Barter}{}{Show me your other goods then.}
+{Speech 7 Answer Exit}{}{Okay.}
+{Speech 8}{}{There should be a few left. Want to buy some?}
+{Speech 8 Answer Barter}{}{Sure. [Barter]}
+{Speech 8 Answer Exit}{}{That's enough for me.}
+{Speech 9}{}{No, sold out. Maybe you could bring me at least 3 of them? I'll pay you 100 bucks for each.}
+{Speech 9 Answer Exit}{}{It's a deal!}
+{Speech 9 Answer Exit*}{}{No, I don't want to waste my time.}
+{Speech 10}{}{Excellent. Here's your money. [He gives you 300 dollars]}
+{Speech 10 Answer Exit}{}{[Exit]}

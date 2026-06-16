@@ -171,55 +171,55 @@ Speech 16 # Моя прелесть! Давай скорее сюда!
 {Speech 16 Answer Exit**}{}{Держи. Не забудь про награду.}
 
 [Text engl]
-{Name}{}{Юрасик Долл}
-{DescAliveShort}{}{Это Юрасик Долл.}
-{DescAliveFull}{}{Вы видите старого Юрасика, который, похоже, что-то потерял.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 10}{}{Глупый персонаж}
-{Speech 1 Answer 2}{}{Не дурак}
-{Speech 1 Answer 15}{}{Квест выполняется}
-{Speech 1 Answer 11}{}{Квест сдан.}
-{Speech 2}{}{Кхе... кхе... @sex@|путник|путница|, поди сюда... Да, ты, @sex@|странный тип|малышка|, я к тебе обращаюсь.}
-{Speech 2 Answer Exit}{}{Отвали, мразь}
-{Speech 2 Answer Exit*}{}{Мне некогда, старик, уйди...}
-{Speech 2 Answer 3}{}{Что тебе, старый хрыч?}
-{Speech 2 Answer 3*}{}{Что вы хотите от меня?}
-{Speech 3}{}{Понимаешь... Тут такое дело. Я стар костями, моя плоть проспиртована всем чем можно, но вот штука внизу всё ещё мучает мои будни. Но я нашёл хорошее утешение: Кошачья Лапка, этот озорной журнал, вполне может доставить радость старому человеку. Вот только я потерял свой последний номер, или же кто-то украл его... И теперь я не могу найти покоя...}
-{Speech 3 Answer Exit}{}{Старый извращенец, делать мне больше нечего, чем слушать бред про сомнительные бумажки!}
-{Speech 3 Answer 4}{}{Если я найду что-то похожее, могу подкинуть. Мне такое не нужно.}
-{Speech 3 Answer 5}{}{Слушай, старик, ты просто не знаешь, что такое веселье. Твои алкоголь и картинки никогда не дадут тебе того, что жаждет тело...}
-{Speech 3 Answer 5*}{}{Слушай, старик, ты просто не знаешь, что такое веселье. Твои алкоголь и картинки никогда не дадут тебе того, что жаждет тело...}
-{Speech 3 Answer 5**}{}{Слушай, старик, ты просто не знаешь, что такое веселье. Твои алкоголь и картинки никогда не дадут тебе того, что жаждет тело...}
-{Speech 3 Answer 5***}{}{Слушай, старик, ты просто не знаешь, что такое веселье. Твои алкоголь и картинки никогда не дадут тебе того, что жаждет тело...}
-{Speech 3 Answer 5****}{}{Слушай, старик, ты просто не знаешь, что такое веселье. Твои алкоголь и картинки никогда не дадут тебе того, что жаждет тело...}
-{Speech 4}{}{О, добрая душа! Не лишай старика простой шалости... Если ты притащишь мне несколько номеров этого журнала, я уверен, подобной напасти больше не повторится! Принеси мне 3 номера Кошачьей Лапки, и я поделюсь с тобой всем, что у меня есть.}
-{Speech 4 Answer Exit}{}{Знаешь, я передумал. Дурное это занятие, шляться по пустошам в поисках газеты.}
-{Speech 4 Answer Exit*}{}{Ничего не обещаю, но я поищу этот журнал. Возможно, даже найду. Прощай.}
-{Speech 4 Answer 7}{}{Вы же пожилой мудрый человек! Наверняка, если я найду хоть один номер, вы будете ему рады и сумеете сохранить его!}
-{Speech 5}{}{Что же это такое, о чем я не слышал?}
-{Speech 5 Answer 6}{}{Наверняка ты слышал. Есть такая замечательная штука, как Джет. Многим она помогает пережить тягости существования. Это просто чудо! }
-{Speech 6}{}{Я не уверен, что готов загубить свою жизнь, @sex@|парень|малышка|... Джет даёт временное облегчение, но он съедает душу...}
-{Speech 6 Answer 8}{}{Да брось, тебе стоит попробовать! }
-{Speech 6 Answer 9}{}{Да брось, тебе стоит попробовать! }
-{Speech 6 Answer Exit}{}{Погоди, вот достану дозу, ты не удержишься попробовать! }
-{Speech 7}{}{Хорошо. Вы сможете найти меня... здесь. Как всегда...}
-{Speech 7 Answer Exit}{}{Скоро вернусь.}
-{Speech 8}{}{И то верно, что мне терять, моя жизнь кончается... Порадую себя на старости лет.}
-{Speech 8 Answer Exit}{}{Бывай.}
-{Speech 9}{}{Нет, пусть я разрушил свою жизнь, но мне нравится дышать этим грязным воздухом. Я хочу жить. Проваливай.}
-{Speech 9 Answer Exit}{}{Пока старый дурак.}
-{Speech 10}{}{Брысь!}
-{Speech 10 Answer Exit}{}{Моя уходить.}
-{Speech 10 Answer Exit*}{}{Моя брысь тебе показать!!!}
-{Speech 11}{}{Привет, как у тебя дела?}
-{Speech 11 Answer Exit}{}{Все хорошо, пока.}
-{Speech 11 Answer Exit*}{}{Отстань, паршиво.}
-{Speech 11 Answer Exit**}{}{Сойдет.}
-{Speech 15}{}{Принес, принес?}
-{Speech 15 Answer 16}{}{Юрасик, я достал нужную тебе вещь...}
-{Speech 15 Answer 16*}{}{Юрасик, я достал нужную тебе вещь...}
-{Speech 15 Answer Exit}{}{Нет еще, ищу.}
-{Speech 16}{}{Моя прелесть! Давай скорее сюда! }
-{Speech 16 Answer Exit}{}{Ээ нет, лучше я оставлю их себе. Страдай дальше, старый пердун.}
-{Speech 16 Answer Exit*}{}{Держи. Не забудь про награду.}
-{Speech 16 Answer Exit**}{}{Держи. Не забудь про награду.}
+{Name}{}{Yurasik Doll}
+{DescAliveShort}{}{This is Yurasik Doll.}
+{DescAliveFull}{}{You see old Yurasik, who seems to have lost something.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 10}{}{Stupid character}
+{Speech 1 Answer 2}{}{Not a fool}
+{Speech 1 Answer 15}{}{Quest in progress}
+{Speech 1 Answer 11}{}{Quest completed.}
+{Speech 2}{}{Cough... cough... @sex@|traveler|traveler|, come here... Yeah, you, @sex@|weird guy|girlie|, I'm talking to you.}
+{Speech 2 Answer Exit}{}{Get lost, scum.}
+{Speech 2 Answer Exit*}{}{I've got no time, old man, go away...}
+{Speech 2 Answer 3}{}{What do you want, you old geezer?}
+{Speech 2 Answer 3*}{}{What do you want from me?}
+{Speech 3}{}{You see... Here's the thing. I'm old in the bones, my flesh is pickled in everything you can name, but that thing down below still torments my days. But I found a fine comfort: Cat's Paw, that naughty magazine, can well bring joy to an old man. Only I lost my last issue, or someone stole it... And now I can't find any peace...}
+{Speech 3 Answer Exit}{}{You old pervert, I've got nothing better to do than listen to nonsense about dubious papers!}
+{Speech 3 Answer 4}{}{If I find something like that, I can drop it off. I don't need such stuff.}
+{Speech 3 Answer 5}{}{Listen, old man, you just don't know what fun is. Your booze and pictures will never give you what the body craves...}
+{Speech 3 Answer 5*}{}{Listen, old man, you just don't know what fun is. Your booze and pictures will never give you what the body craves...}
+{Speech 3 Answer 5**}{}{Listen, old man, you just don't know what fun is. Your booze and pictures will never give you what the body craves...}
+{Speech 3 Answer 5***}{}{Listen, old man, you just don't know what fun is. Your booze and pictures will never give you what the body craves...}
+{Speech 3 Answer 5****}{}{Listen, old man, you just don't know what fun is. Your booze and pictures will never give you what the body craves...}
+{Speech 4}{}{Oh, kind soul! Don't deny an old man a simple pleasure... If you bring me a few issues of that magazine, I'm sure this misfortune won't happen again! Bring me 3 issues of Cat's Paw, and I'll share with you everything I have.}
+{Speech 4 Answer Exit}{}{You know, I changed my mind. It's a foolish thing, roaming the wastes looking for a magazine.}
+{Speech 4 Answer Exit*}{}{I promise nothing, but I'll look for that magazine. Maybe I'll even find it. Farewell.}
+{Speech 4 Answer 7}{}{But you're an old wise man! Surely, if I find even a single issue, you'll be glad for it and will manage to keep it!}
+{Speech 5}{}{What is it that I haven't heard of?}
+{Speech 5 Answer 6}{}{You've surely heard of it. There's this wonderful thing called Jet. It helps many people endure the hardships of existence. It's simply a miracle! }
+{Speech 6}{}{I'm not sure I'm ready to ruin my life, @sex@|guy|girlie|... Jet gives temporary relief, but it eats away the soul...}
+{Speech 6 Answer 8}{}{Oh come on, you should give it a try! }
+{Speech 6 Answer 9}{}{Oh come on, you should give it a try! }
+{Speech 6 Answer Exit}{}{Hold on, once I get a dose, you won't be able to resist trying it! }
+{Speech 7}{}{Good. You'll be able to find me... here. As always...}
+{Speech 7 Answer Exit}{}{I'll be back soon.}
+{Speech 8}{}{And it's true, what have I got to lose, my life is ending anyway... I'll treat myself in my old age.}
+{Speech 8 Answer Exit}{}{So long.}
+{Speech 9}{}{No, I may have ruined my life, but I like breathing this dirty air. I want to live. Get lost.}
+{Speech 9 Answer Exit}{}{Bye, old fool.}
+{Speech 10}{}{Shoo!}
+{Speech 10 Answer Exit}{}{Me go away.}
+{Speech 10 Answer Exit*}{}{Me show you shoo!!!}
+{Speech 11}{}{Hi, how are you doing?}
+{Speech 11 Answer Exit}{}{All good, bye.}
+{Speech 11 Answer Exit*}{}{Leave me alone, lousy.}
+{Speech 11 Answer Exit**}{}{It'll do.}
+{Speech 15}{}{Did you bring it, did you bring it?}
+{Speech 15 Answer 16}{}{Yurasik, I got the thing you needed...}
+{Speech 15 Answer 16*}{}{Yurasik, I got the thing you needed...}
+{Speech 15 Answer Exit}{}{Not yet, still looking.}
+{Speech 16}{}{My precious! Hand it over, quick! }
+{Speech 16 Answer Exit}{}{Eh no, I'd better keep them for myself. Suffer on, you old fart.}
+{Speech 16 Answer Exit*}{}{Here. Don't forget about the reward.}
+{Speech 16 Answer Exit**}{}{Here. Don't forget about the reward.}

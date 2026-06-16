@@ -120,39 +120,39 @@ Speech 23 # Охранников каравана? Ищи их в забегал
 [Text engl]
 {Name}{}{Hal}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 7}{}{На энкаунтере}
-{Speech 1 Answer 2*}{}{Начат караван}
-{Speech 2}{}{Ты здесь для перегона?}
-{Speech 2 Answer 5}{}{Да}
-{Speech 2 Answer 4}{}{Да}
-{Speech 2 Answer 3}{}{Нет}
-{Speech 2 Answer 3*}{}{Бу!}
-{Speech 2 Answer 6}{}{Ну, а ты что, не помнишь? Когда выходим?}
-{Speech 2 Answer 9}{}{Тьфу, Хэл. Ты опять меня забыл? Я тебе караваны охраняю!}
-{Speech 2 Answer 20}{}{Эй, Хэл, ответь на пару вопросов?}
-{Speech 3}{}{Ладно, оставь меня в покое. У меня 500 голов браминов, надо уследить за всеми.}
-{Speech 3 Answer Exit}{}{Пока. [Уйти]}
-{Speech 4}{}{Не помню, чтобы Даппо о тебе говорил. С ним весь базар держи...}
-{Speech 4 Answer Exit}{}{Ладно, я вернусь. [Уйти]}
-{Speech 5}{}{А, знаю. Даппо говорил. Ладно, я тебя запомнил. В два часа выходим, не опоздай.}
-{Speech 5 Answer Exit}{}{Договорились. [Уйти]}
-{Speech 5 Answer Exit*}{}{Я передумал@sex@||а|. Идите без меня.}
-{Speech 6}{}{В два часа, я ж говорил.@@В два часа.@@Скоро, не тупи.@@Задолбали вы меня все. Подождать полчаса не могут.}
-{Speech 7}{}{Ты кто?}
-{Speech 7 Answer Exit}{}{Забудь. [Уйти]}
-{Speech 7 Answer 8}{}{Я твой караван охраняю, забыл? Вроде все спокойно,  когда двигаемся дальше?}
-{Speech 8}{}{Чудесно. Давайте выходить. Погнали их в Реддинг, ребята!}
-{Speech 8 Answer Exit}{}{Идем! [Выйти с энкаунтера]}
-{Speech 9}{}{Да, жуть какая, сколько браминов потеряли. Спасибо хоть живы остались.}
-{Speech 9 Answer 10}{}{Ага. И что мне теперь делать?}
-{Speech 10}{}{Иди к Хоффи, у него твоя награда. Теперь ты сам@sex@||а| по себе. Хорошо с тобой работать было.}
-{Speech 10 Answer Exit}{}{Бывай, Хэл. [Уйти]}
-{Speech 20}{}{Какие, к черту, вопросы? У меня куча дел!}
-{Speech 20 Answer 21}{}{Я быстро. Ты не знаешь, кто из охранников был в ограбленном караване Даппо?}
-{Speech 21}{}{Даппо? Кто такой Даппо?}
-{Speech 21 Answer 22}{}{Это твой начальник, ты что, забыл?}
-{Speech 22}{}{Начальник? А! Точно! Мой начальник - Даппо, да. И чего?}
-{Speech 22 Answer 23}{}{Где я могу найти охранников каравана Даппо}
-{Speech 23}{}{Охранников каравана? Ищи их в забегаловке на Базаре у этого... как там его... забыл, как зовут. Ящерками торгует.}
-{Speech 23 Answer Exit}{}{Спасибо.}
+{Speech 1 Answer 2}{}{in NCR or Redding}
+{Speech 1 Answer 7}{}{At an encounter}
+{Speech 1 Answer 2*}{}{Caravan started}
+{Speech 2}{}{You here for the drive?}
+{Speech 2 Answer 5}{}{Yes}
+{Speech 2 Answer 4}{}{Yes}
+{Speech 2 Answer 3}{}{No}
+{Speech 2 Answer 3*}{}{Boo!}
+{Speech 2 Answer 6}{}{Well, don't you remember? When do we head out?}
+{Speech 2 Answer 9}{}{Bah, Hal. Did you forget me again? I'm the one guarding your caravans!}
+{Speech 2 Answer 20}{}{Hey, Hal, answer a couple of questions?}
+{Speech 3}{}{All right, leave me alone. I've got 500 head of brahmin, I have to keep an eye on them all.}
+{Speech 3 Answer Exit}{}{Bye. [Leave]}
+{Speech 4}{}{I don't recall Dappo mentioning you. The whole bazaar runs through him...}
+{Speech 4 Answer Exit}{}{All right, I'll come back. [Leave]}
+{Speech 5}{}{Ah, I know. Dappo told me. All right, I've got you marked. We head out at two o'clock, don't be late.}
+{Speech 5 Answer Exit}{}{Agreed. [Leave]}
+{Speech 5 Answer Exit*}{}{I've changed@sex@||| my mind. Go without me.}
+{Speech 6}{}{At two o'clock, I told you.@@At two o'clock.@@Soon, don't be dumb.@@You've all worn me out. Can't wait half an hour.}
+{Speech 7}{}{Who are you?}
+{Speech 7 Answer Exit}{}{Forget it. [Leave]}
+{Speech 7 Answer 8}{}{I'm guarding your caravan, forget? Everything seems quiet, shall we move on?}
+{Speech 8}{}{Wonderful. Let's head out. Drive them to Redding, boys!}
+{Speech 8 Answer Exit}{}{Let's go! [Leave the encounter]}
+{Speech 9}{}{Yeah, what a nightmare, how many brahmin we lost. Thank goodness we're at least alive.}
+{Speech 9 Answer 10}{}{Yeah. And what am I supposed to do now?}
+{Speech 10}{}{Go to Hoffy, he's got your reward. Now you're on your@sex@||| own. It was good working with you.}
+{Speech 10 Answer Exit}{}{So long, Hal. [Leave]}
+{Speech 20}{}{What questions, the hell? I've got a ton to do!}
+{Speech 20 Answer 21}{}{I'll be quick. Do you know which of the guards was in Dappo's robbed caravan?}
+{Speech 21}{}{Dappo? Who's Dappo?}
+{Speech 21 Answer 22}{}{He's your boss, did you forget?}
+{Speech 22}{}{Boss? Ah! Right! My boss is Dappo, yeah. So what?}
+{Speech 22 Answer 23}{}{Where can I find the guards from Dappo's caravan}
+{Speech 23}{}{The caravan guards? Look for them in the diner at the Bazaar, at that guy's place... what's his name... forgot what he's called. Sells lizards.}
+{Speech 23 Answer Exit}{}{Thanks.}

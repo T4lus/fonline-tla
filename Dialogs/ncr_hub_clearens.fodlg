@@ -200,68 +200,68 @@ Speech 28 # Невероятно! Я не могу поверить, ты сде
 {DescAliveFull}{}{It's Enlightened.}
 {DescAliveFull}{}{Her still sight and expression of apathetic bliss on her face could be found anoying, if wasn't so tranquile.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 1 Answer 4}{}{знаком}
-{Speech 2}{}{Здравствуй, дитя. Ты од@sex@|ин|на| из Просвещенных?}
-{Speech 2 Answer 3}{}{Просвя... чего?}
-{Speech 3}{}{Ясно. Примитивный экземпляр. Я могу помочь тебе. Для этого нужно провести зета-сканирование. Приступим?}
-{Speech 3 Answer Exit}{}{Эй! Убери руки! [Уйти]}
-{Speech 3 Answer 27}{}{Может быть, ты просто на меня побрызгаешь святой водой, или как там это называется?}
-{Speech 3 Answer 5}{}{В сканировании нет необходимости. Я приш@sex@|ел|ла| за другим.}
-{Speech 4}{}{Снова вы?}
-{Speech 4 Answer Exit}{}{Прощайте. [Уйти]}
-{Speech 4 Answer 5}{}{Мне нужны ответы...}
-{Speech 4 Answer 25}{}{Просветленная, я наш@sex@|ел|ла| книги из библиографии Хаба.}
-{Speech 4 Answer 23}{}{Тебе снова нужна помощь с книгами?}
-{Speech 5}{}{[Удивленно приподнимает бровь] И что же ты ищешь, дитя?}
-{Speech 5 Answer 6}{}{Я ищу знания. Того знания, которое можно получить, лишь познав величие Колеса Жизни.}
-{Speech 6}{}{Тяга к знаниям... Сегодня мало просто Знать. Все обеспокоены лишь тем, чтобы выжить...}
-{Speech 6 Answer 7}{}{Я не из таких. Я готов@sex@||а| пожертвовать собой, если потребуется, ради осуществления своей мечты.}
-{Speech 7}{}{Мечты? И о чем же ты грезишь, дитя?}
-{Speech 7 Answer 8}{}{Я хочу стать королем Пустоши. ХА-ХА-ХА-ХА!!! И ты - последняя преграда у меня на пути! [Атаковать]}
-{Speech 7 Answer 9}{}{Я хочу въехать в Град Престольный верхом на одноголовом брамине. И чтобы вся чернь пала ниц при моем появлении!}
-{Speech 7 Answer 10}{}{Я жажду Просвещения. Я верю, что мне предназначено встретиться со Звездным Отцом.}
-{Speech 8}{}{Сумасшедш@sex@|ий|ая|! Помогите!}
-{Speech 9}{}{Дух твой находится в смятении. Надеюсь, сканирование поможет найти причину расстройства. Попробуешь?}
-{Speech 9 Answer Exit}{}{Нет уж, спасибо. [Уйти]}
-{Speech 10}{}{[Вздыхает. В голосе слышатся нотки сомнения] Одной веры недостаточно. Только Ось Хаба может увидеться с ним.}
-{Speech 10 Answer 11}{}{Мне предначертано стать Осью, не сомневайся! Дай мне шанс построить мою судьбу, и я не забуду о твоей помоши, когда придет время Подъемника. }
-{Speech 11}{}{Сделка? Ты сейчас предлагаешь мне сделку?}
-{Speech 11 Answer 12}{}{Конечно, а чего, глаз за глаз, бабло за наводку.}
-{Speech 11 Answer 13}{}{Какая сделка? Не говори глупостей. Я прошу помощи у сестры по Вере, разве этого недостаточно? }
-{Speech 12}{}{Фу, ты подл@sex@|ый|ая| обманщи@sex@|к|ца|, даже не приближайся ко мне!}
-{Speech 13}{}{Хм. Говоришь ты уверено, и, я чувствую, что твои нейроны чисты. Но, если ты ждешь помощи от меня, то и @sex@|сам|сама| будешь готов@sex@||а| ее оказать при необходимости?}
-{Speech 13 Answer 14}{}{Ну уж нет, мне нет времени отвлекаться на пустяки. У меня другие планы.}
-{Speech 13 Answer 15}{}{Конечно, сестра. Все, что ты попросишь!}
-{Speech 14}{}{В таком случае, ничем не смогу помочь}
-{Speech 15}{}{Рада слышать. Мне нужны книги, которые сложно найти у торговца. Это Великие Книги Хаба, и я буду благодарна, если сможешь их достать.}
-{Speech 15 Answer 16}{}{Без проблем. Где можно найти такие книги?}
-{Speech 15 Answer 23}{}{Что это за книги, которые ты хочешь получить?}
-{Speech 16}{}{Я знаю одно место, где книги должны быть. К сожалению, я не могу выбраться туда сама, очень много дел. Это - заброшенная правительственная лаборатория, в ней проводились различные испытания, связанные с репликацией.}
-{Speech 16 Answer 19}{}{Где она находится?}
-{Speech 16 Answer Exit}{}{Нет, я не думаю, что смогу тебе помочь. [Уйти]}
-{Speech 16 Answer 24}{}{Хорошо, я принесу тебе эти книги, Просветленная.}
-{Speech 19}{}{Я отмечу ее расположение на твоем устройстве. Это недалеко.}
-{Speech 19 Answer 21}{}{Почему лаборатория заброшена?}
-{Speech 19 Answer Exit}{}{Нет, я не думаю, что смогу тебе помочь. [Уйти]}
-{Speech 19 Answer 24}{}{Хорошо, я принесу тебе эти книги, Просветленная.}
-{Speech 21}{}{Мое благославление! Разве этого мало?}
-{Speech 21 Answer Exit}{}{Конечно мало, я не @sex@|дурак|дура|, чтобы работать бесплатно. [Уйти]}
-{Speech 21 Answer 23}{}{Что это за книги, которые ты хочешь получить?}
-{Speech 21 Answer Exit*}{}{Нет, я не думаю, что смогу тебе помочь. [Уйти]}
-{Speech 23}{}{Это книги из библиографии Хаба. Они были написаны еще до Катастрофы. Они очень ценны. Если ты принесешь мне три книги безвозмездно, ты сделаешь доброе дело! }
-{Speech 23 Answer 21}{}{Что я получу, если принесу тебе книги?}
-{Speech 23 Answer 19}{}{Где находится лаборатория?}
-{Speech 23 Answer Exit}{}{Нет, я не думаю, что смогу тебе помочь. [Уйти]}
-{Speech 23 Answer 24}{}{Хорошо, я принесу тебе эти книги, Просветленная.}
-{Speech 24}{}{Я очень рада, дитя мое. Сегодня редко можно встретить человека, такого же чистого сердцем, как ты. Пожелаю тебе удачи.}
-{Speech 24 Answer Exit}{}{Скоро я вернусь с твоими книгами. [Уйти]}
-{Speech 25}{}{Ох, покажи же мне их скорее!}
-{Speech 25 Answer 28}{}{[Отдать Просветленной все найденные книги]}
-{Speech 25 Answer Exit}{}{Упс. У меня они не с собой. Сейчас вернусь. [Уйти]}
-{Speech 26}{}{Великолепно! Это настоящее сокровище, мой друг! Моя благодарность к тебе безгранична!}
-{Speech 26 Answer Exit}{}{Если они тебе так нужны, я рад@sex@||а| помочь. [Уйти]}
-{Speech 27}{}{Что за варварство! Вы - дикар@sex@|ь|ка|!}
-{Speech 28}{}{Невероятно! Я даже не могла этого ожидать. Я заплачу тебе!}
-{Speech 28 Answer Exit}{}{Спасибо. [Забрать деньги]}
-{Speech 28 Answer Exit*}{}{Мне не нужны деньги. Для меня было важно выполнить твою просьбу. [Уйти]}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 4}{}{acquainted}
+{Speech 2}{}{Greetings, child. Are you one@sex@||| of the Enlightened?}
+{Speech 2 Answer 3}{}{Enligh... what?}
+{Speech 3}{}{I see. A primitive specimen. I can help you. For that we need to perform a zeta-scan. Shall we begin?}
+{Speech 3 Answer Exit}{}{Hey! Hands off! [Leave]}
+{Speech 3 Answer 27}{}{Maybe you'll just sprinkle me with holy water, or whatever it's called?}
+{Speech 3 Answer 5}{}{There's no need for a scan. I came@sex@||| for something else.}
+{Speech 4}{}{You again?}
+{Speech 4 Answer Exit}{}{Farewell. [Leave]}
+{Speech 4 Answer 5}{}{I need answers...}
+{Speech 4 Answer 25}{}{Enlightened, I've found@sex@||| the books from the bibliography of the Hub.}
+{Speech 4 Answer 23}{}{Do you need help with the books again?}
+{Speech 5}{}{[Raises an eyebrow in surprise] And what is it you seek, child?}
+{Speech 5 Answer 6}{}{I seek knowledge. The knowledge that can only be gained by comprehending the greatness of the Wheel of Life.}
+{Speech 6}{}{A thirst for knowledge... Today it's not enough simply to Know. Everyone is concerned only with surviving...}
+{Speech 6 Answer 7}{}{I'm not one of those. I'm ready@sex@||| to sacrifice myself, if need be, to realize my dream.}
+{Speech 7}{}{Dreams? And what is it you dream of, child?}
+{Speech 7 Answer 8}{}{I want to become the king of the Wasteland. HA-HA-HA-HA!!! And you are the last obstacle in my path! [Attack]}
+{Speech 7 Answer 9}{}{I want to ride into the Throne City on a one-headed brahmin. And let all the rabble fall prostrate at my appearance!}
+{Speech 7 Answer 10}{}{I crave Enlightenment. I believe I'm destined to meet the Star Father.}
+{Speech 8}{}{This one's insane@sex@|||! Help!}
+{Speech 9}{}{Your spirit is in turmoil. I hope the scan will help find the cause of the disorder. Will you try?}
+{Speech 9 Answer Exit}{}{No thanks. [Leave]}
+{Speech 10}{}{[Sighs. Notes of doubt can be heard in her voice] Faith alone is not enough. Only the Axis of the Hub can meet with him.}
+{Speech 10 Answer 11}{}{I'm destined to become the Axis, have no doubt! Give me a chance to build my fate, and I won't forget your help when the time of the Lifter comes. }
+{Speech 11}{}{A deal? Are you offering me a deal right now?}
+{Speech 11 Answer 12}{}{Of course, why not, an eye for an eye, dough for a tip-off.}
+{Speech 11 Answer 13}{}{What deal? Don't talk nonsense. I'm asking help from a sister in the Faith, isn't that enough? }
+{Speech 12}{}{Ugh, you vile@sex@||| deceiver@sex@|||, don't even come near me!}
+{Speech 13}{}{Hm. You speak with confidence, and I feel that your neurons are pure. But, if you expect help from me, will you yourself@sex@||| be ready@sex@||| to give it when needed?}
+{Speech 13 Answer 14}{}{No way, I have no time to waste on trifles. I have other plans.}
+{Speech 13 Answer 15}{}{Of course, sister. Anything you ask!}
+{Speech 14}{}{In that case, I won't be able to help with anything}
+{Speech 15}{}{Glad to hear it. I need books that are hard to find at a merchant's. These are the Great Books of the Hub, and I'll be grateful if you can get them.}
+{Speech 15 Answer 16}{}{No problem. Where can such books be found?}
+{Speech 15 Answer 23}{}{What are these books that you want to obtain?}
+{Speech 16}{}{I know one place where the books should be. Unfortunately, I can't get out there myself, far too much to do. It's an abandoned government laboratory, where various experiments related to replication were conducted.}
+{Speech 16 Answer 19}{}{Where is it located?}
+{Speech 16 Answer Exit}{}{No, I don't think I can help you. [Leave]}
+{Speech 16 Answer 24}{}{All right, I'll bring you these books, Enlightened.}
+{Speech 19}{}{I'll mark its location on your device. It's not far.}
+{Speech 19 Answer 21}{}{Why is the laboratory abandoned?}
+{Speech 19 Answer Exit}{}{No, I don't think I can help you. [Leave]}
+{Speech 19 Answer 24}{}{All right, I'll bring you these books, Enlightened.}
+{Speech 21}{}{My blessing! Is that not enough?}
+{Speech 21 Answer Exit}{}{Of course it's not enough, I'm no @sex@|fool|fool| to work for free. [Leave]}
+{Speech 21 Answer 23}{}{What are these books that you want to obtain?}
+{Speech 21 Answer Exit*}{}{No, I don't think I can help you. [Leave]}
+{Speech 23}{}{These are books from the bibliography of the Hub. They were written before the Catastrophe. They are very valuable. If you bring me three books free of charge, you'll do a good deed! }
+{Speech 23 Answer 21}{}{What will I get if I bring you the books?}
+{Speech 23 Answer 19}{}{Where is the laboratory located?}
+{Speech 23 Answer Exit}{}{No, I don't think I can help you. [Leave]}
+{Speech 23 Answer 24}{}{All right, I'll bring you these books, Enlightened.}
+{Speech 24}{}{I'm very glad, my child. Today it's rare to meet a person as pure of heart as you. I wish you luck.}
+{Speech 24 Answer Exit}{}{I'll be back soon with your books. [Leave]}
+{Speech 25}{}{Oh, show them to me quickly!}
+{Speech 25 Answer 28}{}{[Give the Enlightened all the books you found]}
+{Speech 25 Answer Exit}{}{Oops. I don't have them on me. I'll be right back. [Leave]}
+{Speech 26}{}{Magnificent! This is a true treasure, my friend! My gratitude to you is boundless!}
+{Speech 26 Answer Exit}{}{If you need them so badly, I'm glad@sex@||| to help. [Leave]}
+{Speech 27}{}{What barbarity! You are a savage@sex@|||!}
+{Speech 28}{}{Incredible! I couldn't even have expected this. I'll pay you!}
+{Speech 28 Answer Exit}{}{Thank you. [Take the money]}
+{Speech 28 Answer Exit*}{}{I don't need the money. For me it was important to fulfill your request. [Leave]}

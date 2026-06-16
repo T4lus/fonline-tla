@@ -477,150 +477,150 @@ Speech 36 # В каньоне к западу отсюда живёт шаман
 {Name}{}{Doc}
 {DescAliveShort}{}{You see Doc}
 {DescAliveFull}{}{It's a doctor. Yup.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 38}{}{Отправили на перевязку, а он вернулся.}
-{Speech 1 Answer 37}{}{Отправили на операцию, а он не хочет.}
-{Speech 1 Answer 2}{}{Первое знакомство/доктор не знает имени.}
-{Speech 1 Answer 2*}{}{Заходил пару раз, доктор знает имя.}
-{Speech 1 Answer 19}{}{Частый пациент, доктор знает имя.}
-{Speech 1 Answer 21}{}{Низкий интеллект.}
-{Speech 37}{}{Я вроде отправил тебя к Рейчел.}
-{Speech 38}{}{Я вроде отправил тебя к Франческе.}
-{Speech 2}{}{Привет. Чем могу помочь?}
-{Speech 2 Answer 14}{}{Привет. Меня зовут @pname@. А кто вы?}
-{Speech 2 Answer 18}{}{Привет. Меня зовут @pname@. А кто вы?}
-{Speech 2 Answer 16}{}{А вы чем тут занимаетесь?}
-{Speech 2 Answer 16*}{}{Напомните, вы чем тут занимаетесь?}
-{Speech 2 Answer 3}{}{Доктор, мне нужна медицинская помощь.}
-{Speech 2 Answer 9}{}{Я хочу купить медикаментов.}
-{Speech 2 Answer Exit}{}{Помоги себе, а я в порядке.}
-{Speech 2 Answer Exit*}{}{Помоги себе, а я в порядке.}
-{Speech 2 Answer Exit**}{}{Ничем, спасибо.}
-{Speech 3}{}{Что стряслось?@@В чём проблема?@@Давайте глянем, что с вами не так.@@Посмотрим, смогу ли я помочь.}
-{Speech 3 Answer 4}{}{Меня ранили, я истекаю кровью.}
-{Speech 3 Answer 6}{}{У меня что-то с левой рукой, подозреваю перелом.}
-{Speech 3 Answer 6*}{}{Моя правая рука похожа на кусок говна.}
-{Speech 3 Answer 6**}{}{У меня ни одна рука не работает.}
-{Speech 3 Answer 6***}{}{Я не могу опереться на левую ногу.}
-{Speech 3 Answer 6****}{}{У меня неполадки с правой ногой.}
-{Speech 3 Answer 7}{}{Доктор, я не могу ходить!}
-{Speech 3 Answer 6*****}{}{Мне повредили глаз, я нихрена не вижу.}
-{Speech 3 Answer 10}{}{Док, я облучил@sex@|ся|ась|!}
-{Speech 3 Answer 10*}{}{Меня укусил скорпион, сейчас у меня кружится голова и вообще хреново.}
-{Speech 3 Answer 11}{}{Доктор, я тут съел@sex@||а| одну таблетку, сейчас меня хреновит, если я не кушаю их постоянно.}
-{Speech 3 Answer Exit}{}{На самом деле мне ничего не надо, извините.}
-{Speech 4}{}{Обратитесь к моей помощнице, Франческе, она вас перевяжет.}
-{Speech 4 Answer 5}{}{Что, бесплатно?}
-{Speech 4 Answer Exit}{}{Спасибо, доктор!}
-{Speech 6}{}{Пройдите в операционную, там моя помощница Рейчел залатает вас.}
-{Speech 6 Answer 5}{}{Что, бесплатно?}
-{Speech 6 Answer Exit}{}{Спасибо, доктор!}
-{Speech 7}{}{Пройдите в операционную, там моя помощница Рейчел залатает вас. Хотя давайте я вам помогу дойти...}
-{Speech 7 Answer Exit}{}{[Пройти]}
-{Speech 7 Answer 8}{}{Спасибо, но пару метров я могу пройти и так.}
-{Speech 7 Answer 8*}{}{Не прикасайся ко мне, старый извращенец! Я сам@sex@||а|!}
-{Speech 5}{}{Да, мы не берём денег с нуждающихся.}
-{Speech 8}{}{Рейчел, сейчас к тебе кто-то приползёт!}
-{Speech 9}{}{Давайте поторгуем...}
-{Speech 9 Answer Barter}{}{[Бартер]}
-{Speech 9 Answer Barter*}{}{Покажите товар ещё раз...}
-{Speech 9 Answer Exit}{}{На самом деле мне надо идти.}
-{Speech 9 Answer Exit*}{}{Мне пора.}
-{Speech 9 Answer Barter**}{}{[Торговать]}
-{Speech 9 Answer Exit**}{}{Пока!}
-{Speech 10}{}{Давайте я сделаю вам укол... Готово.}
-{Speech 11}{}{Я могу избавить вас от этой проблемы, но это обойдётся вам в 900 монет. Извините, не могу сделать это бесплатно - эти лекарства нам приходится покупать самим.}
-{Speech 11 Answer Exit}{}{Что-то дороговато, я пока не могу себе этого позволить.}
-{Speech 11 Answer 12}{}{Плевать на деньги, Док, я устал@sex@||а| мучиться. Я готов@sex@||а| заплатить.}
-{Speech 11 Answer 13}{}{Эй, старик, ты отдашь мне это бесплатно, или я сломаю тебе руку.}
-{Speech 12}{}{Отлично. Скушайте вот этот порошок... И вот эту таблетку... И запейте водой.}
-{Speech 12 Answer Exit}{}{[Выпить лекарства]}
-{Speech 12 Answer Exit*}{}{Не, я передумал@sex@||а|.}
-{Speech 13}{}{ПОМОГИТЕ!!!}
-{Speech 14}{}{Очень приятно, @pname@. Меня зовут Доктор Марк Бромптон. Можешь называть меня просто Док.}
-{Speech 14 Answer 16}{}{А вы чем тут занимаетесь?}
-{Speech 14 Answer 3}{}{Доктор, да? Мне нужна медицинская помощь.}
-{Speech 14 Answer 35}{}{Доктор, да? Мне нужна медицинская помощь.}
-{Speech 14 Answer 9}{}{Я хочу купить медикаментов.}
-{Speech 14 Answer 15}{}{Понятно. Ну, я просто осматривал@sex@|ся|ась|. Если что - буду знать, куда приходить! До свидания, доктор!}
-{Speech 15}{}{До свидания.}
-{Speech 16}{}{Лечу больных, чем ещё может заниматься доктор. Говорите быстрей, с чем пришли, у меня ещё две ампутации сегодня.@@Лечу больных, чем ещё может заниматься доктор. Пациентов много, укусы гекко в основном.@@Лечу больных, чем ещё может заниматься доктор. Пациентов много - туземцы учатся обращаться с огнестрельным оружием, люди Убежища - охотиться. У первых ступни постоянно прострелены, у вторых сплошные укусы.@@Лечу больных, чем ещё может заниматься доктор. Пациентов много. То ноготь оторвало, то ногу. У каждого своё.}
-{Speech 16 Answer 17}{}{А ногу пришить сможете?}
-{Speech 16 Answer 3}{}{Доктор, мне нужна помощь.}
-{Speech 16 Answer 9}{}{Я хочу купить лекарств. У вас это можно сделать?}
-{Speech 16 Answer 15}{}{Понятно. Ну, спасибо за информацию!}
-{Speech 17}{}{Приносите - посмотрим. Не всякую ногу всюду пришить можно... К голове, например, особенно тяжело пришивается. А лапу геккона ни разу пришить не удавалось - отторжение.}
-{Speech 17 Answer Exit}{}{Знаете, мне что-то неуютно тут, выйду подышать воздухом...}
-{Speech 17 Answer 3}{}{Доктор, а у меня это, проблема!}
-{Speech 17 Answer 9}{}{Давайте я лучше куплю у вас набор "собери себя сам"...}
-{Speech 17 Answer Exit*}{}{Буду иметь ввиду, до скорого!}
-{Speech 18}{}{[Доктор прищуривает один глаз и внимательно на Вас смотрит] Вот, возьмите это, помогает при проблемах с памятью. [Протягивает упаковку Ментнатов]}
-{Speech 18 Answer Exit}{}{О! Спасибо, доктор!}
-{Speech 18 Answer 3}{}{Спасибо, доктор! Но я не за этим. Мне нужна медицинская помощь.}
-{Speech 18 Answer 9}{}{Спасибо! Я бы хотел@sex@||а| купить ещё медикаментов.}
-{Speech 19}{}{Привет. Это снова вы, @pname@? Чем могу помочь?}
-{Speech 19 Answer 20}{}{О, док, вы помните моё имя? У вас хорошая память!}
-{Speech 19 Answer 16}{}{Напомните, вы чем тут занимаетесь?}
-{Speech 19 Answer 3}{}{Доктор, мне нужна медицинская помощь.}
-{Speech 19 Answer 9}{}{Я хочу купить медикаментов.}
-{Speech 19 Answer Exit}{}{Помоги себе, а я в порядке.}
-{Speech 19 Answer Exit*}{}{Помоги себе, а я в порядке.}
-{Speech 19 Answer Exit**}{}{Ничем, спасибо.}
-{Speech 20}{}{Да. Злоупотреблял когда-то ментнатами.}
-{Speech 20 Answer Exit}{}{Хм. Я, наверное, поищу другого доктора...}
-{Speech 20 Answer 3}{}{Ладно, неважно. Я вообще приш@sex@|ёл|ла| с проблемой...}
-{Speech 20 Answer 9}{}{О! А можно у вас прикупить чего-нибудь из магических снадобий?}
-{Speech 20 Answer Exit*}{}{Ммм. Ясно. Мне пора.}
-{Speech 21}{}{Привет. [Внимательно на Вас смотрит] Ооо. Я доктор. Док-тор. Умею лечить. Чем тебе помочь? Только не шуми, а то я отправлю тебя лечиться к шаману.}
-{Speech 21 Answer 26}{}{Дока, больно.}
-{Speech 21 Answer 9}{}{Дока, продай порошки.}
-{Speech 21 Answer 22}{}{Дока, расскажи сказку.}
-{Speech 21 Answer 24}{}{Ууу. Ух.}
-{Speech 21 Answer 25}{}{АААА! Аааа! Аааа! А!}
-{Speech 21 Answer 25*}{}{АААА! Аааа! Аааа! А!}
-{Speech 22}{}{Ползёт как-то Глаз по Пустоши. А навстречу ему Нога. Глаз говорит: "Нога, давай путешествовать вместе?" Нога отвечает: "Давай". Залез Глаз на Ногу, и стали они путешествовать. И Глазу ползать не надо, и Ноге видно, куда идёт. ...не смешно, зато про медину.}
-{Speech 22 Answer 23}{}{Дока, расскажи ещё!}
-{Speech 22 Answer Exit}{}{Спасибо!}
-{Speech 23}{}{Всё, кончились сказки. Так тебе надо чем-нибудь помогать?}
-{Speech 23 Answer 26}{}{Дока, мне тут больно.}
-{Speech 23 Answer 9}{}{Дока, продай порошки.}
-{Speech 23 Answer Exit}{}{Не. Спасибо за сказку!}
-{Speech 24}{}{Ну раз тебе ничего не надо, то на сегодня закончим.}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 38}{}{Sent for bandaging, but he came back.}
+{Speech 1 Answer 37}{}{Sent for surgery, but he doesn't want it.}
+{Speech 1 Answer 2}{}{First meeting / doctor doesn't know the name.}
+{Speech 1 Answer 2*}{}{Dropped by a couple of times, doctor knows the name.}
+{Speech 1 Answer 19}{}{Frequent patient, doctor knows the name.}
+{Speech 1 Answer 21}{}{Low intellect.}
+{Speech 37}{}{I think I sent you to Rachel.}
+{Speech 38}{}{I think I sent you to Francesca.}
+{Speech 2}{}{Hello. How can I help you?}
+{Speech 2 Answer 14}{}{Hello. My name is @pname@. And who are you?}
+{Speech 2 Answer 18}{}{Hello. My name is @pname@. And who are you?}
+{Speech 2 Answer 16}{}{And what do you do here?}
+{Speech 2 Answer 16*}{}{Remind me, what is it you do here?}
+{Speech 2 Answer 3}{}{Doctor, I need medical help.}
+{Speech 2 Answer 9}{}{I want to buy some medicine.}
+{Speech 2 Answer Exit}{}{Help yourself, I'm fine.}
+{Speech 2 Answer Exit*}{}{Help yourself, I'm fine.}
+{Speech 2 Answer Exit**}{}{Nothing, thanks.}
+{Speech 3}{}{What happened?@@What's the problem?@@Let's take a look at what's wrong with you.@@Let's see if I can help.}
+{Speech 3 Answer 4}{}{I've been wounded, I'm bleeding out.}
+{Speech 3 Answer 6}{}{Something's wrong with my left arm, I suspect a fracture.}
+{Speech 3 Answer 6*}{}{My right arm looks like a piece of crap.}
+{Speech 3 Answer 6**}{}{Neither of my arms works.}
+{Speech 3 Answer 6***}{}{I can't put weight on my left leg.}
+{Speech 3 Answer 6****}{}{I've got trouble with my right leg.}
+{Speech 3 Answer 7}{}{Doctor, I can't walk!}
+{Speech 3 Answer 6*****}{}{My eye got hurt, I can't see a damn thing.}
+{Speech 3 Answer 10}{}{Doc, I got irradiated!}
+{Speech 3 Answer 10*}{}{A scorpion bit me, now my head is spinning and I feel like crap all over.}
+{Speech 3 Answer 11}{}{Doctor, I ate a pill, and now I feel like crap if I don't keep taking them.}
+{Speech 3 Answer Exit}{}{Actually I don't need anything, sorry.}
+{Speech 4}{}{Go see my assistant, Francesca, she'll bandage you up.}
+{Speech 4 Answer 5}{}{What, for free?}
+{Speech 4 Answer Exit}{}{Thanks, doctor!}
+{Speech 6}{}{Step into the operating room, my assistant Rachel will patch you up.}
+{Speech 6 Answer 5}{}{What, for free?}
+{Speech 6 Answer Exit}{}{Thanks, doctor!}
+{Speech 7}{}{Step into the operating room, my assistant Rachel will patch you up. Although let me help you get there...}
+{Speech 7 Answer Exit}{}{[Walk over]}
+{Speech 7 Answer 8}{}{Thanks, but I can manage a couple of meters on my own.}
+{Speech 7 Answer 8*}{}{Don't touch me, you old pervert! I can do it myself!}
+{Speech 5}{}{Yes, we don't take money from those in need.}
+{Speech 8}{}{Rachel, someone's about to crawl over to you!}
+{Speech 9}{}{Let's do some trading...}
+{Speech 9 Answer Barter}{}{[Barter]}
+{Speech 9 Answer Barter*}{}{Show me the goods again...}
+{Speech 9 Answer Exit}{}{Actually I have to go.}
+{Speech 9 Answer Exit*}{}{I have to go.}
+{Speech 9 Answer Barter**}{}{[Trade]}
+{Speech 9 Answer Exit**}{}{Bye!}
+{Speech 10}{}{Let me give you a shot... Done.}
+{Speech 11}{}{I can rid you of this problem, but it'll cost you 900 coins. Sorry, I can't do it for free - we have to buy these medicines ourselves.}
+{Speech 11 Answer Exit}{}{That's a bit pricey, I can't afford it right now.}
+{Speech 11 Answer 12}{}{Forget the money, Doc, I'm tired of suffering. I'm ready to pay.}
+{Speech 11 Answer 13}{}{Hey, old man, you'll give me this for free, or I'll break your arm.}
+{Speech 12}{}{Excellent. Eat this powder... And this pill... And wash it down with water.}
+{Speech 12 Answer Exit}{}{[Take the medicine]}
+{Speech 12 Answer Exit*}{}{Nah, I changed my mind.}
+{Speech 13}{}{HELP!!!}
+{Speech 14}{}{Pleased to meet you, @pname@. My name is Doctor Mark Brompton. You can just call me Doc.}
+{Speech 14 Answer 16}{}{And what do you do here?}
+{Speech 14 Answer 3}{}{A doctor, huh? I need medical help.}
+{Speech 14 Answer 35}{}{A doctor, huh? I need medical help.}
+{Speech 14 Answer 9}{}{I want to buy some medicine.}
+{Speech 14 Answer 15}{}{I see. Well, I was just looking around. If anything comes up, I'll know where to go! Goodbye, doctor!}
+{Speech 15}{}{Goodbye.}
+{Speech 16}{}{Healing the sick, what else would a doctor do. Speak up quick, what brings you here, I've still got two amputations today.@@Healing the sick, what else would a doctor do. Plenty of patients, mostly gecko bites.@@Healing the sick, what else would a doctor do. Plenty of patients - the natives are learning to handle firearms, the Vault folk are learning to hunt. The first lot keep shooting their feet, the second lot are nothing but bites.@@Healing the sick, what else would a doctor do. Plenty of patients. One lost a nail, another a leg. Everyone's got their own.}
+{Speech 16 Answer 17}{}{Can you reattach a leg?}
+{Speech 16 Answer 3}{}{Doctor, I need help.}
+{Speech 16 Answer 9}{}{I want to buy some medicine. Can I do that here?}
+{Speech 16 Answer 15}{}{I see. Well, thanks for the info!}
+{Speech 17}{}{Bring it over - we'll see. Not every leg can be reattached anywhere... To the head, for instance, it's especially hard to attach. And I've never once managed to attach a gecko's paw - rejection.}
+{Speech 17 Answer Exit}{}{You know, I feel a bit uneasy here, I'll go get some air...}
+{Speech 17 Answer 3}{}{Doctor, I've got, uh, a problem!}
+{Speech 17 Answer 9}{}{How about I just buy a "put yourself back together" kit from you instead...}
+{Speech 17 Answer Exit*}{}{I'll keep that in mind, see you soon!}
+{Speech 18}{}{[The doctor squints one eye and looks at you closely] Here, take this, it helps with memory problems. [Hands over a pack of Mentats]}
+{Speech 18 Answer Exit}{}{Oh! Thanks, doctor!}
+{Speech 18 Answer 3}{}{Thanks, doctor! But that's not what I'm here for. I need medical help.}
+{Speech 18 Answer 9}{}{Thanks! I'd like to buy some more medicine.}
+{Speech 19}{}{Hello. Is that you again, @pname@? How can I help you?}
+{Speech 19 Answer 20}{}{Oh, doc, you remember my name? You've got a good memory!}
+{Speech 19 Answer 16}{}{Remind me, what is it you do here?}
+{Speech 19 Answer 3}{}{Doctor, I need medical help.}
+{Speech 19 Answer 9}{}{I want to buy some medicine.}
+{Speech 19 Answer Exit}{}{Help yourself, I'm fine.}
+{Speech 19 Answer Exit*}{}{Help yourself, I'm fine.}
+{Speech 19 Answer Exit**}{}{Nothing, thanks.}
+{Speech 20}{}{Yes. I used to abuse mentats once.}
+{Speech 20 Answer Exit}{}{Hmm. I'll probably look for another doctor...}
+{Speech 20 Answer 3}{}{Alright, never mind. I actually came with a problem...}
+{Speech 20 Answer 9}{}{Oh! Can I buy some of those magic potions from you?}
+{Speech 20 Answer Exit*}{}{Mmm. I see. I have to go.}
+{Speech 21}{}{Hello. [Looks at you closely] Oooh. I'm a doctor. Doc-tor. Know how to heal. How can I help you? Just don't make noise, or I'll send you off to the shaman for healing.}
+{Speech 21 Answer 26}{}{Doc, it hurts.}
+{Speech 21 Answer 9}{}{Doc, sell me some powders.}
+{Speech 21 Answer 22}{}{Doc, tell me a story.}
+{Speech 21 Answer 24}{}{Uuu. Ugh.}
+{Speech 21 Answer 25}{}{AAAA! Aaaa! Aaaa! A!}
+{Speech 21 Answer 25*}{}{AAAA! Aaaa! Aaaa! A!}
+{Speech 22}{}{Once upon a time an Eye was crawling across the Wasteland. And toward it came a Leg. The Eye says: "Leg, let's travel together?" The Leg answers: "Let's." The Eye climbed onto the Leg, and they set off traveling. Now the Eye doesn't have to crawl, and the Leg can see where it's going. ...it's not funny, but at least it's about medicine.}
+{Speech 22 Answer 23}{}{Doc, tell me another!}
+{Speech 22 Answer Exit}{}{Thanks!}
+{Speech 23}{}{That's it, the stories are over. So do you need help with anything?}
+{Speech 23 Answer 26}{}{Doc, it hurts here.}
+{Speech 23 Answer 9}{}{Doc, sell me some powders.}
+{Speech 23 Answer Exit}{}{Nah. Thanks for the story!}
+{Speech 24}{}{Well, if you don't need anything, we'll wrap it up for today.}
 {Speech 25}{}{...}
-{Speech 26}{}{Ммм, что не так, дорог@sex@|ой мой|ая моя|?}
-{Speech 26 Answer 34}{}{Ручка.}
-{Speech 26 Answer 34*}{}{Ручки...}
-{Speech 26 Answer 34**}{}{Ножка.}
-{Speech 26 Answer 34***}{}{Ножки...}
-{Speech 26 Answer 34****}{}{Глазик.}
-{Speech 26 Answer 30}{}{Кака блевати... От скорпиёни.}
-{Speech 26 Answer 31}{}{Моя прыгать по зелёный лужа... Сейчас нет волосы и лезет кожа.}
-{Speech 26 Answer 27}{}{Дока, моя много кушать порошок и дышать, чтобы стать сильней, сейчас моя нет ничего, и хотеть выцарапывать себе глаза...}
-{Speech 26 Answer 32}{}{Я в@sex@|есь|ся| в крови.}
-{Speech 26 Answer 25}{}{Ничего! Хи-хи.}
-{Speech 27}{}{Ммм. Мне стыдно тебя об этом просить, но чтобы тебя вылечить, мне надо потратить лекарств на 900 монет. И тебе их надо заплатить само@sex@|му.|ой|}
-{Speech 27 Answer 28}{}{Что?! Да ты охренел, старый хрыч?}
-{Speech 27 Answer Exit}{}{Дока, много. Моя зайти потом.}
-{Speech 27 Answer 29}{}{Эх. Давай!}
-{Speech 27 Answer Exit*}{}{Не. Моя проще опять обкушаться.}
-{Speech 28}{}{Пока, симулянт.}
-{Speech 29}{}{Так... Скушай вот этот порошок... И вот эту таблеточку... И запей водой. Всё. Готово, скоро отпустит.}
-{Speech 29 Answer Exit}{}{Спасибо!}
-{Speech 29 Answer Exit*}{}{900 монет...}
-{Speech 30}{}{Вот, выпей это.}
-{Speech 30 Answer Exit}{}{Спасибо!}
-{Speech 31}{}{Давай сделаем укольчик... Готово.}
-{Speech 32}{}{Видишь, стоит симпатичная девушка? Это Франческа. Ступай к ней, она тебя перевяжет.}
-{Speech 32 Answer Exit}{}{Спасибо!}
-{Speech 32 Answer 33}{}{Дока, а сколько ты брать золота?}
-{Speech 33}{}{Нисколько, мы не берём с нуждающихся.}
-{Speech 34}{}{У, это серьёзно. Пройди вон в ту комнатку, обратись к моей помощнице Рейчел. Она вставит всё как было.}
-{Speech 34 Answer Exit}{}{Спасибо!}
-{Speech 34 Answer 33}{}{Дока, а сколько ты брать золота?}
-{Speech 35}{}{Извини, мою помощницу убили, я не могу тебе сейчас помочь. Надо подождать, пока она вернётся. Ух, как быстро меняется время... Вернётся с того света. Лет пять назад меня бы дико напугала подобная фраза. Так вот. Извини.}
-{Speech 35 Answer 9}{}{Доктор, продайте хотя бы обезболивающего...}
-{Speech 35 Answer 9*}{}{Дока, продавать хоть порошки...}
-{Speech 35 Answer Exit}{}{О, чёрт. Ну, будем надеяться, что она придёт скоро.}
-{Speech 35 Answer Exit*}{}{Моя уходить к шаман!}
-{Speech 35 Answer 36}{}{Ну спасибо, доктор. Пока она вернётся, я сам@sex@||а| уже отправлюсь туда...}
-{Speech 36}{}{В каньоне к западу отсюда живёт шаман... Рекомендую.}
+{Speech 26}{}{Mmm, what's wrong, my dear?}
+{Speech 26 Answer 34}{}{Arm.}
+{Speech 26 Answer 34*}{}{Arms...}
+{Speech 26 Answer 34**}{}{Leg.}
+{Speech 26 Answer 34***}{}{Legs...}
+{Speech 26 Answer 34****}{}{Eye.}
+{Speech 26 Answer 30}{}{Me feel sick... From scorpion.}
+{Speech 26 Answer 31}{}{Me jump in green puddle... Now no hair and skin coming off.}
+{Speech 26 Answer 27}{}{Doc, me eat lots powder and breathe to get stronger, now me have nothing, and want to scratch out own eyes...}
+{Speech 26 Answer 32}{}{I'm all covered in blood.}
+{Speech 26 Answer 25}{}{Nothing! Hee-hee.}
+{Speech 27}{}{Mmm. I'm ashamed to ask you this, but to heal you I'll need to spend 900 coins on medicine. And you have to pay it yourself.}
+{Speech 27 Answer 28}{}{What?! Have you lost your mind, you old codger?}
+{Speech 27 Answer Exit}{}{Doc, too much. Me come back later.}
+{Speech 27 Answer 29}{}{Ugh. Fine!}
+{Speech 27 Answer Exit*}{}{Nah. Easier for me to just gorge myself again.}
+{Speech 28}{}{Bye, faker.}
+{Speech 29}{}{So... Eat this powder... And this little pill... And wash it down with water. There. Done, it'll ease up soon.}
+{Speech 29 Answer Exit}{}{Thanks!}
+{Speech 29 Answer Exit*}{}{900 coins...}
+{Speech 30}{}{Here, drink this.}
+{Speech 30 Answer Exit}{}{Thanks!}
+{Speech 31}{}{Let's give you a little shot... Done.}
+{Speech 32}{}{See that pretty girl standing there? That's Francesca. Go to her, she'll bandage you up.}
+{Speech 32 Answer Exit}{}{Thanks!}
+{Speech 32 Answer 33}{}{Doc, how much gold you take?}
+{Speech 33}{}{Nothing at all, we don't take money from those in need.}
+{Speech 34}{}{Ooh, that's serious. Go into that little room there, see my assistant Rachel. She'll put everything back the way it was.}
+{Speech 34 Answer Exit}{}{Thanks!}
+{Speech 34 Answer 33}{}{Doc, how much gold you take?}
+{Speech 35}{}{Sorry, my assistant was killed, I can't help you right now. We have to wait until she comes back. Ugh, how fast times change... She'll come back from the other world. Five years ago a phrase like that would have scared me to death. So, there it is. Sorry.}
+{Speech 35 Answer 9}{}{Doctor, at least sell me some painkillers...}
+{Speech 35 Answer 9*}{}{Doc, at least sell powders...}
+{Speech 35 Answer Exit}{}{Oh, damn. Well, let's hope she comes back soon.}
+{Speech 35 Answer Exit*}{}{Me go to shaman!}
+{Speech 35 Answer 36}{}{Well, thanks, doctor. By the time she comes back, I'll have already headed there myself...}
+{Speech 36}{}{In the canyon west of here lives a shaman... I recommend him.}

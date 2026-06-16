@@ -24,13 +24,13 @@ Speech 3 # Это место - мое и я, Вортис, веду честны
 {Speech 3 Answer Exit}{}{Как скажете. Я пойду.}
 
 [Text engl]
-{Name}{}{Vortes Вортис}
+{Name}{}{Vortes}
 {DescAliveShort}{}{You see a thin old guy with pen behind the ear, and goggles, hanging on the tip of his nose.}
 {DescAliveFull}{}{It's Vortes, slave-pen owner.}
 {DescAliveFull}{}{He's got almost three teeth. His fingers and shirt are completely covered with blue ink. There is highly faded slaver tatoo on his brow.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Итак, что ты хочешь?}
-{Speech 2 Answer 3}{}{Что это за место?}
-{Speech 3}{}{Это место - мое и я, Вортис, веду честный и законный бизнес, что бы ни рассказывали тебе в НКР. НКР не позволяет рабам находиться на своей территории, поэтому я представляю их как ребят, у которых есть там дела.}
-{Speech 3 Answer Exit}{}{Как скажете. Я пойду.}
+{Speech 2}{}{So, what do you want?}
+{Speech 2 Answer 3}{}{What is this place?}
+{Speech 3}{}{This place is mine, and I, Vortes, run an honest and lawful business, no matter what they tell you in the NCR. The NCR doesn't allow slaves on its territory, so I pass them off as fellows who have business there.}
+{Speech 3 Answer Exit}{}{As you say. I'll be going.}

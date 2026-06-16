@@ -32,10 +32,10 @@ Speech 3 # А ты дикарь не вздумай кушать своих по
 {DescAliveShort}{}{You see a skillful middle-aged hunter, wearing leather clothes.}
 {DescAliveFull}{}{This is Smiley, probably the best gecko hunter around.}
 {DescAliveFull}{}{This is Smiley, the best gecko hunter. He has a limp in his left leg, but seems to be a tough guy.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{тупой}
-{Speech 2}{}{И пожалуста не потеряйте друг друга по дороге и не заблудитесь.\nДержитесь вместе. Пусть один отвлекает ящеров пока другие их расстреливают. Стреляйте только если рядом нет своих - а то друг друга еще поубиваете. Бейте все вместе одного ящера - не распыляйтесь. Не давайте себя окружить. Отступайте если сильно ранены. Во время битвы незабывайте лечить друг друга.}
-{Speech 2 Answer Exit}{}{Спасибо Смайли!}
-{Speech 2 Answer 3}{}{Мы идем убивать! Агрррр!!}
-{Speech 3}{}{И пожалуста не потеряйте друг друга по дороге и не заблудитесь.\nДержитесь вместе. Пусть один отвлекает ящеров пока другие их расстреливают. Стреляйте только если рядом нет своих - а то друг друга еще поубиваете. Бейте все вместе одного ящера - не распыляйтесь. Не давайте себя окружить. Отступайте если сильно ранены. Во время битвы незабывайте лечить друг друга. Ну в общем удачи вам...}
-{Speech 3 Answer Exit}{}{Угумс...}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{warning}
+{Speech 2}{}{And please don't lose each other on the way and don't get lost.\nStick together. Let one of you distract the lizards while the others shoot them. Only fire when none of your own are nearby - or you'll end up killing each other. Gang up on one lizard at a time - don't spread your fire. Don't let yourselves get surrounded. Fall back if you're badly wounded. During the fight, don't forget to heal each other.}
+{Speech 2 Answer Exit}{}{Thanks, Smiley!}
+{Speech 2 Answer 3}{}{We're going to kill! Arrrgh!!}
+{Speech 3}{}{And please don't lose each other on the way and don't get lost.\nStick together. Let one of you distract the lizards while the others shoot them. Only fire when none of your own are nearby - or you'll end up killing each other. Gang up on one lizard at a time - don't spread your fire. Don't let yourselves get surrounded. Fall back if you're badly wounded. During the fight, don't forget to heal each other. Well, good luck to you...}
+{Speech 3 Answer Exit}{}{Uh-huh...}

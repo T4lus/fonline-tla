@@ -66,23 +66,23 @@ Speech 8 # Хех... Я бы не советовал соваться туда, 
 {DescAliveFull}{}{You see Hank, glowing ghoul. He works here, on the power plant.}
 {DescAliveFull}{}{You see a glowing ghoul, looking on some control panel gauges.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Игрок не знает имя}
-{Speech 1 Answer 3}{}{Обычное начало}
+{Speech 1 Answer 2}{}{Player doesn't know the name}
+{Speech 1 Answer 3}{}{Normal start}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 5}{}{Где тут Фестус?}
-{Speech 2 Answer 8}{}{Привет, Хэнк. Можно как нибудь попасть внутрь Сердца реактора?}
-{Speech 2 Answer Exit}{}{Привет, Хэнк. Я просто прогуливаюсь здесь. Пока.}
-{Speech 3}{}{Привет, здорово, что ты опять @sex@ |пришел||пришла|. А я тут уже почти совсем зажарился. И никого это не волнует.}
-{Speech 3 Answer 5}{}{Где тут Фестус?}
-{Speech 3 Answer 8}{}{Привет, Хэнк. Можно как нибудь попасть внутрь Сердца реактора?}
-{Speech 3 Answer Exit}{}{Привет, Хэнк. Я просто прогуливаюсь здесь. Пока.}
-{Speech 4}{}{Да, те, кто построили все здесь, тоже не хотели зажариться, а потому они сделали и робота. Он был предназначен выполнять ремонтные задачи с удаленным контролем с терминала, который находится в комнате в сторону запада.}
-{Speech 4 Answer Exit}{}{Отлично. Это можно как-нибудь использовать.}
-{Speech 4 Answer Exit*}{}{Мне надо это проверить. Пока.}
-{Speech 5}{}{Фестус не там, куда ты направляешься. Он в комнате управления. Мимо него ты точно не пройдешь... От него кошмарно пахнет. Он наверняка сможет помочь.}
-{Speech 5 Answer Exit}{}{Спасибо. Пока.}
-{Speech 6}{}{Мурлычет, как котенок.@@Работает лучше, чем когда-либо.@@Здесь не уменьшилась температура за последнее время?}
+{Speech 2 Answer 5}{}{Where's Festus around here?}
+{Speech 2 Answer 8}{}{Hi, Hank. Is there any way to get inside the Reactor Heart?}
+{Speech 2 Answer Exit}{}{Hi, Hank. I'm just strolling around here. Bye.}
+{Speech 3}{}{Hi, good to see you've @sex@ |come||come| again. And here I am almost completely fried. And nobody cares.}
+{Speech 3 Answer 5}{}{Where's Festus around here?}
+{Speech 3 Answer 8}{}{Hi, Hank. Is there any way to get inside the Reactor Heart?}
+{Speech 3 Answer Exit}{}{Hi, Hank. I'm just strolling around here. Bye.}
+{Speech 4}{}{Yeah, those who built everything here also didn't want to get fried, so they made a robot too. It was designed to perform repair tasks under remote control from a terminal that's in a room to the west.}
+{Speech 4 Answer Exit}{}{Excellent. This could be useful somehow.}
+{Speech 4 Answer Exit*}{}{I need to check this out. Bye.}
+{Speech 5}{}{Festus isn't where you're heading. He's in the control room. You definitely won't miss him... He smells awful. He'll surely be able to help.}
+{Speech 5 Answer Exit}{}{Thanks. Bye.}
+{Speech 6}{}{Purring like a kitten.@@Working better than ever.@@Hasn't the temperature dropped here lately?}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 8}{}{Хех... Я бы не советовал соваться туда, человек. Ты поджаришься до хрустящей корочки. Что касается меня, я люблю, когда жарковато, но я не советовал бы пробовать это тебе. Там довольно жарко и высокая радиация. Вот почему те, кто построил все это, также сделали ремонтный бот.}
-{Speech 8 Answer 4}{}{Ремонтный бот?}
-{Speech 8 Answer Exit}{}{О, спасибо. До свидания.}
+{Speech 8}{}{Heh... I wouldn't advise poking around in there, human. You'll fry to a crisp. As for me, I like it when it's a bit hot, but I wouldn't advise you to try it. It's pretty hot in there and high radiation. That's why those who built all this also made a repair bot.}
+{Speech 8 Answer 4}{}{A repair bot?}
+{Speech 8 Answer Exit}{}{Oh, thanks. Goodbye.}

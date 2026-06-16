@@ -25,5 +25,5 @@ Speech 2 # Поговори с Мистером Вортисом, не со мн
 {DescAliveFull}{}{There's slaver tatoo on his forehead, and it doesn't make him look smarter.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Поговори с Мистером Вортисом, не со мной.@@Есть вопросы? Поговори с Вортисом.}
-{Speech 2 Answer Exit}{}{Окей.}
+{Speech 2}{}{Talk to Mister Vortis, not to me.@@Got questions? Talk to Vortis.}
+{Speech 2 Answer Exit}{}{Okay.}

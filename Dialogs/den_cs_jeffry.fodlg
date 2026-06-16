@@ -227,8 +227,8 @@ Speech 17 # У меня нет времени на пустые разговор
 {Speech 11 Answer 12*}{}{Uh-h... They resisted not too long. Here's the tape recorder.}
 {Speech 11 Answer 13}{}{I've managed with them, but I haven't found the tape recorder yet.}
 {Speech 11 Answer 13*}{}{I've managed with them, but I haven't found the tape recorder yet.}
-{Speech 11 Answer 12**}{}{Да, я просто спёр его. Они даже ничего не заметили.}
-{Speech 11 Answer 12***}{}{Да, в прямом смысле наш@sex@|ёл|ла|, они его на земле бросили. Ну и я схватил@sex@||а|, пока никто не видит.}
+{Speech 11 Answer 12**}{}{Yeah, I just stole it. They didn't even notice a thing.}
+{Speech 11 Answer 12***}{}{Yeah, I literally found it, they'd dropped it on the ground. So I grabbed it while nobody was looking.}
 {Speech 11 Answer 13**}{}{I was just hanging around...}
 {Speech 12}{}{Excellent! [Takes the tape recorder] Those pricks scratched it. Here are some coins from me. Come again if you want.}
 {Speech 12 Answer 10}{}{Thanks for coins, I'll make a good use of them. Let me ask you more.}

@@ -306,97 +306,97 @@ Speech 33 # Хррррррррр! Ик! Ик!
 {Name}{}{Bob}
 {DescAliveShort}{}{You see an old man with thin face and big thin nose.}
 {DescAliveFull}{}{You see Whisky Bob.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{тупица}
-{Speech 1 Answer 4}{}{не знаком}
-{Speech 1 Answer 6}{}{знаком}
-{Speech 2}{}{@sex@|Привет, меня зовут Виски Боб. А тебя как, приятель?|Ну что за симпатяжка. Меня зовут Виски Боб, а вас как?|}
-{Speech 2 Answer 3}{}{Виски Гоб?}
-{Speech 2 Answer 3*}{}{Блестящий нос (хе, хе)}
-{Speech 2 Answer 3**}{}{Я @pname@}
-{Speech 2 Answer Exit}{}{[Уходить]}
-{Speech 3}{}{@sex@|Вы не самый острый нож в кухонном наборе, не так ли? Но все равно было приятно с вами побеседовать. До скорого.|Милая, ты разбиваешь мое сердце каждый раз, когда ты открываешь свой ротик. Может, в другое время я смогу тебя взять с собой в город охотников и показать тебе мои гравюры (хе, хе). Бай, милая.|}
-{Speech 4}{}{Привет, незнакомец, мое имя Виски Боб. А как ваше?}
-{Speech 4 Answer 14}{}{Боб Привет! Я за партией выпивки. Есть в наличии?}
-{Speech 4 Answer 17}{}{Боб Привет! Я за партией выпивки. Есть в наличии?}
-{Speech 4 Answer 5}{}{Мое имя @pname@}
-{Speech 4 Answer 5*}{}{@pname@. Очень приятно, Виски Боб.}
-{Speech 4 Answer 5**}{}{Я @pname@. Что здесь происходит в городе?}
-{Speech 4 Answer 8}{}{Не думаю, что вам нужно знать мое имя.}
-{Speech 5}{}{Всегда приятно найти себе приятеля, чтобы с ним выпить. Не хочешь угостить меня выпивкой? От разговоров у меня всегда горло пересыхает.}
-{Speech 5 Answer 7}{}{Конечно, Боб. Не возражаю.}
-{Speech 5 Answer 8}{}{Не могу это сейчас себе позволить.}
-{Speech 5 Answer 9}{}{Не хочу я вам выпивку покупать, Виски Боб.}
-{Speech 5 Answer Exit}{}{С таким прозвищем как у тебя, уже самому надо производить выпивку.}
-{Speech 6}{}{@sex@|Привет, приятель. Опять вернулся к Виски Бобу?|Привет, красавица. Xочешь поговорить с Виски Бобом о выпивке и работе? Xочешь, садись на мою коленку. (хе хе) Шучу.|}
-{Speech 6 Answer 22}{}{Привет Боб, не желаешь немного оттянуться, выпить как следует?}
-{Speech 6 Answer 14}{}{Боб Привет! Я за партией выпивки. Есть в наличии?}
-{Speech 6 Answer 17}{}{Боб Привет! Я за партией выпивки. Есть в наличии?}
-{Speech 6 Answer 20}{}{Вот твоя кристальная вода, 20 фляг.}
-{Speech 6 Answer 21}{}{Можно купить десяток вашего знаменитого пива?}
-{Speech 6 Answer 5}{}{Конечно, Боб, расскажи мне о напитках и работе.}
-{Speech 6 Answer 8}{}{Мне в последне время слишком часто говорят о выпивке и работе.}
-{Speech 7}{}{Спасибо за выпивку. А теперь, когда я промочил горло, думаю, мы можем поговорить.}
-{Speech 7 Answer 10}{}{С таким прозвищем как у тебя, уже самому надо производить выпивку.}
-{Speech 7 Answer 12}{}{Расскажите что творится в городе?}
-{Speech 7 Answer 8}{}{Нет, я сейчас очень занят@sex@||а|.}
-{Speech 8}{}{Ну,@sex@|мистер,|| может потом и увидимся. Пока.}
-{Speech 9}{}{Если вы не хотите со мной выпить, то вам лучше убраться отсюда.}
-{Speech 10}{}{Как вы узнали... а вообщем-то, об этом наверное все знают. Моя выпивка известна по всей округе}
-{Speech 10 Answer 11}{}{У вас тут свой бизнес, значит дело неплохо поставлено?}
-{Speech 10 Answer 12}{}{Это интересно. Расскажите мне, что происходит в городе в последнее время?}
-{Speech 10 Answer Exit}{}{Пожалуй мне пора.}
-{Speech 11}{}{Ничего такого, но я своих секретов никому не выдаю. Конкуренты повсюду.}
-{Speech 11 Answer 11}{}{Буду иметь это в виду. Расскажите что в городе происходит?}
-{Speech 11 Answer Exit}{}{Это все что мне надо было знать. Прощайте.}
-{Speech 12}{}{Некоторое время назад у нас было много проблем, но сейчас все в порядке. С тех пор, как нашелся охотник Смайли, он занимается выделкой всяких вещей из шкур. У меня дела идут в гору, недавно придумал особый рецепт пива Золотое гекко. Можешь попробовать его в баре Золотое гекко. Хе-хе, вот такой каламбурчик.}
-{Speech 12 Answer 13}{}{[Далее.]}
-{Speech 13}{}{Держись подальше от шайки Дантонов, они имеют довольно мутную репутацию. Те еще проходимцы. Несколько раз пытались урвать кусок от моего бизнеса, но я им не дался.}
-{Speech 13 Answer Exit}{}{Спасибо за информацию. Еще увидимся!}
-{Speech 14}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 14 Answer 16}{}{Конечно, вот деньги.}
-{Speech 14 Answer 15}{}{Кажется у меня нет таких денег.}
-{Speech 14 Answer Exit}{}{Я позже приду за самогоном.}
-{Speech 15}{}{Нет денег - нет товара.}
-{Speech 16}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 17}{}{Как не прискорбно это говорить, но в данный момент я нуждаюсь в свежей кристальной воде, чтобы произвести хоть сколько-нибудь алкоголя.}
-{Speech 17 Answer 18}{}{И чего где можно достать эту... воду?}
-{Speech 17 Answer Exit}{}{Точно, я же как раз этим занимаюсь.}
-{Speech 17 Answer 20}{}{Ну вода это не проблема. Держи, как и обещал 20 фляг.}
-{Speech 18}{}{Обычно я покупал такую воду в Арройо, но сейчас у них с этим проблемы и ближайшее место, где ее можно достать - Город Убежище.}
-{Speech 18 Answer 19}{}{Я посмотрю что можно сделать. Сколько такой воды тебе нужно?}
-{Speech 19}{}{Около 20 фляг. Если достанешь, я тебе заплачу монетами.}
-{Speech 19 Answer Exit}{}{Я посмотрю что можно сделать. }
-{Speech 19 Answer Exit*}{}{Мне это не интересно}
-{Speech 20}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 21}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 21 Answer 16}{}{Я беру.}
-{Speech 21 Answer 15}{}{У меня не хватает денег.}
-{Speech 21 Answer Exit}{}{Стоит придти попозже.}
-{Speech 22}{}{Выпить? Конечно, это можно.}
-{Speech 22 Answer 23}{}{Тогда чего ждать, наливаем! [Вы тратите 10 монет.] Как у вас идут дела, Боб?}
-{Speech 22 Answer 24}{}{Ой кажется у меня кончились деньги.}
-{Speech 23}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 23 Answer 25}{}{Хорошо, тогда выпьем еще. [Вы тратите 10 монет.] Многим вы поставляете свою выпивку?}
-{Speech 23 Answer 24}{}{Кажется у меня кончились деньги.}
-{Speech 24}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 25}{}{Я поставляю спиртное только в бар "Золотое Гекко". И вы знаете, оно там очень популярно.}
-{Speech 25 Answer 26}{}{И чем вы объясняете такую популярность своей выпивки?}
-{Speech 25 Answer 27}{}{И чем вы объясняете такую популярность своей выпивки?}
-{Speech 25 Answer 24}{}{Кажется у меня кончились деньги.}
-{Speech 26}{}{Честно говоря я не очень вам доверяю, чтобы рассказывать такие вещи.}
-{Speech 26 Answer 30}{}{Извините. Может выпьем что-нибудь покрепче? Вот например есть хороший коктейль. [Вы тратите 50 монет.]}
-{Speech 26 Answer 24}{}{Кажется у меня кончились деньги.}
-{Speech 27}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 27 Answer 28}{}{Понятно, а почему она такая дешевая?}
-{Speech 28}{}{Это я вам могу сказать, друзьям я доверяю. Так вот, в процессе производства я использую добавление небольшого количества соли. Это значительно понижает потребление необходимых ингредиентов, а соответственно снижает цену на производство...}
-{Speech 28 Answer 29}{}{Все понятно, ладно мне уже пора бежать. До свидания!}
-{Speech 29}{}{Эй ты куда? Ну да ладно, потом увидимся.}
-{Speech 30}{}{Ч-черт... ик!.. хорр-рошая ш... штука! [Кажется у Боба уже стал заплетаться язык.]}
-{Speech 30 Answer 31}{}{Повторим? [Вы тратите 50 монет на коктейль.]}
-{Speech 30 Answer 24}{}{Кажется у меня кончились деньги.}
-{Speech 31}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 31 Answer 32}{}{Вы что-то говорили о вашем секретном ингридиенте.}
-{Speech 32}{}{Ахххх... да... С...со... соль. Мой сек-рретный инг... ингр... нт. Ик! Она силь.. но уменьшшш... ет зат.. ра. [На это месте Боб падает навзничь.]}
-{Speech 32 Answer 33}{}{Спасибо что уделили мне минуту внимания, Боб.}
-{Speech 33}{}{Хррррррррр! Ик! Ик!}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 2}{}{dimwit}
+{Speech 1 Answer 4}{}{not acquainted}
+{Speech 1 Answer 6}{}{acquainted}
+{Speech 2}{}{@sex@|Hi, my name's Whisky Bob. And what's yours, buddy?|Well, what a cutie. My name's Whisky Bob, and yours?|}
+{Speech 2 Answer 3}{}{Whisky Gob?}
+{Speech 2 Answer 3*}{}{Shiny nose (heh, heh)}
+{Speech 2 Answer 3**}{}{I'm @pname@}
+{Speech 2 Answer Exit}{}{[Leave]}
+{Speech 3}{}{@sex@|You're not the sharpest knife in the kitchen set, are you? But it was nice talking to you anyway. See you soon.|Sweetie, you break my heart every time you open that little mouth of yours. Maybe some other time I can take you with me to the hunters' town and show you my etchings (heh, heh). Bye, sweetie.|}
+{Speech 4}{}{Hi there, stranger, my name's Whisky Bob. And what's yours?}
+{Speech 4 Answer 14}{}{Hey Bob! I'm here for a batch of booze. Got any in stock?}
+{Speech 4 Answer 17}{}{Hey Bob! I'm here for a batch of booze. Got any in stock?}
+{Speech 4 Answer 5}{}{My name is @pname@}
+{Speech 4 Answer 5*}{}{@pname@. Pleased to meet you, Whisky Bob.}
+{Speech 4 Answer 5**}{}{I'm @pname@. What's going on here in town?}
+{Speech 4 Answer 8}{}{I don't think you need to know my name.}
+{Speech 5}{}{It's always nice to find a buddy to drink with. Won't you treat me to a drink? My throat always gets dry from all the talking.}
+{Speech 5 Answer 7}{}{Sure, Bob. I don't mind.}
+{Speech 5 Answer 8}{}{I can't afford that right now.}
+{Speech 5 Answer 9}{}{I don't want to buy you a drink, Whisky Bob.}
+{Speech 5 Answer Exit}{}{With a nickname like yours, you ought to be making your own booze already.}
+{Speech 6}{}{@sex@|Hi, buddy. Back to Whisky Bob again?|Hi, beautiful. Want to talk to Whisky Bob about booze and work? If you like, have a seat on my lap. (heh heh) Just kidding.|}
+{Speech 6 Answer 22}{}{Hi Bob, fancy kicking back a bit, having a proper drink?}
+{Speech 6 Answer 14}{}{Hey Bob! I'm here for a batch of booze. Got any in stock?}
+{Speech 6 Answer 17}{}{Hey Bob! I'm here for a batch of booze. Got any in stock?}
+{Speech 6 Answer 20}{}{Here's your crystal water, 20 flasks.}
+{Speech 6 Answer 21}{}{Can I buy ten of your famous beers?}
+{Speech 6 Answer 5}{}{Sure, Bob, tell me about the drinks and the work.}
+{Speech 6 Answer 8}{}{Lately people talk to me about booze and work way too often.}
+{Speech 7}{}{Thanks for the drink. And now that I've wet my throat, I think we can talk.}
+{Speech 7 Answer 10}{}{With a nickname like yours, you ought to be making your own booze already.}
+{Speech 7 Answer 12}{}{Tell me what's going on in town?}
+{Speech 7 Answer 8}{}{No, I'm very busy right now.}
+{Speech 8}{}{Well,@sex@|mister,|| maybe we'll see each other later. Bye.}
+{Speech 9}{}{If you don't want to drink with me, then you'd better get out of here.}
+{Speech 10}{}{How did you know... well, everyone probably knows about it anyway. My booze is known all over the area}
+{Speech 10 Answer 11}{}{You've got your own business here, so things must be going well?}
+{Speech 10 Answer 12}{}{That's interesting. Tell me, what's been happening in town lately?}
+{Speech 10 Answer Exit}{}{I think it's time for me to go.}
+{Speech 11}{}{Nothing like that, but I don't give my secrets away to anyone. Competitors everywhere.}
+{Speech 11 Answer 11}{}{I'll keep that in mind. Tell me what's going on in town?}
+{Speech 11 Answer Exit}{}{That's all I needed to know. Farewell.}
+{Speech 12}{}{A while back we had a lot of problems, but now everything's fine. Ever since the hunter Smiley turned up, he's been tanning all sorts of things out of hides. My business is on the rise, recently I came up with a special recipe for Golden Gecko beer. You can try it at the Golden Gecko bar. Heh-heh, there's a little pun for you.}
+{Speech 12 Answer 13}{}{[Next.]}
+{Speech 13}{}{Stay away from the Dunton gang, they've got a pretty shady reputation. Real swindlers, those ones. They tried to grab a piece of my business a few times, but I didn't give in to them.}
+{Speech 13 Answer Exit}{}{Thanks for the information. See you around!}
+{Speech 14}{}{Time:60000 No answer:Завершить диалог}
+{Speech 14 Answer 16}{}{Sure, here's the money.}
+{Speech 14 Answer 15}{}{I don't seem to have that kind of money.}
+{Speech 14 Answer Exit}{}{I'll come back for the moonshine later.}
+{Speech 15}{}{No money - no goods.}
+{Speech 16}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 17}{}{As sad as it is to say, at the moment I'm in need of fresh crystal water to produce even a little bit of alcohol.}
+{Speech 17 Answer 18}{}{And where can you get this... water?}
+{Speech 17 Answer Exit}{}{Right, that's exactly what I'm working on.}
+{Speech 17 Answer 20}{}{Well, water's no problem. Here, 20 flasks as promised.}
+{Speech 18}{}{I usually bought such water in Arroyo, but now they're having trouble with it and the nearest place where you can get it is Vault City.}
+{Speech 18 Answer 19}{}{I'll see what I can do. How much of this water do you need?}
+{Speech 19}{}{About 20 flasks. If you get them, I'll pay you in coins.}
+{Speech 19 Answer Exit}{}{I'll see what I can do. }
+{Speech 19 Answer Exit*}{}{I'm not interested in this}
+{Speech 20}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 21}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 21 Answer 16}{}{I'll take it.}
+{Speech 21 Answer 15}{}{I don't have enough money.}
+{Speech 21 Answer Exit}{}{I'd better come back later.}
+{Speech 22}{}{A drink? Sure, that can be done.}
+{Speech 22 Answer 23}{}{Then why wait, pour it! [You spend 10 coins.] How's business going, Bob?}
+{Speech 22 Answer 24}{}{Oops, seems I've run out of money.}
+{Speech 23}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 23 Answer 25}{}{All right, let's have another then. [You spend 10 coins.] Do you supply your booze to many?}
+{Speech 23 Answer 24}{}{Seems I've run out of money.}
+{Speech 24}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 25}{}{I only supply liquor to the "Golden Gecko" bar. And you know, it's very popular there.}
+{Speech 25 Answer 26}{}{And how do you explain the popularity of your booze?}
+{Speech 25 Answer 27}{}{And how do you explain the popularity of your booze?}
+{Speech 25 Answer 24}{}{Seems I've run out of money.}
+{Speech 26}{}{Honestly, I don't trust you enough to tell such things.}
+{Speech 26 Answer 30}{}{Sorry. Maybe we could drink something stronger? Here, for instance, there's a good cocktail. [You spend 50 coins.]}
+{Speech 26 Answer 24}{}{Seems I've run out of money.}
+{Speech 27}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 27 Answer 28}{}{I see, so why is it so cheap?}
+{Speech 28}{}{This I can tell you, I trust my friends. So then, in the production process I add a small amount of salt. This significantly lowers the consumption of necessary ingredients, and accordingly lowers the cost of production...}
+{Speech 28 Answer 29}{}{I see it all now, all right, I've got to run. Goodbye!}
+{Speech 29}{}{Hey, where are you going? Well, all right, see you later.}
+{Speech 30}{}{D-damn... hic!.. goo-ood s... stuff! [Seems Bob's tongue has started to slur.]}
+{Speech 30 Answer 31}{}{Another round? [You spend 50 coins on a cocktail.]}
+{Speech 30 Answer 24}{}{Seems I've run out of money.}
+{Speech 31}{}{Time:60000 No answer:Завершить диалог / Close dialog}
+{Speech 31 Answer 32}{}{You were saying something about your secret ingredient.}
+{Speech 32}{}{Ahhh... yeah... S...sa... salt. My sec-cret ing... ingr... nt. Hic! It great.. ly redu.. ces the cos.. ts. [At this point Bob falls flat on his back.]}
+{Speech 32 Answer 33}{}{Thanks for sparing me a minute of your attention, Bob.}
+{Speech 33}{}{Zzzzzzz! Hic! Hic!}

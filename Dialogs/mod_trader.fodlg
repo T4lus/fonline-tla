@@ -29,8 +29,8 @@ Speech 9 # Кажется, ситуация здесь налаживается.
 {DescAliveShort}{}{You see a trader.}
 {DescAliveFull}{}{You see a trader.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 2}{}{Роза готовит лучший омлет на свете.@@Тсс... Держись подальше от брамин-фри.@@Я захожу к Розе каждый раз, когда выдается возможность.@@Тебе еще не приходилось пробовать омлет Розы?}
-{Speech 4}{}{Ты не возражаешь? Я пытаюсь заснуть.@@Эй, что ты делаешь в моей комнате?!@@Вон!}
-{Speech 7}{}{Говорят, Модок "приобрел" процветающую ферму к северо-востоку отсюда.@@Не знаю, насколько мне хочется закупать еду, выращенную на Ферме ужасов.Посевы на Ферме ужасов наверняка прокляты.}
-{Speech 9}{}{Кажется, ситуация здесь налаживается.@@Наверное, мне стоит нанять еще людей, чтобы вывезти отсюда продовольствие.@@Кажется, в Модоке в конце концов все будет хорошо.}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 2}{}{Rosa makes the best omelet in the world.@@Psst... Stay away from the brahmin fries.@@I drop by Rosa's every chance I get.@@You haven't tried Rosa's omelet yet?}
+{Speech 4}{}{Do you mind? I'm trying to get some sleep.@@Hey, what are you doing in my room?!@@Get out!}
+{Speech 7}{}{They say Modoc "acquired" a thriving farm to the northeast of here.@@I don't know how much I want to buy food grown on the Farm of Horrors. The crops at the Farm of Horrors are surely cursed.}
+{Speech 9}{}{Looks like things are getting better around here.@@Maybe I should hire some more people to haul the food out of here.@@Looks like everything will turn out fine in Modoc after all.}

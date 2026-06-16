@@ -156,57 +156,57 @@ Speech 17 # Мне некогда, уходите.
 {Name}{}{error}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 1 Answer 17}{}{низкий инт}
-{Speech 2}{}{Чем могу помочь?}
-{Speech 2 Answer Exit}{}{Извините, не тот кабинет.}
-{Speech 2 Answer 3}{}{Вы - начальник таможни?}
-{Speech 2 Answer 4}{}{Мне нужно провести груз джета в НКР, вы мне можете помочь, за разумную плату?}
-{Speech 2 Answer 5}{}{Вы не могли бы ответить на несколько вопросов о НКР?}
-{Speech 2 Answer 6}{}{Вы не могли бы ответить на несколько вопросов о НКР?}
-{Speech 3}{}{Удивительная проницательность. Учитывая табличку на двери, разумеется. Да, я Гюнтер, начальник таможни.}
-{Speech 3 Answer 5}{}{Вы не могли бы ответить на несколько вопросов о НКР?}
-{Speech 3 Answer 6}{}{Вы не могли бы ответить на несколько вопросов о НКР?}
-{Speech 4}{}{Это просто верх наглости! Охрана! Арестуйте этого преступника.}
-{Speech 5}{}{У меня нет на это времени. Поговорите с капитаном таможни на входе в город.}
-{Speech 5 Answer Exit}{}{Я вас понял@sex@||а|. [Уйти]}
-{Speech 6}{}{Что вы хотели узнать?}
-{Speech 6 Answer Exit}{}{Пожалуй, я задам свои вопросы в другой раз. Прощайте. [Уйти]}
-{Speech 6 Answer 7}{}{Для чего служит это здание?}
-{Speech 6 Answer 8}{}{Почему в городе так много военных?}
-{Speech 6 Answer 9}{}{Для чего в НКР таможня?}
-{Speech 6 Answer 10}{}{Кто такой Шейман?}
-{Speech 7}{}{Это бывшее здание Конгресса НКР. В настоящее время здесь расположен штаб Армии НКР во главе с генералом Шейманом.}
-{Speech 7 Answer Exit}{}{Пожалуй, я задам свои вопросы в другой раз. Прощайте. [Уйти]}
-{Speech 7 Answer 8}{}{Почему в городе так много военных?}
-{Speech 7 Answer 9}{}{Для чего в НКР таможня?}
-{Speech 7 Answer 10}{}{Кто такой Шейман?}
-{Speech 8}{}{В городе введен режим военного времени. Каждые сутки наступает комендантский час. Не советую находиться на улицах города после захода солнца.}
-{Speech 8 Answer Exit}{}{Пожалуй, я задам свои вопросы в другой раз. Прощайте. [Уйти]}
-{Speech 8 Answer 7}{}{Для чего служит это здание?}
-{Speech 8 Answer 8}{}{Почему в городе так много военных?}
-{Speech 8 Answer 9}{}{Для чего в НКР таможня?}
-{Speech 9}{}{Шейман пополняет армию НКР. Постоянно ведется набор рекрутов. На Базаре собралось множество бездельников и лоботрясов, мечтающих попасть в армию, лишь бы не работать.}
-{Speech 9 Answer Exit}{}{Пожалуй, я задам свои вопросы в другой раз. Прощайте. [Уйти]}
-{Speech 9 Answer 7}{}{Для чего служит это здание?}
-{Speech 9 Answer 10}{}{Кто такой Шейман?}
-{Speech 9 Answer 11}{}{Мне показалось, или вы  действительно не одобряете действия Шеймана?}
-{Speech 10}{}{Генерал Шейман де-факто является правителем НКР. Он объявил о вводе режима военного времени в столице и захватил всю власть в свои руки.}
-{Speech 10 Answer Exit}{}{Пожалуй, я задам свои вопросы в другой раз. Прощайте. [Уйти]}
-{Speech 10 Answer 7}{}{Для чего служит это здание?}
-{Speech 10 Answer 8}{}{Почему в городе так много военных?}
-{Speech 10 Answer 9}{}{Для чего в НКР таможня?}
-{Speech 10 Answer 11}{}{Мне показалось, или вы  действительно не одобряете действия Шеймана?}
-{Speech 11}{}{[Гюнтер оглядывается, и понижает голос] А вы одобрили бы военный переворот?}
-{Speech 11 Answer 12}{}{Вы хотите сказать...}
-{Speech 12}{}{Я ничего не хочу сказать. У меня есть факты. Президент Карлсон больше не имеет реальной власти в НКР. Конгресс перестал существовать. Есть, разумеется, приспособленцы, вроде Вейстина, поддержавшие режим Шеймана, но я не из таких!}
-{Speech 12 Answer 13}{}{А почему тогда вы занимаете этот пост? Вы тоже приспособленец?}
-{Speech 13}{}{Я не теряю надежды изменить ситуацию к лучшему. Шейман мне не доверяет, но я пока не давал ему видимых поводов усомниться в моей преданности Республике.}
-{Speech 13 Answer 14}{}{Что вы задумали?}
-{Speech 14}{}{Пока рано об этом говорить. Но многие люди, которые еще помнят Танди, и помнят то, какой была Республика в прошлом, недовольным положением вещей в столице.}
-{Speech 14 Answer 15}{}{Вы замышляете бунт? Еще один переворот?}
-{Speech 15}{}{Пока армия, гвардия и рейнджеры находятся под влиянием Шеймана, мы не можем даже думать о перевороте. Мы ищем поддержки у сильных мира сего в других регионах Калифорнии.}
-{Speech 15 Answer 16}{}{Братство стали? Хабологи?}
-{Speech 16}{}{Я и так сказал слишком много. Прошу покинуть мой кабинет.}
-{Speech 16 Answer Exit}{}{Вы можете не беспокоиться насчет меня, Гюнтер. Я буду молчать. [Уйти]}
-{Speech 16 Answer Exit*}{}{Вы можете не беспокоиться насчет меня, Гюнтер. Я буду молчать. [Уйти]}
-{Speech 17}{}{Мне некогда, уходите.}
+{Speech 1 Answer 17}{}{low int}
+{Speech 2}{}{What can I do for you?}
+{Speech 2 Answer Exit}{}{Sorry, wrong office.}
+{Speech 2 Answer 3}{}{Are you the head of the customs office?}
+{Speech 2 Answer 4}{}{I need to move a shipment of Jet into the NCR, can you help me, for a reasonable fee?}
+{Speech 2 Answer 5}{}{Could you answer a few questions about the NCR?}
+{Speech 2 Answer 6}{}{Could you answer a few questions about the NCR?}
+{Speech 3}{}{Remarkable perceptiveness. Considering the sign on the door, of course. Yes, I'm Gunter, the head of the customs office.}
+{Speech 3 Answer 5}{}{Could you answer a few questions about the NCR?}
+{Speech 3 Answer 6}{}{Could you answer a few questions about the NCR?}
+{Speech 4}{}{This is the height of insolence! Guards! Arrest this criminal.}
+{Speech 5}{}{I don't have time for this. Talk to the customs captain at the city entrance.}
+{Speech 5 Answer Exit}{}{I understand@sex@||. [Leave]}
+{Speech 6}{}{What would you like to know?}
+{Speech 6 Answer Exit}{}{I think I'll ask my questions another time. Farewell. [Leave]}
+{Speech 6 Answer 7}{}{What is this building used for?}
+{Speech 6 Answer 8}{}{Why are there so many soldiers in the city?}
+{Speech 6 Answer 9}{}{What is the customs office for in the NCR?}
+{Speech 6 Answer 10}{}{Who is Shaiman?}
+{Speech 7}{}{This is the former NCR Congress building. At present it houses the headquarters of the NCR Army, led by General Shaiman.}
+{Speech 7 Answer Exit}{}{I think I'll ask my questions another time. Farewell. [Leave]}
+{Speech 7 Answer 8}{}{Why are there so many soldiers in the city?}
+{Speech 7 Answer 9}{}{What is the customs office for in the NCR?}
+{Speech 7 Answer 10}{}{Who is Shaiman?}
+{Speech 8}{}{The city is under a state of martial law. A curfew comes into effect every night. I'd advise against being out on the city streets after sundown.}
+{Speech 8 Answer Exit}{}{I think I'll ask my questions another time. Farewell. [Leave]}
+{Speech 8 Answer 7}{}{What is this building used for?}
+{Speech 8 Answer 8}{}{Why are there so many soldiers in the city?}
+{Speech 8 Answer 9}{}{What is the customs office for in the NCR?}
+{Speech 9}{}{Shaiman is reinforcing the NCR army. Recruitment is constantly underway. The Bazaar is full of idlers and loafers dreaming of getting into the army, just so they won't have to work.}
+{Speech 9 Answer Exit}{}{I think I'll ask my questions another time. Farewell. [Leave]}
+{Speech 9 Answer 7}{}{What is this building used for?}
+{Speech 9 Answer 10}{}{Who is Shaiman?}
+{Speech 9 Answer 11}{}{Maybe I'm imagining it, or do you really not approve of Shaiman's actions?}
+{Speech 10}{}{General Shaiman is the de facto ruler of the NCR. He declared a state of martial law in the capital and seized all power into his own hands.}
+{Speech 10 Answer Exit}{}{I think I'll ask my questions another time. Farewell. [Leave]}
+{Speech 10 Answer 7}{}{What is this building used for?}
+{Speech 10 Answer 8}{}{Why are there so many soldiers in the city?}
+{Speech 10 Answer 9}{}{What is the customs office for in the NCR?}
+{Speech 10 Answer 11}{}{Maybe I'm imagining it, or do you really not approve of Shaiman's actions?}
+{Speech 11}{}{[Gunter glances around and lowers his voice] And would you approve of a military coup?}
+{Speech 11 Answer 12}{}{You mean to say...}
+{Speech 12}{}{I don't mean to say anything. I have facts. President Carlson no longer holds any real power in the NCR. Congress has ceased to exist. There are, of course, opportunists, like Westin, who supported Shaiman's regime, but I'm not one of them!}
+{Speech 12 Answer 13}{}{Then why do you hold this post? Are you an opportunist too?}
+{Speech 13}{}{I haven't given up hope of changing the situation for the better. Shaiman doesn't trust me, but so far I haven't given him any visible reason to doubt my loyalty to the Republic.}
+{Speech 13 Answer 14}{}{What are you planning?}
+{Speech 14}{}{It's too early to talk about that. But many people who still remember Tandi, and remember what the Republic was like in the past, are dissatisfied with the state of things in the capital.}
+{Speech 14 Answer 15}{}{Are you plotting a revolt? Another coup?}
+{Speech 15}{}{As long as the army, the guard, and the rangers are under Shaiman's influence, we can't even think about a coup. We're seeking support from the powers that be in other regions of California.}
+{Speech 15 Answer 16}{}{The Brotherhood of Steel? The Hubologists?}
+{Speech 16}{}{I've already said too much. Please leave my office.}
+{Speech 16 Answer Exit}{}{You needn't worry about me, Gunter. I'll keep quiet. [Leave]}
+{Speech 16 Answer Exit*}{}{You needn't worry about me, Gunter. I'll keep quiet. [Leave]}
+{Speech 17}{}{I have no time, leave.}

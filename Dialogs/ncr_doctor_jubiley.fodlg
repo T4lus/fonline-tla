@@ -275,20 +275,20 @@ Speech 21 # Хорошо, посмотрим.
 {DescAliveFull}{}{It's doctor Jubilee.}
 {DescAliveFull}{}{It's an old man with hair white as snow and slightly purblind eyes.}
 {Speech 1}{}{}
-{Speech 1 Answer 7}{}{тупой}
+{Speech 1 Answer 7}{}{dumb}
 {Speech 1 Answer 2}{}{}
 {Speech 2}{}{}
 {Speech 2 Answer 4}{}{}
 {Speech 2 Answer 3}{}{}
 {Speech 2 Answer Exit}{}{}
-{Speech 2 Answer 10}{}{Мне нужна работа. Есть что-нибудь?}
-{Speech 2 Answer 14}{}{Я принес@sex@||ла| хвосты, Док. Гони монеты.@@Это было несложно, Док. Для человека с моим опытом убить скорпиона не сложнее, чем муху прихлопнуть.@@Слушай док, награду неплохо бы увеличить. Скорпионы лезли из всех дыр. Я чудом остал@sex@|ся|ась| в живых.@@В следующий раз я хорошо подумаю, прежде чем соглашаться. Эти чертовы скорпы меня почти достали. Где обещаная плата?}
-{Speech 2 Answer 12}{}{Док, я принес@sex@||ла| хвосты. Я только подумал@sex@||а|, может, вместо платы ты со мной поделишься инструментами? 3-4 шприца меня вполне устроят в качестве платы.@@5 хвостов, как было оговорено. Но деньги мне не нужны. У тебя есть лишние шприцы? Я возьму их в качестве платы.}
-{Speech 2 Answer 20}{}{Привет, я от Джонсона, Реддинг.}
+{Speech 2 Answer 10}{}{I need work. Got anything?}
+{Speech 2 Answer 14}{}{I brought@sex@|| the tails, Doc. Hand over the coins.@@That was no trouble, Doc. For a man with my experience, killing a scorpion is no harder than swatting a fly.@@Listen, Doc, it'd be nice to bump up the reward. Scorpions were crawling out of every hole. I barely made@sex@|| it out alive.@@Next time I'll think hard before agreeing. Those damn scorps nearly got me. Where's the promised pay?}
+{Speech 2 Answer 12}{}{Doc, I brought@sex@|| the tails. I was just thinking@sex@||, maybe instead of pay you could share some of your tools with me? 3-4 needles would suit me just fine as payment.@@5 tails, as agreed. But I don't need the money. Do you have any spare needles? I'll take them as payment.}
+{Speech 2 Answer 20}{}{Hi, I'm here on behalf of Johnson, from Redding.}
 {Speech 3}{}{}
 {Speech 3 Answer Exit}{}{}
-{Speech 3 Answer 15}{}{Док, я притащил@sex@||а| тебе уже чертову уйму этих хвостов. Возможно, у тебя найдутся какие-то лишние таблетки?@@Мне нужен какой-то стимул, чтобы продолжать снабжать тебя хвостами. Поделись химией, док?@@Юбилей, мы уже давно сотрудничаем. Если хочешь сотрудничество продолжить, гони колеса!}
-{Speech 3 Answer 16}{}{Док, я притащил@sex@||а| тебе уже чертову уйму этих хвостов. Возможно, у тебя найдутся какие-то лишние таблетки?@@Мне нужен какой-то стимул, чтобы продолжать снабжать тебя хвостами. Поделись химией, док?@@Юбилей, мы уже давно сотрудничаем. Если хочешь сотрудничество продолжить, гони колеса!}
+{Speech 3 Answer 15}{}{Doc, I've already lugged you a hell of a lot of these tails. Maybe you've got some spare pills?@@I need some kind of incentive to keep supplying you with tails. Share some chems, Doc?@@Jubilee, we've been working together a long while. If you want to keep this partnership going, hand over the pills!}
+{Speech 3 Answer 16}{}{Doc, I've already lugged you a hell of a lot of these tails. Maybe you've got some spare pills?@@I need some kind of incentive to keep supplying you with tails. Share some chems, Doc?@@Jubilee, we've been working together a long while. If you want to keep this partnership going, hand over the pills!}
 {Speech 4}{}{}
 {Speech 4 Answer 5}{}{}
 {Speech 4 Answer 6}{}{}
@@ -299,39 +299,39 @@ Speech 21 # Хорошо, посмотрим.
 {Speech 6}{}{}
 {Speech 6 Answer Exit}{}{}
 {Speech 6 Answer Exit*}{}{}
-{Speech 7}{}{Что я могу для вас сделать?}
-{Speech 7 Answer 5}{}{Вава бобо!}
-{Speech 7 Answer Exit}{}{Агу-агу!}
-{Speech 10}{}{Слушай, @pname@, ты ведь часто бываешь в Пустоши. У меня заканчиваются запасы ингридиентов для приготовления противоядий. Если ты принесешь мне несколько хвостов радскорпионов, я не останусь в долгу.@@В последнее время стало сложнее достать хвосты скорпионов. Но без яда скорпиона не сварить противоядие. Мы могли бы заключить с тобой деловое соглашение. Ты приносишь мне хвосты этих тварей, а я тебе хорошо плачу.@@На противоядия всегда хороший спрос. Я могу производить их больше, проблем со сбытом быть не должно.Но меня останавливает недостаточное количество яда скорпионов. Лучший способ добыть яд - извлечь его из хвоста скорпиона. Приноси мне хвосты, я скуплю все, что у тебя будут.}
-{Speech 10 Answer 11}{}{Без проблем, Док. Сколько я получу?@@Пустошь кишит скорпами, Док. Я притащу тебе целую кучу этих хвостов. А сколько ты платишь?@@Думаю, мы договоримся, Юбилей. Остается уточнить, по какой цене ты купишь у меня хвосты?@@Да легко, доктор. Если цена будет нормальной, я тебя завалю этими долбаными хвостами.}
-{Speech 11}{}{Ты приносишь мне 5 хвостов скорпиона, я даю тебе бутылку противоядия и 50 монет сверху. Годится?@@За каждые 5 хвостов получишь противоядие и 50 монет.@@Думаю, 50 монет за 5 штук - приличная цена. К тому же я тебе дам бутылку противоядия.}
-{Speech 11 Answer Exit}{}{Док, ты не шаришь. Эти скорпы - страшные коварные твари. А хвосты у них весят как чертов холодильник. Слишком мало ты готов заплатить. [Уйти]@@Доктор, я терпеть не могу пещеры со скорпионами. У меня там клауздро.. кластродро... куласгро.. в общем, фобия развивается! Сам выпрашивай у скорпов их хвосты. [Уйти]@@Прости, Док, но мне это не интересно. [Уйти]@@Возможно, как-нибудь в другой раз, доктор. Сейчас я слишком занят@sex@||а|. [Уйти]}
-{Speech 11 Answer Exit*}{}{Я согласен. Цена подходящая. [Уйти]@@Ок, Док. Считай, что твои проблемы с запасами яда решены. [Уйти]@@Ты сделаешь ведро противоядия, Док. Я скоро вернусь с этими хвостами. [Уйти]@@Док, а тебе не жалко бедных скорпионов? Эти милые зверушки не любят расставаться с хвостами... Ну да ладно, деньги мне нужны. [Уйти]}
-{Speech 11 Answer Exit**}{}{Я согласен. Цена подходящая. [Уйти]@@Ок, Док. Считай, что твои проблемы с запасами яда решены. [Уйти]@@Ты сделаешь ведро противоядия, Док. Я скоро вернусь с этими хвостами. [Уйти]@@Док, а тебе не жалко бедных скорпионов? Эти милые зверушки не любят расставаться с хвостами... Ну да ладно, деньги мне нужны. [Уйти]}
-{Speech 11 Answer Exit***}{}{Я согласен. Цена подходящая. [Уйти]@@Ок, Док. Считай, что твои проблемы с запасами яда решены. [Уйти]@@Ты сделаешь ведро противоядия, Док. Я скоро вернусь с этими хвостами. [Уйти]@@Док, а тебе не жалко бедных скорпионов? Эти милые зверушки не любят расставаться с хвостами... Ну да ладно, деньги мне нужны. [Уйти]}
-{Speech 11 Answer Exit****}{}{Я согласен. Цена подходящая. [Уйти]@@Ок, Док. Считай, что твои проблемы с запасами яда решены. [Уйти]@@Ты сделаешь ведро противоядия, Док. Я скоро вернусь с этими хвостами. [Уйти]@@Док, а тебе не жалко бедных скорпионов? Эти милые зверушки не любят расставаться с хвостами... Ну да ладно, деньги мне нужны. [Уйти]}
-{Speech 12}{}{Конечно, коллега, без проблем! Благодарю за сотрудничество.@@Это равноценна замена, @pname@. Забирай эти шприцы, если они тебе нужнее.}
-{Speech 12 Answer 13}{}{С тобой приятно иметь дело, Юбилей. [Уйти]@@Если будут еще какие-то просьбы, обращайся. [Уйти]@@Ок, спасибо, я к тебе еще загляну на днях. [Уйти]}
-{Speech 12 Answer Exit}{}{С тобой приятно иметь дело, Юбилей. [Уйти]@@Если будут еще какие-то просьбы, обращайся. [Уйти]@@Ок, спасибо, я к тебе еще загляну на днях. [Уйти]}
-{Speech 13}{}{Минуточку.. Я сразу не заметил, что они зацепили тебя, мой друг. Ну ничего, сейчас мы быстренько снимем отравление.@@Осторожно, @pname@! Похоже, что один из скорпионов добрался до тебя. Выпей эту микстуру - она исцелит от отравления.}
-{Speech 13 Answer Exit}{}{Cпасибо, Док. Еще увидимся. [Уйти]}
-{Speech 14}{}{Отлично, @pname@! Вот, как и обещал, 50 монет и противоядие.@@Очень вовремя ты доставил эти хвосты. Твоя плата - противоядие и монеты.@@Спасибо, вот и плата, как договаривались.}
-{Speech 14 Answer 13}{}{С тобой приятно иметь дело, Юбилей. [Уйти]@@Если будут еще какие-то просьбы, обращайся. [Уйти]@@Ок, спасибо, я к тебе еще загляну на днях. [Уйти]}
-{Speech 14 Answer Exit}{}{С тобой приятно иметь дело, Юбилей. [Уйти]@@Если будут еще какие-то просьбы, обращайся. [Уйти]@@Ок, спасибо, я к тебе еще загляну на днях. [Уйти]}
-{Speech 15}{}{У меня в данный момент ничего нет, что я мог бы тебе предложить.@@Я не могу с тобой делиться медикаментами, и даже продать ничего особенного не могу. Я должен лечить жителей НКР, без лекарств это невозможно.@@Не сейчас. Зайди позже, может что-то и появится.}
-{Speech 16}{}{Думаю, это справедливо. Что бы ты хотел@sex@||а| получить?@@Твоя правда. Без этих хвостов у меня были бы проблемы с производством противоядий. Какие медикаменты тебя интересуют?@@Я ценю твою помощь. Что тебе нужно?}
-{Speech 16 Answer 17}{}{Я возьму стимпак.@@Не откажусь от стимулятора.@@Стимуляторы есть?}
-{Speech 16 Answer 17*}{}{Противоядие.@@Антидот давай.@@Противоядие мне пригодится.}
-{Speech 16 Answer 17**}{}{Баффаут возьму.@@Мне нужно много сил, чтобы таскать эти хвосты. Давай Баффаут.@@Баффауты остались еще?}
-{Speech 16 Answer 17***}{}{Ментаты нигде не могу достать. Поделишься?@@Мне нужен ментат.@@Давай упаковку ментата.}
-{Speech 16 Answer 17****}{}{Что-нибудь против радиации... Рад-Х например.@@Рад-икс.@@Рад-икс повышает сопротивление организма радиации, так? Тогда мне нужен Рад-Икс.}
-{Speech 16 Answer 17*****}{}{Рад-авей мне пригодится.@@Заберу рад-авей. Часто приходится выводить радиактивную дрянь из организма.@@Рад-авей.}
-{Speech 16 Answer 17******}{}{Психо.@@Давай психо, а то его хрен достанешь.@@Мне нужен Психо.}
-{Speech 16 Answer Exit}{}{Мне ничего не нужно, док. [Уйти]@@В следующий раз, Юбилей, удачи. [Уйти]}
-{Speech 17}{}{Без проблем, @pname@. Только рад тебе помочь.@@Забирай. Надеюсь, мы только укрепим наше сотрудничество.@@Надеюсь, медикаменты тебе пригодятся.}
-{Speech 20}{}{От этого коновала? Ха. Ну и чего Безболезненный Джонсон хочет от старого доктора Юбилея?}
-{Speech 20 Answer Exit}{}{Прошу прощения, срочные дела. Вернусь через минуту.}
-{Speech 20 Answer 21}{}{[Отдать рацию] Он предлагает собраться докторам на одном радиоканале, 1717, у него есть какие-то вопросы к вам.}
-{Speech 21}{}{Хорошо, посмотрим. }
-{Speech 21 Answer Exit}{}{Мне пора, прощайте.}
-{Speech 21 Answer Exit*}{}{Мне пора, прощайте.}
+{Speech 7}{}{What can I do for you?}
+{Speech 7 Answer 5}{}{Wawa boo-boo!}
+{Speech 7 Answer Exit}{}{Goo-goo!}
+{Speech 10}{}{Listen, @pname@, you spend a lot of time out in the Wasteland. I'm running low on the ingredients for making antidotes. If you bring me a few radscorpion tails, I won't leave you in the lurch.@@Lately it's gotten harder to come by scorpion tails. But you can't brew an antidote without scorpion venom. We could strike a business deal, you and I. You bring me the tails of those creatures, and I'll pay you well.@@There's always good demand for antidotes. I could produce more, there shouldn't be any trouble selling them. But what holds me back is the shortage of scorpion venom. The best way to get the venom is to extract it from a scorpion's tail. Bring me the tails, I'll buy up all you've got.}
+{Speech 10 Answer 11}{}{No problem, Doc. How much will I get?@@The Wasteland's crawling with scorps, Doc. I'll drag you a whole pile of these tails. So how much do you pay?@@I think we can come to terms, Jubilee. All that's left is to settle on what price you'll buy the tails from me.@@Easy, doctor. If the price is right, I'll bury you in these damn tails.}
+{Speech 11}{}{You bring me 5 scorpion tails, I give you a bottle of antidote and 50 coins on top. Sound good?@@For every 5 tails you'll get an antidote and 50 coins.@@I think 50 coins for 5 is a decent price. And on top of that I'll give you a bottle of antidote.}
+{Speech 11 Answer Exit}{}{Doc, you don't get it. Those scorps are nasty, cunning beasts. And their tails weigh as much as a damn refrigerator. You're offering too little. [Leave]@@Doctor, I can't stand caves full of scorpions. In there I get claustro.. clastrodro... culasgro.. anyway, the phobia kicks in! Go beg the scorps for their tails yourself. [Leave]@@Sorry, Doc, but I'm not interested. [Leave]@@Maybe some other time, doctor. Right now I'm too busy@sex@||. [Leave]}
+{Speech 11 Answer Exit*}{}{I agree. The price is fair. [Leave]@@Ok, Doc. Consider your venom supply problems solved. [Leave]@@You'll make a whole bucket of antidote, Doc. I'll be back soon with those tails. [Leave]@@Doc, don't you feel sorry for the poor scorpions? Those sweet little critters don't like parting with their tails... Oh well, I need the money. [Leave]}
+{Speech 11 Answer Exit**}{}{I agree. The price is fair. [Leave]@@Ok, Doc. Consider your venom supply problems solved. [Leave]@@You'll make a whole bucket of antidote, Doc. I'll be back soon with those tails. [Leave]@@Doc, don't you feel sorry for the poor scorpions? Those sweet little critters don't like parting with their tails... Oh well, I need the money. [Leave]}
+{Speech 11 Answer Exit***}{}{I agree. The price is fair. [Leave]@@Ok, Doc. Consider your venom supply problems solved. [Leave]@@You'll make a whole bucket of antidote, Doc. I'll be back soon with those tails. [Leave]@@Doc, don't you feel sorry for the poor scorpions? Those sweet little critters don't like parting with their tails... Oh well, I need the money. [Leave]}
+{Speech 11 Answer Exit****}{}{I agree. The price is fair. [Leave]@@Ok, Doc. Consider your venom supply problems solved. [Leave]@@You'll make a whole bucket of antidote, Doc. I'll be back soon with those tails. [Leave]@@Doc, don't you feel sorry for the poor scorpions? Those sweet little critters don't like parting with their tails... Oh well, I need the money. [Leave]}
+{Speech 12}{}{Of course, colleague, no problem! Thank you for the cooperation.@@That's an equivalent trade, @pname@. Take these needles if you need them more.}
+{Speech 12 Answer 13}{}{It's a pleasure doing business with you, Jubilee. [Leave]@@If you have any other requests, just ask. [Leave]@@Ok, thanks, I'll drop by again one of these days. [Leave]}
+{Speech 12 Answer Exit}{}{It's a pleasure doing business with you, Jubilee. [Leave]@@If you have any other requests, just ask. [Leave]@@Ok, thanks, I'll drop by again one of these days. [Leave]}
+{Speech 13}{}{One moment.. I didn't notice right away that they got you, my friend. Never mind, we'll have that poisoning cleared up in a jiffy.@@Careful, @pname@! Looks like one of the scorpions got to you. Drink this mixture - it'll cure the poisoning.}
+{Speech 13 Answer Exit}{}{Thanks, Doc. See you again. [Leave]}
+{Speech 14}{}{Excellent, @pname@! Here, as promised, 50 coins and an antidote.@@You delivered these tails right on time. Your pay - an antidote and coins.@@Thanks, here's your pay, as agreed.}
+{Speech 14 Answer 13}{}{It's a pleasure doing business with you, Jubilee. [Leave]@@If you have any other requests, just ask. [Leave]@@Ok, thanks, I'll drop by again one of these days. [Leave]}
+{Speech 14 Answer Exit}{}{It's a pleasure doing business with you, Jubilee. [Leave]@@If you have any other requests, just ask. [Leave]@@Ok, thanks, I'll drop by again one of these days. [Leave]}
+{Speech 15}{}{At the moment I have nothing I could offer you.@@I can't share medicine with you, and I can't even sell anything special. I have to treat the people of the NCR, and that's impossible without medicine.@@Not now. Come back later, maybe something will turn up.}
+{Speech 16}{}{I think that's fair. What would you like@sex@|| to get?@@You're right. Without these tails I'd have trouble producing antidotes. Which medicines are you interested in?@@I appreciate your help. What do you need?}
+{Speech 16 Answer 17}{}{I'll take a stimpak.@@I won't say no to a stimulant.@@Got any stimulants?}
+{Speech 16 Answer 17*}{}{Antidote.@@Hand over an antidote.@@An antidote would come in handy.}
+{Speech 16 Answer 17**}{}{I'll take Buffout.@@I need a lot of strength to haul these tails. Give me some Buffout.@@Any Buffout left?}
+{Speech 16 Answer 17***}{}{I can't get Mentats anywhere. Will you share?@@I need some Mentats.@@Hand over a pack of Mentats.}
+{Speech 16 Answer 17****}{}{Something against radiation... Rad-X for example.@@Rad-X.@@Rad-X raises the body's resistance to radiation, right? Then I need Rad-X.}
+{Speech 16 Answer 17*****}{}{RadAway would come in handy.@@I'll take some RadAway. I often have to flush radioactive junk out of my system.@@RadAway.}
+{Speech 16 Answer 17******}{}{Psycho.@@Hand over some Psycho, it's a pain to get otherwise.@@I need some Psycho.}
+{Speech 16 Answer Exit}{}{I don't need anything, doc. [Leave]@@Until next time, Jubilee, good luck. [Leave]}
+{Speech 17}{}{No problem, @pname@. Glad to help.@@Take it. I hope this will only strengthen our cooperation.@@I hope the medicine comes in handy.}
+{Speech 20}{}{From that horse doctor? Ha. So what does Painless Johnson want from old doctor Jubilee?}
+{Speech 20 Answer Exit}{}{Excuse me, urgent business. I'll be back in a minute.}
+{Speech 20 Answer 21}{}{[Hand over the radio] He's proposing that the doctors gather on a single radio channel, 1717, he has some questions for you.}
+{Speech 21}{}{All right, we'll see. }
+{Speech 21 Answer Exit}{}{I have to go, farewell.}
+{Speech 21 Answer Exit*}{}{I have to go, farewell.}

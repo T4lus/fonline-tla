@@ -95,25 +95,25 @@ Speech 10 # Вроде, не было такого. К шерифу обрати
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{I'm on assignment. If there's trouble you might try reporting it to the sheriff.}
 {Speech 2 Answer Exit}{}{Okay.}
-{Speech 2 Answer 3}{}{Я здесь по заданию Дюмонта. Как обстановка?}
-{Speech 2 Answer 6}{}{Сэр, могу я задать вам пару вопросов?}
-{Speech 3}{}{Что-то я раньше тебя в участке не видел. Ты кто такой?}
-{Speech 3 Answer 5}{}{В участке проблемы с радиостанцией. Радиосвязь пока не работает, да ты и сам заметил, наверное. Вот Дюмонт и попросил меня обойти ребят, выяснить, все ли в порядке.}
-{Speech 3 Answer 4}{}{Не твое дело, кретин. Смирррррно! Когда со мной разговариваешь!}
-{Speech 4}{}{Ха, да пошел ты.}
-{Speech 5}{}{Понятно. Передай шерифу, все в порядке. @@Нарушений нет@@Все спокойно@@Серьезных происшедствий не было. }
-{Speech 6}{}{[Недовольно] Я на работе. Мне некогда лясы точить.}
-{Speech 6 Answer Exit}{}{Не буду вас отвлекать, всего доброго. [Уйти]}
-{Speech 6 Answer 7}{}{Сэр, это не займет много времени.}
-{Speech 7}{}{Валяй, только быстро. Что за вопросы?}
-{Speech 7 Answer 8}{}{Почему у тебя рожа такая кривая? Ты урод с рождения, или просто часто били по голове?}
-{Speech 7 Answer 9}{}{Вы не видели подозрительных людей в последние дни?}
-{Speech 8}{}{Я тебя арестую, за оскорбление стража порядка.}
-{Speech 9}{}{Пока с тобой не встретился, нет, не видел.}
-{Speech 9 Answer 10}{}{А, может быть, слышали разговоры какие-то, слухи?}
-{Speech 10}{}{Вроде, не было такого. К шерифу обратись, он всегда в курсе последних событий.}
-{Speech 10 Answer Exit}{}{Благодарю, я так и сделаю. [Уйти]}
-{Speech 10 Answer Exit*}{}{Благодарю, я так и сделаю. [Уйти]}
+{Speech 2 Answer 3}{}{I'm here on Dumont's orders. How are things?}
+{Speech 2 Answer 6}{}{Sir, may I ask you a couple of questions?}
+{Speech 3}{}{Haven't seen you around the precinct before. Who are you?}
+{Speech 3 Answer 5}{}{There's trouble with the radio station at the precinct. The radio link is still down, you've probably noticed it yourself. So Dumont asked me to make the rounds of the boys and check that everything's all right.}
+{Speech 3 Answer 4}{}{None of your business, you idiot. Aten-shun! When you talk to me!}
+{Speech 4}{}{Ha, go to hell.}
+{Speech 5}{}{Got it. Tell the sheriff everything's fine. @@No violations@@All quiet@@No serious incidents. }
+{Speech 6}{}{[Displeased] I'm on duty. I've got no time to chat.}
+{Speech 6 Answer Exit}{}{I won't keep you, good day. [Leave]}
+{Speech 6 Answer 7}{}{Sir, this won't take long.}
+{Speech 7}{}{Go ahead, but make it quick. What are the questions?}
+{Speech 7 Answer 8}{}{Why is your mug so crooked? Were you born ugly, or did you just get hit on the head a lot?}
+{Speech 7 Answer 9}{}{Have you seen any suspicious people in the last few days?}
+{Speech 8}{}{I'll arrest you for insulting an officer of the law.}
+{Speech 9}{}{Until I ran into you, no, I haven't.}
+{Speech 9 Answer 10}{}{Well, maybe you've heard some talk, some rumors?}
+{Speech 10}{}{Don't think there was anything like that. Go talk to the sheriff, he's always up on the latest news.}
+{Speech 10 Answer Exit}{}{Thanks, I'll do that. [Leave]}
+{Speech 10 Answer Exit*}{}{Thanks, I'll do that. [Leave]}
 {100000000}{}{Nice to meet you.}
 {100000001}{}{Please holster your weapon.@@Holster your gun, @sex@|buddy|cutie|.@@Don't show your gun here.}
 {100000002}{}{Dun make me force ya!@@Hold in there!@@I dun like ya.@@That's my last warning!@@We dun need such visitors.}

@@ -302,101 +302,101 @@ Speech 35 # Хорошо, сейчас все сделаем. Пойдем, пр
 {Name}{}{Aldo}
 {DescAliveShort}{}{You see a sick looking man wearing really dirty robes.}
 {DescAliveFull}{}{You see Aldo, the City Guard. Seems that you are able to smell his stench even from that distance.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 19}{}{тупой}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 12}{}{знаком не дал подачки}
-{Speech 1 Answer 13}{}{дал подачку}
-{Speech 1 Answer 30}{}{Занят с объявлениями}
-{Speech 2}{}{Приветствую вас, я еще не видел вас в Клэмате. Я Алдо, городской привратник. Моя работа - приветствовать каждого нового человека в городе и отвечать на любые вопросы, которые у него могут возникнуть о нашем маленьком буколическом городе. Добро пожаловать в Клэмат. Как вас величать?}
-{Speech 2 Answer 5}{}{Ммм, спасибо за приветствие. Я @sex@|простой путешественник|простая путешественница|.}
-{Speech 2 Answer 4}{}{Мое имя @pname@, спасибо за гостеприимство.}
-{Speech 2 Answer 3}{}{Зови меня просто - @sex@|Крутой|Крутая| @pname@.}
-{Speech 2 Answer 8}{}{Тебе не нужно знать мое имя или что либо еще обо мне. Убирайся, ты грязный пьяница.}
-{Speech 3}{}{@pname@, вы должны быть очень важная и могущественная персона среди ваших людей. Совершенно точно, что одна из ваших великих фигур была бы счастлива последовать нашей традиции награждения городского привратника.}
-{Speech 3 Answer 8}{}{Небольшой совет для тебя - держись подальше от спиртного некоторое время.}
-{Speech 3 Answer 6}{}{Совет, ха? Ну я думаю, что 5 баксов хватит, чтобы ты отвязался.}
-{Speech 3 Answer 6*}{}{Я не @sex@|хотел|хотела| бы идти против традиций. 5 баксов достаточно?}
-{Speech 3 Answer 8*}{}{Ты бы дал мне совет, чтобы я не @sex@|тратил|тратила| время на избавление Клэмата от твоей грязной морды.}
-{Speech 3 Answer 8**}{}{Извини, не могу выделить тебе денег.}
-{Speech 4}{}{@pname@, так как ты новичок здесь, и выглядишь как будто @sex@|хотел|хотела| бы воспользоваться дорожными указателями я скажу тебе, что традиционно нужно дать привратнику на чай перед тем как спрашивать вопросы и так далее.}
-{Speech 4 Answer 8}{}{Небольшой совет для тебя - держись подальше от спиртного некоторое время.}
-{Speech 4 Answer 6}{}{Совет, ха? Ну я думаю, что 5 баксов хватит, чтобы ты отвязался.}
-{Speech 4 Answer 6*}{}{Я не @sex@|хотел|хотела| бы идти против традиций. 5 баксов достаточно?}
-{Speech 4 Answer 8*}{}{Ты бы дал мне совет, чтобы я не @sex@|тратил|тратила| время на избавление Клэмата от твоей грязной морды.}
-{Speech 4 Answer 8**}{}{Извини, не могу выделить тебе денег.}
-{Speech 5}{}{Xорошо @sex@|незнакомец|незнакомка|, так как ты новичок здесь, ты возможно не знаешь, что обычно привратник награждается перед тем как задавать вопросы и так далее.}
-{Speech 5 Answer 8}{}{Небольшой совет для тебя - держись подальше от спиртного некоторое время.}
-{Speech 5 Answer 6}{}{Совет, ха? Ну я думаю, что 5 баксов хватит, чтобы ты отвязался.}
-{Speech 5 Answer 6*}{}{Я не @sex@|хотел|хотела| бы идти против традиций. 5 баксов достаточно?}
-{Speech 5 Answer 8*}{}{Ты бы дал мне совет, чтобы я не @sex@|тратил|тратила| время на избавление Клэмата от твоей грязной морды.}
-{Speech 5 Answer 8**}{}{Извини, не могу выделить тебе денег.}
-{Speech 6}{}{Спасибо за деньги, мой друг. Истрачу их на лекарство для своего пересохшего горла. Считай себя официально @sex@|принятым|принятой| в городе Клэмате. Есть вопросы о нашей замечательной столице?}
-{Speech 6 Answer 15}{}{Нет спасибо, я думаю что @sex@|сам|сама| все пойму.}
-{Speech 6 Answer 7}{}{Xорошо, мне хочется задать пару вопросов.}
-{Speech 7}{}{Спрашивай, о @sex@|мой благодетель|моя благодетельница|.}
-{Speech 7 Answer 9}{}{Чем народ занимается здесь, в Клэмате?}
-{Speech 7 Answer 11}{}{Где я смогу продать или купить вещи, или найти лекаря?}
-{Speech 7 Answer 17}{}{Где ты покупаешь спиртное?}
-{Speech 7 Answer 15}{}{Спасибо, я думаю, что это все, что я @sex@|хотел|хотела| сейчас знать.}
-{Speech 8}{}{Не за что. Я надеюсь, ты не задержишься в городе слишком долго. Нам не нужны такие как ты здесь. Xм. Дикари - они все одинаковы.}
-{Speech 9}{}{Здесь в Клэмате некоторые люди занимаются сельским хозяйством, другие - выращивают браминов, но ловля гекко - это то, чем занимается большинство.}
-{Speech 9 Answer 10}{}{Что такое гекко?}
-{Speech 9 Answer 15}{}{О, спасибо. Я думаю, это все, что мне нужно знать.}
-{Speech 9 Answer 7}{}{Это интересно. У меня есть еще один вопрос.}
-{Speech 10}{}{Гекко - это большая ящерица, на которую охотятся в здешних местах из-за ее мяса и шкуры. Но для того, чтобы их поймать, нужно проделать чертову уйму работы - это к тому же и опасно. Мой совет другу... держись подальше от них. Слишком много работы.}
-{Speech 10 Answer 15}{}{Спасибо. Я думаю что это все что мне нужно знать.}
-{Speech 10 Answer 7}{}{Xмм. Еще одно, Алдо.}
-{Speech 11}{}{Ты можешь продать или купить вещи в Доме Бакнера или в Золотом Гекко. Иногда у них даже бывают лечебные травы - не те, что они обычно дают мне для лечения. Владельцы их - настоящие скряги.\n Возьми немного на кончик ножа и выходи вон, на холод и дождь.}
-{Speech 11 Answer 15}{}{Спасибо за информацию, это все что я @sex@|хотел|хотела| узнать.}
-{Speech 11 Answer 7}{}{Я всегда @sex@|думал|думала|, что свежий воздух бодрит. Xм, у меня есть еще вопрос для тебя.}
-{Speech 12}{}{Я знаю, что ты не @sex@|мог|могла| дать денег официальному городскому привратнику раньше, но возможно на этот раз ты чувствуешь себя более @sex@|великодушным|великодушной| и @sex@|готов|готова| к официальной встрече в Клэмате.}
-{Speech 12 Answer 6}{}{Я думаю, я @sex@|мог|могла| бы дать тебе 5 баксов, чтобы ты отвязался.}
-{Speech 12 Answer 6*}{}{@sex@|Чувствовал|Чувствовала| с самого начала, что-то забыли. Вот 5 баксов. @sex@|Готов|Готова| быть @sex@|принятым|принятой|.}
-{Speech 12 Answer 16}{}{Нет, спасибо. Не думаю что это мне нужно.}
-{Speech 12 Answer 14}{}{Думаю лучше познакомить твои потроха с моим мечом.}
-{Speech 12 Answer 31}{}{Альдо, я хочу оставить объявление на доске Майды.}
-{Speech 12 Answer 32}{}{Альдо, я хочу оставить объявление на доске Майды.}
-{Speech 13}{}{Эй, друг, как хорошо что встретил тебя снова. Не @sex@|мог|могла| бы ты дать мне денег на порцию лекарства? Мое горло становится все суше с каждым часом. Я даже не могу произнести еще одно официальное приветствие.}
-{Speech 13 Answer 6}{}{Конечно, я всегда могу дать 5 баксов на лечение друга.}
-{Speech 13 Answer 16}{}{Извини, Алдо. Не могу как раз сейчас.}
-{Speech 13 Answer 14}{}{Мне кажется хватит с тебя медицины. Тебе надо бы хорошо потрудиться, чтобы яд вышел из тебя вместе с потом.}
-{Speech 13 Answer 31}{}{Альдо, я хочу оставить объявление на доске Майды.}
-{Speech 13 Answer 32}{}{Альдо, я хочу оставить объявление на доске Майды.}
-{Speech 14}{}{Не за что. Как ты можешь быть жестоким с таким слабым человеком, как я? Проклятые дикари! [Алдо плюет на землю у ваших ног, слюни повисают на его грязном подбородке]}
-{Speech 15}{}{Уверен, что твое благородство, проявленное к кому нибудь, такому же полезному как я, принесет тебе удачу. Надеюсь скоро увидеть тебя снова.}
-{Speech 16}{}{Я бы точно израсходовал некоторое количество денег на лекарство. Я чувствую себя совершенно ослабшим - но если ты не можешь мне дать ничего, я пойму. Может в следующий раз, если я тут еще буду к тому времени.}
-{Speech 17}{}{Говоришь, очень нужно лекарство? Я купил его раньше в Золотом Гекко или Доме Баклера, они не продавали его, пока я не заплатил за свой счет. К счастью для меня, Виски Боб немножко полечил своих друзей.}
-{Speech 17 Answer 15}{}{Я @sex@|рад|рада|, что ты нашел место, где можно лечиться. Думаю, это все, что я @sex@|хотел|хотела| знать.}
-{Speech 17 Answer 18}{}{Интересно. Где я могу найти Виски Боба?}
-{Speech 17 Answer 7}{}{Спасибо, Алдо. Расскажи мне что-нибудь еще.}
-{Speech 18}{}{Виски Боб обычно у Баклера, прямо здесь, в центре города. У него небольшой винный заводик недалеко отсюда.}
-{Speech 18 Answer 15}{}{Спасибо за информацию, Алдо. Это все, что я @sex@|хотел|хотела| знать.}
-{Speech 18 Answer 7}{}{@sex@|Рад|Рада|, что ты нашел своего поставщика. Xм, не мог бы ты дышать немного вниз? Я хочу спросить еще кое-что у тебя.}
-{Speech 19}{}{Привет, друг - ты выглядишь немного @sex@|сбитым|сбитой| с толку. Все что тебе точно нужно здесь - это друг. Я Алдо, городской привратник.}
-{Speech 19 Answer 20}{}{Друг? Xе - хе... @pname@ как друг.}
-{Speech 19 Answer 14}{}{Упс, пованивает. Пошел отсюда.}
-{Speech 20}{}{Если ты дашь мне 20 баксов я стану твоим другом и сделаю твоим другом каждого здесь. Вот так все устроено в большом городе.}
-{Speech 20 Answer 14}{}{Дваа-дцаать? Даа? Большой пройдоха?}
-{Speech 20 Answer 21}{}{Друг? На!}
-{Speech 21}{}{Ну вот. Теперь все здесь, включая меня, твои большие друзья, дур... эээ.. друг.}
-{Speech 30}{}{Я занят, не видно, что ли?@@Позже поговорим.@@Отстань, я за работой.}
-{Speech 31}{}{Да откуда вас столько, желающих?! Ну нет, у меня обед. Приходи через час.}
-{Speech 31 Answer Exit}{}{Ладно.}
-{Speech 32}{}{Ох, опять... Ну ладно, расценки знакомы? 100 - общее, 300 - персональное. Есть вопросы? Задавай их Майде, это ее бизнес.\n}
-{Speech 32 Answer Exit}{}{Не сейчас.}
-{Speech 32 Answer 33}{}{Персональное объявление.}
-{Speech 32 Answer 35}{}{Общее объявление.}
-{Speech 33}{}{Кому хочешь оставить весточку?}
-{Speech 33 Answer Exit}{}{Нет, я передумал@sex@||а|. В другой раз.}
-{Speech 33 Answer Exit*}{}{Ладно, забудь. Деньги можешь оставить себе.}
-{Speech 34}{}{Ты ничего не путаешь? Не слышал никогда ни о ком с таким именем.}
-{Speech 34 Answer Exit}{}{Мне нужно подумать.}
-{Speech 34 Answer Exit*}{}{Пожалуй, я лучше пойду.}
-{Speech 35}{}{Хорошо, сейчас все сделаем. Пойдем, продиктуешь. }
-{Speech 35 Answer Exit}{}{Идем.}
-{100000001}{}{Не могу к доске подобраться. Обожди, пока разойдутся все.}
-{100000002}{}{Давай, говори, чего писать будем... Буду записывать все, что скажешь, после слова "Начали".}
-{100000003}{}{Все готово, проверяй...}
-{100000004}{}{Если чего еще нужно написать, говори. Все после слова "Далее" я занесу сюда. Когда закончишь, скажи "Хватит".}
-{100000005}{}{Еще?}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 19}{}{stupid}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 12}{}{acquainted, gave no handout}
+{Speech 1 Answer 13}{}{gave a handout}
+{Speech 1 Answer 30}{}{Busy with the bulletins}
+{Speech 2}{}{Greetings, I haven't seen you in Klamath before. I'm Aldo, the city greeter. My job is to welcome every newcomer to town and answer any questions they might have about our little bucolic town. Welcome to Klamath. What may I call you?}
+{Speech 2 Answer 5}{}{Mmm, thanks for the welcome. I'm @sex@|just a traveler|just a traveler|.}
+{Speech 2 Answer 4}{}{My name is @pname@, thanks for the hospitality.}
+{Speech 2 Answer 3}{}{Just call me - @sex@|the Tough Guy|the Tough Gal| @pname@.}
+{Speech 2 Answer 8}{}{You don't need to know my name or anything else about me. Get lost, you dirty drunk.}
+{Speech 3}{}{@pname@, you must be a very important and powerful person among your people. Surely one of your great figures would be happy to follow our tradition of rewarding the city greeter.}
+{Speech 3 Answer 8}{}{A little advice for you - stay away from the booze for a while.}
+{Speech 3 Answer 6}{}{Advice, huh? Well, I figure 5 bucks should be enough to get you off my back.}
+{Speech 3 Answer 6*}{}{I wouldn't @sex@|want|want| to go against tradition. Is 5 bucks enough?}
+{Speech 3 Answer 8*}{}{You'd better give me advice so I don't @sex@|waste|waste| my time ridding Klamath of your dirty mug.}
+{Speech 3 Answer 8**}{}{Sorry, I can't spare you any money.}
+{Speech 4}{}{@pname@, since you're new here, and you look like you'd @sex@|want|want| to make use of the signposts, I'll tell you that traditionally you're supposed to tip the greeter before asking questions and so on.}
+{Speech 4 Answer 8}{}{A little advice for you - stay away from the booze for a while.}
+{Speech 4 Answer 6}{}{Advice, huh? Well, I figure 5 bucks should be enough to get you off my back.}
+{Speech 4 Answer 6*}{}{I wouldn't @sex@|want|want| to go against tradition. Is 5 bucks enough?}
+{Speech 4 Answer 8*}{}{You'd better give me advice so I don't @sex@|waste|waste| my time ridding Klamath of your dirty mug.}
+{Speech 4 Answer 8**}{}{Sorry, I can't spare you any money.}
+{Speech 5}{}{All right @sex@|stranger|stranger|, since you're new here, you probably don't know that the greeter is usually rewarded before you ask questions and so on.}
+{Speech 5 Answer 8}{}{A little advice for you - stay away from the booze for a while.}
+{Speech 5 Answer 6}{}{Advice, huh? Well, I figure 5 bucks should be enough to get you off my back.}
+{Speech 5 Answer 6*}{}{I wouldn't @sex@|want|want| to go against tradition. Is 5 bucks enough?}
+{Speech 5 Answer 8*}{}{You'd better give me advice so I don't @sex@|waste|waste| my time ridding Klamath of your dirty mug.}
+{Speech 5 Answer 8**}{}{Sorry, I can't spare you any money.}
+{Speech 6}{}{Thanks for the money, my friend. I'll spend it on medicine for my parched throat. Consider yourself officially @sex@|welcomed|welcomed| to the town of Klamath. Any questions about our wonderful capital?}
+{Speech 6 Answer 15}{}{No thanks, I think I'll @sex@|figure|figure| it all out myself.}
+{Speech 6 Answer 7}{}{All right, I'd like to ask a couple of questions.}
+{Speech 7}{}{Ask away, oh @sex@|my benefactor|my benefactress|.}
+{Speech 7 Answer 9}{}{What do folks do here in Klamath?}
+{Speech 7 Answer 11}{}{Where can I sell or buy things, or find a healer?}
+{Speech 7 Answer 17}{}{Where do you buy your booze?}
+{Speech 7 Answer 15}{}{Thanks, I think that's all I @sex@|wanted|wanted| to know for now.}
+{Speech 8}{}{Don't mention it. I hope you won't stay in town too long. We don't need the likes of you around here. Hm. Savages - they're all the same.}
+{Speech 9}{}{Here in Klamath some people farm, others raise brahmin, but gecko hunting is what most folks do.}
+{Speech 9 Answer 10}{}{What's a gecko?}
+{Speech 9 Answer 15}{}{Oh, thanks. I think that's all I need to know.}
+{Speech 9 Answer 7}{}{That's interesting. I have one more question.}
+{Speech 10}{}{A gecko is a big lizard that's hunted around here for its meat and hide. But to catch them you have to do a hell of a lot of work - and it's dangerous too. My advice to a friend... stay away from them. Too much work.}
+{Speech 10 Answer 15}{}{Thanks. I think that's all I need to know.}
+{Speech 10 Answer 7}{}{Hmm. One more thing, Aldo.}
+{Speech 11}{}{You can sell or buy things at Buckner's House or the Golden Gecko. Sometimes they even have healing herbs - not the ones they usually give me to cure myself. The owners are real misers.\n Take a little bit on the tip of a knife and head out, into the cold and rain.}
+{Speech 11 Answer 15}{}{Thanks for the information, that's all I @sex@|wanted|wanted| to know.}
+{Speech 11 Answer 7}{}{I always @sex@|thought|thought| fresh air was invigorating. Hm, I have one more question for you.}
+{Speech 12}{}{I know you @sex@|couldn't|couldn't| give money to the official city greeter before, but maybe this time you feel more @sex@|generous|generous| and @sex@|ready|ready| for an official welcome in Klamath.}
+{Speech 12 Answer 6}{}{I suppose I @sex@|could|could| give you 5 bucks to get you off my back.}
+{Speech 12 Answer 6*}{}{I @sex@|felt|felt| from the start that we forgot something. Here's 5 bucks. @sex@|Ready|Ready| to be @sex@|welcomed|welcomed|.}
+{Speech 12 Answer 16}{}{No, thanks. I don't think I need that.}
+{Speech 12 Answer 14}{}{I think it's better to introduce your guts to my sword.}
+{Speech 12 Answer 31}{}{Aldo, I want to leave a notice on Maida's board.}
+{Speech 12 Answer 32}{}{Aldo, I want to leave a notice on Maida's board.}
+{Speech 13}{}{Hey, friend, how good to see you again. Couldn't you @sex@|spare|spare| me some money for a dose of medicine? My throat gets drier by the hour. I can't even make another official greeting.}
+{Speech 13 Answer 6}{}{Of course, I can always give 5 bucks to heal a friend.}
+{Speech 13 Answer 16}{}{Sorry, Aldo. I can't right now.}
+{Speech 13 Answer 14}{}{I think you've had enough medicine. You ought to do some good hard work so the poison comes out of you with the sweat.}
+{Speech 13 Answer 31}{}{Aldo, I want to leave a notice on Maida's board.}
+{Speech 13 Answer 32}{}{Aldo, I want to leave a notice on Maida's board.}
+{Speech 14}{}{Don't mention it. How can you be cruel to such a weak man as me? Damned savages! [Aldo spits on the ground at your feet, drool dangling from his dirty chin]}
+{Speech 15}{}{I'm sure the nobility you've shown to someone as useful as me will bring you luck. I hope to see you again soon.}
+{Speech 16}{}{I'd surely spend some money on medicine. I feel completely weakened - but if you can't give me anything, I'll understand. Maybe next time, if I'm still around by then.}
+{Speech 17}{}{You say you really need medicine? I used to buy it at the Golden Gecko or Buckner's House, they wouldn't sell it to me until I paid off my tab. Luckily for me, Whisky Bob healed his friends up a little.}
+{Speech 17 Answer 15}{}{I'm @sex@|glad|glad| you found a place where you can get healed. I think that's all I @sex@|wanted|wanted| to know.}
+{Speech 17 Answer 18}{}{Interesting. Where can I find Whisky Bob?}
+{Speech 17 Answer 7}{}{Thanks, Aldo. Tell me something else.}
+{Speech 18}{}{Whisky Bob is usually at Buckner's, right here in the center of town. He's got a little distillery not far from here.}
+{Speech 18 Answer 15}{}{Thanks for the information, Aldo. That's all I @sex@|wanted|wanted| to know.}
+{Speech 18 Answer 7}{}{@sex@|Glad|Glad| you found your supplier. Hm, could you breathe a little downward? I want to ask you something else.}
+{Speech 19}{}{Hi there, friend - you look a little @sex@|confused|confused|. The one thing you really need here is a friend. I'm Aldo, the city greeter.}
+{Speech 19 Answer 20}{}{Friend? He - he... @pname@ as a friend.}
+{Speech 19 Answer 14}{}{Oops, you stink. Get out of here.}
+{Speech 20}{}{If you give me 20 bucks I'll become your friend and make everyone here your friend too. That's how it works in the big city.}
+{Speech 20 Answer 14}{}{Twen-tyyy? Yeah? Big swindler?}
+{Speech 20 Answer 21}{}{Friend? Here!}
+{Speech 21}{}{There you go. Now everyone here, including me, are your big friends, dum... uhh.. friend.}
+{Speech 30}{}{I'm busy, can't you see?@@We'll talk later.@@Buzz off, I'm working.}
+{Speech 31}{}{Where do you all keep coming from?! No way, I'm on lunch. Come back in an hour.}
+{Speech 31 Answer Exit}{}{All right.}
+{Speech 32}{}{Oh, again... Well all right, you know the rates? 100 for a general notice, 300 for a personal one. Got questions? Ask Maida, it's her business.\n}
+{Speech 32 Answer Exit}{}{Not now.}
+{Speech 32 Answer 33}{}{Personal notice.}
+{Speech 32 Answer 35}{}{General notice.}
+{Speech 33}{}{Who do you want to leave a message for?}
+{Speech 33 Answer Exit}{}{No, I @sex@|changed|changed| my mind. Another time.}
+{Speech 33 Answer Exit*}{}{All right, forget it. You can keep the money.}
+{Speech 34}{}{You're not confusing something, are you? I've never heard of anyone with that name.}
+{Speech 34 Answer Exit}{}{I need to think it over.}
+{Speech 34 Answer Exit*}{}{I'd better be going.}
+{Speech 35}{}{All right, we'll get it done now. Come on, dictate it to me. }
+{Speech 35 Answer Exit}{}{Let's go.}
+{100000001}{}{I can't get to the board. Wait until everyone clears out.}
+{100000002}{}{Come on, tell me what we'll be writing... I'll write down everything you say after the word "Begin".}
+{100000003}{}{All done, check it...}
+{100000004}{}{If there's anything else to write, say it. Everything after the word "Next" I'll put down here. When you're done, say "Enough".}
+{100000005}{}{More?}

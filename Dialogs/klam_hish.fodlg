@@ -136,53 +136,53 @@ Speech 13 # Чего хочешь?
 {Speech 13 Answer Exit}{}{На самом деле ничего, пока.}
 
 [Text engl]
-{Name}{}{Хиштакисаританор}
-{DescAliveShort}{}{Невысокий раскосый мужик в стёганой ватной фуфайке.}
-{DescAliveFull}{}{Явно понаехавший персонаж. Кого только у нас в Америке не встретишь.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 7}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 12}{}{Знаком.}
-{Speech 1 Answer 10}{}{получил задание на укольчики}
-{Speech 2}{}{Привет. Я Хиштакисаританор, местный торговец браминами. Чем могу помочь?}
-{Speech 2 Answer 3}{}{Я ищу где можно заработать..}
-{Speech 2 Answer 5}{}{Вы можете мне рассказать о Кламате?}
-{Speech 2 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 2 Answer Exit}{}{До свидания.}
-{Speech 3}{}{Ну... если ты сможешь правильно произнести моё имя, я тебе дам работу...}
-{Speech 3 Answer 4}{}{Хим...Хипш...Хиппеж..эээ}
-{Speech 3 Answer Exit}{}{Даже пробовать не стану.}
-{Speech 4}{}{Да ладно, не парься. Чего хочешь?}
-{Speech 4 Answer 8}{}{Так что насчет работы?}
-{Speech 4 Answer 5}{}{Вы можете мне рассказать о Кламате?}
-{Speech 4 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 4 Answer Exit}{}{До свидания.}
-{Speech 5}{}{Нормальное место... брамины вырастают на заглядение. Я только с ними и общаюсь последнее время, и живется мне здесь неплохо.}
-{Speech 5 Answer 4}{}{У меня есть еще вопросы...}
-{Speech 5 Answer Exit}{}{Понятно. Спасибо за информацию. До свидания.}
-{Speech 6}{}{Я продаю браминов людям, целиком либо частями, в виде вяленого мяса. А на вырученные деньги устраиваю себе вечера отдыха в местном борделе. Чего и тебе советую.}
-{Speech 6 Answer Exit}{}{Ясно. До свидания.}
-{Speech 6 Answer 4}{}{У меня есть еще вопросы...}
-{Speech 6 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 7}{}{Уже появились двуногие брамины. Куда катится мир.}
-{Speech 8}{}{Ладно. У меня сейчас в загоне три брамина. Нужно поставить им прививки от сезонной лихорадки. Берешься?}
-{Speech 8 Answer 9}{}{Конечно берусь.}
-{Speech 8 Answer Exit}{}{Скотоводы достали своими поручениями. Вы чё все такие ленивые.}
-{Speech 9}{}{Держи шприцы. Просто колешь в любое место кроме головы.}
-{Speech 9 Answer Exit}{}{Хорошо, не волнуйся. Я не промахнусь.}
-{Speech 9 Answer Exit*}{}{Не, что-то расхотелось. Извини.}
-{Speech 10}{}{Как там, всё нормально?}
-{Speech 10 Answer 11}{}{Разумеется. Я практически кадровый ветеринар. Уже...}
-{Speech 10 Answer Exit}{}{Мне нужно морально подготовиться.}
-{Speech 11}{}{Ну вот, получи свои денежки. }
-{Speech 11 Answer Exit}{}{Денежки - это хорошо. }
-{Speech 12}{}{Привет. Чего тебе?}
-{Speech 12 Answer 3}{}{Я ищу где можно заработать..}
-{Speech 12 Answer 5}{}{Вы можете мне рассказать о Кламате?}
-{Speech 12 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 12 Answer Exit}{}{Ничего, просто мимо проходил@sex@||а|.}
-{Speech 13}{}{Чего хочешь?}
-{Speech 13 Answer 3}{}{Я ищу где можно заработать..}
-{Speech 13 Answer 5}{}{Вы можете мне рассказать о Кламате?}
-{Speech 13 Answer 6}{}{Чем ты здесь занимаешься?}
-{Speech 13 Answer Exit}{}{На самом деле ничего, пока.}
+{Name}{}{Hishtakisaritanor}
+{DescAliveShort}{}{A short, slant-eyed man in a quilted cotton jacket.}
+{DescAliveFull}{}{Clearly a newcomer. You never know who you'll run into here in America.}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 7}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 12}{}{Acquainted.}
+{Speech 1 Answer 10}{}{got the vaccination job}
+{Speech 2}{}{Hi. I'm Hishtakisaritanor, the local brahmin trader. How can I help you?}
+{Speech 2 Answer 3}{}{I'm looking for a place to earn some money..}
+{Speech 2 Answer 5}{}{Can you tell me about Klamath?}
+{Speech 2 Answer 6}{}{What do you do here?}
+{Speech 2 Answer Exit}{}{Goodbye.}
+{Speech 3}{}{Well... if you can pronounce my name correctly, I'll give you a job...}
+{Speech 3 Answer 4}{}{Khish...Hipsh...Hippezh..eeeh}
+{Speech 3 Answer Exit}{}{I won't even try.}
+{Speech 4}{}{Alright, don't sweat it. What do you want?}
+{Speech 4 Answer 8}{}{So what about the work?}
+{Speech 4 Answer 5}{}{Can you tell me about Klamath?}
+{Speech 4 Answer 6}{}{What do you do here?}
+{Speech 4 Answer Exit}{}{Goodbye.}
+{Speech 5}{}{A decent place... the brahmin grow up just lovely. I mostly only deal with them these days, and I live pretty well here.}
+{Speech 5 Answer 4}{}{I have more questions...}
+{Speech 5 Answer Exit}{}{I see. Thanks for the info. Goodbye.}
+{Speech 6}{}{I sell brahmin to people, whole or in parts, as dried meat. And with the money I earn I treat myself to evenings off at the local brothel. I recommend you do the same.}
+{Speech 6 Answer Exit}{}{Got it. Goodbye.}
+{Speech 6 Answer 4}{}{I have more questions...}
+{Speech 6 Answer 6}{}{What do you do here?}
+{Speech 7}{}{Now there are two-legged brahmin too. The world's going to hell.}
+{Speech 8}{}{Alright. I've got three brahmin in the pen right now. They need to be vaccinated against the seasonal fever. Are you up for it?}
+{Speech 8 Answer 9}{}{Sure, I'll do it.}
+{Speech 8 Answer Exit}{}{You ranchers are sick of your errands. Why are you all so lazy.}
+{Speech 9}{}{Here are the syringes. Just inject them anywhere except the head.}
+{Speech 9 Answer Exit}{}{Alright, don't worry. I won't miss.}
+{Speech 9 Answer Exit*}{}{Nah, I don't feel like it anymore. Sorry.}
+{Speech 10}{}{How's it going, everything alright?}
+{Speech 10 Answer 11}{}{Of course. I'm practically a career veterinarian. Already...}
+{Speech 10 Answer Exit}{}{I need to prepare myself mentally.}
+{Speech 11}{}{Here you go, take your money. }
+{Speech 11 Answer Exit}{}{Money is a good thing. }
+{Speech 12}{}{Hi. What do you need?}
+{Speech 12 Answer 3}{}{I'm looking for a place to earn some money..}
+{Speech 12 Answer 5}{}{Can you tell me about Klamath?}
+{Speech 12 Answer 6}{}{What do you do here?}
+{Speech 12 Answer Exit}{}{Nothing, just passing by.}
+{Speech 13}{}{What do you want?}
+{Speech 13 Answer 3}{}{I'm looking for a place to earn some money..}
+{Speech 13 Answer 5}{}{Can you tell me about Klamath?}
+{Speech 13 Answer 6}{}{What do you do here?}
+{Speech 13 Answer Exit}{}{Actually nothing, for now.}

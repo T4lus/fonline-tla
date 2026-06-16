@@ -330,104 +330,104 @@ Speech 115 # Иди к едрене матери, я не хочу больше 
 [Text engl]
 {Name}{}{Gaizum}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Знакомится в первый раз.}
-{Speech 1 Answer 2*}{}{повторные встречи, каравана нет}
-{Speech 1 Answer 4}{}{можно взять квест на караван}
-{Speech 1 Answer 20}{}{Низкий интеллект.}
-{Speech 1 Answer 95}{}{Взял квест, но пришёл слишком рано.}
-{Speech 1 Answer 98}{}{энкаунтер}
-{Speech 1 Answer 100}{}{Игрок убил караванщика на энкаунтере.}
-{Speech 1 Answer 101}{}{Эта сволочь сбежала с каравана!}
-{Speech 1 Answer 102}{}{Эта сволочь пыталась ограбить караван!}
-{Speech 1 Answer 103}{}{Этот человек погиб, защищая караван!}
-{Speech 1 Answer 104}{}{Проводника убили во время каравана}
-{Speech 1 Answer 105}{}{Пришел в СФ}
-{Speech 1 Answer 106}{}{Пришел в арройо}
-{Speech 2}{}{Приветствую, я Гайцум Гагазат. Я вожу караваны отсюда  в Сан-Франциско. Мне не помешает  надежный человек для охраны груза. Хочешь пойти с нами?}
-{Speech 2 Answer 4}{}{Да. Что за караван ты водишь?}
-{Speech 2 Answer 5}{}{Какого числа отправляется твой караван?}
-{Speech 2 Answer 9}{}{Тебе нужен охранник? Я хотел бы записаться.}
-{Speech 2 Answer 10}{}{Тебе нужен охранник? Я хотела бы записаться.}
-{Speech 2 Answer 3}{}{Нет, я тут вообще случайно.}
-{Speech 3}{}{Тогда проваливай, у меня много дел.}
-{Speech 4}{}{Я управляю караваном между Новой Калифорнийской республикой и Реддингом. Нам всегда нужна дополнительная охрана. Мы уезжаем из города 11 числа каждого месяца. Если хочешь ехать с нами, приходи сюда в этот день.}
-{Speech 4 Answer 6}{}{Во сколько одиннадцатого?}
-{Speech 4 Answer 8}{}{А что возите?}
-{Speech 4 Answer 7}{}{Что платишь?}
-{Speech 4 Answer 9}{}{Нужна охрана, говоришь? Я готов пойти с вами.}
-{Speech 4 Answer 10}{}{Нужна охрана, говоришь? Я готова пойти с вами.}
-{Speech 4 Answer Exit}{}{Понятно, это всё.}
-{Speech 5}{}{Ровно в 19 часов. Мы ходим во Фриско и обратно. Если хочешь идти с нами, сможешь найти меня после обеда на этом же месте.}
-{Speech 5 Answer 6}{}{Во сколько одиннадцатого?}
-{Speech 5 Answer 8}{}{А что возите?}
-{Speech 5 Answer 7}{}{Что платишь?}
-{Speech 5 Answer 9}{}{Нужна охрана, говоришь? Я готов пойти с вами.}
-{Speech 5 Answer 10}{}{Нужна охрана, говоришь? Я готова пойти с вами.}
-{Speech 5 Answer Exit}{}{Понятно, это всё.}
-{Speech 6}{}{Отправляемся ровно в 8 утра, так что будь тут уже часов с семи. Задерживаться и ждать мы никого не будем, чтоб потом не тащиться под солнцем. А так к полудню как раз сделаем привал.}
-{Speech 6 Answer 8}{}{Что повезём?}
-{Speech 6 Answer 7}{}{Окей, а сколько платишь?}
-{Speech 6 Answer 9}{}{Я готов пойти с вами.}
-{Speech 6 Answer 10}{}{Я готова пойти с вами.}
-{Speech 6 Answer Exit}{}{Понятно, это всё.}
-{Speech 7}{}{4000 баксов по прибытию на место. Но не думай, что это будут лёгкие деньги. Мы идём прямо по Долине Смерти, если тебе это о чём-нибудь говорит. Столько же - если решишься идти с нами обратно.}
-{Speech 7 Answer 8}{}{Что повезём?}
-{Speech 7 Answer 9}{}{Я готов пойти с вами.}
-{Speech 7 Answer 10}{}{Я готова пойти с вами.}
-{Speech 7 Answer Exit}{}{Понятно, это всё.}
-{Speech 8}{}{Золото, ясен хер. Что ещё можно вывести из этого захолустного городишки? Обратно гоним браминов.}
-{Speech 8 Answer 7}{}{Окей, а сколько платишь?}
-{Speech 8 Answer 9}{}{Я готов пойти с вами.}
-{Speech 8 Answer 10}{}{Я готова пойти с вами.}
-{Speech 8 Answer Exit}{}{Понятно, это всё.}
-{Speech 9}{}{Отлично, нам нужны парни с яйцами.}
-{Speech 9 Answer 12}{}{[Далее]}
-{Speech 9 Answer Exit}{}{Ладно, я вернусь ближе к делу.}
-{Speech 10}{}{Отлично, нам нужны парни с яй... Эй, а ты уверена, что справишься с этим?}
-{Speech 10 Answer 11}{}{Может, у меня и нет своих яиц, но я неплохо стреляю по чужим.}
-{Speech 10 Answer 11*}{}{Я справлюсь, не волнуйся. Я как минимум могу бегать и вкалывать другим стимпаки.}
-{Speech 10 Answer Exit}{}{Надо подумать. Вернусь, когда будут яйца.}
-{Speech 11}{}{Окей... Тогда слушай сюда.}
-{Speech 11 Answer 12}{}{[Далее]}
-{Speech 12}{}{Приходи сюда 11-го утром. Отправляемся в 8, я буду ждать тут с семи. Опоздавших не ждём.}
-{Speech 12 Answer Exit}{}{Нет проблем, Стэнвелл. Вернусь 11-го в 7.}
-{Speech 12 Answer Exit*}{}{Не уверен@sex@||а|, что точно пойду, но если надумаю - приду.}
-{Speech 13}{}{Мы ещё не готовы к отправке. Приходи 11-го в 7.}
-{Speech 14}{}{С минуты на минуту. Будь поблизости, иначе мы можем подумать, что ты решил не ехать.}
-{Speech 14 Answer Exit}{}{Заметано.}
-{Speech 15}{}{Давай быстрей! Не успеешь до восьми - останешься в этой дыре.}
-{Speech 15 Answer Exit}{}{Да я мигом.@@И глазом не успеешь моргнуть, вернусь.@@Я скоро.}
-{Speech 20}{}{Бууу.@@Уйди отсюда.@@Не раздражай меня.}
-{Speech 95}{}{Эй, Белоснежка, готов@sex@||а| пуститься в путь?}
-{Speech 95 Answer 14}{}{Да, когда отправляемся?}
-{Speech 95 Answer 15}{}{Подожди, мне надо кое-что закончить.}
-{Speech 95 Answer Exit}{}{Не думаю, что буду охранять караван в этот раз.}
-{Speech 98}{}{Ну что, погнали?@@Вроде всё тихо. Готов@sex@||а| ехать?@@Покоцали дальше? А то у меня такое ощущение, что сейчас из-за камня выбежит дюжина кентавров.@@Задницей чую, что тут лучше не задерживаться.  Готов@sex@||а| ехать?@@Мы можем двигаться дальше. Готов@sex@||а|?}
-{Speech 98 Answer Exit}{}{Да, погнали.@@Поехали!@@В путь!@@Да, мне не терпится отсюда свалить.}
-{Speech 98 Answer Exit*}{}{Подожди, шнурок завяжу.@@Секунду, мне надо в туалет.@@Подожди, я гляну, можно ли тут что подобрать.@@Подождите, мне надо передохнуть пару минут.}
-{Speech 100}{}{Не ожидал@sex@||а| меня увидеть, а?! @sex@|Ублюдок||}
-{Speech 101}{}{Эй, а не ты ли @sex@|тот засранец|та засранка|, что кинул@sex@||а| караван прямо во время пути в прошлый раз?}
-{Speech 101 Answer 115}{}{Стэнвелл, извини, я тогда очень сильно испугал@sex@|ся|ась|. Но я снова хочу охранять караваны!}
-{Speech 101 Answer 114}{}{Что?! Да я же сказал@sex@||а|, что мне надо отойти @sex@|поссать|сделать пи-пи|, а вы куда-то свалили, бросили меня посреди Пустоши, идиоты.}
-{Speech 101 Answer Exit}{}{Эээ... Ты не должен был меня видеть! Пока!}
-{Speech 102}{}{Чем ты решил@sex@||а| испортить этот хороший солнечный день на этот раз?@@Проваливай, я больше не хочу иметь с тобой дела.@@Отвали, мне на тебя даже патронов жалко.@@Ещё раз сунешься сюда - отправлю быстрым путём к халобогам.}
-{Speech 103}{}{О! @pname@, если не ошибаюсь? Рад тебя видеть снова. Ты тогда храбро поступил@sex@||а|, но извини, мы уже не смогли спасти тебя. Ты всё ещё с нами?}
-{Speech 103 Answer 12}{}{Да, я всё ещё хочу охранять караваны.}
-{Speech 103 Answer 111}{}{Нет, у меня больше нет никакого желания этим заниматься. Просто хотел@sex@||а| проведать тебя.}
-{Speech 104}{}{Не ожидал меня увидеть? Ха! Хабологи творят чудеса. Я снова в строю и я снова вожу караваны. Ты всё ещё хочешь с нами ходить?}
-{Speech 104 Answer 12}{}{Да.}
-{Speech 104 Answer 111}{}{Нет.}
-{Speech 105}{}{Вот твоя зарплата. Мы будем стоять тут четыре часа, после чего отправляемся назад в Реддинг. Пойдёшь с нами?}
-{Speech 105 Answer 110}{}{Да, ждите меня. В этом браминьем загоне нечего ловить.}
-{Speech 105 Answer 111}{}{Нет, у меня тут есть дела.}
-{Speech 106}{}{Вот твои деньги. Отличная работа, @sex@|сынок|дорогуша|. [Подмигивает] Захочешь идти с нами ещё раз - возвращайся одиннадцатого. А мне пока надо отдохнуть и трахнуть жену.}
-{Speech 106 Answer Exit}{}{Удачи, Стэнвелл. Предохраняйся. [Подмигнуть]}
-{Speech 106 Answer Exit*}{}{Чёрта-с два я буду ещё раз ходить за такие деньги.}
-{Speech 110}{}{Отлично, пока есть время - можешь закинуть деньги в банк и закупиться боеприпасами у Бастера. Я пока отведаю игуанки.}
-{Speech 110 Answer Exit}{}{[Выход]}
-{Speech 111}{}{Если передумаешь - возвращайся.}
-{Speech 113}{}{Будь поблизости, скоро выходим.}
-{Speech 114}{}{Хм... [Задумывается] Да, может и было что-то такое. Ладно. Ты всё ещё хочешь работать с нами?}
-{Speech 114 Answer 12}{}{Да.}
-{Speech 114 Answer Exit}{}{Да.}
-{Speech 115}{}{Иди к чёрту, я не хочу больше иметь с тобой дела.}
+{Speech 1 Answer 2}{}{First meeting.}
+{Speech 1 Answer 2*}{}{repeat meetings, no caravan}
+{Speech 1 Answer 4}{}{can take the caravan quest}
+{Speech 1 Answer 20}{}{Low intellect.}
+{Speech 1 Answer 95}{}{Took the quest, but came too early.}
+{Speech 1 Answer 98}{}{encounter}
+{Speech 1 Answer 100}{}{Player killed a caravaneer at an encounter.}
+{Speech 1 Answer 101}{}{This scum fled the caravan!}
+{Speech 1 Answer 102}{}{This scum tried to rob the caravan!}
+{Speech 1 Answer 103}{}{This person died defending the caravan!}
+{Speech 1 Answer 104}{}{The guide was killed during the caravan}
+{Speech 1 Answer 105}{}{Arrived in SF}
+{Speech 1 Answer 106}{}{Arrived in Arroyo}
+{Speech 2}{}{Greetings, I'm Gaizum Gagazat. I run caravans from here to San Francisco. I could use a reliable man to guard the cargo. Want to come with us?}
+{Speech 2 Answer 4}{}{Yes. What kind of caravan do you run?}
+{Speech 2 Answer 5}{}{What day does your caravan leave?}
+{Speech 2 Answer 9}{}{You need a guard? I'd like to sign up.}
+{Speech 2 Answer 10}{}{You need a guard? I'd like to sign up.}
+{Speech 2 Answer 3}{}{No, I'm just here by chance.}
+{Speech 3}{}{Then get lost, I've got plenty to do.}
+{Speech 4}{}{I run a caravan between the New California Republic and Redding. We always need extra guards. We leave town on the 11th of every month. If you want to come with us, show up here on that day.}
+{Speech 4 Answer 6}{}{What time on the eleventh?}
+{Speech 4 Answer 8}{}{What do you haul?}
+{Speech 4 Answer 7}{}{What's the pay?}
+{Speech 4 Answer 9}{}{Need guards, you say? I'm ready to go with you.}
+{Speech 4 Answer 10}{}{Need guards, you say? I'm ready to go with you.}
+{Speech 4 Answer Exit}{}{I see, that's all.}
+{Speech 5}{}{Sharp at 19:00. We run to Frisco and back. If you want to come with us, you can find me in the afternoon at this same spot.}
+{Speech 5 Answer 6}{}{What time on the eleventh?}
+{Speech 5 Answer 8}{}{What do you haul?}
+{Speech 5 Answer 7}{}{What's the pay?}
+{Speech 5 Answer 9}{}{Need guards, you say? I'm ready to go with you.}
+{Speech 5 Answer 10}{}{Need guards, you say? I'm ready to go with you.}
+{Speech 5 Answer Exit}{}{I see, that's all.}
+{Speech 6}{}{We set off sharp at 8 in the morning, so be here by seven. We won't hang around waiting for anyone, no use slogging under the sun later. This way we'll make camp right around noon.}
+{Speech 6 Answer 8}{}{What will we haul?}
+{Speech 6 Answer 7}{}{Okay, and how much do you pay?}
+{Speech 6 Answer 9}{}{I'm ready to go with you.}
+{Speech 6 Answer 10}{}{I'm ready to go with you.}
+{Speech 6 Answer Exit}{}{I see, that's all.}
+{Speech 7}{}{4000 bucks on arrival. But don't think it'll be easy money. We go straight through Death Valley, if that means anything to you. The same again if you decide to come back with us.}
+{Speech 7 Answer 8}{}{What will we haul?}
+{Speech 7 Answer 9}{}{I'm ready to go with you.}
+{Speech 7 Answer 10}{}{I'm ready to go with you.}
+{Speech 7 Answer Exit}{}{I see, that's all.}
+{Speech 8}{}{Gold, what the hell else. What else can you haul out of this backwater dump? On the way back we drive brahmin.}
+{Speech 8 Answer 7}{}{Okay, and how much do you pay?}
+{Speech 8 Answer 9}{}{I'm ready to go with you.}
+{Speech 8 Answer 10}{}{I'm ready to go with you.}
+{Speech 8 Answer Exit}{}{I see, that's all.}
+{Speech 9}{}{Great, we need guys with balls.}
+{Speech 9 Answer 12}{}{[Next]}
+{Speech 9 Answer Exit}{}{Alright, I'll come back when it's time.}
+{Speech 10}{}{Great, we need guys with bal... Hey, you sure you can handle this?}
+{Speech 10 Answer 11}{}{Maybe I don't have balls of my own, but I'm a pretty good shot at other people's.}
+{Speech 10 Answer 11*}{}{I'll manage, don't worry. At the very least I can run around and jab stimpaks into people.}
+{Speech 10 Answer Exit}{}{Need to think about it. I'll come back when I've got balls.}
+{Speech 11}{}{Okay... Then listen up.}
+{Speech 11 Answer 12}{}{[Next]}
+{Speech 12}{}{Come back here on the morning of the 11th. We leave at 8, I'll be waiting here from seven. We don't wait for latecomers.}
+{Speech 12 Answer Exit}{}{No problem, Stanwell. I'll be back on the 11th at 7.}
+{Speech 12 Answer Exit*}{}{Not sure I'll definitely go, but if I make up my mind, I'll come.}
+{Speech 13}{}{We're not ready to leave yet. Come back on the 11th at 7.}
+{Speech 14}{}{Any minute now. Stay close, or we might think you decided not to go.}
+{Speech 14 Answer Exit}{}{Got it.}
+{Speech 15}{}{Hurry up! Don't make it by eight and you're stuck in this hole.}
+{Speech 15 Answer Exit}{}{I'll be quick.@@Back before you can blink.@@I'll be right back.}
+{Speech 20}{}{Boo.@@Get out of here.@@Don't annoy me.}
+{Speech 95}{}{Hey, Snow White, ready to hit the road?}
+{Speech 95 Answer 14}{}{Yes, when do we leave?}
+{Speech 95 Answer 15}{}{Wait, I have to finish something.}
+{Speech 95 Answer Exit}{}{I don't think I'll be guarding the caravan this time.}
+{Speech 98}{}{Well, shall we go?@@Seems quiet enough. Ready to move?@@Push on? I've got this feeling a dozen centaurs are about to charge out from behind a rock any second.@@My gut tells me we shouldn't linger here. Ready to move?@@We can move on. Ready?}
+{Speech 98 Answer Exit}{}{Yes, let's go.@@Move out!@@On the road!@@Yeah, I can't wait to get out of here.}
+{Speech 98 Answer Exit*}{}{Wait, let me tie my shoelace.@@One second, I need to use the bathroom.@@Hold on, let me see if there's anything to pick up here.@@Wait, I need to rest a couple of minutes.}
+{Speech 100}{}{Didn't expect to see me, huh?! @sex@|Bastard||}
+{Speech 101}{}{Hey, aren't you the @sex@|asshole|asshole| who ditched the caravan right in the middle of the journey last time?}
+{Speech 101 Answer 115}{}{Stanwell, sorry, I got really scared back then. But I want to guard caravans again!}
+{Speech 101 Answer 114}{}{What?! I told you I had to step away to @sex@|take a piss|go pee|, and you all cleared off somewhere, left me in the middle of the Wasteland, you idiots.}
+{Speech 101 Answer Exit}{}{Uh... You weren't supposed to see me! Bye!}
+{Speech 102}{}{How do you plan to ruin this fine sunny day this time?@@Get lost, I don't want anything to do with you anymore.@@Buzz off, you're not even worth the ammo.@@Show up here one more time and I'll send you the express way to the hubologists.}
+{Speech 103}{}{Oh! @pname@, if I'm not mistaken? Glad to see you again. You acted bravely back then, but sorry, we couldn't save you. Are you still with us?}
+{Speech 103 Answer 12}{}{Yes, I still want to guard caravans.}
+{Speech 103 Answer 111}{}{No, I have no desire to do this anymore. Just wanted to check on you.}
+{Speech 104}{}{Didn't expect to see me? Ha! The hubologists work miracles. I'm back in action and running caravans again. Do you still want to come with us?}
+{Speech 104 Answer 12}{}{Yes.}
+{Speech 104 Answer 111}{}{No.}
+{Speech 105}{}{Here's your pay. We'll be standing here four hours, then we head back to Redding. Coming with us?}
+{Speech 105 Answer 110}{}{Yes, wait for me. There's nothing worth doing in this brahmin pen.}
+{Speech 105 Answer 111}{}{No, I've got things to do here.}
+{Speech 106}{}{Here's your money. Great work, @sex@|son|sweetheart|. [Winks] If you want to come with us again, come back on the eleventh. As for me, I need to rest and screw my wife.}
+{Speech 106 Answer Exit}{}{Good luck, Stanwell. Stay safe. [Wink]}
+{Speech 106 Answer Exit*}{}{Like hell I'll ever go again for that kind of money.}
+{Speech 110}{}{Great, while there's time you can stash your money in the bank and stock up on ammo at Buster's. I'll go grab some iguana.}
+{Speech 110 Answer Exit}{}{[Exit]}
+{Speech 111}{}{If you change your mind, come back.}
+{Speech 113}{}{Stay close, we're leaving soon.}
+{Speech 114}{}{Hmm... [Ponders] Yeah, maybe there was something like that. Fine. Do you still want to work with us?}
+{Speech 114 Answer 12}{}{Yes.}
+{Speech 114 Answer Exit}{}{Yes.}
+{Speech 115}{}{Go to hell, I don't want anything to do with you anymore.}

@@ -338,109 +338,109 @@ Speech 28 # Эй, кого ты пытаешься обмануть? Это пр
 {DescAliveFull}{}{You see Harold. This ghoul seems to be as old as time itself.}
 {DescAliveFull}{}{You see Harold. This old guy hasn't broken down yet.}
 {DescAliveFull}{}{You see Harold. Look like his tree is bearing fruits!}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 6}{}{Имя игрока - Неизвестно [Всем привет от TEMPLAR`а ^_^]}
-{Speech 1 Answer 2}{}{Лояльность - Враг}
-{Speech 1 Answer 3}{}{Лояльность - Нейтрален}
-{Speech 1 Answer 4}{}{Лояльность - Друг}
-{Speech 1 Answer 4*}{}{Лояльность - Собрат}
-{Speech 2}{}{Это опять ты, ублюдок? Что, вернулся за добавкой?! Ну, сейчас я тебе наваляю.}
-{Speech 2 Answer Exit}{}{Ты мне некогда не нравился, гад, сейчас я тебе снова сломаю твою гнилую челюсть.}
-{Speech 2 Answer 5}{}{Стой, подожди! Я понял свою ошибку, вот держи 100 монет в знак дружбы, прости за всё.}
-{Speech 3}{}{Так чем я могу тебе помочь, гладкокожий?@@Что тебе нужно?@@Зашёл поздороватся?@@Давно я тебя здесь не видел.@@Всё бродишь по пустоши?@@А мы тут Гекко отстраиваем...@@О, ты как раз к ужину зашёл!@@Что мне тебе расказать?@@Устал я что-то, что там у тебя?@@Хочешь что-то сказать?@@Что ты хочешь узнать?@@О чём будем говорить?@@Какие дела обсудим?}
-{Speech 3 Answer 22}{}{Эй, Гарольд, угадай, что у меня для тебя есть? Немного урана, чтобы порадовать старого гуля!}
-{Speech 3 Answer 28}{}{Эй, Гарольд, я притащил тебе кусок самого настоящего урана на продажу!}
-{Speech 3 Answer 10}{}{Что тут интересного происходит?}
-{Speech 3 Answer 11}{}{Расскажи о городе.}
-{Speech 3 Answer 13}{}{Ты, вроде, военным раньше был, что можешь расказать по этому поводу?}
-{Speech 3 Answer 9}{}{Может помочь чего надо?}
-{Speech 3 Answer 15}{}{Давай обговорим наши тренировки с оружием.}
-{Speech 3 Answer Exit}{}{Так зашёл поздороватся, не болей. [Уходите]}
-{Speech 4}{}{Рад тебя видеть, друг, заходи располагайся.}
-{Speech 4 Answer 22}{}{Эй, Гарольд, угадай, что у меня для тебя есть? Немного урана, чтобы порадовать старого гуля!}
-{Speech 4 Answer 28}{}{Эй, Гарольд, я притащил тебе кусок самого настоящего урана на продажу!}
-{Speech 4 Answer 3}{}{Здарова, я тоже рад тебя видеть, раскажи мне о городе.}
-{Speech 4 Answer Exit}{}{Привет и пока, я тороплюсь. [Уходите]}
-{Speech 5}{}{[Берёт деньги] Хм, а ты оказывается не такой уж подонок, каким показался на первый взгляд. Но не раслабляйся - я всё равно слежу за тобой, и тебе лучше в этот раз следить за своими руками.}
-{Speech 5 Answer 3}{}{Да, накатило что-то, не принимай близко к сердцу.}
-{Speech 5 Answer Exit}{}{Ну ладно, ладно, я понял. Пойду лучше займусь своими делами. [Уходите]}
-{Speech 6}{}{Здравствуйте, я Гарольд, мэр этого славного городка.}
-{Speech 6 Answer 7}{}{Осторожность - моё второе имя. Кстати я @pname@.}
-{Speech 6 Answer 8}{}{Здравствуйте, господин мэр! [Треплите ему руку]}
-{Speech 6 Answer Exit}{}{Ага, как скажешь, я вообще-то мимо проходил.}
-{Speech 7}{}{@pname@? Хорошее имя, у меня до войны кошака так звали, были раньше такие небольшие волосатые животные, их люди дома держали. Правда сейчас их уже не осталось, съели наверное.}
-{Speech 7 Answer 3}{}{Да, да! Я таких на картинках в журнале видел, вроде "Хрустящий Кот" назывался он. Ну ладно, ближе к делу. Мне надо разобраться с некоторыми вещами.}
-{Speech 7 Answer Exit}{}{Да ну, бред все это. Мне пора.}
-{Speech 8}{}{[Внезапно в руке мертвяка что-то щёлкнуло] Опа, что это было?.. [Мертвяк жмёт кистью и в ответ происходит ответный щелчок] Во, теперь всё отлично. А ты забавный.}
-{Speech 8 Answer 3}{}{[Бьёте его по плечу] Ну, Гарольд, давай к делу.}
-{Speech 8 Answer Exit}{}{[Смотрите на руку, потом на Гарольда, снова на руку] Очень приятно, но мне кажется пора. [В спешке уходите]}
-{Speech 9}{}{Нет, вроде бы пока не нужна. Но ты знаешь, я бы не отказался от пожертвования в тысячу монет на нужды нашего города. Говорят, деньги сближают людей. [Хитро улыбается]}
-{Speech 9 Answer 3}{}{Хм, уболтал, чертяка языкастый. Вот тебе 1000 монет - пусть этот город станет ещё лучше!}
-{Speech 9 Answer Exit}{}{У меня столько нет.}
-{Speech 9 Answer Exit*}{}{Сближать? Мы и так в одной комнате находимся, куда ещё ближе. К тому же у меня нет лишних денег.}
-{Speech 10}{}{Народу много в последнее время в синих трико, как у тебя. Что-то рыщут, бродят, бегают, ящики тут у меня все переболамутили... К счастью, в них нечего ценого нет [Хе-Хе]. Электростанция работает, посевы созревают... Вобшем, всё у нас хорошо.}
-{Speech 10 Answer 3}{}{А, ясно. У меня есть ещё вопросы.}
-{Speech 10 Answer Exit}{}{Вот оно как, ну ладно, пора мне... [Уходите]}
-{Speech 11}{}{У нас маленький городишко. Многие мертвяки пришли из Некрополиса, что лежит далеко на юге. Живем тем что добываем и продаем энергию, занимаемся фермерством. Загляни в местный бар - там частенько бывает довольно шумно и всегда можно услышать пару новых баек от Вузза.}
-{Speech 11 Answer 12}{}{А торговцы у вас водятся?}
-{Speech 11 Answer 17}{}{Эй, Гарольд, а чем вы свою станцию кочегарите? Ещё довоенным топливом, небось?}
-{Speech 11 Answer Exit}{}{Стой, я всё понял, сам найду, у меня от твоего тарахтения голова заболела. [Уходите]}
-{Speech 12}{}{Если пойдешь на свалку, там прямо у входа увидишь лачугу Перси. Так вот, у него часто всякие нужные вещички оседают. Где-то посреди свалки должен быть Скитер, он починкой и ремонтом вских фигулин занимается.}
-{Speech 12 Answer 3}{}{Ага, запомнил, у меня ещё вопросы.}
-{Speech 12 Answer Exit}{}{Ясно, теперь понятно. Пойду я тогда осмотрю город.}
-{Speech 13}{}{До войны я был военным. Служил капралом в армии США и одним из первых испробовал моторизированую боевую броню при борьбе с китайцами. Эти узкоглазые впадали в панику при виде наших стальных легионов. Но через пару лет посыпались боеголовки как снег на голову и я скрылся в убежище...}
-{Speech 13 Answer 14}{}{И как навыки ещё остались?}
-{Speech 13 Answer Exit}{}{Занимательная история, ну я пошёл. [Уходите]}
-{Speech 14}{}{Я могу научить тебя стрелять из лёгкого огнестрельного оружия, как правильно обращаться с ножом, и как эффективно двигаться в рукопашном бою. Ты мне действительно нравишся, я редко кому рассказывал о своём прошлом.}
-{Speech 14 Answer 3}{}{Мне кажется, это будет очень полезно.}
-{Speech 14 Answer Exit}{}{Да, оказывается вы, мертвяки, такие же люди как и мы. Пойду опрокину стаканчик за тебя. [Уходите]}
-{Speech 15}{}{Я довольно занятой, сам понимаешь. Думаю я преподам пару уроков ну, скажем... За 2200 монет.}
-{Speech 15 Answer 16}{}{Хорошо, старик, думаю игра стоит свеч. Вот твои 2200 монет. Сделай из меня Рембо!}
-{Speech 15 Answer 3}{}{У меня нет с собой такой суммы.}
-{Speech 15 Answer Exit}{}{Старик, жди здесь. Сейчас я сгоняю за деньгами! [Убегаете]}
-{Speech 16}{}{Ну вот, на сегодня думаю хватит. Теперь ты ещё лучше умеешь обращаться с оружием. [Улыбается]}
-{Speech 16 Answer 3}{}{Ага, я всё понял, у меня к тебе ещё пара вопросов.}
-{Speech 16 Answer Exit}{}{Да, это было познавательно, пойду опробую новые знания.}
-{Speech 17}{}{Когда мы только пришли, то ещё могли использовать довоенное топливо. А потом долгое время закупали уран в Брокен Хиллс, приятно было иметь с ними дело. Мы, мертвяки, никогда не обманываем друг друга.}
-{Speech 17 Answer 18}{}{Эй, а почему в прошедшем времени? Неужели поссорились?}
-{Speech 17 Answer 3}{}{У меня есть ещё вопросы...}
-{Speech 17 Answer Exit}{}{Это всё, мне пора!}
-{Speech 18}{}{Да всё эти хреновы хабологи. Одна станция репликации жрёт энергии больше, чем целый город. Тянуть провода до нас они не хотят, устанавливают мини-реакторы. Ну и, конечно, им нужен сраный уран, много его! Поэтому они дают караванщикам хорошую цену, которую мы уже не можем побить. Ох, не знаю, что будет, у нас запас на пять лет максимум.}
-{Speech 18 Answer 19}{}{Что, может, надо как-то помочь с закупкой?}
-{Speech 18 Answer 3}{}{Дааа, вечно эти хабологи куда-нибудь влезут. Ладно, у меня есть ещё вопрос...}
-{Speech 18 Answer Exit}{}{Спасибо за рассказ, мне пора!}
-{Speech 19}{}{Ооо, если ты сможешь закупать уран в Брокен Хиллс и доставлять его сюда, я буду щедро оплачивать твои затраты. Где-то по 100 баксов за килограмм обогащённого урана.}
-{Speech 19 Answer 20}{}{100 баксов? Звучит маловато. Что мне мешает пойти и продать за хорошую цену хабологам?}
-{Speech 19 Answer 3}{}{Ух, я даже и не знаю. Надо подумать. Ладно, у меня тут назрел ещё вопрос, вопросище!}
-{Speech 19 Answer 21}{}{100 баксов? Так, если тащить 20 килограмм не напрягаясь, то это уже две штуки. А если взять ещё и друзей... Звучит как дело по мне. Эй, гуль, я берусь. Скоро у тебя будет уран, хороший, очищенный, теплёнький уран.}
-{Speech 19 Answer Exit}{}{Эй, гуль, да тебе мозг проело дерево! Иди таскай свой уран сам за такие бабки. Или просто полезай в реактор - сам, наверное, излучаешь как два урановых стержня.}
-{Speech 20}{}{Хабологи имеют дело только с крупными партиями и известными дельцами, они просто не обратят на тебя внимания. Нам хватит и того, что может изредка приносить на себе пара человек.}
-{Speech 20 Answer Exit}{}{Эй, ты не понял, я и есть хозяин крупной компании. Пока, спасибо за наводку на скупщиков.}
-{Speech 20 Answer 21}{}{Ну ладно, предположим, я соглашаюсь. Ничего не гарантирую, но могу в один день заявиться с партией урана.}
-{Speech 20 Answer 21*}{}{Окей, гуль, мы будем делать бизнес! Жди меня и я достану тебе какого-нибудь супер-пупер обогащённого урана.}
-{Speech 20 Answer 3}{}{Знаешь, я подумаю над твоим предложением, а то мне оно как снег на голову. Не знаю, что такое "снег", но так говорили у меня дома. Да, и это, мне тут ещё кое-что из-под тебя нужно...}
-{Speech 21}{}{Смотри, не таскай уран в карманах, а то не будет стоять!@@Смотри, не облучись сильно, а то будешь как я!@@Если собараешься заводить детей, не таскай уран в рюкзаке, пользуйся тачкой!@@Не грей об уран руки по ночам, а то их отрежут и нечем будет дрочить, хе-хе!}
-{Speech 22}{}{Ух ты, да это сюрприз! Давай посмотрим, что ты мне притащил, нука-нука, порадуй старого гуля!}
-{Speech 22 Answer 23}{}{О какой! [Достать кусок обогащённого урана]}
-{Speech 22 Answer Exit}{}{Обломись гуль, я просто решил@sex@||а| тебя подразнить.}
-{Speech 22 Answer Exit*}{}{Мать твою, а уран-то спёрли!}
-{Speech 23}{}{Ооо, вижу отличный продукт центрифуги в Брокен Хиллс! На вид килограмм шесть, то есть тебе полагается 600 баксов!}
-{Speech 23 Answer 24}{}{Зашибись, меняемся!}
-{Speech 23 Answer 25}{}{Эй, гуль, а по мне так этот кусок вполне тянет на хорошие семь килограмм. Ну уж точно не меньше, чем шесть с половиной!}
-{Speech 23 Answer 26}{}{Эй, гуль, а по мне так этот кусок вполне тянет на хорошие семь килограмм. Ну уж точно не меньше, чем шесть с половиной!}
-{Speech 23 Answer Exit}{}{600 баксов мне бы реально пригодились, но что-то я думаю, что я оставлю этот уран себе. Слишком я к нему привязал@sex@|ся|ась| за время наших путешествий.}
-{Speech 23 Answer Exit*}{}{Мать твою, уран спёрли!}
-{Speech 24}{}{Вот твои деньги, мой друг, ты их честно заработал@sex@||а|.}
-{Speech 24 Answer 24}{}{Эй, я у меня есть ещё!@@Смотри, а у меня ещё один!@@Постой, это не всё, вот ещё один!@@А что у нас тут? Оп-па, ещё один кусок урана для Гарольда!@@Хэй, ты что, думал, что это всё? Вот ещё один!}
-{Speech 24 Answer Exit}{}{Спасибо, это всё!}
-{Speech 25}{}{Эй, не пытайся надурить старого гуля! Да я ураном торговал, когда тебе ещё с патронами от дробовика играть не доверяли! 600 баксов и не долларом больше, ты чебуррашка!}
-{Speech 25 Answer 24}{}{Окей, держи за 600.}
-{Speech 25 Answer Exit}{}{НЕТ ТЫ!}
-{Speech 25 Answer Exit*}{}{Мать твою, уран спёрли!}
-{Speech 26}{}{Э... Ну, да, мог и ошибиться, старый гуль, с кем не бывает. Они в Брокенах всегда по шесть кило делали, сколько себя помню! Окей, 700 баксов.}
-{Speech 26 Answer 27}{}{Супер, держи!}
-{Speech 26 Answer Exit}{}{А хабологи дают 800! Ахаха, умойся!}
-{Speech 27}{}{Вот твои деньги, мой друг, ты их честно заработал@sex@||а|.}
-{Speech 27 Answer 27}{}{Эй, я у меня есть ещё!@@Смотри, а у меня ещё один!@@Постой, это не всё, вот ещё один!@@А что у нас тут? Оп-па, ещё один кусок урана для Гарольда!@@Хэй, ты что, думал, что это всё? Вот ещё один!}
-{Speech 27 Answer Exit}{}{Спасибо, это всё!}
-{Speech 28}{}{Эй, кого ты пытаешься обмануть? Это простая руда, её ещё колошматить год в центрифугах!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 6}{}{Player name - Unknown [Greetings to all from TEMPLAR ^_^]}
+{Speech 1 Answer 2}{}{Loyalty - Enemy}
+{Speech 1 Answer 3}{}{Loyalty - Neutral}
+{Speech 1 Answer 4}{}{Loyalty - Friend}
+{Speech 1 Answer 4*}{}{Loyalty - Brother}
+{Speech 2}{}{It's you again, you bastard? What, came back for more?! Well, I'm gonna pound you now.}
+{Speech 2 Answer Exit}{}{I never liked you, scum, now I'll break your rotten jaw again.}
+{Speech 2 Answer 5}{}{Wait, hold on! I realized my mistake, here take 100 coins as a sign of friendship, sorry for everything.}
+{Speech 3}{}{So how can I help you, smoothskin?@@What do you need?@@Stopped by to say hello?@@Haven't seen you here in a while.@@Still wandering the wasteland?@@We're rebuilding Gecko here...@@Oh, you came right in time for dinner!@@What should I tell you?@@I'm a bit tired, what have you got there?@@Want to say something?@@What do you want to know?@@What shall we talk about?@@What business shall we discuss?}
+{Speech 3 Answer 22}{}{Hey, Harold, guess what I've got for you? A bit of uranium to make an old ghoul happy!}
+{Speech 3 Answer 28}{}{Hey, Harold, I brought you a piece of real uranium to sell!}
+{Speech 3 Answer 10}{}{What interesting things are going on here?}
+{Speech 3 Answer 11}{}{Tell me about the town.}
+{Speech 3 Answer 13}{}{You used to be a soldier, didn't you, what can you tell me about that?}
+{Speech 3 Answer 9}{}{Need any help with anything?}
+{Speech 3 Answer 15}{}{Let's talk about our weapon training.}
+{Speech 3 Answer Exit}{}{Just stopped by to say hi, stay healthy. [Leave]}
+{Speech 4}{}{Glad to see you, friend, come in and make yourself comfortable.}
+{Speech 4 Answer 22}{}{Hey, Harold, guess what I've got for you? A bit of uranium to make an old ghoul happy!}
+{Speech 4 Answer 28}{}{Hey, Harold, I brought you a piece of real uranium to sell!}
+{Speech 4 Answer 3}{}{Hi there, I'm glad to see you too, tell me about the town.}
+{Speech 4 Answer Exit}{}{Hello and goodbye, I'm in a hurry. [Leave]}
+{Speech 5}{}{[Takes the money] Hmm, turns out you're not such a scumbag as you seemed at first glance. But don't relax - I'm still watching you, and you'd better keep your hands to yourself this time.}
+{Speech 5 Answer 3}{}{Yeah, something came over me, don't take it to heart.}
+{Speech 5 Answer Exit}{}{Alright, alright, I got it. I'd better go mind my own business. [Leave]}
+{Speech 6}{}{Hello, I'm Harold, the mayor of this glorious little town.}
+{Speech 6 Answer 7}{}{Caution is my middle name. By the way, I'm @pname@.}
+{Speech 6 Answer 8}{}{Hello, mister mayor! [Shake his hand]}
+{Speech 6 Answer Exit}{}{Yeah, whatever you say, I was actually just passing by.}
+{Speech 7}{}{@pname@? Nice name, I had a cat by that name before the war, there used to be these small furry animals, people kept them at home. Though they're all gone now, eaten probably.}
+{Speech 7 Answer 3}{}{Yeah, yeah! I saw ones like that in the pictures in a magazine, I think it was called "Crunchy Cat". Well alright, let's get down to business. I need to sort out a few things.}
+{Speech 7 Answer Exit}{}{Nah, that's all nonsense. I gotta go.}
+{Speech 8}{}{[Suddenly something clicked in the ghoul's hand] Whoa, what was that?.. [The ghoul squeezes his hand and there's a click in response] There, now everything's fine. And you're funny.}
+{Speech 8 Answer 3}{}{[Pat him on the shoulder] Well, Harold, let's get to business.}
+{Speech 8 Answer Exit}{}{[You look at the hand, then at Harold, then back at the hand] Very nice, but I think it's time to go. [You leave in a hurry]}
+{Speech 9}{}{No, not really needed for now. But you know, I wouldn't say no to a donation of a thousand coins for the needs of our town. They say money brings people closer. [Grins slyly]}
+{Speech 9 Answer 3}{}{Hmm, you talked me into it, you smooth-tongued devil. Here's 1000 coins for you - let this town become even better!}
+{Speech 9 Answer Exit}{}{I don't have that much.}
+{Speech 9 Answer Exit*}{}{Bring us closer? We're already in the same room, how much closer can it get. Besides, I don't have any spare money.}
+{Speech 10}{}{Lots of folks lately in blue jumpsuits like yours. Snooping around, wandering, running about, messed up all the crates in here... Luckily, there's nothing valuable in them [Heh-heh]. The power plant works, the crops are ripening... All in all, everything's good here.}
+{Speech 10 Answer 3}{}{Ah, I see. I have more questions.}
+{Speech 10 Answer Exit}{}{So that's how it is, well alright, I gotta go... [Leave]}
+{Speech 11}{}{We have a small town here. Many ghouls came from Necropolis, which lies far to the south. We live by mining and selling energy, and by farming. Drop by the local bar - it gets pretty noisy there and you can always hear a couple of new tales from Wooz.}
+{Speech 11 Answer 12}{}{Do you have any traders around here?}
+{Speech 11 Answer 17}{}{Hey, Harold, what do you fuel your plant with? Still pre-war fuel, I bet?}
+{Speech 11 Answer Exit}{}{Wait, I get it all, I'll find it myself, your rattling gave me a headache. [Leave]}
+{Speech 12}{}{If you go to the dump, you'll see Percy's shack right by the entrance. Now then, useful little things often end up at his place. Somewhere in the middle of the dump there should be Skeeter, he handles fixing and repairing all sorts of gadgets.}
+{Speech 12 Answer 3}{}{Got it, memorized. I have more questions.}
+{Speech 12 Answer Exit}{}{Clear, now I understand. I'll go take a look around the town then.}
+{Speech 13}{}{Before the war I was a soldier. I served as a corporal in the U.S. Army and was one of the first to test the powered combat armor while fighting the Chinese. Those slant-eyes panicked at the sight of our steel legions. But a couple of years later the warheads came down like snow on our heads and I hid away in a vault...}
+{Speech 13 Answer 14}{}{And do you still have the skills?}
+{Speech 13 Answer Exit}{}{An entertaining story, well I'm off. [Leave]}
+{Speech 14}{}{I can teach you to shoot small firearms, how to handle a knife properly, and how to move effectively in unarmed combat. I really do like you, I've rarely told anyone about my past.}
+{Speech 14 Answer 3}{}{I think that would be very useful.}
+{Speech 14 Answer Exit}{}{Yeah, turns out you ghouls are just the same people as we are. I'll go knock back a drink to your health. [Leave]}
+{Speech 15}{}{I'm pretty busy, you understand. I think I'll give a couple of lessons for, well, let's say... 2200 coins.}
+{Speech 15 Answer 16}{}{Alright, old man, I think the game is worth the candle. Here's your 2200 coins. Make a Rambo out of me!}
+{Speech 15 Answer 3}{}{I don't have that kind of money on me.}
+{Speech 15 Answer Exit}{}{Old man, wait here. I'll go run for the money right now! [You run off]}
+{Speech 16}{}{Well there, I think that's enough for today. Now you're even better at handling weapons. [Smiles]}
+{Speech 16 Answer 3}{}{Got it, I understand everything, I have a couple more questions for you.}
+{Speech 16 Answer Exit}{}{Yeah, that was educational, I'll go try out my new knowledge.}
+{Speech 17}{}{When we first came, we could still use pre-war fuel. And then for a long time we bought uranium in Broken Hills, it was a pleasure doing business with them. We ghouls never deceive each other.}
+{Speech 17 Answer 18}{}{Hey, why the past tense? Did you fall out with them?}
+{Speech 17 Answer 3}{}{I have more questions...}
+{Speech 17 Answer Exit}{}{That's all, I gotta go!}
+{Speech 18}{}{It's all those damn Hubologists. A single replication station guzzles more energy than a whole town. They don't want to run wires to us, they install mini-reactors. And of course, they need that lousy uranium, lots of it! That's why they offer the caravaneers a good price that we can no longer beat. Oh, I don't know what'll happen, we've got reserves for five years at most.}
+{Speech 18 Answer 19}{}{What, maybe I should help out somehow with the purchasing?}
+{Speech 18 Answer 3}{}{Yeaah, those Hubologists are always butting in somewhere. Alright, I have one more question...}
+{Speech 18 Answer Exit}{}{Thanks for the story, I gotta go!}
+{Speech 19}{}{Oooh, if you can buy uranium in Broken Hills and deliver it here, I'll pay your expenses generously. Somewhere around 100 bucks per kilogram of enriched uranium.}
+{Speech 19 Answer 20}{}{100 bucks? Sounds a bit low. What's stopping me from going and selling it to the Hubologists for a good price?}
+{Speech 19 Answer 3}{}{Ugh, I really don't know. Need to think about it. Alright, another question, a big one, just came up!}
+{Speech 19 Answer 21}{}{100 bucks? So, if I haul 20 kilos without much effort, that's already two grand. And if I bring friends along... Sounds like a job for me. Hey, ghoul, I'm in. Soon you'll have uranium, good, purified, nice warm uranium.}
+{Speech 19 Answer Exit}{}{Hey, ghoul, that tree's eaten through your brain! Go haul your uranium yourself for that kind of money. Or just climb into the reactor - you're probably radiating like two uranium rods yourself.}
+{Speech 20}{}{The Hubologists only deal in large batches and with well-known dealers, they just won't pay you any attention. We'll make do with what a couple of people can occasionally carry on themselves.}
+{Speech 20 Answer Exit}{}{Hey, you don't understand, I am the owner of a large company. Bye, thanks for the tip about the buyers.}
+{Speech 20 Answer 21}{}{Well alright, let's suppose I agree. I don't guarantee anything, but I might show up one day with a batch of uranium.}
+{Speech 20 Answer 21*}{}{Okay, ghoul, we'll do business! Wait for me and I'll get you some super-duper enriched uranium.}
+{Speech 20 Answer 3}{}{You know, I'll think over your offer, it sort of came at me like snow on the head. Don't know what "snow" is, but that's what they used to say back home. Oh, and one more thing, I need something else from you here...}
+{Speech 21}{}{Look, don't carry uranium in your pockets, or @sex@|you won't be able to get it up|your kids will be born deformed|!@@Look out, don't get too irradiated, or you'll end up like me!@@If you're planning on having kids, don't carry uranium in your backpack, use a cart!@@Don't warm your hands on uranium at night, or they'll have to be cut off @sex@|and you'll have nothing to jerk off with||, heh-heh!}
+{Speech 22}{}{Wow, now that's a surprise! Let's take a look at what you brought me, come on now, make an old ghoul happy!}
+{Speech 22 Answer 23}{}{Oh boy! [Take out a piece of enriched uranium]}
+{Speech 22 Answer Exit}{}{Tough luck, ghoul, I just decided to tease you a bit.}
+{Speech 22 Answer Exit*}{}{Damn it, the uranium's been stolen!}
+{Speech 23}{}{Oooh, I see a fine product of the centrifuge in Broken Hills! Looks like about six kilos, which means you're owed 600 bucks!}
+{Speech 23 Answer 24}{}{Awesome, let's trade!}
+{Speech 23 Answer 25}{}{Hey, ghoul, the way I see it this piece is easily a good seven kilos. Definitely no less than six and a half!}
+{Speech 23 Answer 26}{}{Hey, ghoul, the way I see it this piece is easily a good seven kilos. Definitely no less than six and a half!}
+{Speech 23 Answer Exit}{}{600 bucks would really come in handy, but somehow I think I'll keep this uranium for myself. I've grown too attached to it during our travels.}
+{Speech 23 Answer Exit*}{}{Damn it, the uranium's been stolen!}
+{Speech 24}{}{Here's your money, my friend, you earned it fair and square.}
+{Speech 24 Answer 24}{}{Hey, I've got more!@@Look, I've got one more!@@Hold on, that's not all, here's another one!@@And what have we here? Whoops, one more piece of uranium for Harold!@@Hey, did you think that was all? Here's another one!}
+{Speech 24 Answer Exit}{}{Thanks, that's all!}
+{Speech 25}{}{Hey, don't try to fool an old ghoul! Why, I was trading uranium when you weren't even allowed to play with shotgun shells! 600 bucks and not a dollar more, you cuckoo!}
+{Speech 25 Answer 24}{}{Okay, here, for 600.}
+{Speech 25 Answer Exit}{}{NO YOU!}
+{Speech 25 Answer Exit*}{}{Damn it, the uranium's been stolen!}
+{Speech 26}{}{Eh... Well, yeah, I could've been mistaken, old ghoul, it happens to everyone. They always made them six kilos in Broken Hills, as long as I can remember! Okay, 700 bucks.}
+{Speech 26 Answer 27}{}{Super, here you go!}
+{Speech 26 Answer Exit}{}{And the Hubologists give 800! Hahaha, in your face!}
+{Speech 27}{}{Here's your money, my friend, you earned it fair and square.}
+{Speech 27 Answer 27}{}{Hey, I've got more!@@Look, I've got one more!@@Hold on, that's not all, here's another one!@@And what have we here? Whoops, one more piece of uranium for Harold!@@Hey, did you think that was all? Here's another one!}
+{Speech 27 Answer Exit}{}{Thanks, that's all!}
+{Speech 28}{}{Hey, who are you trying to fool? This is plain ore, it still needs a year of pounding in the centrifuges before enrichment!}

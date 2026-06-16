@@ -489,9 +489,9 @@ Speech 51 # Все десять? Знаешь, они не очень похож
 {DescAliveShort}{}{You see: James.}
 {DescAliveFull}{}{You see a businesslike man.}
 {Speech 1}{}{Initial preferences}
-{Speech 1 Answer 7}{}{тупой}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
+{Speech 1 Answer 7}{}{silly}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
 {Speech 2}{}{How can I help you?}
 {Speech 2 Answer 4}{}{I want to know something.}
 {Speech 2 Answer Exit}{}{I will come back later.}
@@ -555,7 +555,7 @@ Speech 51 # Все десять? Знаешь, они не очень похож
 {Speech 14 Answer 3}{}{I'd better ask you a question.}
 {Speech 15}{}{Yes?}
 {Speech 15 Answer 17}{}{Here, take it!}
-{Speech 15 Answer 17*}{}{Вот, держи!}
+{Speech 15 Answer 17*}{}{Here, take it! [Give the scoped rifle]}
 {Speech 15 Answer 16}{}{I haven't found any yet.}
 {Speech 16}{}{I'm still waiting.@@Okay.@@Sooner is better.}
 {Speech 17}{}{Wow, I'll need to see how good is it in work. Here's your $400.}

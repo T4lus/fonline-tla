@@ -26,4 +26,4 @@ Speech 2 # Я автосторож. Я смотрю за машинами - 5$. 
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer Exit}{}{Ты богом проклятый ублюдок! Я убираюсь отсюда.}
+{Speech 2 Answer Exit}{}{You godforsaken bastard! I'm getting out of here.}

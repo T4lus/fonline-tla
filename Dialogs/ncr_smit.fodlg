@@ -363,121 +363,121 @@ Speech 53 # Благодарю за помощь. Вы подоспели вес
 
 [Text engl]
 {Name}{}{Smit}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 12}{}{лояльность = 0}
-{Speech 1 Answer 10}{}{лояльность выше 4}
-{Speech 1 Answer 25}{}{Смит в баре Дасти в центре города}
-{Speech 1 Answer 12*}{}{Во время перемещений смит не разговаривает ваще}
-{Speech 1 Answer 50}{}{смит стоит перед полицейским у дома вейстина}
-{Speech 1 Answer 12**}{}{Во время перемещений смит не разговаривает ваще}
-{Speech 2}{}{Чем могу помочь?}
-{Speech 2 Answer 3}{}{День добрый, меня зовут @pname@. Мы не могли с вами где-то встречаться раньше?}
-{Speech 2 Answer 4}{}{Ты очень подозрительный тип. Предъяви документы!}
-{Speech 2 Answer Exit}{}{Ррра! ха! [Уйти]}
-{Speech 2 Answer Exit*}{}{Не берите в голову, я ухожу. [Уйти]}
-{Speech 3}{}{Сомневаюсь, друг мой. Разрешите представиться, Смит.}
-{Speech 3 Answer Exit}{}{Рад знакомству, Смит. [Уйти]}
-{Speech 3 Answer 5}{}{Секретный агент Смит?}
-{Speech 3 Answer 6}{}{А чем занимаетесь в НКР?}
-{Speech 4}{}{На каких основаниях?}
-{Speech 5}{}{[Улыбается] Хорошее чувство юмора. Нет. Смит. Просто Смит.}
-{Speech 5 Answer 7}{}{Жаль. Всегда мечтал познакомиться с каким-нибудь секретным агентом!}
-{Speech 5 Answer Exit}{}{Увидимся [Уйти]}
-{Speech 6}{}{Это вас не касается, @pname@}
-{Speech 7}{}{Зачем вам это, @pname@?}
-{Speech 7 Answer 8}{}{Ну как же, Смит. Неужели вы не понимаете? У них же такая инетерсная, насыщенная и полная риска жизнь. Наверняка есть, что рассказать.}
-{Speech 7 Answer 9}{}{Я схвачу его, отрублю ему руки и сдам властям.}
-{Speech 7 Answer Exit}{}{Не важно, прощайте. [Уйти]}
-{Speech 8}{}{Не знаю, не знаю. К сожалению, не доводилось сталкиваться ни с одним из них.}
-{Speech 9}{}{Хороший план... Вы наверняка прославитесь...}
-{Speech 10}{}{Рад видеть вас снова, @pname@!}
-{Speech 10 Answer 13}{}{Слушай, Смит. А чего это ты вырядился, как клоун? Костюмчик натянул, галстучек подобрал.}
-{Speech 10 Answer 15}{}{В этом городе редко встретишь достойного человека, такого, как вы, Смит.}
-{Speech 10 Answer 6}{}{Так чем вы занимаетесь, Смит? Вы не вписываетесь в эту тусовку на Базаре.}
-{Speech 10 Answer 18}{}{Смит, я бы с удовольствием угостил вас выпивкой. Предлагаю заглянуть к Дарси у Штаба Армии.}
-{Speech 10 Answer 19}{}{Смит, я бы с удовольствием угостил вас выпивкой. Предлагаю заглянуть к Дарси у Штаба Армии.}
-{Speech 10 Answer 24}{}{Смит, мое приглашение к Дарси в силе. Мы можем идти прямо сейчас!}
-{Speech 10 Answer Exit}{}{Заглянул@sex@||а| засвидетельствовать вам свое почтение. Прощайте. [Уйти]}
-{Speech 12}{}{Я слишком занят. Уходите.}
-{Speech 13}{}{Меньше всего меня интересует ваше мнение о моем внешнем виде. Еще вопросы?}
-{Speech 13 Answer 14}{}{Да ладно тебе, чего заводишься? Я тебя просто хочу узнать получше.}
-{Speech 13 Answer Exit}{}{Никаких вопросов, бывай, Смит. [Уйти]}
-{Speech 14}{}{В таком случае, выбирайте выражения.}
-{Speech 15}{}{Ну почему же, здесь много славных ребят. Каждый занимается своим делом. А чем промышляете вы?}
-{Speech 15 Answer 16}{}{Я занимаюсь тем, что кривляюсь перед одним умником в галстуке.}
-{Speech 15 Answer 17}{}{Никаких особенных планов на текущий момент у меня нет... Убиваю время и надеюсь, что подвернется хорошее дельце.}
-{Speech 16}{}{Я помогу вам избежать этого, прощайте.}
-{Speech 17}{}{Мне знакомо это состояние, @sex@|друг мой|@pname@|. Желаю вам скорее найти хорошую работенку.}
-{Speech 17 Answer Exit}{}{Спасибо, Смит. Рад@sex@||а| бы еще поболтать, но мне пора. [Уйти]}
-{Speech 17 Answer Exit*}{}{Обойдусь без твоих идиотских пожеланий, приятель. [Уйти]}
-{Speech 18}{}{Благодарю за приглашение, но вынужден вам отказать.}
-{Speech 19}{}{Хорошая идея! Но увы, я не могу составить вам компанию.}
-{Speech 19 Answer Exit}{}{Придется напиться в одиночку, удачи. [Уйти]}
-{Speech 19 Answer 20}{}{Почему, Смит? }
-{Speech 20}{}{Ммм... Характер деятельности не позволяет мне светиться на виду у местного руководства. Поэтому дорога в город для меня закрыта.}
-{Speech 20 Answer 21}{}{Я так и знал@sex@||а|! Ты преступник и скрываешься от правосудия!}
-{Speech 20 Answer 22}{}{Ну, меня характер вашей деятельности не касается. Но, думаю, мы сможем решить эту проблему.}
-{Speech 21}{}{Не ожидал такой реакции, видимо, я в вас ошибся.}
-{Speech 22}{}{Каким образом?}
-{Speech 22 Answer 23}{}{Я договорюсь с охраной, и вы пройдете вместе со мной.}
-{Speech 22 Answer Exit}{}{Я обязательно придумаю. А пока я вас покину. [Уйти]}
-{Speech 23}{}{Можно попробовать, хотя я и не верю в успех. Когда отправимся?}
-{Speech 23 Answer 24}{}{Можем идти прямо сейчас!}
-{Speech 23 Answer Exit}{}{Минутку, я только завершу свои дела. [Уйти]}
-{Speech 24}{}{Отлично, @pname@. Я следую за вами.}
-{Speech 25}{}{А вот и мой @sex@|верный друг|милая подруга| @pname@! Рад вас видеть!}
-{Speech 25 Answer Exit}{}{Аналогично, Смит. [Уйти]}
-{Speech 25 Answer 26}{}{Я тоже рад встрече. Выпьем?}
-{Speech 25 Answer 30}{}{Я бы хотел@sex@||а| угостить вас выпивкой.}
-{Speech 25 Answer 30*}{}{Я бы хотел@sex@||а| угостить вас выпивкой.}
-{Speech 25 Answer 44}{}{Я готов навестить Вейстина.}
-{Speech 25 Answer 52}{}{Как прошла ваша вылазка к Вейстину, Смит?}
-{Speech 25 Answer 53}{}{Вейстин мертв. Теперь я знаю, что вы имели в виду, когда собирались "припугнуть Вейстина".}
-{Speech 26}{}{Безусловно. Прошу принять мой скромный дар за вашу помощь там, на входе в город.}
-{Speech 30}{}{С удовольствием выпью с вами!}
-{Speech 30 Answer 31}{}{[Подозвать бармена и заказать выпивку]}
-{Speech 30 Answer Exit}{}{Ох, проклятье. Я на мели, совершенно нет денег на ром! [Уйти]}
-{Speech 31}{}{[Вы пьете со Смитом и обращаете внимание на то, как он смотрит на вас.] }
-{Speech 31 Answer Exit}{}{Мне это надоело. Я ухожу. [Уйти]}
-{Speech 31 Answer 32}{}{Что вы пытаетесь рассмотреть, Смит? Вы с меня взгляд не сводите.}
-{Speech 32}{}{Я давно за вами наблюдаю, @pname@. Вертитесь, как белка в колесе, что-то пытаетесь сделать, боретесь за существование...}
-{Speech 32 Answer 33}{}{Ну и?}
-{Speech 33}{}{А тем временем, упускаете прекрасную возможность неплохо заработать, не прилагая серьезных усилий...}
-{Speech 33 Answer 34}{}{О чем это вы?}
-{Speech 33 Answer 30}{}{Бред. У меня и так все замечательно. Выпьем еще?}
-{Speech 33 Answer Exit}{}{У меня нет настроения выслушивать нравоучения. [Уйти]}
-{Speech 34}{}{Есть одна несложная работа. Нужно заглянуть к одному подлецу и припугнуть его.}
-{Speech 34 Answer 35}{}{Имя "подлеца"?}
-{Speech 34 Answer Exit}{}{Мне это не интересно. [Уйти]}
-{Speech 35}{}{Интересующего меня человека зовут... [Смит наклоняется к вам и шепчет] Вейстин.}
-{Speech 35 Answer 36}{}{Ох, черт! Вы с ума сошли, Смит. Это же один из членов Совета!}
-{Speech 35 Answer 41}{}{Что требуется от меня?}
-{Speech 36}{}{Последний Советник, если быть точным.}
-{Speech 36 Answer 37}{}{Что вы имеете в виду?}
-{Speech 37}{}{Именно Вейстин помог Шейману прибрать всю власть в свои руки и распустить Совет. Карлсон является президентом лишь формально. Фактически республикой управляют военные, и Вейстин сыграл в этом не последнюю роль.}
-{Speech 37 Answer 38}{}{А чем лично вам Вейстин насолил?}
-{Speech 38}{}{Мне плевать на советника. Я представляю интересы одного влиятельного человека из Нью-Рено. За Вейстином старый долг перед ним.}
-{Speech 38 Answer 39}{}{Кто этот влиятельный человек?}
-{Speech 39}{}{Извините, @pname@. Но называть его имя я не имею права. }
-{Speech 39 Answer 40}{}{Я не хочу вмешиваться в политику. Найдите себе другого помощника. [Уйти]}
-{Speech 39 Answer 41}{}{Что требуется от меня?}
-{Speech 40}{}{Ну что ж, я вас понимаю. Желаю удачи.}
-{Speech 41}{}{Ничего особенного, мой друг. Я сделаю основную работу. Вы должны всего лишь ненадолго отвлечь охрану на входе, чтобы я мог добраться до Вейстина.}
-{Speech 41 Answer 42}{}{А что вы имели в виду, когда говорили о возможности заработать?}
-{Speech 42}{}{За вашу помощь я хорошо заплачу. У меня есть деньги. Вы получите достаточно, чтобы несколько дней не отказывать себе ни в чем.}
-{Speech 42 Answer 43}{}{Пожалуй, я поверю вам, Смит. Когда мы приступаем?}
-{Speech 42 Answer Exit}{}{Нет Смит, я не хочу в этом участвовать. [Уйти]}
-{Speech 43}{}{Как только будете готовы, дайте знать. Я подожду вас здесь.}
-{Speech 43 Answer Exit}{}{Договорились. Я скоро вернусь. [Уйти]}
-{Speech 43 Answer 44}{}{Я готов навестить Вейстина.}
-{Speech 44}{}{Отлично. Отправляемся прямо сейчас.}
-{Speech 50}{}{Мы на месте. Видите того полицейского около ворот?}
-{Speech 50 Answer 51}{}{Да, я должен отвлечь его?}
-{Speech 51}{}{Именно. Я постараюсь обойти его незамеченным. Заговорите с ним, уведите, все, что угодно. Если все пройдет нормально, встретимся в баре.}
-{Speech 51 Answer Exit}{}{ Договорились.}
-{Speech 52}{}{Благодарю вас, @sex|мой друг||@pname@|, все прошло отлично. Вот моя благодарность за ваше участие.}
-{Speech 52 Answer Exit}{}{Без проблем, Смит.}
-{Speech 53}{}{Благодарю за помощь. Вы подоспели весьма кстати. }
-{Speech 53 Answer Exit}{}{Мне показалось, что вам нужна моя помощь. [Уйти]}
-{100000001}{}{Эй! Ты чего здесь делаешь? Подслушиваешь? Это большая ошибка!}
+{Speech 1}{}{Predialogue installations}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 12}{}{loyalty = 0}
+{Speech 1 Answer 10}{}{loyalty above 4}
+{Speech 1 Answer 25}{}{Smit in the Dusty's bar in the center of town}
+{Speech 1 Answer 12*}{}{During the moves Smit doesn't talk at all}
+{Speech 1 Answer 50}{}{Smit stands in front of the policeman by Vestin's house}
+{Speech 1 Answer 12**}{}{During the moves Smit doesn't talk at all}
+{Speech 2}{}{How can I help you?}
+{Speech 2 Answer 3}{}{Good day, my name is @pname@. Could we have met somewhere before?}
+{Speech 2 Answer 4}{}{You're a very suspicious type. Show me your papers!}
+{Speech 2 Answer Exit}{}{Rrra! ha! [Leave]}
+{Speech 2 Answer Exit*}{}{Never mind, I'm leaving. [Leave]}
+{Speech 3}{}{I doubt it, my friend. Allow me to introduce myself, Smit.}
+{Speech 3 Answer Exit}{}{Glad to meet you, Smit. [Leave]}
+{Speech 3 Answer 5}{}{Secret agent Smit?}
+{Speech 3 Answer 6}{}{And what do you do in the NCR?}
+{Speech 4}{}{On what grounds?}
+{Speech 5}{}{[Smiles] Good sense of humor. No. Smit. Just Smit.}
+{Speech 5 Answer 7}{}{Too bad. I always dreamed of meeting some secret agent!}
+{Speech 5 Answer Exit}{}{See you around [Leave]}
+{Speech 6}{}{That's none of your business, @pname@}
+{Speech 7}{}{Why do you want that, @pname@?}
+{Speech 7 Answer 8}{}{Well, come on, Smit. Don't you understand? They lead such an interesting, eventful life, full of risk. Surely there's something to tell.}
+{Speech 7 Answer 9}{}{I'll grab him, chop off his hands and hand him over to the authorities.}
+{Speech 7 Answer Exit}{}{Never mind, farewell. [Leave]}
+{Speech 8}{}{I don't know, I don't know. Unfortunately, I've never run into a single one of them.}
+{Speech 9}{}{A fine plan... You'll surely become famous...}
+{Speech 10}{}{Glad to see you again, @pname@!}
+{Speech 10 Answer 13}{}{Listen, Smit. Why are you dressed up like a clown? Pulled on a little suit, picked out a little tie.}
+{Speech 10 Answer 15}{}{In this town you rarely meet a worthy man, such as you, Smit.}
+{Speech 10 Answer 6}{}{So what do you do, Smit? You don't fit in with this crowd at the Bazaar.}
+{Speech 10 Answer 18}{}{Smit, I'd be happy to buy you a drink. I suggest we drop by Darcy's near the Army HQ.}
+{Speech 10 Answer 19}{}{Smit, I'd be happy to buy you a drink. I suggest we drop by Darcy's near the Army HQ.}
+{Speech 10 Answer 24}{}{Smit, my invitation to Darcy's still stands. We can go right now!}
+{Speech 10 Answer Exit}{}{I dropped by to pay you my respects. Farewell. [Leave]}
+{Speech 12}{}{I'm too busy. Leave.}
+{Speech 13}{}{Your opinion of my appearance is the last thing that interests me. Any more questions?}
+{Speech 13 Answer 14}{}{Come on, why are you getting worked up? I just want to get to know you better.}
+{Speech 13 Answer Exit}{}{No questions, see you, Smit. [Leave]}
+{Speech 14}{}{In that case, watch your words.}
+{Speech 15}{}{Why not, there are plenty of good fellows here. Each one minds his own business. And what's your trade?}
+{Speech 15 Answer 16}{}{My trade is clowning around in front of some smart guy in a tie.}
+{Speech 15 Answer 17}{}{I have no particular plans at the moment... Killing time and hoping a good deal turns up.}
+{Speech 16}{}{I'll help you avoid that, farewell.}
+{Speech 17}{}{I know that state, @sex@|my friend|@pname@|. I wish you to find good work soon.}
+{Speech 17 Answer Exit}{}{Thanks, Smit. I'd be glad to chat more, but I have to go. [Leave]}
+{Speech 17 Answer Exit*}{}{I'll do without your idiotic wishes, pal. [Leave]}
+{Speech 18}{}{Thank you for the invitation, but I have to decline.}
+{Speech 19}{}{Good idea! But alas, I can't keep you company.}
+{Speech 19 Answer Exit}{}{I'll have to get drunk alone, good luck. [Leave]}
+{Speech 19 Answer 20}{}{Why, Smit? }
+{Speech 20}{}{Hmm... The nature of my work doesn't allow me to show myself before the local leadership. So the road into town is closed to me.}
+{Speech 20 Answer 21}{}{I knew it@sex@||! You're a criminal and you're hiding from justice!}
+{Speech 20 Answer 22}{}{Well, the nature of your work is none of my concern. But I think we can solve this problem.}
+{Speech 21}{}{I didn't expect such a reaction, it seems I was mistaken about you.}
+{Speech 22}{}{In what way?}
+{Speech 22 Answer 23}{}{I'll arrange it with the guards, and you'll pass through together with me.}
+{Speech 22 Answer Exit}{}{I'll definitely think of something. For now I'll leave you. [Leave]}
+{Speech 23}{}{We can try, though I don't believe it'll work. When do we set out?}
+{Speech 23 Answer 24}{}{We can go right now!}
+{Speech 23 Answer Exit}{}{One minute, I'll just finish my business. [Leave]}
+{Speech 24}{}{Excellent, @pname@. I'm following you.}
+{Speech 25}{}{And here's my @sex@|loyal friend|sweet friend| @pname@! Glad to see you!}
+{Speech 25 Answer Exit}{}{Likewise, Smit. [Leave]}
+{Speech 25 Answer 26}{}{I'm glad to see you too. Shall we drink?}
+{Speech 25 Answer 30}{}{I'd like to buy you a drink.}
+{Speech 25 Answer 30*}{}{I'd like to buy you a drink.}
+{Speech 25 Answer 44}{}{I'm ready to pay Vestin a visit.}
+{Speech 25 Answer 52}{}{How did your little outing to Vestin go, Smit?}
+{Speech 25 Answer 53}{}{Vestin is dead. Now I know what you meant when you were going to "scare Vestin".}
+{Speech 26}{}{Certainly. Please accept my modest gift for your help back there, at the entrance to town.}
+{Speech 30}{}{I'll gladly drink with you!}
+{Speech 30 Answer 31}{}{[Call the bartender and order drinks]}
+{Speech 30 Answer Exit}{}{Oh, damn it. I'm broke, I have no money for rum at all! [Leave]}
+{Speech 31}{}{[You drink with Smit and notice the way he looks at you.] }
+{Speech 31 Answer Exit}{}{I've had enough of this. I'm leaving. [Leave]}
+{Speech 31 Answer 32}{}{What are you trying to make out, Smit? You won't take your eyes off me.}
+{Speech 32}{}{I've been watching you for a long time, @pname@. Spinning like a squirrel in a wheel, trying to do something, struggling to survive...}
+{Speech 32 Answer 33}{}{And?}
+{Speech 33}{}{And meanwhile, you're missing a fine chance to earn good money without serious effort...}
+{Speech 33 Answer 34}{}{What are you talking about?}
+{Speech 33 Answer 30}{}{Nonsense. Everything's just fine with me. Shall we drink more?}
+{Speech 33 Answer Exit}{}{I'm not in the mood to listen to lectures. [Leave]}
+{Speech 34}{}{There's one simple job. You need to drop by a certain scoundrel and scare him.}
+{Speech 34 Answer 35}{}{The "scoundrel's" name?}
+{Speech 34 Answer Exit}{}{I'm not interested. [Leave]}
+{Speech 35}{}{The man I'm interested in is called... [Smit leans toward you and whispers] Vestin.}
+{Speech 35 Answer 36}{}{Oh, hell! You're out of your mind, Smit. He's one of the Council members!}
+{Speech 35 Answer 41}{}{What's required of me?}
+{Speech 36}{}{The last Councilor, to be exact.}
+{Speech 36 Answer 37}{}{What do you mean?}
+{Speech 37}{}{It was Vestin who helped Sheyman seize all the power into his own hands and dissolve the Council. Carlson is president only in name. In fact the republic is run by the military, and Vestin played no small part in that.}
+{Speech 37 Answer 38}{}{And how did Vestin personally wrong you?}
+{Speech 38}{}{I don't care about the councilor. I represent the interests of a certain influential man from New Reno. Vestin owes him an old debt.}
+{Speech 38 Answer 39}{}{Who is this influential man?}
+{Speech 39}{}{Sorry, @pname@. But I'm not allowed to give his name. }
+{Speech 39 Answer 40}{}{I don't want to get mixed up in politics. Find yourself another helper. [Leave]}
+{Speech 39 Answer 41}{}{What's required of me?}
+{Speech 40}{}{Well then, I understand you. I wish you luck.}
+{Speech 41}{}{Nothing special, my friend. I'll do the main work. You only have to distract the guards at the entrance for a short while, so I can get to Vestin.}
+{Speech 41 Answer 42}{}{And what did you mean when you spoke of a chance to earn money?}
+{Speech 42}{}{I'll pay you well for your help. I have money. You'll get enough to deny yourself nothing for several days.}
+{Speech 42 Answer 43}{}{I suppose I'll trust you, Smit. When do we start?}
+{Speech 42 Answer Exit}{}{No, Smit, I don't want to take part in this. [Leave]}
+{Speech 43}{}{As soon as you're ready, let me know. I'll wait for you here.}
+{Speech 43 Answer Exit}{}{Agreed. I'll be back soon. [Leave]}
+{Speech 43 Answer 44}{}{I'm ready to pay Vestin a visit.}
+{Speech 44}{}{Excellent. We set out right now.}
+{Speech 50}{}{We're on the spot. See that policeman by the gates?}
+{Speech 50 Answer 51}{}{Yes, am I supposed to distract him?}
+{Speech 51}{}{Exactly. I'll try to slip past him unnoticed. Talk to him, lead him away, whatever it takes. If all goes well, we'll meet at the bar.}
+{Speech 51 Answer Exit}{}{ Agreed.}
+{Speech 52}{}{Thank you, @sex|my friend||@pname@|, everything went great. Here's my gratitude for your part in it.}
+{Speech 52 Answer Exit}{}{No problem, Smit.}
+{Speech 53}{}{Thanks for the help. You came just in the nick of time. }
+{Speech 53 Answer Exit}{}{It seemed to me that you needed my help. [Leave]}
+{100000001}{}{Hey! What are you doing here? Eavesdropping? That's a big mistake!}

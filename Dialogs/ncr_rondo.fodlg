@@ -202,66 +202,66 @@ Speech 38 # Конечно! Ну и ладно, такой вариант мен
 {DescAliveFull}{}{It seems that it's just a mechanic, but he has gun on his waist, and it doesn't look like simply addition.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Только попробуй дотронуться до моего имущества, и я тебе не позавидую.}
-{Speech 2 Answer Barter}{}{Успокойся! Я просто хочу поторговать с тобой.}
-{Speech 2 Answer Exit}{}{Умри, придурок! [Атаковать]}
-{Speech 2 Answer Exit*}{}{Пока.}
-{Speech 2 Answer 10}{}{Ха, Рондо. Ты в своем репертуаре. А сегодня тебя какая муха укусила?}
-{Speech 2 Answer 23}{}{Рондо, я поговорил с Дороти.}
-{Speech 2 Answer 23*}{}{Рондо, я поговорил с Дороти.}
-{Speech 10}{}{Хочешь торговать, приступим к делу, нет - проходи, не задерживайся.}
-{Speech 10 Answer 11}{}{Я же вижу, ты чем-то озабочен, Рондо. Что случилось?}
-{Speech 11}{}{[Зло смотрит на вас и цедит сквозь зубы] Тебе до моих забот какое дело?}
-{Speech 11 Answer 22}{}{Может, помочь сумею!}
-{Speech 11 Answer 13}{}{Да пошел ты, я тебе искренне помочь хотел@sex@||а|, а ты! [Повернуться, чтобы уйти]}
-{Speech 13}{}{Ладно, стой. Подожди. Мало ли..}
-{Speech 13 Answer 14}{}{Я @sex@|весь|вся| внимание.}
-{Speech 14}{}{В общем, тут такое дело. Ты с Бастером знаком@sex@||а|?}
-{Speech 14 Answer 15}{}{Нельзя сказать, что хорошо знаком@sex@||а|. Пересекаться приходилось. Этот, который пушки продает?}
-{Speech 15}{}{[Кивает] Угу. Так вот, мы с ним побились об заклад, кто из нас первым переспит с Дороти. }
-{Speech 15 Answer 16}{}{Ха! Дороти? Что ты в ней нашел? Она со своими роботами спит, наверное. Ты лучше на меня посмотри!}
-{Speech 15 Answer 17}{}{И как успехи? Дороти чего, не дает?}
-{Speech 16}{}{Причем тут это? Дальше слушать будешь?}
-{Speech 16 Answer 17}{}{Насчет спора понял@sex@||а|. И как успехи? Дороти чего, не дает?}
-{Speech 17}{}{Да вот... В том то и дело, что успехи - никак. Боюсь, обгонит меня Бастер, тогда я ему продую кучу монет.}
-{Speech 17 Answer 18}{}{Не робей! Просто подойди и возьми ее! Она давно по тебе сохнет}
-{Speech 18}{}{А робот? Меня робот беспокоит. Он же оторвет мне что-нибудь, как пить дать.}
-{Speech 18 Answer 19}{}{Да. Может быть, он, конечно, оторвет тебе что-то бесполезное (голову, например). Но не факт... }
-{Speech 19}{}{Это точно. Роботы, они такие... Не знаешь, что от них ожидать.}
-{Speech 19 Answer 20}{}{Ты хочешь, чтобы я поговорил@sex@||а| с Дороти о тебе?}
-{Speech 20}{}{Не знаю. Если поговоришь, буду тебе очень признателен. Спроси у нее, что она вообще по поводу меня или Бастера думает. Есть у нас шансы?}
-{Speech 20 Answer 21}{}{Ох, Рондо. Если все выгорит - с тебя пузырь!}
-{Speech 20 Answer Exit}{}{Нет, Рондо. Не буду я бредом этим заниматься. [Уйти]}
-{Speech 21}{}{Конечно! Подгоню бутылку Рот Гута!}
-{Speech 22}{}{Обойдусь без твоей помощи. Уходи, пока я совершенно не вышел из себя.}
-{Speech 23}{}{Ну, и?}
-{Speech 23 Answer 24}{}{Она вся твоя, друг! Без ума от тебя, и очень расстраивается, что ты тормозишь и не переходишь к делу!}
-{Speech 23 Answer 25}{}{Она вся твоя, друг! Без ума от тебя, и очень расстраивается, что ты тормозишь и не переходишь к делу!}
-{Speech 23 Answer 27}{}{Увы, Рондо. Мне не чем тебя порадовать. Эта дурында втюрилась по уши в Бастера...}
-{Speech 23 Answer 30}{}{Рондо, не знаю, что там с Бастером... Но, боюсь, у тебя шансов не много...}
-{Speech 23 Answer 33}{}{Рондо, я могу тебя порадовать.}
-{Speech 24}{}{Ха. Ты врешь. Я по глазам вижу. А я не люблю, когда мне лгут. Проваливай!}
-{Speech 25}{}{Правда? Я так и знал! Конечно, зачем ей это чмо, Бастер! Спасибо тебе, ты мне очень помог@sex@||ла|!}
-{Speech 25 Answer 26}{}{Да не за что. Что ты там говорил о бутылке Рот Гута?}
-{Speech 26}{}{Вот, забирай. Ну все, я спешу к моей крошке Дороти! Ха! А потом загляну к Бастеру за своим выигрышем!}
-{Speech 27}{}{Что?! Ты уверен@sex@||а|? Это точно?}
-{Speech 27 Answer 28}{}{Точнее некуда, Рондо. У нее даже его фотка на стене висит..}
-{Speech 28}{}{Вот дела... И что она в нем нашла... }
-{Speech 28 Answer 29}{}{Рондо, эй, а как же Рот Гут?}
-{Speech 29}{}{Извини, @pname@. Я его сам выпью. Настроение паршивое. Пока.}
-{Speech 30}{}{Один из ста? Один из тысячи?}
-{Speech 30 Answer 31}{}{Один из миллиона, Рондо. Извини.}
-{Speech 31}{}{Значит, шанс все-таки есть?!!! Это прекрасные новости!}
-{Speech 31 Answer 32}{}{Ты действительно так думаешь?}
-{Speech 32}{}{Конечно! Это мой шанс! А я - счастливчик, мне повезет! Спасибо за помощь, вот твой Рот Гут.}
-{Speech 33}{}{Она согласилась?!}
-{Speech 33 Answer 34}{}{Эээ... Нет...}
-{Speech 34}{}{Тогда чем ты меня собирал@sex@|ся|ась| порадовать? Она отказала?}
-{Speech 34 Answer 35}{}{Эээ... Нет...}
-{Speech 35}{}{Не понял. Ты к чему клонишь?}
-{Speech 35 Answer 36}{}{Ну я хотел@sex@||а| проверить ее реакцию, и рассказал@sex@||а| про Бастера.}
-{Speech 36}{}{Это ты зря сделал@sex@||а|. И что ответила Дороти?}
-{Speech 36 Answer 37}{}{Дороти не хочет иметь ничего общего с Бастером! Насчет тебя выяснить не получилось. Она выставила меня за дверь.}
-{Speech 37}{}{Ха. Бастер попал!}
-{Speech 37 Answer 38}{}{Ты так думаешь?}
-{Speech 38}{}{Конечно! Ну и ладно, такой вариант меня тоже устраивает! Вот тебе обещанный Рот Гут!}
+{Speech 2}{}{Just try touching my property, and you'll regret it.}
+{Speech 2 Answer Barter}{}{Calm down! I just want to trade with you.}
+{Speech 2 Answer Exit}{}{Die, jerk! [Attack]}
+{Speech 2 Answer Exit*}{}{Bye.}
+{Speech 2 Answer 10}{}{Ha, Rondo. True to form, as always. So what's got into you today?}
+{Speech 2 Answer 23}{}{Rondo, I talked to Dorothy.}
+{Speech 2 Answer 23*}{}{Rondo, I talked to Dorothy.}
+{Speech 10}{}{Want to trade, let's get to business, if not - move along, don't loiter.}
+{Speech 10 Answer 11}{}{I can see you're worried about something, Rondo. What happened?}
+{Speech 11}{}{[Glares at you angrily and hisses through his teeth] What business is it of yours what troubles me?}
+{Speech 11 Answer 22}{}{Maybe I can help!}
+{Speech 11 Answer 13}{}{Oh, screw you, I sincerely wanted to help you, and you! [Turn to leave]}
+{Speech 13}{}{Alright, stop. Wait. You never know..}
+{Speech 13 Answer 14}{}{I'm all ears.}
+{Speech 14}{}{So, here's the thing. Do you know Buster?}
+{Speech 14 Answer 15}{}{Can't say I know him well. We've crossed paths. The one who sells guns?}
+{Speech 15}{}{[Nods] Yup. So, the two of us made a bet about who'd be the first to sleep with Dorothy. }
+{Speech 15 Answer 16}{}{Ha! Dorothy? What do you see in her? She probably sleeps with her robots. You'd better look at me!}
+{Speech 15 Answer 17}{}{And how's it going? Dorothy not putting out?}
+{Speech 16}{}{What's that got to do with it? Are you going to keep listening?}
+{Speech 16 Answer 17}{}{Got it about the bet. And how's it going? Dorothy not putting out?}
+{Speech 17}{}{Well... That's just it, no progress at all. I'm afraid Buster will beat me to it, then I'll lose a pile of coins to him.}
+{Speech 17 Answer 18}{}{Don't be shy! Just walk up and take her! She's been pining for you for ages}
+{Speech 18}{}{And the robot? The robot worries me. It'll tear something off me, sure as anything.}
+{Speech 18 Answer 19}{}{Yes. Maybe, of course, it'll tear off something useless of yours (your head, for example). But it's not certain... }
+{Speech 19}{}{That's for sure. Robots, they're like that... You never know what to expect from them.}
+{Speech 19 Answer 20}{}{You want me to talk to Dorothy about you?}
+{Speech 20}{}{I don't know. If you talk to her, I'd be very grateful. Ask her what she thinks about me or Buster in general. Do we have a chance?}
+{Speech 20 Answer 21}{}{Oh, Rondo. If it all works out - you owe me a bottle!}
+{Speech 20 Answer Exit}{}{No, Rondo. I'm not going to deal with this nonsense. [Leave]}
+{Speech 21}{}{Of course! I'll hook you up with a bottle of Rot Gut!}
+{Speech 22}{}{I'll manage without your help. Leave, before I completely lose my temper.}
+{Speech 23}{}{Well, and?}
+{Speech 23 Answer 24}{}{She's all yours, friend! Crazy about you, and very upset that you're dragging your feet and not getting down to business!}
+{Speech 23 Answer 25}{}{She's all yours, friend! Crazy about you, and very upset that you're dragging your feet and not getting down to business!}
+{Speech 23 Answer 27}{}{Alas, Rondo. I've got no good news for you. That airhead has fallen head over heels for Buster...}
+{Speech 23 Answer 30}{}{Rondo, I don't know what's going on with Buster... But I'm afraid you don't have much of a chance...}
+{Speech 23 Answer 33}{}{Rondo, I've got good news for you.}
+{Speech 24}{}{Ha. You're lying. I can see it in your eyes. And I don't like being lied to. Get lost!}
+{Speech 25}{}{Really? I knew it! Of course, why would she want that lowlife Buster! Thank you, you've helped me a lot!}
+{Speech 25 Answer 26}{}{Don't mention it. What was that you said about a bottle of Rot Gut?}
+{Speech 26}{}{Here, take it. Well, that's it, I'm rushing off to my sweet Dorothy! Ha! And then I'll drop by Buster's to collect my winnings!}
+{Speech 27}{}{What?! Are you sure? Is that for certain?}
+{Speech 27 Answer 28}{}{Couldn't be more certain, Rondo. She's even got his photo hanging on the wall..}
+{Speech 28}{}{Well, how about that... And what did she see in him... }
+{Speech 28 Answer 29}{}{Rondo, hey, what about the Rot Gut?}
+{Speech 29}{}{Sorry, @pname@. I'll drink it myself. I'm in a lousy mood. Bye.}
+{Speech 30}{}{One in a hundred? One in a thousand?}
+{Speech 30 Answer 31}{}{One in a million, Rondo. Sorry.}
+{Speech 31}{}{So there's still a chance after all?!!! That's wonderful news!}
+{Speech 31 Answer 32}{}{Do you really think so?}
+{Speech 32}{}{Of course! This is my chance! And I'm a lucky guy, I'll get lucky! Thanks for the help, here's your Rot Gut.}
+{Speech 33}{}{She agreed?!}
+{Speech 33 Answer 34}{}{Uhh... No...}
+{Speech 34}{}{Then what were you going to please me with? She turned you down?}
+{Speech 34 Answer 35}{}{Uhh... No...}
+{Speech 35}{}{I don't get it. What are you driving at?}
+{Speech 35 Answer 36}{}{Well, I wanted to test her reaction, and I told her about Buster.}
+{Speech 36}{}{You shouldn't have done that. And what did Dorothy say?}
+{Speech 36 Answer 37}{}{Dorothy wants nothing to do with Buster! I couldn't find out about you. She threw me out the door.}
+{Speech 37}{}{Ha. Buster's screwed!}
+{Speech 37 Answer 38}{}{You think so?}
+{Speech 38}{}{Of course! Oh well, that outcome suits me too! Here's the Rot Gut I promised you!}

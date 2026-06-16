@@ -64,21 +64,21 @@ Speech 8 # Привет, @pname@.@@Как дела, @pname@?@@Не мешай,..
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{для глупых варианта нет...}
-{Speech 1 Answer 8}{}{Знакомы.}
-{Speech 2}{}{Эй, @sex@|малый|крошка|, подойди-ка сюда. Что-то я раньше тебя не видел. Кто @sex@|такой|такая|, что у нас делаешь?}
-{Speech 2 Answer 3}{}{ А тебе то, какое дело?}
-{Speech 2 Answer Exit}{}{Я уже ухожу... [Уйти]}
-{Speech 3}{}{Я тут порядок охраняю. Должен все про всех знать. И ты мне не хами, бродяга, хамло у нас не любят.}
-{Speech 3 Answer 4}{}{Ну... Меня @pname@ зовут. }
-{Speech 3 Answer Exit}{}{Не важно, я уже сваливаю отсюда.}
-{Speech 4}{}{@Pname@, говоришь. Вроде имечко не знакомое. И чего, как ты с такой рожей в Пустоши справляешься? Рейдеры не докучают?}
-{Speech 4 Answer 5}{}{Пустошь место опасное... Иногда жарко приходится...}
-{Speech 5}{}{Ха. Жарко @sex@|ему|ей|. По тебе и видно. Тебе в убежище нужно сидеть, книжки читать, и нос из волта в Пустошь не высовывать.  }
-{Speech 5 Answer 6}{}{Ты бы лучше, чем морали читать, да советами сыпать, подогнал бы пушку или нож.}
-{Speech 6}{}{А ты пушкой пользоваться то умеешь? Не отстрелишь себе чего-нибудь? }
-{Speech 6 Answer 7}{}{Обижаешь, начальник. Умею конечно.}
-{Speech 6 Answer Exit}{}{Да пошел ты! [Уйти]}
-{Speech 7}{}{Вижу, что человек ты неплохой. А хорошим людям нужно помогать. Вот, держи.}
-{Speech 8}{}{Привет, @pname@.@@Как дела, @pname@?@@Не мешай, я занят.@@Всё в порядке?@@Не шали тут.@@Я за тобой наблюдаю.@@Как же достала эта работа.@@Сегодня я насчитал на потолке 157 мух.@@Трам-трам-там... а? Ты что-то хотел@sex@||а|?}
+{Speech 1}{}{Pre-dialogue settings}
+{Speech 1 Answer 2}{}{no option for the stupid...}
+{Speech 1 Answer 8}{}{Acquainted.}
+{Speech 2}{}{Hey, @sex@|kid|sweetheart|, come over here. I haven't seen you around before. Who @sex@|are you|are you|, what are you doing here?}
+{Speech 2 Answer 3}{}{ And what's it to you?}
+{Speech 2 Answer Exit}{}{I'm already leaving... [Leave]}
+{Speech 3}{}{I keep order around here. I have to know everything about everyone. And don't get rude with me, wanderer, we don't like rude folks here.}
+{Speech 3 Answer 4}{}{Well... My name is @pname@. }
+{Speech 3 Answer Exit}{}{Never mind, I'm getting out of here.}
+{Speech 4}{}{@Pname@, you say. The name doesn't ring a bell. So how do you manage in the Wasteland with a mug like that? The raiders not bothering you?}
+{Speech 4 Answer 5}{}{The Wasteland is a dangerous place... Sometimes things get hot...}
+{Speech 5}{}{Ha. Hot, @sex@|he says|she says|. I can tell by the look of you. You should sit in a vault, read books, and not stick your nose out of the vault into the Wasteland.  }
+{Speech 5 Answer 6}{}{Instead of preaching morals and dishing out advice, you'd better get me a gun or a knife.}
+{Speech 6}{}{Do you even know how to use a gun? Won't shoot something off yourself? }
+{Speech 6 Answer 7}{}{You insult me, boss. Of course I can.}
+{Speech 6 Answer Exit}{}{Screw you! [Leave]}
+{Speech 7}{}{I see you're not a bad person. And good people deserve help. Here, take this.}
+{Speech 8}{}{Hi, @pname@.@@How's it going, @pname@?@@Don't bother me, I'm busy.@@Everything alright?@@Don't make trouble here.@@I'm watching you.@@This job is such a drag.@@Today I counted 157 flies on the ceiling.@@Tram-tram-tam... huh? Did you want something@sex@|||?}

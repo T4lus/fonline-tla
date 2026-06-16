@@ -111,41 +111,41 @@ Speech 18 # Чем могу помочь?
 [Text engl]
 {Name}{}{error}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 18}{}{тупой}
-{Speech 1 Answer 2}{}{не знает имени}
+{Speech 1 Answer 18}{}{dumb}
+{Speech 1 Answer 2}{}{doesn't know the name}
 {Speech 1 Answer 17}{}{ }
-{Speech 2}{}{Мое имя Боб. Салтбиф Боб. А ваше?}
-{Speech 2 Answer 12}{}{Салтбиф? Что это за имя?}
-{Speech 2 Answer 16}{}{Что ты здесь делаешь?}
-{Speech 3}{}{Это отличное имя, просто замечательное. Не хочешь выпить, партнер?}
-{Speech 3 Answer 6}{}{Да.}
-{Speech 3 Answer 4}{}{Нет.}
-{Speech 3 Answer 4*}{}{Отойди от меня, вонючка.}
-{Speech 4}{}{Ну, не стоит так грубо. Просто хотелось вас угостить. Успокоить свои нервы...}
-{Speech 6}{}{(Глоток, еще, еще...) Аааа! Какое блаженство, незнакомец! Ты отличный парень оказалось. (Глоток) Не рассказывал еще тебе о том, как я однажды совершил великий удар?}
-{Speech 6 Answer 7}{}{Нет?}
-{Speech 6 Answer 15}{}{Эй, хватит пить мое спиртное!}
-{Speech 7}{}{Это было в 78 году, когда мы с Бесси, самым лучшим товарищем, что у меня когда-либо был, были урановыми контролерами на западе отсюда. Мы не перевернули бы даже зернышко, когда внезапно пять, нет десять, Рук Смерти напали на нас.}
-{Speech 7 Answer 8}{}{[Далее.]}
-{Speech 8}{}{Они дрались, как адские кошки. Я стрелял так много, что почти расплавил ствол своего ружья, и бросился на них с ножом, когда старая Бесси истратила последний боезапас. Я старался спасти ее, но бесполезно. В конце концов, мне пришлось бежать, бросаясь в них камнями всю дорогу.}
-{Speech 8 Answer 9}{}{[Далее.]}
-{Speech 9}{}{Так что все повернулось не в нашу пользу, и тогда, когда я вошел в эту пещеру. Я думал, что точно от них оторвался. Но оказалось, что это их стоянка, когда я вошел туда с факелом. Это была глубокая пещера. И затем я увидел это.}
-{Speech 9 Answer 10}{}{[Далее.]}
-{Speech 10}{}{Это была большая дверь, как например в старых видеофильмах. Огромная и стальная! И на ней нарисована огромная цифра 13!}
-{Speech 10 Answer 11}{}{[Далее.]}
-{Speech 11}{}{К тому времени, когда я добрался до Шэйди Сэндс, я почти умер от жажды. Меня зафиксировали и составили на меня документы. Но доктор украл карту. Я знаю это точно.}
+{Speech 2}{}{My name's Bob. Saltbeef Bob. And yours?}
+{Speech 2 Answer 12}{}{Saltbeef? What kind of name is that?}
+{Speech 2 Answer 16}{}{What are you doing here?}
+{Speech 3}{}{That's a great name, just wonderful. Care to buy me a drink, partner?}
+{Speech 3 Answer 6}{}{Yes.}
+{Speech 3 Answer 4}{}{No.}
+{Speech 3 Answer 4*}{}{Get away from me, you stinker.}
+{Speech 4}{}{Well, no need to be so rude. I just wanted to treat you. To calm my nerves...}
+{Speech 6}{}{(A gulp, another, another...) Aaah! What bliss, stranger! Turns out you're a fine fellow. (A gulp) Have I told you yet about how I once pulled off a great strike?}
+{Speech 6 Answer 7}{}{No?}
+{Speech 6 Answer 15}{}{Hey, stop drinking my booze!}
+{Speech 7}{}{It was back in '78, when me and Bessie, the best partner I ever had, were uranium prospectors west of here. We hadn't turned over so much as a single grain when suddenly five, no, ten, Hands of Death attacked us.}
+{Speech 7 Answer 8}{}{[Next.]}
+{Speech 8}{}{They fought like hellcats. I fired so much I nearly melted the barrel of my rifle, and I charged them with a knife when old Bessie ran out of her last ammo. I tried to save her, but it was no use. In the end I had to run, throwing rocks at them the whole way.}
+{Speech 8 Answer 9}{}{[Next.]}
+{Speech 9}{}{So everything turned against us, and that's when I went into that cave. I thought I'd surely shaken them off. But it turned out it was their camp, once I went in there with a torch. It was a deep cave. And then I saw it.}
+{Speech 9 Answer 10}{}{[Next.]}
+{Speech 10}{}{It was a big door, like the ones in those old movies. Huge and steel! And there was a huge number 13 painted on it!}
+{Speech 10 Answer 11}{}{[Next.]}
+{Speech 11}{}{By the time I got to Shady Sands, I nearly died of thirst. They patched me up and made out paperwork on me. But the doctor stole the map. I know it for sure.}
 {Speech 12}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 12 Answer 13}{}{Извините, я не хотел вас обидеть.}
-{Speech 12 Answer 14}{}{Тогда ударьте меня!}
-{Speech 13}{}{Обидеть меня? Меня! Вы еще не обидели меня! Просто убирайтесь отсюда, пока совсем меня не расстроили!}
-{Speech 14}{}{Тогда и меня побейте! Теперь какие-то еще разговоры. Не бойтесь никого, партнер. Скажите, еще выпить у вас есть?}
-{Speech 14 Answer 14}{}{Да.}
+{Speech 12 Answer 13}{}{Sorry, I didn't mean to offend you.}
+{Speech 12 Answer 14}{}{Then hit me!}
+{Speech 13}{}{Offend me? Me! You haven't offended me yet! Just get out of here before you upset me completely!}
+{Speech 14}{}{Then beat me too! Now there's some more talk. Don't be afraid of anyone, partner. Tell me, you got any more drink?}
+{Speech 14 Answer 14}{}{Yes.}
 {Speech 15}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
 {Speech 16}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 16 Answer 6}{}{Да.}
-{Speech 16 Answer 4}{}{Нет.}
+{Speech 16 Answer 6}{}{Yes.}
+{Speech 16 Answer 4}{}{No.}
 {Speech 17}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 17 Answer 6}{}{Да.}
-{Speech 17 Answer 4}{}{Нет}
-{Speech 18}{}{Чем могу помочь?}
-{Speech 18 Answer Exit}{}{Агу-агу!}
+{Speech 17 Answer 6}{}{Yes.}
+{Speech 17 Answer 4}{}{No}
+{Speech 18}{}{How can I help you?}
+{Speech 18 Answer Exit}{}{Goo-goo!}

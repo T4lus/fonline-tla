@@ -74,7 +74,7 @@ Speech 100 # Что-то мне плохо, поговорим позже.
 {Speech 4 Answer 5}{}{Good.}
 {Speech 4 Answer Exit}{}{No, I don't think so. [Go away.]}
 {Speech 5}{}{His name is Max, he is daring and dashing and crazy with a gun. Oh, find him!}
-{Speech 5 Answer Exit}{}{Прекрасное описание. Ладно, найдем твоего любимого. [Уходите]}
+{Speech 5 Answer Exit}{}{A wonderful description. All right, I'll find your beloved. [Leave]}
 {Speech 6}{}{Max, it's you! Oh, honey. [She hugs and kisses you.] Wait... you're not Max. I've seen you before, you're some drug addict! Why are doing this?}
 {Speech 6 Answer 7}{}{Sorry, I've been forced to do that. Your father is looking for you to ask for your forgiveness.}
 {Speech 7}{}{Oh.. I see you're a good sort. Go back to my father and tell him he shouldn't be worry about me. I'm fine and I'm happy with my current life and I have nothing to feel sorry for. To prove him that the message is really from me, tell him "...".}

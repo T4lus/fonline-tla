@@ -79,28 +79,28 @@ Speech 11 # Тебе нужно что? Э... Ну, у нас пока нет...
 {DescAliveFull}{}{You see Jeremy, the ghoul who manages the store.}
 {DescAliveFull}{}{You see a tall ghoul. He seems to be busy.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{Не знает имени}
-{Speech 1 Answer 10}{}{Обычное начало}
-{Speech 2}{}{Привет. Меня зовут Джереми. Я заведую тут всеми всемогущими запасами. Я слежу за всеми нашими хранящимися запасами.}
-{Speech 2 Answer 8}{}{Всемогущие?}
-{Speech 2 Answer 3}{}{Мне нужно кое-что со склада.}
-{Speech 2 Answer Exit}{}{Мне ничего не надо. Просто осматриваюсь тут. Пока.}
-{Speech 3}{}{Ну, если ты хочешь что-то со склада, то тебе нужно Подтверждение Запроса. У тебя есть Подтверждение Запроса?}
-{Speech 3 Answer 9}{}{О, нет, нету. Где я могу его достать?}
-{Speech 4}{}{Ага, похоже то, что надо. Что тебе требуется?}
-{Speech 4 Answer 11}{}{Мне нужна здоровая, трех ручная базука.}
-{Speech 4 Answer Exit}{}{Спасибо, ничего. Пока.}
-{Speech 5}{}{Кажется, у меня был один прямо в этом ящике. А, да. Вот.}
-{Speech 6}{}{Не хочу даже слышать об этом. Кажется, у меня был один прямо в этом ящике. А, да. Вот.}
-{Speech 7}{}{Не могу тебе сейчас помочь. Я слишком занят.}
-{Speech 8}{}{Ну хорошо, может и не всемогущие. Но все-таки, черт возьми, довольно важные. Что тебе надо?}
-{Speech 8 Answer 3}{}{Мне нужно кое-что со склада.}
-{Speech 8 Answer Exit}{}{Э, ничего. Просто осматривался. Пока.}
-{Speech 9}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 9 Answer Exit}{}{Ну, ладно. Хорошо, пойду тогда возьму одну. Пока.}
-{Speech 10}{}{Привет еще раз. Пришел посмотреть на всемогущие запасы, или тебе просто что-то нужно со склада?}
-{Speech 10 Answer 8}{}{Всемогущие?}
-{Speech 10 Answer 3}{}{Всемогущие?}
-{Speech 10 Answer Exit}{}{Мне ничего не надо. Просто осматриваюсь тут. Пока.}
-{Speech 11}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 11 Answer Exit}{}{Спасибо, ничего. Пока.}
+{Speech 1 Answer 2}{}{Doesn't know the name}
+{Speech 1 Answer 10}{}{Normal start}
+{Speech 2}{}{Hi. My name is Jeremy. I'm in charge of all the almighty supplies around here. I keep track of all our stored goods.}
+{Speech 2 Answer 8}{}{Almighty?}
+{Speech 2 Answer 3}{}{I need something from the storehouse.}
+{Speech 2 Answer Exit}{}{I don't need anything. Just looking around here. Bye.}
+{Speech 3}{}{Well, if you want something from the storehouse, then you need a Request Authorization. Do you have a Request Authorization?}
+{Speech 3 Answer 9}{}{Oh, no, I don't. Where can I get one?}
+{Speech 4}{}{Aha, looks like that's the thing. What do you need?}
+{Speech 4 Answer 11}{}{I need a big, three-handled bazooka.}
+{Speech 4 Answer Exit}{}{Thanks, nothing. Bye.}
+{Speech 5}{}{Seems I had one right in this crate. Ah, yes. Here it is.}
+{Speech 6}{}{I don't even want to hear about it. Seems I had one right in this crate. Ah, yes. Here it is.}
+{Speech 7}{}{I can't help you right now. I'm too busy.}
+{Speech 8}{}{Well, all right, maybe not almighty. But still, damn it, pretty important. What do you need?}
+{Speech 8 Answer 3}{}{I need something from the storehouse.}
+{Speech 8 Answer Exit}{}{Uh, nothing. Just looking around. Bye.}
+{Speech 9}{}{Time:60000 No answer:Close dialog}
+{Speech 9 Answer Exit}{}{Well, all right. Okay, I'll go get one then. Bye.}
+{Speech 10}{}{Hi again. Did you come to look at the almighty supplies, or do you just need something from the storehouse?}
+{Speech 10 Answer 8}{}{Almighty?}
+{Speech 10 Answer 3}{}{I need something from the storehouse.}
+{Speech 10 Answer Exit}{}{I don't need anything. Just looking around here. Bye.}
+{Speech 11}{}{Time:60000 No answer:Close dialog}
+{Speech 11 Answer Exit}{}{Thanks, nothing. Bye.}

@@ -291,107 +291,107 @@ Speech 32 # @pname@!Ну что ж ты не придешь ко мне? @@ @pna
 {DescAliveShort}{}{You see... another City's official.}
 {DescAliveFull}{}{You see Barkus, the City's servants coordinator.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 13}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 10}{}{знаком}
-{Speech 1 Answer 31}{}{согласился заняться сексом с Баркусом, мужчина}
-{Speech 1 Answer 32}{}{согласился заняться сексом с Баркусом, мужчина}
+{Speech 1 Answer 13}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 10}{}{acquainted}
+{Speech 1 Answer 31}{}{agreed to have sex with Barkus, male}
+{Speech 1 Answer 32}{}{agreed to have sex with Barkus, female}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer 3}{}{Что это за здание?}
-{Speech 2 Answer 11}{}{Я ищу Убежище.}
-{Speech 2 Answer Exit}{}{Извините. Ошибся дверью. До свидания.}
+{Speech 2 Answer 3}{}{What is this building?}
+{Speech 2 Answer 11}{}{I'm looking for the Vault.}
+{Speech 2 Answer Exit}{}{Sorry. Wrong door. Goodbye.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 3 Answer 4}{}{Центр Распределения Слуг? Что это?}
-{Speech 3 Answer 9}{}{Распределения Слуг, вот как? Вы покупаете рабов... э, то есть, слуг?}
-{Speech 3 Answer Exit}{}{Любопытно. Спасибо.}
+{Speech 3 Answer 4}{}{Servant Distribution Center? What's that?}
+{Speech 3 Answer 9}{}{Servant Distribution, is that so? You buy slaves... uh, I mean, servants?}
+{Speech 3 Answer Exit}{}{Curious. Thanks.}
 {Speech 4}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 4 Answer 5}{}{Как-то уж очень похоже на рабство.}
-{Speech 4 Answer 5*}{}{О, так тут попрасту держат рабов? Почему бы вам не называть вещи своими именами?}
-{Speech 4 Answer 6}{}{А где вы берете всех этих слуг?}
-{Speech 4 Answer 9}{}{А вы не покупаете рабов... э-э, слуг, прямо сейчас?}
-{Speech 4 Answer Exit}{}{Ну хорошо, понятно, мне просто было любопытно. Счастливо.\n}
-{Speech 4 Answer 16}{}{К вам поступал слуга по имени Джошуа?}
+{Speech 4 Answer 5}{}{This sounds an awful lot like slavery.}
+{Speech 4 Answer 5*}{}{Oh, so you just keep slaves here? Why not call things by their proper names?}
+{Speech 4 Answer 6}{}{And where do you get all these servants?}
+{Speech 4 Answer 9}{}{You wouldn't be buying slaves... uh, servants, right now, would you?}
+{Speech 4 Answer Exit}{}{All right, I get it, I was just curious. Take care.\n}
+{Speech 4 Answer 16}{}{Did a servant named Joshua come to you?}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 5 Answer 6}{}{Где вы их берете?\n}
-{Speech 5 Answer 10}{}{А. У меня есть еще вопросы...\n}
-{Speech 5 Answer Exit}{}{Это все, что мне нужно было знать, спасибо. Счастливо.}
-{Speech 6}{}{Обычно наши слуги - беженцы из пустошей или заключенные, которые хотят отбыть свой срок, занимаясь общественно полезным трудом.}
-{Speech 6 Answer 7}{}{А, вы имеете в виду писцов? Был один парень, по имени Дэн, он...}
-{Speech 6 Answer 8}{}{Ценой свободы, да?}
-{Speech 6 Answer 9}{}{А вы хотите купить раба... э, слугу... прямо сейчас?}
-{Speech 6 Answer 10}{}{Хммм. У меня есть еще вопросы...}
-{Speech 6 Answer Exit}{}{Понятно. Спасибо за информацию.}
-{Speech 7}{}{Нет, не писцов, идиотина.}
-{Speech 7 Answer 6}{}{Идиотина? Мне пришлось столько трудиться, чтобы получить 9 очков интеллекта и восприятия, без которых эта опция диалога просто не открывается. Да, так что вы говорили?}
-{Speech 8}{}{Вы говорите совсем как этот идиот Мур... Только этого Городу Убежища не хватало. Слушайте, кто бы вы ни были, у меня очень много дел, так что будьте любезны освободить помещение.}
-{Speech 8 Answer Exit}{}{Хорошо, хорошо.}
-{Speech 8 Answer Exit*}{}{Интересно, как это вы заставите меня уйти?}
-{Speech 9}{}{Может и так. У вас есть кто-то на продажу?}
-{Speech 9 Answer 10}{}{Нет... вообще-то, мне нужно кое-что у вас узнать.}
-{Speech 9 Answer Exit}{}{Да нет, не сегодня. До свидания.}
-{Speech 10}{}{Да, в чем дело? Я отстаю от графика.}
-{Speech 10 Answer 3}{}{Что это за здание?}
-{Speech 10 Answer 11}{}{Я ищу Убежище.}
-{Speech 10 Answer 9}{}{Вы покупаете рабов...то есть слуг?}
-{Speech 10 Answer Exit}{}{Извините. Ошибся дверью. До свидания.}
-{Speech 10 Answer 30}{}{Мы договаривались о деньгах...}
-{Speech 11}{}{Убежище? Это огромная дыра в горе в восточной части города. Выходите из передней двери, поверните налево и идите прямо. Не пропустите.}
-{Speech 11 Answer 3}{}{Что это за здание?}
-{Speech 11 Answer 12}{}{А зайти туда можно?}
-{Speech 11 Answer 10}{}{У меня есть к вам еще вопросы.}
-{Speech 11 Answer Exit}{}{Спасибо за указания. До встречи.}
-{Speech 12}{}{Нет, в Убежище допускают только граждан. Послушайте, в данный момент я очень занят, так что прошу меня извинить...}
-{Speech 12 Answer 10}{}{Всего один вопрос...}
-{Speech 12 Answer Exit}{}{Хорошо. До свидания.}
-{Speech 13}{}{Да, в чем дело? Я отстаю от графика.}
-{Speech 13 Answer 14}{}{Эээ... Моя искати Убежище!}
-{Speech 13 Answer Exit}{}{Ы. Паакаа!}
-{Speech 14}{}{Что за? Вы что, из новых слуг?}
-{Speech 14 Answer 15}{}{Ага.}
-{Speech 14 Answer Exit}{}{Ой-ой. Моя пошел щас.}
-{Speech 15}{}{Как я устал от этих слуг, которых посылают куда-то без оформления... *вздох*... так, говорите, вы Убежище ищете? Наверное, это ваше сегодняшнее задание. Ну хорошо. Я пошлю кого-нибудь проводить вас туда.}
-{Speech 15 Answer Exit}{}{Убежищ! Убежищ!}
-{Speech 16}{}{Джошуа, Джошуа...[смотрит в монитор ] Да, есть Джошуа. А что случилось?}
-{Speech 16 Answer 17}{}{Понимаете, я его адвокат…}
-{Speech 16 Answer 18}{}{Знаете, его жена страшно переживает. }
-{Speech 16 Answer 19}{}{Я могу нанять его? Взять в бессрочное пользование?}
-{Speech 17}{}{Адво..что? Впервые слышу это слово. Здесь вам не пустошь, оставьте свой жаргон для бродяг.}
-{Speech 17 Answer 23}{}{Да сам ты бродяга. Не видишь кто перед тобой, что ли?}
-{Speech 17 Answer 21}{}{А, понятно. Ну в общем, это на самом деле МОЙ слуга, он просто влип в неприятности, пока у меня были дела в другом городе.}
-{Speech 18}{}{Переживает? А что переживать. Мы не звери.  Его не бьют, не режут. Регулярно кормят, он моется каждый день. Думаете,  ему здесь плохо?}
-{Speech 18 Answer 22}{}{Естественно, она переживает. Они ведь тоже не звери, как вы выражаетесь. У них есть сын, они любят друг друга. Разлука тяжела для любящих.}
-{Speech 18 Answer Exit}{}{В самом деле?  Тогда действительно не о чем беспокоится. Я пойду.}
-{Speech 19}{}{Разумеется, гражданин. Для того мы здесь и сидим. Распишитесь, пожалуйста, в ведомости. Куда его отправить?}
-{Speech 19 Answer 20}{}{Палатка во внешнем дворе, недалеко от казарм Гвардии. Он легко найдет.}
-{Speech 20}{}{Ясно. Сейчас он в карантине, под наблюдением, как и все новоприбывшие. Как только карантин закончится, он будет направлен по указанному адресу.}
-{Speech 20 Answer Exit}{}{Благодарю вас, офицер [ выход ]}
-{Speech 21}{}{Вон оно что. Хм, ну тогда мы имеем конфликт интересов. Необходимо будет этот случай вынести на рассмотрение комиссии. Оставьте заявку по установленной форме, комиссия состоится через пару недель.}
-{Speech 21 Answer 24}{}{Комиссия? Разве это обязательно? Дело-то пустяковое. Я отвечаю за него, и естественно, компенсирую любой ущерб, который он нанес городу. И все расходы по его содержанию.}
-{Speech 21 Answer 23}{}{Что за тягомотина везде. Комиссии… Терпеть не могу их. }
-{Speech 22}{}{Для любящих, да…Могу понять. [Придвигается к вам поближе] А ещё тяжелее тому, кто живёт без любви…[ Опять придвигается ]}
-{Speech 22 Answer 25}{}{Минуточку, офицер, это вы к чему ?}
-{Speech 22 Answer 23}{}{Э! Ты что! А ну-ка отвали от меня!}
-{Speech 23}{}{Покиньте помещение. Я ничем не могу вам помочь.}
-{Speech 24}{}{Вот как, скомпенсировать расходы …Сейчас составлю калькуляцию… Так, взнос  за вашего слугу составит 1284 монеты. Потрудитесь внести.}
-{Speech 24 Answer 26}{}{Разумеется . Справедливая цена. Получите. }
-{Speech 24 Answer Exit}{}{Так, у меня деньги на банковской карте. Я позже зайду.}
-{Speech 25}{}{К тому, что [ подходит вплотную] я томлюсь без любви. Я помогу вам, если вы согласитесь на свидание со мной в приватной обстановке… Я могу даже приплатить за вашу благосклонность…}
-{Speech 25 Answer 27}{}{Да ты ослеп что ли? Я мужик!}
-{Speech 25 Answer 28}{}{Ну ещё чего. Я тебе шлюха что ли?}
-{Speech 25 Answer Exit}{}{Нет, я не могу этого продолжать. Я ухожу.}
-{Speech 26}{}{Сейчас он в карантине, под наблюдением, как и все новоприбывшие. Как только карантин закончится, он будет направлен во внешний двор.}
-{Speech 26 Answer Exit}{}{Благодарю вас, офицер [ выход ]}
-{Speech 27}{}{Вижу. Это-то и заводит!  [ Раздувает ноздри] Возьми меня, как мужчина! Будь жесток со мной!}
-{Speech 27 Answer Exit}{}{Бля, меня сейчас вырвет. Иди ты нахрен…[ Выход ] }
-{Speech 27 Answer 29}{}{О дьявол. Что за город…  Ну хорошо. Давай только не сегодня. Завтра вечером, ага? Но только ты  сначала  Джошуа выпусти, идёт?}
-{Speech 28}{}{Да вы там в пустошах все шлюхи, я знаю. Слышал в баре…}
-{Speech 28 Answer 29}{}{О дьявол. Что за город…  Ну хорошо. Давай только не сегодня. Завтра вечером, ага? Но только ты  сначала  Джошуа выпусти, идёт?}
-{Speech 28 Answer Exit}{}{Ну вот в баре и ищи себе шлюху! Идиот![ Выход ]}
-{Speech 29}{}{Разумеется, моя прелесть. Сию секунду передам распоряжение, что его после работы отправили во внешний двор. [ Щиплет вас за задницу] Ну не забудь, подходи завтра вечером…}
-{Speech 29 Answer Exit}{}{Боже, что я делаю вообще…[ Выход ]}
-{Speech 29 Answer Exit*}{}{Я буду гореть в аду…[ Выход ]}
-{Speech 30}{}{Принесли 1284 монеты?}
-{Speech 30 Answer Exit}{}{Так, у меня деньги на банковской карте. Я позже зайду.}
-{Speech 30 Answer 26}{}{Да, получите}
-{Speech 31}{}{@pname@!Ну что ж ты не придешь согреть меня , противный? @@ Мой сладкий, я тебя жду @@ Почему не заходишь, @pname@? Разлюбил? @@ О, @pname@, я так скучаю без тебя! @@ Мой сладкий @pname@ идёт! Приветик! @@ @pname@, ты ведь не разлюбил своего Баркусика?}
-{Speech 32}{}{@pname@!Ну что ж ты не придешь ко мне? @@ @pname@ я так скучаю без тебя! @@ @pname@, моя малышка! @@ @pname@, моя сладкая девочка!}
+{Speech 5 Answer 6}{}{Where do you get them?\n}
+{Speech 5 Answer 10}{}{Ah. I have more questions...\n}
+{Speech 5 Answer Exit}{}{That's all I needed to know, thanks. Take care.}
+{Speech 6}{}{Usually our servants are refugees from the wastelands or convicts who want to serve out their sentence doing socially useful labor.}
+{Speech 6 Answer 7}{}{Ah, you mean scribes? There was one guy, named Dan, he...}
+{Speech 6 Answer 8}{}{At the price of freedom, right?}
+{Speech 6 Answer 9}{}{And would you want to buy a slave... uh, servant... right now?}
+{Speech 6 Answer 10}{}{Hmmm. I have more questions...}
+{Speech 6 Answer Exit}{}{I see. Thanks for the information.}
+{Speech 7}{}{No, not scribes, you idiot.}
+{Speech 7 Answer 6}{}{Idiot? I had to work so hard to get 9 points of intelligence and perception, without which this dialog option simply doesn't open up. Yeah, so what were you saying?}
+{Speech 8}{}{You talk just like that idiot Moore... That's the last thing Vault City needs. Listen, whoever you are, I have a lot of work to do, so kindly vacate the premises.}
+{Speech 8 Answer Exit}{}{All right, all right.}
+{Speech 8 Answer Exit*}{}{I wonder how you're going to make me leave?}
+{Speech 9}{}{Maybe so. Do you have anyone to sell?}
+{Speech 9 Answer 10}{}{No... actually, I need to find something out from you.}
+{Speech 9 Answer Exit}{}{No, not today. Goodbye.}
+{Speech 10}{}{Yes, what is it? I'm falling behind schedule.}
+{Speech 10 Answer 3}{}{What is this building?}
+{Speech 10 Answer 11}{}{I'm looking for the Vault.}
+{Speech 10 Answer 9}{}{You buy slaves... I mean, servants?}
+{Speech 10 Answer Exit}{}{Sorry. Wrong door. Goodbye.}
+{Speech 10 Answer 30}{}{We had an arrangement about the money...}
+{Speech 11}{}{The Vault? It's a huge hole in the mountain in the eastern part of the city. Go out the front door, turn left and go straight. You can't miss it.}
+{Speech 11 Answer 3}{}{What is this building?}
+{Speech 11 Answer 12}{}{Can I go in there?}
+{Speech 11 Answer 10}{}{I have more questions for you.}
+{Speech 11 Answer Exit}{}{Thanks for the directions. See you.}
+{Speech 12}{}{No, only citizens are admitted to the Vault. Listen, at the moment I'm very busy, so please excuse me...}
+{Speech 12 Answer 10}{}{Just one question...}
+{Speech 12 Answer Exit}{}{All right. Goodbye.}
+{Speech 13}{}{Yes, what is it? I'm falling behind schedule.}
+{Speech 13 Answer 14}{}{Uhhh... Me looking Vault!}
+{Speech 13 Answer Exit}{}{Uh. Byeee!}
+{Speech 14}{}{What the? Are you one of the new servants?}
+{Speech 14 Answer 15}{}{Yeah.}
+{Speech 14 Answer Exit}{}{Uh-oh. Me go now.}
+{Speech 15}{}{I'm so tired of these servants they send around without any paperwork... *sigh*... so, you say you're looking for the Vault? That's probably your assignment for today. All right. I'll send someone to take you there.}
+{Speech 15 Answer Exit}{}{Vault! Vault!}
+{Speech 16}{}{Joshua, Joshua... [looks at the monitor] Yes, there's a Joshua. What happened?}
+{Speech 16 Answer 17}{}{You see, I'm his lawyer…}
+{Speech 16 Answer 18}{}{You know, his wife is terribly worried. }
+{Speech 16 Answer 19}{}{Can I hire him? Take him for indefinite use?}
+{Speech 17}{}{Law... what? I've never heard that word before. This isn't the wasteland, save your slang for the drifters.}
+{Speech 17 Answer 23}{}{You're a drifter yourself. Don't you see who's standing in front of you?}
+{Speech 17 Answer 21}{}{Ah, I see. Well anyway, he's actually MY servant, he just got into trouble while I had business in another city.}
+{Speech 18}{}{Worried? What's there to worry about. We're not animals.  He's not beaten, not cut. He's fed regularly, he washes every day. Do you think he's badly off here?}
+{Speech 18 Answer 22}{}{Of course she's worried. They're not animals either, as you put it. They have a son, they love each other. Separation is hard for those who love.}
+{Speech 18 Answer Exit}{}{Really?  Then there's truly nothing to worry about. I'll be going.}
+{Speech 19}{}{Of course, citizen. That's what we're here for. Please sign the register. Where should I send him?}
+{Speech 19 Answer 20}{}{The tent in the outer courtyard, near the Guard barracks. He'll find it easily.}
+{Speech 20}{}{Understood. Right now he's in quarantine, under observation, like all the newcomers. As soon as the quarantine ends, he'll be sent to the indicated address.}
+{Speech 20 Answer Exit}{}{Thank you, officer. [exit]}
+{Speech 21}{}{So that's how it is. Hmm, well then we have a conflict of interest. This case will have to be brought before a commission. Submit an application in the proper form, the commission will convene in a couple of weeks.}
+{Speech 21 Answer 24}{}{A commission? Is that really necessary? It's a trifling matter. I'll vouch for him, and naturally I'll compensate for any damage he caused the city. And all the costs of his upkeep.}
+{Speech 21 Answer 23}{}{What a drag everywhere. Commissions… I can't stand them. }
+{Speech 22}{}{For those who love, yes… I can understand. [Moves closer to you] And it's even harder for one who lives without love… [Moves closer again]}
+{Speech 22 Answer 25}{}{Wait a minute, officer, what are you getting at?}
+{Speech 22 Answer 23}{}{Hey! What are you doing! Back off from me!}
+{Speech 23}{}{Leave the premises. I can't help you with anything.}
+{Speech 24}{}{So that's it, compensate the costs… I'll draw up the calculation now… So, the fee for your servant comes to 1284 coins. Kindly pay up.}
+{Speech 24 Answer 26}{}{Of course. A fair price. Here you go. }
+{Speech 24 Answer Exit}{}{Well, my money is on the bank card. I'll come back later.}
+{Speech 25}{}{To the point that [steps right up to you] I'm pining away without love. I'll help you, if you agree to a date with me in a private setting… I might even pay extra for your favor…}
+{Speech 25 Answer 27}{}{Are you blind or what? I'm a MAN!}
+{Speech 25 Answer 28}{}{No way. Am I a whore to you or something?}
+{Speech 25 Answer Exit}{}{No, I can't go on with this. I'm leaving.}
+{Speech 26}{}{Right now he's in quarantine, under observation, like all the newcomers. As soon as the quarantine ends, he'll be sent to the outer courtyard.}
+{Speech 26 Answer Exit}{}{Thank you, officer. [exit]}
+{Speech 27}{}{I see. That's exactly what turns me on!  [flares his nostrils] Take me like a man! Be rough with me!}
+{Speech 27 Answer Exit}{}{Damn, I'm gonna throw up. Go to hell… [exit] }
+{Speech 27 Answer 29}{}{Oh devil. What a city…  All right, fine. Just not today. Tomorrow evening, okay? But only after you let Joshua out first, deal?}
+{Speech 28}{}{You out there in the wastes are all whores, I know. I heard it at the bar…}
+{Speech 28 Answer 29}{}{Oh devil. What a city…  All right, fine. Just not today. Tomorrow evening, okay? But only after you let Joshua out first, deal?}
+{Speech 28 Answer Exit}{}{Then go look for your whore at the bar! Idiot! [exit]}
+{Speech 29}{}{Of course, my precious. I'll give the order this very second to have him sent to the outer courtyard after work. [pinches your behind] Now don't forget, come by tomorrow evening…}
+{Speech 29 Answer Exit}{}{God, what am I even doing… [exit]}
+{Speech 29 Answer Exit*}{}{I'll burn in hell… [exit]}
+{Speech 30}{}{Did you bring the 1284 coins?}
+{Speech 30 Answer Exit}{}{Well, my money is on the bank card. I'll come back later.}
+{Speech 30 Answer 26}{}{Yes, here you go}
+{Speech 31}{}{@pname@! Why won't you come warm me up, you naughty thing? @@ My sweet, I'm waiting for you @@ Why don't you come by, @pname@? Have you stopped loving me? @@ Oh, @pname@, I miss you so much! @@ My sweet @pname@ is coming! Hello there! @@ @pname@, you haven't stopped loving your little Barkus, have you?}
+{Speech 32}{}{@pname@! Why won't you come to me? @@ @pname@, I miss you so much! @@ @pname@, my little baby! @@ @pname@, my sweet girl!}

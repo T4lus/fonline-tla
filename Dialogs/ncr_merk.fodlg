@@ -28,6 +28,6 @@ Speech 2 # У меня нет сейчас времени.
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 2 Answer Barter}{}{Есть что-нибудь на продажу?}
-{Speech 2 Answer Exit}{}{Ха ХА ХА! Сейчас тебя самого не будет. [Атаковать]}
-{Speech 2 Answer Exit*}{}{Ладно. [Выход]}
+{Speech 2 Answer Barter}{}{Got anything for sale?}
+{Speech 2 Answer Exit}{}{Ha HA HA! It's you who won't be around. [Attack]}
+{Speech 2 Answer Exit*}{}{Fine. [Exit]}

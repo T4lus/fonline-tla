@@ -237,89 +237,89 @@ Speech 30 # Так, так. И мы с вами об этом говорили. 
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 1 Answer 28}{}{знаком}
-{Speech 2}{}{Добрый день, я Алекс. Что привело вас сюда?}
-{Speech 2 Answer 3}{}{Чем вы занимаетесь, Алекс?}
-{Speech 3}{}{Кто вы так@sex@|ой|ая|, чтобы я отвечал на ваши вопросы?}
-{Speech 3 Answer 4}{}{Мое имя слишком известно, чтобы его называть. Мне хотелось бы сохранить инкогнито.}
-{Speech 3 Answer 5}{}{Я - Мессия. На колени предо мной!}
-{Speech 3 Answer 6}{}{Меня зовут @pname@.}
-{Speech 4}{}{В таком случае, убирайтесь отсюда, чтобы ваше "инкогнито" не отстрелил полицейский.}
-{Speech 4 Answer Exit}{}{Уже ухожу. [Уйти]}
-{Speech 5}{}{Ваше место в психушке. Сумасшедшим нельзя находиться в обществе.}
-{Speech 5 Answer Exit}{}{Прошу прощения, это была шутка, я ухожу. [Уйти]}
-{Speech 6}{}{Имя мне не знакомо. Итак, что вы хотели узнать?}
-{Speech 6 Answer 7}{}{Чем вы занимаетесь, Алекс?}
-{Speech 7}{}{Я - интендант армии НКР. Отвечаю за техническое и медицинское обеспечение армии.}
-{Speech 7 Answer 8}{}{Сложная, наверное, работа?}
-{Speech 7 Answer 9}{}{Служба отнимает все ваше время?}
-{Speech 8}{}{Это плохая тема для разговора. Еще вопросы?}
-{Speech 8 Answer Exit}{}{умаю, вопросов больше нет. Спасибо, что уделили мне время, Алекс. [Уйти]}
-{Speech 9}{}{Что вы имеете в виду?}
-{Speech 9 Answer 10}{}{У вас есть какое-нибудь увлечение или хобби?}
-{Speech 9 Answer 11}{}{У вас есть какое-нибудь увлечение или хобби?}
-{Speech 9 Answer 10*}{}{У вас есть какое-нибудь увлечение или хобби?}
-{Speech 10}{}{Вас это не касается. Прошу покинуть помещение.}
-{Speech 11}{}{Вам все равно не понять. У меня есть страсть - автомобили.}
-{Speech 11 Answer 12}{}{ Почему же, не понять? Я тоже видел эти штуки на колесах!}
-{Speech 11 Answer 13}{}{Совершенно с вами солидар@sex@|ен|на|, Алекс. Очень жаль, что многие технологии потеряны навсегда...}
-{Speech 12}{}{[Смотрит на вас с презрением] Об этом и говорю. Для сброда из Пустоши, это всего лишь "штука на колесах".}
-{Speech 12 Answer Exit}{}{Да чего я такого сказал@sex@|||а?! }
-{Speech 13}{}{Важнейшие знания сохранены. Образованные люди в курсе всех значимых технологий.}
-{Speech 13 Answer 14}{}{Вы говорите о двигателях внутреннего сгорания?}
-{Speech 13 Answer 15}{}{Жаль, что электромобили не сохранились...}
-{Speech 13 Answer 16}{}{Например, паровая тяга?}
-{Speech 13 Answer 17}{}{Вы имеете в виду "холодный синтез"?}
-{Speech 13 Answer 17*}{}{Вы имеете в виду "холодный синтез"?}
-{Speech 14}{}{Век жидкого топлива прошел. Это ясно даже ребенку.}
-{Speech 14 Answer Exit}{}{Пожалуй, мне пора. [Уйти]}
-{Speech 15}{}{Ерунда. Эффективность электромобиля - это миф. На то, чтобы электрокар проехал сотню километров, тратилась уйма энергии.}
-{Speech 15 Answer Exit}{}{Я подумаю над этим, прощайте. [Уйти]}
-{Speech 16}{}{Ха, причем здесь паровая тяга? Не несите чушь.}
-{Speech 16 Answer Exit}{}{Пардон, мне нужно идти. [Уйти]}
-{Speech 17}{}{[Алекс слегка удивлен] О! Неужели, вам известно, что это такое?}
-{Speech 17 Answer 18}{}{Конечно, ведь на ходу остались только авто с атомным двигателем.}
-{Speech 18}{}{Ну я бы не был так категоричен. Большинство - да, но ходят слухи...}
-{Speech 18 Answer 19}{}{Что за слухи?}
-{Speech 18 Answer 20}{}{Ходят слухи, что в Пустоши найден автомобиль с водородным двигателем? Так?}
-{Speech 18 Answer 30}{}{Ходят слухи, что в Пустоши найден автомобиль с водородным двигателем? Так?}
-{Speech 19}{}{Не важно. Я и так потратил на вас слишком много своего времени. Прошу оставить меня.}
-{Speech 19 Answer Exit}{}{Что за слухи?Хорошо, я ухожу. Увидимся! [Уйти]}
-{Speech 20}{}{[Алекс изумлен] Невероятно! Откуда у вас эти сведения?}
-{Speech 20 Answer 21}{}{Я всего лишь смотрю вокруг широко открытыми глазами. Стараюсь ничего не упускать.}
-{Speech 21}{}{Что вам  известно о принципе работы водородного двигателя?}
-{Speech 21 Answer 22}{}{В топливном элементе три составляющих: топливный электрод - анод, кислородный электрод - катод и электролит}
-{Speech 21 Answer 27}{}{Электролит, кислородный электрод-анод и топливный катод образуют уникальный топливный элемент. }
-{Speech 21 Answer 27*}{}{Катод и анод топливного элемента выполнены из полимеров.}
-{Speech 21 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 22}{}{Это уже интересно. Я уже слышал об этом, но пока не получал подтверждений. Что-то еще?}
-{Speech 22 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 22 Answer 23}{}{Полимерная мембрана играет роль электролита в топливном элементе водородного двигателя.}
-{Speech 22 Answer 27}{}{Опустив катод в водород, мы отделим электроны от катализатора. В результате образуются отрицательно заряженные атомы.}
-{Speech 22 Answer 27*}{}{Водород и кислород вступают в химическую реакцию и образуют воду при температуре - 253 градуса по Цельсию - вырабатывается электроэнергия.}
-{Speech 23}{}{Верно. Вы все больше меня удивляете. }
-{Speech 23 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 23 Answer 24}{}{Основной принцип действия двигателя - положительно заряженные ионы водорода - протоны - соединяются с отрицательно заряженными ионами кислорода, в результате образуется вода. }
-{Speech 23 Answer 27}{}{Основной принцип действия двигателя - положительно заряженные ионы кислорода - протоны - соединяются с отрицательно заряженными ионами водорода, в результате образуется вода.}
-{Speech 23 Answer 27*}{}{Катод и анод топливного элемента выполнены из полимеров.}
-{Speech 24}{}{Ого! Я об этом не думал.}
-{Speech 24 Answer Exit}{}{Продолжим в следующий раз. [Уйти]}
-{Speech 24 Answer 25}{}{Сжиженный водород содержится в специальном топливном баке.}
-{Speech 24 Answer 27}{}{В результате химической реакции происходит процесс сжижения водорода.}
-{Speech 24 Answer 27*}{}{Если окружить катод водородом, положительно заряженные атомы проходят через электролит к аноду. Между электродами возникает электрическое напряжение.}
-{Speech 25}{}{Это все очень, и очень интересно, @pname@! Было приятно с вами общаться.}
-{Speech 25 Answer Exit}{}{Да ничего особенного. Мне не сложно поделиться информацией с умным человеком. [Уйти]}
-{Speech 25 Answer 26}{}{Алекс, возможно, вы тоже могли бы поделиться со мной информацией?}
-{Speech 26}{}{К сожалению, мне пора. Поговорим в следующий раз. Но у меня для вас небольшой подарок, надеюсь, пригодится. [Алекс дает вам голодиск]}
-{Speech 26 Answer Exit}{}{Всего доброго, Алекс. [Уйти]}
-{Speech 27}{}{Мне все ясно. Слышал звон, да не знает, где он. Это о вас. Нельзя нести такой откровенный бред!}
-{Speech 27 Answer Exit}{}{Это не бред. Вы просто не понимаете... [Уйти]}
-{Speech 28}{}{[Интендант раздражен] Разве вы не видите, я очень занят!}
-{Speech 28 Answer Exit}{}{Я уже ухожу. [Уйти]}
-{Speech 28 Answer 17}{}{Что вы думаете о холодном синтезе, Алекс?}
-{Speech 28 Answer 17*}{}{Что вы думаете о холодном синтезе, Алекс?}
-{Speech 29}{}{Дурачок на свалке перед входом в город. Его нельзя пропустить.}
-{Speech 30}{}{Так, так. И мы с вами об этом говорили. Вы уже забыли, да?}
-{Speech 30 Answer Exit}{}{Ммм... Точно. Я пойду.}
+{Speech 1}{}{Predialogue settings}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 1 Answer 28}{}{acquainted}
+{Speech 2}{}{Good day, I'm Alex. What brings you here?}
+{Speech 2 Answer 3}{}{What do you do, Alex?}
+{Speech 3}{}{Who are you@sex@||| to demand I answer your questions?}
+{Speech 3 Answer 4}{}{My name is too well known to mention. I'd like to keep my incognito.}
+{Speech 3 Answer 5}{}{I am the Messiah. On your knees before me!}
+{Speech 3 Answer 6}{}{My name is @pname@.}
+{Speech 4}{}{In that case, get out of here, before your "incognito" gets shot off by a policeman.}
+{Speech 4 Answer Exit}{}{I'm leaving already. [Leave]}
+{Speech 5}{}{Your place is in the madhouse. The insane shouldn't be out in society.}
+{Speech 5 Answer Exit}{}{I beg your pardon, that was a joke, I'm leaving. [Leave]}
+{Speech 6}{}{The name means nothing to me. So, what did you want to know?}
+{Speech 6 Answer 7}{}{Are you serving in the NCR army?}
+{Speech 7}{}{I'm the quartermaster of the NCR army. I'm responsible for the technical and medical supply of the army.}
+{Speech 7 Answer 8}{}{Hard work, I suppose?}
+{Speech 7 Answer 9}{}{Does the service take up all your time?}
+{Speech 8}{}{That's a bad subject for a conversation. Any more questions?}
+{Speech 8 Answer Exit}{}{I think I have no more questions. Thank you for your time, Alex. [Leave]}
+{Speech 9}{}{What do you mean?}
+{Speech 9 Answer 10}{}{Do you have any pastime or hobby?}
+{Speech 9 Answer 11}{}{Do you have any pastime or hobby?}
+{Speech 9 Answer 10*}{}{Do you have any pastime or hobby?}
+{Speech 10}{}{That's none of your business. Please leave the premises.}
+{Speech 11}{}{You wouldn't understand anyway. I have a passion - automobiles.}
+{Speech 11 Answer 12}{}{ Why wouldn't I understand? I've seen those things on wheels too!}
+{Speech 11 Answer 13}{}{I completely agree@sex@||| with you, Alex. It's a great shame that so many technologies are lost forever...}
+{Speech 12}{}{[Looks at you with contempt] That's exactly what I'm talking about. For the rabble of the Wasteland, it's just a "thing on wheels".}
+{Speech 12 Answer Exit}{}{Well what did I even say@sex@|||?! }
+{Speech 13}{}{The most important knowledge is preserved. Educated people are aware of all the significant technologies.}
+{Speech 13 Answer 14}{}{Are you talking about internal combustion engines?}
+{Speech 13 Answer 15}{}{A shame the electric cars weren't preserved...}
+{Speech 13 Answer 16}{}{For example, steam traction?}
+{Speech 13 Answer 17}{}{Do you mean "cold fusion"?}
+{Speech 13 Answer 17*}{}{Do you mean "cold fusion"?}
+{Speech 14}{}{The age of liquid fuel is over. That's clear even to a child.}
+{Speech 14 Answer Exit}{}{I think it's time for me to go. [Leave]}
+{Speech 15}{}{Nonsense. The efficiency of the electric car is a myth. It took an enormous amount of energy just to make an electric car travel a hundred kilometers.}
+{Speech 15 Answer Exit}{}{I'll think about it, farewell. [Leave]}
+{Speech 16}{}{Ha, what does steam traction have to do with it? Don't talk rubbish.}
+{Speech 16 Answer Exit}{}{Pardon, I need to go. [Leave]}
+{Speech 17}{}{[Alex is slightly surprised] Oh! Could it be you actually know what that is?}
+{Speech 17 Answer 18}{}{Of course, since the only ones still running are vehicles with atomic engines.}
+{Speech 18}{}{Well, I wouldn't be so categorical. Most - yes, but there are rumors...}
+{Speech 18 Answer 19}{}{What rumors?}
+{Speech 18 Answer 20}{}{Rumor has it that an automobile with a hydrogen engine was found in the Wasteland? Is that so?}
+{Speech 18 Answer 30}{}{Rumor has it that an automobile with a hydrogen engine was found in the Wasteland? Is that so?}
+{Speech 19}{}{Never mind. I've already wasted too much of my time on you. Talk to Ratch, he's primitive enough that you'll find common ground.}
+{Speech 19 Answer Exit}{}{All right, I'm leaving. See you! [Leave]}
+{Speech 20}{}{[Alex is amazed] Incredible! Where did you get this information?}
+{Speech 20 Answer 21}{}{I simply look around with wide-open eyes. I try not to miss anything.}
+{Speech 21}{}{What do you  know about the working principle of a hydrogen engine?}
+{Speech 21 Answer 22}{}{A fuel cell has three components: a fuel electrode - the anode, an oxygen electrode - the cathode, and the electrolyte}
+{Speech 21 Answer 27}{}{The electrolyte, the oxygen electrode-anode, and the fuel cathode form a unique fuel cell. }
+{Speech 21 Answer 27*}{}{The cathode and anode of a fuel cell are made of polymers.}
+{Speech 21 Answer Exit}{}{Let's continue next time. [Leave]}
+{Speech 22}{}{This is interesting. I've heard about it already, but I haven't gotten any confirmation yet. Anything else?}
+{Speech 22 Answer Exit}{}{Let's continue next time. [Leave]}
+{Speech 22 Answer 23}{}{A polymer membrane plays the role of the electrolyte in the fuel cell of a hydrogen engine.}
+{Speech 22 Answer 27}{}{By dipping the cathode into hydrogen, we separate the electrons from the catalyst. As a result, negatively charged atoms are formed.}
+{Speech 22 Answer 27*}{}{Hydrogen and oxygen enter into a chemical reaction and form water at a temperature of - 253 degrees Celsius - electrical power is produced.}
+{Speech 23}{}{Correct. You surprise me more and more. }
+{Speech 23 Answer Exit}{}{Let's continue next time. [Leave]}
+{Speech 23 Answer 24}{}{The main operating principle of the engine - positively charged hydrogen ions - protons - combine with negatively charged oxygen ions, resulting in the formation of water. }
+{Speech 23 Answer 27}{}{The main operating principle of the engine - positively charged oxygen ions - protons - combine with negatively charged hydrogen ions, resulting in the formation of water.}
+{Speech 23 Answer 27*}{}{The cathode and anode of a fuel cell are made of polymers.}
+{Speech 24}{}{Wow! I hadn't thought of that.}
+{Speech 24 Answer Exit}{}{Let's continue next time. [Leave]}
+{Speech 24 Answer 25}{}{Liquefied hydrogen is held in a special fuel tank.}
+{Speech 24 Answer 27}{}{As a result of the chemical reaction, the process of hydrogen liquefaction occurs.}
+{Speech 24 Answer 27*}{}{If you surround the cathode with hydrogen, the positively charged atoms pass through the electrolyte to the anode. An electrical voltage arises between the electrodes.}
+{Speech 25}{}{This is all very, very interesting, @pname@! It was a pleasure talking with you.}
+{Speech 25 Answer Exit}{}{It's nothing special. I don't mind sharing information with an intelligent person. [Leave]}
+{Speech 25 Answer 26}{}{Alex, maybe you could share some information with me as well?}
+{Speech 26}{}{Unfortunately, it's time for me to go. We'll talk next time. But I have a small gift for you, I hope it comes in handy. [Alex gives you a holodisk]}
+{Speech 26 Answer Exit}{}{All the best, Alex. [Leave]}
+{Speech 27}{}{It's all clear to me. He heard the bell, but doesn't know where it's ringing. That's about you. You mustn't spout such utter nonsense!}
+{Speech 27 Answer Exit}{}{It's not nonsense. You just don't understand... [Leave]}
+{Speech 28}{}{[The quartermaster is irritated] Can't you see, I'm very busy!}
+{Speech 28 Answer Exit}{}{I'm leaving already. [Leave]}
+{Speech 28 Answer 17}{}{What do you think about cold fusion, Alex?}
+{Speech 28 Answer 17*}{}{What do you think about cold fusion, Alex?}
+{Speech 29}{}{A little fool at the junkyard before the city entrance. You can't miss him.}
+{Speech 30}{}{Well, well. And we talked about this. You've already forgotten, haven't you?}
+{Speech 30 Answer Exit}{}{Mmm... Right. I'll go.}

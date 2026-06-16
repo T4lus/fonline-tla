@@ -103,25 +103,25 @@ Speech 11 # Есть, можешь за одно ничего выйти и за
 {DescAliveFull}{}{You see a middle-aged woman with big tits.}
 {DescAliveFull}{}{You see a pretty woman wearing unzipped clothes.}
 {DescAliveFull}{}{From the way she is looking at you, you deduce that she is definitely interested in taking care of you.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 3}{}{не заплочено М}
-{Speech 1 Answer 2}{}{не заплочено Ж}
-{Speech 1 Answer 9}{}{заплачено, ходячая камасутра Ж}
-{Speech 1 Answer 8}{}{заплачено, опытная}
-{Speech 1 Answer 7}{}{заплачено, Ж неопытная}
-{Speech 1 Answer 6}{}{заплочено, монстр секса}
-{Speech 1 Answer 5}{}{заплочено, опытный}
-{Speech 1 Answer 4}{}{заплачено, неопытный}
-{Speech 1 Answer 10}{}{оплачено, ошибся комнатой}
-{Speech 2}{}{Нравится,что видишь,детка?@@Иди поговори с Салли.@@Ты меня хочешь?@@Приходи как нибудь проведать меня.}
-{Speech 3}{}{Тебе надо бы пойти поговорить с Большеносой Салли.\nИди поговори с Салли.\nТам-парам-там-пам...\nСоскучился, дорогой?\nМы сможем заняться этим на досуге.\nТы меня хочешь?\nТы знаешь, как свистнуть, не так ли?\nРаньше было все чисто и невинно, как снег, но теперь снег тает.}
-{Speech 3 Answer 11}{}{Привет, я не за этим, я ищу работу. У тебя случайно не будет какой работы для меня?}
-{Speech 3 Answer Exit}{}{Простите, ошибся комнатой.}
-{Speech 4}{}{Это было быстро.@@Может в следующий раз будет подольше.@@Это не гонки, ты же знаешь.@@Твои друзья не зовут тебя "Шустрик"?@@Если бы все мои посетители были бы такими же быстрыми, я могла бы уходить домой раньше.@@Будет приятнее, если ты подождешь пока я тебе помогу.@@Если бы ты подождал пока я разденусь, тебе бы больше понравилось.@@В следующий раз наверстаем.@@Ну, бакс он и есть бакс, я предполагаю.@@Это было по-особенному, я думаю.@@Это было просто замечательно. Следующий!}
-{Speech 5}{}{Это было неплохо. Ты настоящий мужчина.@@Это было просто здорово. Ты восхитителен. Следующий!@@Ты лучший. Возвращайся скорее.@@Я уверена, что ты сможешь сделать какую-нибудь дикарскую девушку счастливой.}
-{Speech 6}{}{Ты не просто любитель перепихнуться.@@Что это за такой симпатичный дружок у нас тут.@@Размер все-таки важен! Сладкая загадка жизни...@@Эй ты, тигр.@@Вау! Может и для тебя земля крутится?@@Теперь я знаю, какова была Екатерина Великая.@@Это получилось отлично.@@Вау! Моя жизнь полностью изменилась с сегодняшнего дня.}
-{Speech 7}{}{Это было по-другому, но не хуже.@@Это было мило, дорогая.}
-{Speech 8}{}{О да, детка, никогда не было так классно.@@Нет, дорогая, размер совсем не важен. Это было прекрасно.@@Разве ты не милашка?}
-{Speech 9}{}{Да, крошка....@@Ты уверена, что ты девушка?@@Я и не думала, что может быть так хорошо.@@Всегда буду любить тебя!}
-{Speech 10}{}{Тебе дальше по корридору.}
-{Speech 11}{}{Есть, можешь за одно ничего выйти и закрыть за собой дверь.@sex@| Придурок.||}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 3}{}{not paid M}
+{Speech 1 Answer 2}{}{not paid F}
+{Speech 1 Answer 9}{}{paid, walking Kama Sutra F}
+{Speech 1 Answer 8}{}{paid, experienced F}
+{Speech 1 Answer 7}{}{paid, F inexperienced}
+{Speech 1 Answer 6}{}{paid, sex monster}
+{Speech 1 Answer 5}{}{paid, experienced}
+{Speech 1 Answer 4}{}{paid, inexperienced}
+{Speech 1 Answer 10}{}{paid, wrong room}
+{Speech 2}{}{Like what you see, baby?@@Go talk to Sally.@@You want me?@@Come visit me sometime.}
+{Speech 3}{}{You should go talk to Big Nose Sally.\nGo talk to Sally.\nTa-ra-ra-boom-de-ay...\nMissed me, darling?\nWe can do this at our leisure.\nYou want me?\nYou know how to whistle, don't you?\nIt used to be all pure and innocent, like snow, but now the snow is melting.}
+{Speech 3 Answer 11}{}{Hi, I'm not here for that, I'm looking for work. You wouldn't happen to have some work for me, would you?}
+{Speech 3 Answer Exit}{}{Sorry, wrong room.}
+{Speech 4}{}{That was quick.@@Maybe next time it'll last longer.@@It's not a race, you know.@@Don't your friends call you "Speedy"?@@If all my visitors were this fast, I could go home early.@@It'll be nicer if you wait until I help you out.@@If you'd waited until I got undressed, you'd have liked it more.@@We'll make up for it next time.@@Well, a buck's a buck, I suppose.@@It was kind of special, I think.@@That was just wonderful. Next!}
+{Speech 5}{}{That wasn't bad. You're a real man.@@That was just great. You're amazing. Next!@@You're the best. Come back soon.@@I'm sure you could make some tribal girl happy.}
+{Speech 6}{}{You're not just some quick-fling lover.@@What a handsome little friend we've got here.@@Size does matter after all! The sweet riddle of life...@@Hey you, tiger.@@Wow! Does the earth move for you too?@@Now I know what Catherine the Great felt like.@@That came out great.@@Wow! My life has completely changed as of today.}
+{Speech 7}{}{It was different, but no worse.@@That was sweet, dear.}
+{Speech 8}{}{Oh yes, baby, it's never been this good.@@No, dear, size doesn't matter at all. That was wonderful.@@Aren't you a cutie?}
+{Speech 9}{}{Yes, sweetie....@@Are you sure you're a girl?@@I never thought it could be this good.@@I'll love you forever!}
+{Speech 10}{}{You're further down the hall.}
+{Speech 11}{}{Sure, and while you're at it, you can leave with nothing and shut the door behind you.@sex@| Jerk.||}

@@ -295,89 +295,89 @@ Speech 36 # Отлично. Поздравляю с зачислением в р
 {DescAliveFull}{}{It's Elisabeth.}
 {DescAliveFull}{}{She's got considerable look, as if she is used to give orders and make guys obey.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 5}{}{тупой}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 1 Answer 5*}{}{Низкая карма}
-{Speech 1 Answer 5**}{}{враг}
-{Speech 1 Answer 5***}{}{Анклав}
-{Speech 1 Answer 11}{}{член БС}
-{Speech 1 Answer 31}{}{активна Атака на Базар НКР}
-{Speech 2}{}{Что это вы тут делаете?}
-{Speech 2 Answer 4}{}{А вы кто?}
-{Speech 2 Answer Exit}{}{Просто прохожу мимо.}
-{Speech 3}{}{Опять вы?}
-{Speech 3 Answer 7}{}{Не надумали помочь нам?}
-{Speech 3 Answer 9}{}{Работорговцы ликвидированы!}
-{Speech 3 Answer 10}{}{Мне не удалось справиться с работорговцами.}
-{Speech 3 Answer Exit}{}{Кажется все на сегодня.}
-{Speech 3 Answer 20}{}{Могу ли я чем-то помочь Рейнджерам?}
-{Speech 3 Answer 28}{}{Напомните, где находятся работорговцы?}
-{Speech 3 Answer 30}{}{С работорговцами из Ямы покончено.}
-{Speech 3 Answer 34}{}{Элиза, мы отбили нападение на Базар НКР.}
-{Speech 3 Answer 35}{}{Элиза, расскажите, как я могу вступить к вам в организацию?}
-{Speech 4}{}{Сначала ответьте на вопрос. Как вы относитесь к работорговцам?}
-{Speech 4 Answer 5}{}{У меня есть друзья среди работорговцев.}
-{Speech 4 Answer 6}{}{Ненавижу их!}
-{Speech 4 Answer 6*}{}{Я к ним отношусь безразлично.}
-{Speech 5}{}{Пошли вон отсюда!}
-{Speech 6}{}{Замечательно! Я - Элиз, глава рейнджеров в НКР. Не хотите поработать на благо общества?}
-{Speech 6 Answer 7}{}{Конечно. Что надо сделать?}
-{Speech 6 Answer 13}{}{Конечно. Что надо сделать?}
-{Speech 6 Answer 5}{}{Мне это неинтересно.}
-{Speech 6 Answer Exit}{}{Может я зайду позже.}
+{Speech 1 Answer 5}{}{stupid}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 1 Answer 5*}{}{Low karma}
+{Speech 1 Answer 5**}{}{enemy}
+{Speech 1 Answer 5***}{}{Enclave}
+{Speech 1 Answer 11}{}{BoS member}
+{Speech 1 Answer 31}{}{Attack on NCR Bazaar is active}
+{Speech 2}{}{What are you doing here?}
+{Speech 2 Answer 4}{}{And who are you?}
+{Speech 2 Answer Exit}{}{Just passing by.}
+{Speech 3}{}{You again?}
+{Speech 3 Answer 7}{}{Have you decided to help us?}
+{Speech 3 Answer 9}{}{The slavers are eliminated!}
+{Speech 3 Answer 10}{}{I couldn't deal with the slavers.}
+{Speech 3 Answer Exit}{}{That seems to be everything for today.}
+{Speech 3 Answer 20}{}{Can I help the Rangers with anything?}
+{Speech 3 Answer 28}{}{Remind me, where are the slavers located?}
+{Speech 3 Answer 30}{}{The slavers from the Pit are finished.}
+{Speech 3 Answer 34}{}{Elise, we repelled the attack on the NCR Bazaar.}
+{Speech 3 Answer 35}{}{Elise, tell me, how can I join your organization?}
+{Speech 4}{}{First answer a question. How do you feel about slavers?}
+{Speech 4 Answer 5}{}{I have friends among the slavers.}
+{Speech 4 Answer 6}{}{I hate them!}
+{Speech 4 Answer 6*}{}{I'm indifferent to them.}
+{Speech 5}{}{Get out of here!}
+{Speech 6}{}{Excellent! I'm Elise, head of the rangers in the NCR. Care to work for the good of society?}
+{Speech 6 Answer 7}{}{Of course. What needs to be done?}
+{Speech 6 Answer 13}{}{Of course. What needs to be done?}
+{Speech 6 Answer 5}{}{I'm not interested in this.}
+{Speech 6 Answer Exit}{}{Maybe I'll drop by later.}
 {Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 8}{}{Хорошо. Где это находится?}
-{Speech 7 Answer 12}{}{Хорошо, я отправляюсь немедленно.}
-{Speech 7 Answer 5}{}{Я выбираю последний вариант.}
-{Speech 7 Answer Exit}{}{Мне надо подумать.}
-{Speech 8}{}{Я вам покажу на этой штуке с радаром. [Вы узнали местонахождение Примитивного Племени.]. Торопитесь!}
-{Speech 12}{}{Торопитесь!}
-{Speech 9}{}{Отлично! Я думаю патроны вам не помешают. Теперь если хотите, можете пообщаться с Братством Стали. Это находится в Убежище 15, к востоку отсюда.}
-{Speech 10}{}{Очень жаль, тогда я ничем не могу вам помочь}
-{Speech 11}{}{Как дела у Братства Стали?@@Надеюсь у Братства Стали все в порядке.}
-{Speech 13}{}{Хм... Оказывается сейчас у нас нет работы.}
-{Speech 20}{}{Одна из основных целей Рейнджеров - борьба с торговлей "живым товаром". Мы должны стереть рабство с лица земли.}
-{Speech 20 Answer 21}{}{Ну, и?}
-{Speech 21}{}{К нам поступила информация о банде работорговцев, расположившейся в окрестностях Ямы. }
-{Speech 21 Answer 22}{}{Нужно уничтожить банду?}
-{Speech 22}{}{Совершенно верно. Учтите, члены этой шайки хорошо вооружены и опасны. Заручитесь поддержкой, прежде чем отправляться на их поиски.}
-{Speech 22 Answer 23}{}{Что я получу, если банда будет ликвидирована?}
-{Speech 22 Answer 25}{}{Где я найду работорговцев?}
-{Speech 23}{}{Вы сможете воспользоваться нашей службой снабжения. Броня, оружие, патроны, медикаменты - на ваш выбор.}
-{Speech 23 Answer 24}{}{Хорошо. Условия меня устраивают. Я вернусь, когда с работорговцами будет покончено.}
-{Speech 23 Answer Exit}{}{Нет, мне это неинтересно. [Уйти]}
-{Speech 24}{}{Возьмите эту карту. На ней указаны координаты тех мест, где были замечены члены банды.}
-{Speech 24 Answer Exit}{}{Благодарю. [Уйти]}
-{Speech 25}{}{Банда довольно многочисленна. По моим данным, члены шайки скрываются на нескольких фермах к югу от Ямы. }
-{Speech 25 Answer 26}{}{Мне нужно вырезать их всех?}
-{Speech 26}{}{Будет достаточно, если вы хорошо ослабите эту банду. Убейте 20 работорговцев из состава шайки. И будем считать, что задача выполнена.}
-{Speech 26 Answer Exit}{}{Мне нужно время, чтобы принять решение. [Уйти]}
-{Speech 26 Answer 27}{}{Я сделаю это.}
-{Speech 27}{}{Будьте осторожны, @pname@. Возьмите эту карту. На ней указаны места, где наши разведчики видели работорговцев.}
-{Speech 27 Answer Exit}{}{Спасибо. Скоро увидимся. [Уйти]}
-{Speech 28}{}{Бандиты расположились на нескольких фермах к востоку от Ямы. Как ваши успехи?}
-{Speech 28 Answer Exit}{}{Я занимаюсь этим. [Уйти]}
-{Speech 28 Answer 29}{}{Мне нужна еще одна карта этой местности...}
-{Speech 29}{}{Без проблем. Держите. [Элиза дает вам карту]}
-{Speech 29 Answer Exit}{}{Спасибо, я скоро вернусь. [Уйти]}
-{Speech 30}{}{Замечательно. Мне уже доложили. Ваш вклад очень важен для нас! Выберите себе награду по вкусу.}
-{Speech 30 Answer Exit}{}{Я возьму боевую броню.}
-{Speech 30 Answer Exit*}{}{Мне пригодится снайперская винтовка.}
-{Speech 30 Answer Exit**}{}{Я возьму 15 суперстимпаков.}
-{Speech 30 Answer Exit***}{}{Я возьму 70 патронов 2mm.}
-{Speech 30 Answer Exit****}{}{Мне ничего не нужно. Я просто ненавижу работорговцев... [Уйти]}
-{Speech 31}{}{Что? Какие вопросы? Откройте глаза! У нас война, практически.}
-{Speech 31 Answer 32}{}{Что случилось?}
-{Speech 31 Answer 33}{}{Я здесь, чтобы помочь.}
-{Speech 32}{}{Вы с ума сошли. Не сейчас!}
-{Speech 33}{}{Отлично. Помогите уничтожить этих подонков на Базаре. Я хорошо заплачу. }
-{Speech 33 Answer Exit}{}{Нет, это слишком опасно.}
-{Speech 33 Answer Exit*}{}{Да, я сделаю все, что в моих силах.}
-{Speech 34}{}{В этот раз рейдеры были слишком сильны... Уровень их снаряжения и организованности меня пугает. Тем не менее, благодарю за помощь. Вот ваша награда.}
-{Speech 34 Answer Exit}{}{Надеюсь, нападения больше не повторятся. [Уйти]}
-{Speech 35}{}{Вы очень помогли нам в ситуации с племенем. Я считаю, что вы достойны того, чтобы называться рейнджером. Вы все еще хотите вступить в Рейнджеры?}
-{Speech 35 Answer Exit}{}{Не сейчас. Мне нужно время, чтобы принять решение.}
-{Speech 35 Answer 36}{}{Да, я хочу стать рейнджером!}
-{Speech 36}{}{Отлично. Поздравляю с зачислением в ряды Рейнджеров, рядовой. За дальнейшими инструкциями обращайтесь к сержанту Кайлу.}
-{Speech 36 Answer Exit}{}{Слушаюсь, мэм!}
+{Speech 7 Answer 8}{}{All right. Where is it located?}
+{Speech 7 Answer 12}{}{All right, I'm setting off immediately.}
+{Speech 7 Answer 5}{}{I choose the last option.}
+{Speech 7 Answer Exit}{}{I need to think.}
+{Speech 8}{}{I'll show you on this radar gadget. [You learned the location of the Primal Tribe.]. Hurry!}
+{Speech 12}{}{Hurry!}
+{Speech 9}{}{Excellent! I think some ammo won't hurt you. Now, if you want, you can talk with the Brotherhood of Steel. It's in Vault 15, to the east of here.}
+{Speech 10}{}{What a shame, then there's nothing I can help you with}
+{Speech 11}{}{How are things with the Brotherhood of Steel?@@I hope everything is all right with the Brotherhood of Steel.}
+{Speech 13}{}{Hmm... It turns out we have no work right now.}
+{Speech 20}{}{One of the Rangers' main goals is fighting the trade in "living goods". We must wipe slavery off the face of the earth.}
+{Speech 20 Answer 21}{}{Well, and?}
+{Speech 21}{}{We've received information about a gang of slavers holed up in the vicinity of the Pit. }
+{Speech 21 Answer 22}{}{Do you need the gang destroyed?}
+{Speech 22}{}{Exactly right. Bear in mind, the members of this band are well armed and dangerous. Get yourself some support before setting out to find them.}
+{Speech 22 Answer 23}{}{What will I get if the gang is eliminated?}
+{Speech 22 Answer 25}{}{Where will I find the slavers?}
+{Speech 23}{}{You'll be able to use our supply service. Armor, weapons, ammo, medicine - your choice.}
+{Speech 23 Answer 24}{}{All right. The terms suit me. I'll come back when the slavers are finished.}
+{Speech 23 Answer Exit}{}{No, I'm not interested in this. [Leave]}
+{Speech 24}{}{Take this map. It marks the coordinates of the places where gang members have been spotted.}
+{Speech 24 Answer Exit}{}{Thank you. [Leave]}
+{Speech 25}{}{The gang is fairly numerous. According to my data, the band members are hiding on several farms to the south of the Pit. }
+{Speech 25 Answer 26}{}{Do I need to wipe them all out?}
+{Speech 26}{}{It will be enough if you weaken this gang substantially. Kill 20 slavers from the band. And we'll consider the task complete.}
+{Speech 26 Answer Exit}{}{I need time to make a decision. [Leave]}
+{Speech 26 Answer 27}{}{I'll do it.}
+{Speech 27}{}{Be careful, @pname@. Take this map. It marks the places where our scouts have seen the slavers.}
+{Speech 27 Answer Exit}{}{Thanks. See you soon. [Leave]}
+{Speech 28}{}{The bandits have settled on several farms to the east of the Pit. How are you getting on?}
+{Speech 28 Answer Exit}{}{I'm working on it. [Leave]}
+{Speech 28 Answer 29}{}{I need another map of this area...}
+{Speech 29}{}{No problem. Here. [Elise gives you a map]}
+{Speech 29 Answer Exit}{}{Thanks, I'll be back soon. [Leave]}
+{Speech 30}{}{Excellent. I've already been informed. Your contribution is very important to us! Choose a reward to your liking.}
+{Speech 30 Answer Exit}{}{I'll take the combat armor.}
+{Speech 30 Answer Exit*}{}{A sniper rifle would come in handy.}
+{Speech 30 Answer Exit**}{}{I'll take 15 super stimpaks.}
+{Speech 30 Answer Exit***}{}{I'll take 70 rounds of 2mm.}
+{Speech 30 Answer Exit****}{}{I don't need anything. I just hate slavers... [Leave]}
+{Speech 31}{}{What? What questions? Open your eyes! We're practically at war.}
+{Speech 31 Answer 32}{}{What happened?}
+{Speech 31 Answer 33}{}{I'm here to help.}
+{Speech 32}{}{Are you out of your mind. Not now!}
+{Speech 33}{}{Excellent. Help destroy those scumbags at the Bazaar. I'll pay well. }
+{Speech 33 Answer Exit}{}{No, it's too dangerous.}
+{Speech 33 Answer Exit*}{}{Yes, I'll do everything in my power.}
+{Speech 34}{}{This time the raiders were too strong... The level of their equipment and organization frightens me. Nevertheless, thank you for the help. Here is your reward.}
+{Speech 34 Answer Exit}{}{I hope the attacks won't happen again. [Leave]}
+{Speech 35}{}{You helped us a great deal in the situation with the tribe. I believe you're worthy of being called a ranger. Do you still want to join the Rangers?}
+{Speech 35 Answer Exit}{}{Not now. I need time to make a decision.}
+{Speech 35 Answer 36}{}{Yes, I want to become a ranger!}
+{Speech 36}{}{Excellent. Congratulations on your enlistment into the ranks of the Rangers, private. For further instructions, see Sergeant Kyle.}
+{Speech 36 Answer Exit}{}{Yes, ma'am!}

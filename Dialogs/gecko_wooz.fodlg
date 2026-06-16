@@ -362,143 +362,143 @@ Speech 49 # Спрашивай
 {DescAliveFull}{}{You see a tall ghoul with long hair.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{ }
-{Speech 1 Answer 25}{}{Лояльность низкая.}
-{Speech 1 Answer 49}{}{Обычное начало.}
-{Speech 2}{}{Я Вуз. Что ты хочешь?}
-{Speech 2 Answer 12}{}{Бухло, Вуз.}
-{Speech 2 Answer 5}{}{Что ты здесь делаешь?}
-{Speech 2 Answer 10}{}{Расскажи мне об этом месте.}
-{Speech 2 Answer Exit}{}{Мне от тебя ничего не надо. Пока.}
-{Speech 5}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
+{Speech 1 Answer 25}{}{Loyalty is low.}
+{Speech 1 Answer 49}{}{Normal start.}
+{Speech 2}{}{I'm Vuz. What do you want?}
+{Speech 2 Answer 12}{}{Booze, Vuz.}
+{Speech 2 Answer 5}{}{What are you doing here?}
+{Speech 2 Answer 10}{}{Tell me about this place.}
+{Speech 2 Answer Exit}{}{I don't need anything from you. Bye.}
+{Speech 5}{}{Time:60000 No answer:Close dialog / Close dialog}
 {Speech 5 Answer 6}{}{ }
-{Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 12}{}{Я хочу выпить.}
-{Speech 6 Answer 15}{}{Рассказываешь байки?}
-{Speech 6 Answer 8}{}{Я хочу что-нибудь купить или продать.}
-{Speech 6 Answer 16}{}{В спортлото играешь?}
-{Speech 6 Answer Exit}{}{Да мне сейчас вроде ничего не надо. Пока.}
-{Speech 8}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 8 Answer 16}{}{Что за чепуху ты городишь?}
-{Speech 8 Answer 9}{}{Просто меняться.}
-{Speech 9}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 9 Answer Barter}{}{Да, я бы хотел поторговаться.}
-{Speech 9 Answer 49}{}{Ёмм.. Позволь я тебя сначала кое-что спрошу.}
-{Speech 9 Answer Exit}{}{Что у меня сейчас на обмен не стоит. Пока.}
-{Speech 10}{}{Да что тут рассказывать, собственно... Просто горстка мертвяков отчаянно пытается выжить в этой сраке.}
-{Speech 10 Answer 33}{}{Да нет, ты мне про бар расскажи.}
-{Speech 10 Answer 34}{}{Ну, а кому щас легко?!}
-{Speech 12}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 12 Answer 6}{}{Урановое...?}
-{Speech 12 Answer 6*}{}{Давай Урановое... Оно в темноте светится?}
-{Speech 12 Answer 6**}{}{Ну, ради такого случая.... Давай Рентгеновского! }
-{Speech 12 Answer 14}{}{Всем по бутылке Уранового. Я плачу!}
-{Speech 12 Answer Exit}{}{Н-да... Счастливо.}
-{Speech 13}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 13 Answer 13}{}{Че?}
-{Speech 13 Answer 12}{}{Опаньки... Неудача. Давай что-нибудь подешевле.}
-{Speech 13 Answer 49}{}{Ладно, тогда позволь задать вопрос.}
-{Speech 13 Answer 49*}{}{Ну я уже понял, что я дебил. Можно я лучше тебя кое о чем спрошу?}
-{Speech 13 Answer 40}{}{Дебил? Это я то дебил? Слушай, кент, так чисто на большие траблы нарваться можно, понял?}
-{Speech 13 Answer Exit}{}{Извини. Пока.}
-{Speech 14}{}{Платишь за всех? Ну ты, блин, даешь... С тебя 35 монет.}
-{Speech 14 Answer 6}{}{Деньги - херня. Всем по пиву!}
-{Speech 14 Answer 6*}{}{Вуз, дружище, я плачу за пиво для всех! Эти ребята просто супер!}
-{Speech 14 Answer 6**}{}{Вуз, поди сюда. Ты мне друг или не друг? Ик. Эти ребята - мои лучшие кореша, давай еще по бутылке каждому за мой счет.}
-{Speech 14 Answer 6***}{}{Вуз! Пиво для всех, я плачу!}
-{Speech 14 Answer 25}{}{Ну, если подумать, то я наверное совсем рехнулся раз покупаю пиво для каких-то гнилых придурков.}
-{Speech 14 Answer 12}{}{Нет уж, я лучше только себе куплю выпивку.}
-{Speech 15}{}{О! У меня такая байка есть! Уссаться можно. Короче, представь себе голову...}
-{Speech 15 Answer 42}{}{Голову?}
-{Speech 15 Answer Exit}{}{Забей, эту я уже слыхал. Пока.}
-{Speech 16}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 16 Answer 6}{}{Как говорится, спортлото - это твоя Игра!}
-{Speech 16 Answer 32}{}{Расскажи мне об этом спортлото.}
-{Speech 16 Answer 30}{}{А что это за Джет?}
-{Speech 16 Answer Exit}{}{Ладно, буду знать. Пока.}
-{Speech 17}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 17 Answer 18}{}{Яблоко?}
-{Speech 17 Answer Exit}{}{Не сейчас, извини. Пока.}
-{Speech 18}{}{Я яблоки шибко люблю, но тут их вообще нет. Раз в сто лет завозят.}
-{Speech 18 Answer 19}{}{Я тут слыхал, что от яблока так круто прет потому что оно очень медленно естся.}
-{Speech 19}{}{Медленно естся? Ну ты и пельмень, совсем охренел! Яблоки точатся также быстро как и все остальные фрукты. Если бы торговцы не бычились, то мы бы все тут обжирались фруктами.}
-{Speech 19 Answer 23}{}{Да ты гонишь по-моему. Упился тут своего денатурата вот тебя и колбасит.}
-{Speech 19 Answer 49}{}{ Расскажи мне лучше о чем нибудь другом.}
-{Speech 19 Answer Exit}{}{Да, конечно, яблоки это супер. (медленно отходя назад) Конечно, Вуз, все будет хорошо, успокойся. До свидания.}
-{Speech 20}{}{Ну, я думаю мы друг друга поняли. Что-нибудь еще?}
-{Speech 20 Answer 49}{}{Да, я бы хотел еще кое-что узнать. }
-{Speech 20 Answer 49*}{}{Пожалуй на этом торговлю стоит завершить. У меня есть еще пара вопросов...}
-{Speech 20 Answer Exit}{}{Мне пока больше ничего не надо.}
-{Speech 21}{}{О, Избранный. Еклмн, не узнал. Поди-ка сюда, я тебе че скажу на ушко.}
-{Speech 21 Answer 24}{}{Ну вот, это еще куда ни шло. Я же все таки заслуживаю мало-мальского уважения.}
-{Speech 21 Answer Exit}{}{Нет уж, я к тебе и приближаться, трупак вонючий. Забудь. Пока.}
-{Speech 23}{}{Иди сюда, на ухо скажу.}
-{Speech 23 Answer 24}{}{О`кей.}
-{Speech 23 Answer Exit}{}{Ну уж дудки! Ты же мои мозги съесть хочешь, подлюка. Все, я ушел. Пока.}
-{Speech 24}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 24 Answer Exit}{}{Не очень-то и хотелось в твоем гребаном баре сидеть. Можно было и не орать так громко.}
-{Speech 24 Answer Exit*}{}{Ну что ж, уродец, достал ты меня. Пора проучить тебя, урода.}
-{Speech 25}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 25 Answer 49}{}{Ладно, мистер Вуз, извини что так тебя достал. Я просто хотел тебе пару вопросов задать.}
-{Speech 25 Answer Exit}{}{Это ты мне говоришь идти на @#%? А самому слабо прогуляться? Твой бар говно, понял? Все, я ухожу. }
-{Speech 25 Answer Exit*}{}{Ладно, забудь, Вуз. Извини.}
-{Speech 25 Answer 26}{}{Я говорил тебе, как я люблю яблоки?}
-{Speech 26}{}{Правда? Я не знал. Ну, раз ты любишь яблоки, может ты и не такое уж и дерьмо каким кажешься. Ну и какого хрена тебе надо?}
-{Speech 26 Answer 49}{}{Я хотел задать тебе несколько вопросов, Вуз.}
-{Speech 27}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 27 Answer 28}{}{Че?}
-{Speech 28}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 28 Answer Exit}{}{Мретвяки, зомби, какая разница? Один хрен, уроды вы...}
-{Speech 29}{}{Карты не просто игра - это страсть. Они даже изменяют жизнь и судьбы людей, зачастую приводя их к трагическому концу, о чем они даже не подозревают.}
-{Speech 29 Answer 31}{}{Угу...}
-{Speech 30}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 30 Answer 32}{}{А-а-а, ну да Джет, конечно. Расскажи мне еще о картах.}
-{Speech 31}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 31 Answer Exit}{}{Как нибудь... [Выход.]}
-{Speech 32}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 32 Answer 29}{}{Ага, уяснил. И еще нельзя обмениваться картами с игроками кроме как в Четверг вечером? Тупость конечно, но играть можно.}
-{Speech 32 Answer Exit}{}{Я лучше потом поиграю. Спасибо что хотя бы научил меня.}
-{Speech 33}{}{Бар назван Арфа в честь одного тусовочного места где я ошивался до войны. Что-то вроде напоминания о прошлом и символ надежды на возрождение.}
-{Speech 33 Answer 35}{}{До войны? Но это же черт знает когда было.}
-{Speech 33 Answer 37}{}{Надежда на возрождение? Что ты хочешь этим сказать?}
-{Speech 34}{}{Может быть, но не все же живут в городах полных кровожадных лунатиков.}
-{Speech 34 Answer 36}{}{Что ты имеешь в виду?}
-{Speech 35}{}{Конечно это было давно. А откуда по-твоему появились мертвяки? Что, думаешь просто кто-то встал с утреца и сказал себе: Едрена палка, а почему бы мне не стать живым трупом с гниющей плотью?}
-{Speech 35 Answer 38}{}{Да как бы нет, я так не думал. А откуда произошли мертвяки на самом деле?}
-{Speech 35 Answer 25}{}{Знаешь, мне как-то глубоко насрать на то, почему вы мертвяки стали такими уродами.}
-{Speech 36}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 36 Answer 27}{}{Спасибо за совет, я буду осторожней. Можно тебя спросить еще кое о чем?}
-{Speech 36 Answer Exit}{}{А мне кажется они нашли верный путь - генетическая чистка нашему обществу не помешает, а начать им следовала с тебя. Пока.}
-{Speech 36 Answer Exit*}{}{Мочить вас, уродов... Пока}
-{Speech 37}{}{С такими настроениями в обществе мертвяки нескоро получат относительное спокойствие и независимость, а пока арфа будет нашим символом и надеждой.}
-{Speech 37 Answer 37}{}{Никогда бы не подумал, что мертвяки настолько музыкальны.}
-{Speech 37 Answer 49}{}{Н-да, ясно. Ёе-хе-хе. Можно спросить кое-что?}
-{Speech 38}{}{Ну не боженька же нас такими сделал, тупица! Война... и радиация. Что, никогда не слыхал об этом? Когда взорвались бомбы, ядерное пламя сожгло нашу плоть, а радиация, та самая, которая не убивает, а просто поклеточно разрушает тебя, довершила начатое.}
-{Speech 38 Answer 39}{}{Н-да. Понятно.}
-{Speech 39}{}{Наконец-то. И вообще, какого хера надо было будить все эти и без того болезненные воспоминания? Скотина, мы всего лишь кучка гниющих отбросов, слегка пережаренных гниющих отбросов.}
-{Speech 39 Answer 49}{}{Я бы сказал недожаренных... Кхм, ладно, проехали. Позволь мне спросить еще кое-что.}
-{Speech 39 Answer Exit}{}{Ладно, не буду мешать тебе жалеть самого себя. Пока.}
-{Speech 40}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 40 Answer 41}{}{Ублюдкам?}
-{Speech 41}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 41 Answer 49}{}{С дуба? Не припоминаю... Можно задать тебе еще вопрос?}
-{Speech 42}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 42 Answer 43}{}{Так, оторванная голова. И в чем фишка?}
-{Speech 42 Answer 43*}{}{Гы... ну?}
-{Speech 43}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 43 Answer 44}{}{Погодь, погодь. Оторванная голова летает по Аду? И чего она там делает?}
-{Speech 43 Answer 44*}{}{Гы-гы-гы-гы... ууу... }
-{Speech 44}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 44 Answer 45}{}{Ты че, извращенец что ли? У тебя к матери повышенное чувство нежности было? В кроватку писался?}
-{Speech 44 Answer 47}{}{Аха-ха-ха-ха! [трясется]. Ну ты дал, Вуз!}
-{Speech 45}{}{Нет нет нет, постой. Вся фишка в голове. Понимаешь? Только представь себе оторванную голову в Аду, это ж прикольно! Разве можно не смеяться представляя оторванную голову в Аду?}
-{Speech 45 Answer 46}{}{Вуз, я конечно тебя мало знаю, но думаю буду прав если скажу, что тебе нужна медицинская помощь. Немедленная, калифицированная медицинская помошь. }
-{Speech 45 Answer 47}{}{А, ну да, конечно, это очень смешно. Ёа-ха-ха, конечно. Аж кушать не могу как смешно. Кхм, ну ладно, посмеялись и хватит. У меня есть к тебе еще пара вопросов.}
-{Speech 46}{}{Время:60000 Нет ответа:Завершить диалог / Close dialog}
-{Speech 46 Answer 49}{}{Пожалуй ты прав, Вуз. Наверное я действительно не так умен как ты. Ты единственный светлый разум среди нас, свиней. В таком случае ответь мне еще на один вопрос.}
-{Speech 47}{}{Ну! Я ж тебе говорил, что это убойная шутяга.}
+{Speech 6}{}{Time:60000 No answer:Close dialog}
+{Speech 6 Answer 12}{}{I want a drink.}
+{Speech 6 Answer 15}{}{Do you tell tales?}
+{Speech 6 Answer 8}{}{I want to buy or sell something.}
+{Speech 6 Answer 16}{}{Do you play sportloto?}
+{Speech 6 Answer Exit}{}{Nah, guess I don't need anything right now. Bye.}
+{Speech 8}{}{Time:60000 No answer:Close dialog / Close dialog}
+{Speech 8 Answer 16}{}{What nonsense are you talking about?}
+{Speech 8 Answer 9}{}{Just trade.}
+{Speech 9}{}{Time:60000 No answer:Close dialog}
+{Speech 9 Answer Barter}{}{Yeah, I'd like to barter.}
+{Speech 9 Answer 49}{}{Hmm.. Let me ask you something first.}
+{Speech 9 Answer Exit}{}{I've got nothing to trade right now. Bye.}
+{Speech 10}{}{Not much to tell, really... Just a handful of ghouls desperately trying to survive in this shithole.}
+{Speech 10 Answer 33}{}{No, tell me about the bar.}
+{Speech 10 Answer 34}{}{Well, who's got it easy these days?!}
+{Speech 12}{}{Time:60000 No answer:Close dialog}
+{Speech 12 Answer 6}{}{Uranium...?}
+{Speech 12 Answer 6*}{}{Give me the Uranium one... Does it glow in the dark?}
+{Speech 12 Answer 6**}{}{Well, for an occasion like this.... Give me the X-Ray one! }
+{Speech 12 Answer 14}{}{A bottle of Uranium for everyone. I'm paying!}
+{Speech 12 Answer Exit}{}{Yeah... Take care.}
+{Speech 13}{}{Time:60000 No answer:Close dialog}
+{Speech 13 Answer 13}{}{What?}
+{Speech 13 Answer 12}{}{Oops... No luck. Give me something cheaper.}
+{Speech 13 Answer 49}{}{All right, then let me ask a question.}
+{Speech 13 Answer 49*}{}{Well, I already got that I'm a moron. Can I ask you something instead?}
+{Speech 13 Answer 40}{}{Moron? Me, a moron? Listen, pal, that's how you get into big trouble, got it?}
+{Speech 13 Answer Exit}{}{Sorry. Bye.}
+{Speech 14}{}{Paying for everyone? Well, damn, that's something... You owe 35 coins.}
+{Speech 14 Answer 6}{}{Money's bullshit. Beer for everyone!}
+{Speech 14 Answer 6*}{}{Vuz, buddy, I'm paying for beer for everyone! These guys are just great!}
+{Speech 14 Answer 6**}{}{Vuz, come here. Are you my friend or not? Hic. These guys are my best pals, give everyone another bottle on me.}
+{Speech 14 Answer 6***}{}{Vuz! Beer for everyone, I'm paying!}
+{Speech 14 Answer 25}{}{Well, come to think of it, I must've gone completely crazy buying beer for some rotten idiots.}
+{Speech 14 Answer 12}{}{No way, I'd better just buy a drink for myself.}
+{Speech 15}{}{Oh! I've got a tale for you! You'll piss yourself laughing. So, picture a head...}
+{Speech 15 Answer 42}{}{A head?}
+{Speech 15 Answer Exit}{}{Forget it, heard that one already. Bye.}
+{Speech 16}{}{Time:60000 No answer:Close dialog / Close dialog}
+{Speech 16 Answer 6}{}{As they say, sportloto is your Game!}
+{Speech 16 Answer 32}{}{Tell me about this sportloto.}
+{Speech 16 Answer 30}{}{And what's this Jet?}
+{Speech 16 Answer Exit}{}{All right, good to know. Bye.}
+{Speech 17}{}{Time:60000 No answer:Close dialog}
+{Speech 17 Answer 18}{}{An apple?}
+{Speech 17 Answer Exit}{}{Not now, sorry. Bye.}
+{Speech 18}{}{I love apples a lot, but there are none here at all. They bring 'em in once in a blue moon.}
+{Speech 18 Answer 19}{}{I heard an apple gives such a great kick because it's eaten really slowly.}
+{Speech 19}{}{Eaten slowly? You're a real dumpling, completely lost it! Apples get eaten just as fast as any other fruit. If the traders didn't act up, we'd all be stuffing ourselves with fruit here.}
+{Speech 19 Answer 23}{}{You're talking nonsense, I think. You've boozed up on your denatured spirit - that's why you're tripping.}
+{Speech 19 Answer 49}{}{ Tell me about something else instead.}
+{Speech 19 Answer Exit}{}{Yeah, sure, apples are super. (slowly stepping back) Of course, Vuz, everything's gonna be fine, calm down. Goodbye.}
+{Speech 20}{}{Well, I think we understood each other. Anything else?}
+{Speech 20 Answer 49}{}{Yes, I'd like to find out something else. }
+{Speech 20 Answer 49*}{}{I think we should wrap up the trade here. I've got a couple more questions...}
+{Speech 20 Answer Exit}{}{I don't need anything else for now.}
+{Speech 21}{}{Oh, the Chosen One. Damn, didn't recognize you. Come here, I'll tell you something in your ear.}
+{Speech 21 Answer 24}{}{Now that's more like it. After all, I do deserve at least a little respect.}
+{Speech 21 Answer Exit}{}{No way, I won't even come near you, you stinking corpse. Forget it. Bye.}
+{Speech 23}{}{Come here, I'll tell you in your ear.}
+{Speech 23 Answer 24}{}{Okay.}
+{Speech 23 Answer Exit}{}{No way! You wanna eat my brains, you sneak. That's it, I'm gone. Bye.}
+{Speech 24}{}{Time:60000 No answer:Close dialog}
+{Speech 24 Answer Exit}{}{Wasn't that keen on sitting in your damn bar anyway. You didn't have to yell so loud.}
+{Speech 24 Answer Exit*}{}{Well then, you freak, you've had it coming. Time to teach you a lesson, you freak.}
+{Speech 25}{}{Time:60000 No answer:Close dialog}
+{Speech 25 Answer 49}{}{All right, Mister Vuz, sorry for bugging you so much. I just wanted to ask you a couple of questions.}
+{Speech 25 Answer Exit}{}{You're telling ME to go to @#%? Why don't you take a walk yourself? Your bar is shit, got it? That's it, I'm leaving. }
+{Speech 25 Answer Exit*}{}{All right, forget it, Vuz. Sorry.}
+{Speech 25 Answer 26}{}{Did I tell you how much I love apples?}
+{Speech 26}{}{Really? I didn't know. Well, if you love apples, maybe you're not as much of a piece of crap as you seem. So what the hell do you want?}
+{Speech 26 Answer 49}{}{I wanted to ask you a few questions, Vuz.}
+{Speech 27}{}{Time:60000 No answer:Close dialog}
+{Speech 27 Answer 28}{}{What?}
+{Speech 28}{}{Time:60000 No answer:Close dialog}
+{Speech 28 Answer Exit}{}{Deaders, zombies, what's the difference? Either way you're freaks...}
+{Speech 29}{}{Cards aren't just a game - they're a passion. They even change people's lives and fates, often leading them to a tragic end they don't even suspect.}
+{Speech 29 Answer 31}{}{Uh-huh...}
+{Speech 30}{}{Time:60000 No answer:Close dialog}
+{Speech 30 Answer 32}{}{A-a-ah, oh right, Jet, of course. Tell me more about the cards.}
+{Speech 31}{}{Time:60000 No answer:Close dialog}
+{Speech 31 Answer Exit}{}{Some other time... [Exit.]}
+{Speech 32}{}{Time:60000 No answer:Close dialog}
+{Speech 32 Answer 29}{}{Yeah, got it. And you also can't trade cards with other players except on Thursday evening? Stupid, of course, but you can play.}
+{Speech 32 Answer Exit}{}{I'd rather play later. Thanks for teaching me at least.}
+{Speech 33}{}{The bar's named the Harp after a hangout where I used to hang around before the war. Sort of a reminder of the past and a symbol of hope for rebirth.}
+{Speech 33 Answer 35}{}{Before the war? But that was ages ago.}
+{Speech 33 Answer 37}{}{Hope for rebirth? What do you mean by that?}
+{Speech 34}{}{Maybe, but not everyone lives in cities full of bloodthirsty lunatics.}
+{Speech 34 Answer 36}{}{What do you mean?}
+{Speech 35}{}{Of course it was long ago. And where do you think the ghouls came from? What, you think someone just got up one morning and said to himself: Holy crap, why don't I become a living corpse with rotting flesh?}
+{Speech 35 Answer 38}{}{Well, no, I didn't think so. So where did the ghouls really come from?}
+{Speech 35 Answer 25}{}{You know, I really couldn't give a damn why you ghouls turned into such freaks.}
+{Speech 36}{}{Time:60000 No answer:Close dialog}
+{Speech 36 Answer 27}{}{Thanks for the advice, I'll be more careful. Can I ask you something else?}
+{Speech 36 Answer Exit}{}{And I think they found the right way - a genetic cleansing wouldn't hurt our society, and they should've started with you. Bye.}
+{Speech 36 Answer Exit*}{}{Wasting you freaks... Bye}
+{Speech 37}{}{With attitudes like that in society, the ghouls won't get any relative peace and independence for a long while, and for now the harp will be our symbol and our hope.}
+{Speech 37 Answer 37}{}{I'd never have thought ghouls were so musical.}
+{Speech 37 Answer 49}{}{Yeah, I see. Heh-heh-heh. Can I ask something?}
+{Speech 38}{}{Well, it wasn't the good Lord who made us this way, you dummy! War... and radiation. What, never heard of it? When the bombs went off, the nuclear flame burned our flesh, and the radiation, the kind that doesn't kill but just destroys you cell by cell, finished the job.}
+{Speech 38 Answer 39}{}{Yeah. I see.}
+{Speech 39}{}{Finally. And anyway, why the hell did you have to stir up all these already painful memories? You bastard, we're just a pile of rotting garbage, slightly overcooked rotting garbage.}
+{Speech 39 Answer 49}{}{I'd say undercooked... Ahem, all right, never mind. Let me ask you something else.}
+{Speech 39 Answer Exit}{}{All right, I won't keep you from feeling sorry for yourself. Bye.}
+{Speech 40}{}{Time:60000 No answer:Close dialog}
+{Speech 40 Answer 41}{}{Bastards?}
+{Speech 41}{}{Time:60000 No answer:Close dialog}
+{Speech 41 Answer 49}{}{Off an oak? Don't recall that... Can I ask you another question?}
+{Speech 42}{}{Time:60000 No answer:Close dialog}
+{Speech 42 Answer 43}{}{Okay, a torn-off head. So what's the point?}
+{Speech 42 Answer 43*}{}{Heh... well?}
+{Speech 43}{}{Time:60000 No answer:Close dialog / Close dialog}
+{Speech 43 Answer 44}{}{Wait, wait. A torn-off head flying around Hell? And what's it doing there?}
+{Speech 43 Answer 44*}{}{Heh-heh-heh-heh... oooh... }
+{Speech 44}{}{Time:60000 No answer:Close dialog / Close dialog}
+{Speech 44 Answer 45}{}{What are you, some kind of pervert? Were you a bit too tender with your mother? Did you wet the bed?}
+{Speech 44 Answer 47}{}{Aha-ha-ha-ha! [shaking]. You're something, Vuz!}
+{Speech 45}{}{No no no, hold on. The whole point is in the head. Get it? Just picture a torn-off head in Hell, it's hilarious! How can you not laugh imagining a torn-off head in Hell?}
+{Speech 45 Answer 46}{}{Vuz, I don't know you well, of course, but I think I'll be right if I say you need medical help. Immediate, qualified medical help. }
+{Speech 45 Answer 47}{}{Ah, oh right, of course, that's very funny. Ha-ha-ha, of course. So funny I can barely eat. Ahem, well all right, we've had our laugh, that's enough. I've got a couple more questions for you.}
+{Speech 46}{}{Time:60000 No answer:Close dialog / Close dialog}
+{Speech 46 Answer 49}{}{I guess you're right, Vuz. I really am not as smart as you. You're the one bright mind among us pigs. In that case, answer me one more question.}
+{Speech 47}{}{Well! Told you it was a killer joke.}
 {Speech 47 Answer 49}{}{ }
-{Speech 49}{}{Спрашивай}
-{Speech 49 Answer 12}{}{Бухло, Вуз}
-{Speech 49 Answer 5}{}{Что ты здесь делаешь?}
-{Speech 49 Answer 10}{}{Расскажи мне об этом месте.}
-{Speech 49 Answer Exit}{}{Мне от тебя ничего не надо. Пока.}
+{Speech 49}{}{Ask away}
+{Speech 49 Answer 12}{}{Booze, Vuz}
+{Speech 49 Answer 5}{}{What are you doing here?}
+{Speech 49 Answer 10}{}{Tell me about this place.}
+{Speech 49 Answer Exit}{}{I don't need anything from you. Bye.}

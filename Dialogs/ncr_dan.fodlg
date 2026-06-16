@@ -44,13 +44,13 @@ Speech 6 # Мне некогда. Чего ты тут вообще делаеш
 {Name}{}{Dan}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 1 Answer 6}{}{низкая инта}
-{Speech 2}{}{Чего тебе?}
-{Speech 2 Answer 3}{}{Чем ты занимаешься?}
-{Speech 2 Answer 4}{}{У тебя какое звание?}
-{Speech 2 Answer 5}{}{Мне нужно оружие.}
-{Speech 3}{}{Не твое дело.}
-{Speech 4}{}{А тебе то что?}
-{Speech 5}{}{А ты рейнджер? Если да - к сержанту, если нет - проваливай.}
-{Speech 6}{}{Мне некогда. Чего ты тут вообще делаешь?}
-{Speech 6 Answer Exit}{}{Ох! Пока. [Уйти]}
+{Speech 1 Answer 6}{}{low int}
+{Speech 2}{}{What do you want?}
+{Speech 2 Answer 3}{}{What do you do here?}
+{Speech 2 Answer 4}{}{What's your rank?}
+{Speech 2 Answer 5}{}{I need a weapon.}
+{Speech 3}{}{None of your business.}
+{Speech 4}{}{What's it to you?}
+{Speech 5}{}{You a ranger? If so - go to the sergeant, if not - get lost.}
+{Speech 6}{}{I'm busy. What are you even doing here?}
+{Speech 6 Answer Exit}{}{Oh! Goodbye. [Leave]}

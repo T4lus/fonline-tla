@@ -261,90 +261,90 @@ Speech 23 # Как вы могли устроить драку в церкви? 
 {Name}{}{Cliff}
 {DescAliveShort}{}{You see an old man wearing robes.}
 {DescAliveFull}{}{You see an old man wearing robes. He is the priest of Den's church.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 23}{}{квест наркоторг провален}
-{Speech 1 Answer 22}{}{квест наркоторг выполнен}
-{Speech 1 Answer 18}{}{Квест призрака не выполнен}
-{Speech 1 Answer 2}{}{Низкая лояльность (Клифф знает имя)}
-{Speech 1 Answer 3}{}{Средняя лояльность, Клифф не знает имени}
-{Speech 1 Answer 15}{}{Средняя лояльность, Клифф знает имя}
-{Speech 1 Answer 16}{}{Высокая лояльность (Клифф знает имя)}
-{Speech 2}{}{А... Это снова ты, неразумный отрок @pname@... Одумайся, сын мой, пока у тебя ещё есть время... Иначе скатишься в пропасть разврата как несчастное дитя Вирджиния.}
-{Speech 2 Answer 17}{}{Я одумался, святой отец. Простите меня, я поступил неразумно, отозвавшись так о вашей вере...}
-{Speech 2 Answer Exit}{}{Я одумался, святой отец. И у меня ещё есть время УБИТЬ ВАС ВСЕХ!!!}
-{Speech 3}{}{Здравствуй, путник. Приветствую тебя в Доме Господа.}
-{Speech 3 Answer 5}{}{Здравствуйте. Меня зовут @pname@. А кто вы?}
-{Speech 3 Answer Exit}{}{Ээээ.... Я просто мимо проходил... Пожалуй, я пойду дальше мимо проходить...}
-{Speech 5}{}{Святой отец Мрачный Клифф. Рад нашему знакомству.}
-{Speech 5 Answer 6}{}{Мрачный Клифф? А почему вас так зовут, святой отец?}
-{Speech 6}{}{Так меня все называют. Мрачный Клифф, хотя я вовсе не мрачен. Просто люди прозвали... Святой отец Мрачный Клифф.}
-{Speech 6 Answer 7}{}{Расскажите мне про церковь, Мрачный Клифф.}
-{Speech 6 Answer 8}{}{У тебя идиотское имя! И бога твоего нет!}
-{Speech 6 Answer Exit}{}{Это всё. Спасибо, святой отец.}
-{Speech 7}{}{Эту церковь мы восстановили и очистили после того, как она долгие годы служила пристанищем бандитам. Нам очень помогли достойные люди из Братства Стали, а также наш новый мэр - Бекки. Они очень хорошие люди, да благословит их Господь.}
-{Speech 7 Answer 20}{}{Насчет призрака...}
-{Speech 7 Answer 20*}{}{Насчет призрака...}
-{Speech 7 Answer 21}{}{Я вот смотрю на вас и мне хочется как-то помочь.}
-{Speech 7 Answer 9}{}{Расскажите мне про Братство Стали.}
-{Speech 7 Answer 10}{}{Расскажите мне про Бекки.}
-{Speech 7 Answer 11}{}{И как теперь обстоят дела?}
-{Speech 7 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 8}{}{На всё воля Всевышнего. Он нас рассудит...}
-{Speech 8 Answer Exit}{}{[ конец ]}
-{Speech 9}{}{Братство Стали - они хорошие ребята. Это организация откуда-то с юга. Они очень помогают нашему городу. Видно, что у них добрые и благородные сердца.}
-{Speech 9 Answer 12}{}{Где мне найти Братство?}
-{Speech 9 Answer 10}{}{Расскажите мне про Бекки.}
-{Speech 9 Answer 11}{}{И как теперь обстоят дела в церкви?}
-{Speech 9 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 10}{}{Бекки - наш мэр. Она победила совсем недавно на честных выборах, когда жители города решили, что после долгих лет криминальной власти пора самим начать управлять собой.}
-{Speech 10 Answer 13}{}{Где мне найти Бекки?}
-{Speech 10 Answer 9}{}{Расскажите мне про Братство Стали.}
-{Speech 10 Answer 11}{}{И как теперь обстоят дела в церкви?}
-{Speech 10 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 11}{}{Теперь наша церковь полна прихожан, особенно по воскресеньям. люди наконец-то стали тянуться к Богу. Моё сердце искренне радуется этому.}
-{Speech 11 Answer 9}{}{Расскажите мне про Братство Стали.}
-{Speech 11 Answer 10}{}{Расскажите мне про Бекки.}
-{Speech 11 Answer 8}{}{Чушь какая! Вашего бога нет! Вы просто дурак!}
-{Speech 11 Answer 14}{}{Я тоже искренне рад этому, святой отец! Наконец-то люди начинают обращаться к истинному Богу!}
-{Speech 11 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 12}{}{Их пост находится в другой части города. На западе. Это рядом с мастерской-свалкой Смитти и музеем.}
-{Speech 12 Answer 10}{}{Расскажите мне про Бекки.}
-{Speech 12 Answer 11}{}{Понятно. А как теперь обстоят дела в церкви?}
-{Speech 12 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 13}{}{Обычно она на работе  - в здании администрации города. Это недалеко. Налево, когда выйдешь из церкви. Пройди мимо кладбища и поверни чуть левее от ресторана Мамочки и ты сразу увидишь здание администрации.}
-{Speech 13 Answer 9}{}{Расскажите мне про Братство Стали.}
-{Speech 13 Answer 11}{}{Понятно. А как теперь обстоят дела в церкви?}
-{Speech 13 Answer Exit}{}{Это всё. Спасибо, святой отец!}
-{Speech 14}{}{Да будет благословен твой путь, @pname@! Пусть Господь освещает его и хранит тебя в твоих странствиях! [ Вы получили благословение от отца Клиффа. ]}
-{Speech 14 Answer 9}{}{Спасибо, святой отец! Расскажите мне про Братство Стали.}
-{Speech 14 Answer 10}{}{Спасибо, святой отец! Расскажите мне про Бекки.}
-{Speech 14 Answer Exit}{}{Спасибо, святой отец! Это всё. До свидания!}
-{Speech 15}{}{Здравствуй, @pname@. Приветствую тебя в Доме Господа.}
-{Speech 15 Answer 7}{}{Расскажите мне про церковь, святой отец.}
-{Speech 15 Answer Exit}{}{Здравствуйте, святой отец. Я просто зашёл увидеть вас. До свидания.}
-{Speech 16}{}{Здравствуй, @pname@! Сегодня замечательный день, не так ли? Ведь ты находишься в Доме Господа. Рад приветствовать тебя здесь!}
-{Speech 16 Answer 7}{}{Я тоже очень рад вас видеть, святой отец. Расскажите мне про церковь.}
-{Speech 16 Answer Exit}{}{Я тоже очень рад вас видеть, святой отец. Я зашёл просто повидать вас. До свидания. [выход]}
-{Speech 17}{}{Я рад, отрок. Тогда приветствую тебя в Доме Господа.}
-{Speech 17 Answer 7}{}{Расскажите мне про церковь, святой отец.}
-{Speech 17 Answer Exit}{}{Теперь я, пожалуй, пойду... [ Уходите. ]}
-{Speech 18}{}{Я вижу вы чем-то обеспокоены?}
-{Speech 18 Answer 19}{}{Да, святой отец! Вы должны помочь мне уничтожить этого мерзкого призрака, который убивает людей!}
-{Speech 18 Answer 19*}{}{Помогите, святой отец! Мама сказала, вы знаете как уничтожить мерзкого призрака, который убивает людей. Скажите же!}
-{Speech 18 Answer 24}{}{Помогите, святой отец! Мама сказала, вы знаете как уничтожить мерзкого призрака, который убивает людей. Скажите же!}
-{Speech 18 Answer 24*}{}{Да, святой отец! Вы должны помочь мне уничтожить этого мерзкого призрака, который убивает людей!}
-{Speech 18 Answer Exit}{}{Все в порядке! [выход]}
-{Speech 19}{}{Это исчадие ада сполна отплатит за свои злодеяния! Вот пузырь со святой водой. Брызни на него святой водой и это очистит его!}
-{Speech 19 Answer Exit}{}{Очистит, то есть убьет? Отлично, я возьму это! [Вы выхватываете у святого отца пузырь] Вперед, я очищу этот мир от зла! [выход]}
-{Speech 24}{}{Успокойся @sex@|сын мой|дочь моя|, призрака уже нет, кто-то уже выполнил эту священную миссию. Но... [Он на секунду призадумывается] Да, всё может быть. Вот, возьми пузырь со святой водой, она всегда поможет тебе справиться с призраком, если он вёрнется.}
-{Speech 24 Answer Exit}{}{Спасибо, святой отец. [Вы берёте у него пузырь] Eсли призрак вернётся, то он об этом пожалеет. [Выход]}
-{Speech 20}{}{[Он кажется счастлив] Ты жив! Это значит что... ты отлично справился, сын мой!}
-{Speech 20 Answer Exit}{}{Я был направлен вами, святой отец! [выход]}
-{Speech 21}{}{Это естественное желание, дитя мое. У меня есть подходящее задание для тебя. Совсем недавно в нашем доме божием завелся плохой человек, торгующий отравой. Думаю ты можешь его направить на путь истинный.}
-{Speech 21 Answer Exit}{}{Я посмотрю что смогу для вас сделать, святой отец.}
-{Speech 21 Answer Exit*}{}{Мне еще нужно время чтобы подумать.}
-{Speech 22}{}{Я видел, что тот человек ушел. Вы правильно сделали, дитя господа.}
-{Speech 23}{}{Как вы могли устроить драку в церкови? Прочь отсюда, чтоб мои глаза вас не видели!}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 23}{}{drug dealer quest failed}
+{Speech 1 Answer 22}{}{drug dealer quest completed}
+{Speech 1 Answer 18}{}{ghost quest not completed}
+{Speech 1 Answer 2}{}{Low loyalty (Cliff knows the name)}
+{Speech 1 Answer 3}{}{Medium loyalty, Cliff doesn't know the name}
+{Speech 1 Answer 15}{}{Medium loyalty, Cliff knows the name}
+{Speech 1 Answer 16}{}{High loyalty (Cliff knows the name)}
+{Speech 2}{}{Ah... It's you again, foolish @sex@|youth|child|, @pname@... Come to your senses, @sex@|my son|my daughter|, while you still have time... Otherwise you'll tumble into the abyss of depravity, like that wretched child Virginia.}
+{Speech 2 Answer 17}{}{I've come to my senses, Father. Forgive me, I acted foolishly speaking that way of your faith...}
+{Speech 2 Answer Exit}{}{I've come to my senses, Father. And I still have time TO KILL YOU ALL!!!}
+{Speech 3}{}{Greetings, traveler. Welcome to the House of the Lord.}
+{Speech 3 Answer 5}{}{Hello. My name is @pname@. And who are you?}
+{Speech 3 Answer Exit}{}{Uhhh.... I was just passing by... I think I'll keep on passing by...}
+{Speech 5}{}{Holy Father Grim Cliff. Pleased to make your acquaintance.}
+{Speech 5 Answer 6}{}{Grim Cliff? And why are you called that, Father?}
+{Speech 6}{}{That's what everyone calls me. Grim Cliff, though I'm not grim at all. People just gave me the nickname... Holy Father Grim Cliff.}
+{Speech 6 Answer 7}{}{Tell me about the church, Grim Cliff.}
+{Speech 6 Answer 8}{}{You've got an idiotic name! And your god doesn't exist!}
+{Speech 6 Answer Exit}{}{That's all. Thank you, Father.}
+{Speech 7}{}{We restored and cleansed this church after it served for many years as a haven for bandits. The worthy men of the Brotherhood of Steel helped us greatly, as did our new mayor, Becky. They are very good people, may the Lord bless them.}
+{Speech 7 Answer 20}{}{About the ghost...}
+{Speech 7 Answer 20*}{}{About the ghost...}
+{Speech 7 Answer 21}{}{Looking at you, I feel like I'd like to help somehow.}
+{Speech 7 Answer 9}{}{Tell me about the Brotherhood of Steel.}
+{Speech 7 Answer 10}{}{Tell me about Becky.}
+{Speech 7 Answer 11}{}{And how are things now?}
+{Speech 7 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 8}{}{It's all the will of the Almighty. He will judge us...}
+{Speech 8 Answer Exit}{}{[ End ]}
+{Speech 9}{}{The Brotherhood of Steel - they're good folk. It's an organization from somewhere down south. They help our town a great deal. You can tell they have kind and noble hearts.}
+{Speech 9 Answer 12}{}{Where can I find the Brotherhood?}
+{Speech 9 Answer 10}{}{Tell me about Becky.}
+{Speech 9 Answer 11}{}{And how are things now in the church?}
+{Speech 9 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 10}{}{Becky is our mayor. She won quite recently in honest elections, when the townsfolk decided that after long years of criminal rule it was time to start governing themselves.}
+{Speech 10 Answer 13}{}{Where can I find Becky?}
+{Speech 10 Answer 9}{}{Tell me about the Brotherhood of Steel.}
+{Speech 10 Answer 11}{}{And how are things now in the church?}
+{Speech 10 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 11}{}{Now our church is full of parishioners, especially on Sundays. People have finally begun to turn toward God. My heart rejoices sincerely at this.}
+{Speech 11 Answer 9}{}{Tell me about the Brotherhood of Steel.}
+{Speech 11 Answer 10}{}{Tell me about Becky.}
+{Speech 11 Answer 8}{}{What nonsense! Your god doesn't exist! You're just a fool!}
+{Speech 11 Answer 14}{}{I'm sincerely glad of it too, Father! At last people are turning to the true God!}
+{Speech 11 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 12}{}{Their outpost is in another part of town. To the west. It's next to Smitty's junkyard workshop and the museum.}
+{Speech 12 Answer 10}{}{Tell me about Becky.}
+{Speech 12 Answer 11}{}{I see. And how are things now in the church?}
+{Speech 12 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 13}{}{Usually she's at work - in the city administration building. It's not far. Turn left when you leave the church. Pass the cemetery and turn a little to the left of Mom's restaurant, and you'll see the administration building right away.}
+{Speech 13 Answer 9}{}{Tell me about the Brotherhood of Steel.}
+{Speech 13 Answer 11}{}{I see. And how are things now in the church?}
+{Speech 13 Answer Exit}{}{That's all. Thank you, Father!}
+{Speech 14}{}{May your path be blessed, @pname@! May the Lord light it and keep you in your wanderings! [ You received a blessing from Father Cliff. ]}
+{Speech 14 Answer 9}{}{Thank you, Father! Tell me about the Brotherhood of Steel.}
+{Speech 14 Answer 10}{}{Thank you, Father! Tell me about Becky.}
+{Speech 14 Answer Exit}{}{Thank you, Father! That's all. Goodbye!}
+{Speech 15}{}{Greetings, @pname@. Welcome to the House of the Lord.}
+{Speech 15 Answer 7}{}{Tell me about the church, Father.}
+{Speech 15 Answer Exit}{}{Hello, Father. I just stopped by to see you. Goodbye.}
+{Speech 16}{}{Greetings, @pname@! It's a wonderful day, isn't it? After all, you're in the House of the Lord. Glad to welcome you here!}
+{Speech 16 Answer 7}{}{I'm very glad to see you too, Father. Tell me about the church.}
+{Speech 16 Answer Exit}{}{I'm very glad to see you too, Father. I just stopped by to see you. Goodbye. [exit]}
+{Speech 17}{}{I'm glad, child. Then welcome to the House of the Lord.}
+{Speech 17 Answer 7}{}{Tell me about the church, Father.}
+{Speech 17 Answer Exit}{}{Now I think I'll be going... [ Leave. ]}
+{Speech 18}{}{I see you're troubled by something?}
+{Speech 18 Answer 19}{}{Yes, Father! You must help me destroy this vile ghost that's killing people!}
+{Speech 18 Answer 19*}{}{Help me, Father! Mom said you know how to destroy the vile ghost that's killing people. Tell me, then!}
+{Speech 18 Answer 24}{}{Help me, Father! Mom said you know how to destroy the vile ghost that's killing people. Tell me, then!}
+{Speech 18 Answer 24*}{}{Yes, Father! You must help me destroy this vile ghost that's killing people!}
+{Speech 18 Answer Exit}{}{Everything's fine! [exit]}
+{Speech 19}{}{That spawn of hell will pay in full for its evil deeds! Here's a vial of holy water. Sprinkle it with holy water and that will cleanse it!}
+{Speech 19 Answer Exit}{}{Cleanse, you mean kill? Perfect, I'll take it! [You snatch the vial from the Father] Onward, I'll cleanse this world of evil! [exit]}
+{Speech 24}{}{Calm yourself, @sex@|my son|my daughter|, the ghost is gone now, someone has already carried out that sacred mission. But... [He ponders for a second] Yes, anything is possible. Here, take this vial of holy water, it will always help you deal with the ghost if it returns.}
+{Speech 24 Answer Exit}{}{Thank you, Father. [You take the vial from him] If the ghost comes back, it'll regret it. [Exit]}
+{Speech 20}{}{[He seems happy] You're alive! That means... you did splendidly, my son!}
+{Speech 20 Answer Exit}{}{I was guided by you, Father! [exit]}
+{Speech 21}{}{It's a natural desire, my child. I have a fitting task for you. Quite recently a bad man peddling poison has turned up in our House of God. I think you can set him on the righteous path.}
+{Speech 21 Answer Exit}{}{I'll see what I can do for you, Father.}
+{Speech 21 Answer Exit*}{}{I still need time to think it over.}
+{Speech 22}{}{I saw that the man left. You did the right thing, child of God.}
+{Speech 23}{}{How could you start a fight in the church? Get out of here, so my eyes never see you again!}
 {100000001}{}{My son, if sinners entice thee, consent thou not.}
 {100000002}{}{If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:}
 {100000003}{}{Let us swallow them up alive as the grave; and whole, as those that go down into the pit:}

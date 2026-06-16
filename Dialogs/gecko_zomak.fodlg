@@ -143,52 +143,52 @@ Speech 20 # Да, священный талисман обновления. Пр
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{ }
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Обновися!}
-{Speech 2 Answer 12}{}{Агу-агу?!}
-{Speech 2 Answer 4}{}{Я просто гуляю.}
-{Speech 2 Answer 5}{}{Я ищу обновления.}
-{Speech 2 Answer Exit}{}{Кажется я пришел не по адресу.}
+{Speech 2 Answer 3}{}{Get renewed!}
+{Speech 2 Answer 12}{}{Goo-goo?!}
+{Speech 2 Answer 4}{}{I'm just walking around.}
+{Speech 2 Answer 5}{}{I'm looking for renewal.}
+{Speech 2 Answer Exit}{}{Looks like I've come to the wrong place.}
 {Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 4}{}{Иди погуляй в другом месте или старина Зомак порвет тебе пасть одной правой.}
+{Speech 4}{}{Go walk somewhere else or old Zomak will rip your trap apart with one right hand.}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 5 Answer 6}{}{Его? Кто этот Его, то есть Он?}
-{Speech 5 Answer Exit}{}{Я не достоин видеть его. До свидания.}
-{Speech 6}{}{Он тот, кто дарует просветление. Он тот, кто обещает Обновление всем, кто последует за ним.}
-{Speech 6 Answer 7}{}{Пожалуй, я готов к обновлению. Где же Он?}
-{Speech 6 Answer 10}{}{Очередное сектантское надувательство? Я уже ушел. }
-{Speech 7}{}{Он.. он здесь. Да, кстати, а кто ты?}
-{Speech 7 Answer 8}{}{Я просто Странник.}
-{Speech 7 Answer 9}{}{Я пришел за своим ежегодным обновлением.}
-{Speech 7 Answer 7}{}{Все будеи ништяк - просто задам ему пару вопросов.}
+{Speech 5 Answer 6}{}{Him? Who is this Him, that is, He?}
+{Speech 5 Answer Exit}{}{I'm not worthy to see him. Goodbye.}
+{Speech 6}{}{He is the one who grants enlightenment. He is the one who promises Renewal to all who follow him.}
+{Speech 6 Answer 7}{}{I suppose I'm ready for renewal. Where is He, then?}
+{Speech 6 Answer 10}{}{Another cultist scam? I'm already leaving. }
+{Speech 7}{}{He.. he's here. Oh, by the way, who are you?}
+{Speech 7 Answer 8}{}{I'm just a Wanderer.}
+{Speech 7 Answer 9}{}{I've come for my annual renewal.}
+{Speech 7 Answer 7}{}{Everything'll be cool - I'll just ask him a couple of questions.}
 {Speech 8}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 8 Answer 8}{}{Аааа, о'кей. Пока.}
-{Speech 9}{}{Ну, в таком случае заходи. Он в соседней комнате. Не заставляй его ждать.}
-{Speech 9 Answer Exit}{}{Заставлять ждать? Кто угодно кроме меня!}
-{Speech 9 Answer Exit*}{}{Пожалуй я приду позже. Пока.}
+{Speech 8 Answer 8}{}{Aaah, okay. Bye.}
+{Speech 9}{}{Well, in that case come on in. He's in the next room. Don't keep him waiting.}
+{Speech 9 Answer Exit}{}{Keep him waiting? Anyone but me!}
+{Speech 9 Answer Exit*}{}{I think I'll come back later. Bye.}
 {Speech 10}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 10 Answer Exit}{}{О`кей.}
-{Speech 11}{}{Да, все могут обновиться внутри.}
-{Speech 11 Answer Exit}{}{О`кей.}
-{Speech 12}{}{Агу-Агу?? Что это значит? Ты что, тупой?}
-{Speech 12 Answer 13}{}{Ась?}
+{Speech 10 Answer Exit}{}{Okay.}
+{Speech 11}{}{Yes, everyone can be renewed inside.}
+{Speech 11 Answer Exit}{}{Okay.}
+{Speech 12}{}{Goo-Goo?? What does that mean? Are you stupid or something?}
+{Speech 12 Answer 13}{}{Huh?}
 {Speech 13}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 13 Answer 14}{}{А че тама?}
-{Speech 13 Answer Exit}{}{Ладно, я пошел.}
+{Speech 13 Answer 14}{}{What's in there?}
+{Speech 13 Answer Exit}{}{Alright, I'm off.}
 {Speech 14}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 14 Answer 17}{}{Я просто тебя проверял. Ты прошел тест. Теперь пусти меня.}
-{Speech 14 Answer Exit}{}{Ты знаешь, что-то я стормозил. Наверное из-за радиации. Пока.}
-{Speech 15}{}{Опаньки... А здесь ничего нет. Вообще ничего. Уходи.}
-{Speech 15 Answer 16}{}{Ты уверен что здесь ничего нет?}
-{Speech 15 Answer Exit}{}{О`кей. Пока.}
-{Speech 16}{}{Ага. Абсолютно уверен. Теперь отвали.}
-{Speech 16 Answer 16}{}{Ну, как скажешь. Пока.}
+{Speech 14 Answer 17}{}{I was just testing you. You passed the test. Now let me through.}
+{Speech 14 Answer Exit}{}{You know, I kinda spaced out there. Probably because of the radiation. Bye.}
+{Speech 15}{}{Whoops... There's nothing here. Nothing at all. Go away.}
+{Speech 15 Answer 16}{}{Are you sure there's nothing here?}
+{Speech 15 Answer Exit}{}{Okay. Bye.}
+{Speech 16}{}{Yep. Absolutely sure. Now buzz off.}
+{Speech 16 Answer 16}{}{Well, whatever you say. Bye.}
 {Speech 17}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 17 Answer 18}{}{Ясен перец. Теперь пропусти меня.}
-{Speech 17 Answer 15}{}{Нет, ты завалил его и теперь я должен подать на тебя рапорт.}
-{Speech 18}{}{Ладно, проходи.}
-{Speech 18 Answer Exit}{}{О`кей. Пока}
-{Speech 19}{}{Утебя есть Знак. Проходи.}
-{Speech 19 Answer 20}{}{Знак?}
-{Speech 19 Answer Exit}{}{Бойся Знака. Пока.}
-{Speech 20}{}{Да, священный талисман обновления. Приди к обновлению, товарищ! Обновись!}
-{Speech 20 Answer Exit}{}{И тебе тоже счастливого обновления. Пока. }
+{Speech 17 Answer 18}{}{Obviously. Now let me through.}
+{Speech 17 Answer 15}{}{No, you failed it and now I have to file a report on you.}
+{Speech 18}{}{Alright, come on through.}
+{Speech 18 Answer Exit}{}{Okay. Bye}
+{Speech 19}{}{You have the Sign. Come through.}
+{Speech 19 Answer 20}{}{The Sign?}
+{Speech 19 Answer Exit}{}{Fear the Sign. Bye.}
+{Speech 20}{}{Yes, the sacred talisman of renewal. Come to the renewal, comrade! Get renewed!}
+{Speech 20 Answer Exit}{}{Happy renewal to you too. Bye. }

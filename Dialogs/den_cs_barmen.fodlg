@@ -86,31 +86,31 @@ Speech 10 # Слушай, у меня вакансий нет, тебе лучш
 
 [Text engl]
 {Name}{}{error}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Не знает имени.}
-{Speech 1 Answer 3}{}{Знает имя.}
-{Speech 2}{}{Приветствую тебя на автостоянке Фергюсона!}
-{Speech 2 Answer 3}{}{Привет Фергюсон, меня зовут @pname@.}
-{Speech 2 Answer 3*}{}{Моя звать @pname@!}
-{Speech 2 Answer 3**}{}{Привет Фергюсон!}
-{Speech 2 Answer Exit}{}{Извини, дела, пора бежать!}
-{Speech 3}{}{Чего желаете, @pname@?}
-{Speech 3 Answer Barter}{}{Ыыы... Моя хотеть огненный вода!}
-{Speech 3 Answer 7}{}{Расскажи, что это за место-то такое.}
-{Speech 3 Answer 10}{}{Да денег бы побольше, и опыта поднабраться. Работу я ищу, одним словом! Нужна помощь в чем-нибудь?}
-{Speech 3 Answer Barter*}{}{Плесни-ка мне лучшего виски в баре!}
-{Speech 3 Answer Barter**}{}{Мне бутылочку пива пожалуйста!}
-{Speech 3 Answer Barter***}{}{Давай поторгуем}
-{Speech 3 Answer Exit}{}{[Выход] А, пожалуй я пойду!}
-{Speech 3 Answer Exit*}{}{[Выход] Моя уходить!}
-{Speech 7}{}{ Это бывшая автозаправка. До войны тут заправляли машины бензином, ну а когда он исчез - заправка стала никому не нужна, и тут расположился супермаркет.}
-{Speech 7 Answer 8}{}{Интересно, ну а после войны что было?}
-{Speech 8}{}{А после войны тут никого не стало. 40 лет назад её нашел мой отец, Томпсон, который устроил тут магазин. Потом его убили, и теперь я владею баром и стоянкой. С каждым днем все больше клиентов, хехе}
-{Speech 8 Answer 9}{}{А еще что тут есть?}
-{Speech 8 Answer Exit}{}{[Выход] Извини, но мне пора.}
-{Speech 9}{}{В соседней комнате мой сын - Смитти, торгует всяким хламом. Он одно время увлекался ремонтом, пока не выбил себе глаз взорвавшимся патроном. Теперь зато у него можно найти кучу всяких деталей и инструментов. На юге - город Дэн, а между стоянкой и Дэном есть офис караванщиков. У них бывает много барахла.}
-{Speech 9 Answer 3}{}{Спасибо за рассказ}
-{Speech 9 Answer Exit}{}{[Выход] Было интересно, но мне пора. До встречи!}
-{Speech 10}{}{Слушай, у меня вакансий нет, тебе лучше поспрашивать об этом в Дэне, он к югу отсюда. Еще можешь спросить караванщиков, им после каждого похода нужны новые охранники *посмеивается*}
-{Speech 10 Answer 3}{}{Понятно, спасибо}
-{Speech 10 Answer Exit}{}{[Выход] Окей, пойду узнаю у них.}
+{Speech 1}{}{Pre-dialogue setup}
+{Speech 1 Answer 2}{}{Doesn't know the name.}
+{Speech 1 Answer 3}{}{Knows the name.}
+{Speech 2}{}{Welcome to Ferguson's parking lot!}
+{Speech 2 Answer 3}{}{Hi Ferguson, my name is @pname@.}
+{Speech 2 Answer 3*}{}{Me name @pname@!}
+{Speech 2 Answer 3**}{}{Hi Ferguson!}
+{Speech 2 Answer Exit}{}{Sorry, busy, got to run!}
+{Speech 3}{}{What can I do for you, @pname@?}
+{Speech 3 Answer Barter}{}{Uhh... Me want firewater!}
+{Speech 3 Answer 7}{}{Tell me, what kind of place is this anyway.}
+{Speech 3 Answer 10}{}{I could use more money, and some experience too. I'm looking for work, in a word! Need help with anything?}
+{Speech 3 Answer Barter*}{}{Pour me the best whiskey at the bar!}
+{Speech 3 Answer Barter**}{}{A bottle of beer please!}
+{Speech 3 Answer Barter***}{}{Let's trade.}
+{Speech 3 Answer Exit}{}{[Exit] Ah, I think I'll be going!}
+{Speech 3 Answer Exit*}{}{[Exit] Me leave!}
+{Speech 7}{}{ This is a former gas station. Before the war they fueled cars with gasoline here, but when it ran out the station became useless to everyone, and a supermarket set up shop here.}
+{Speech 7 Answer 8}{}{Interesting, and what happened after the war?}
+{Speech 8}{}{And after the war there was no one left here. 40 years ago my father, Thompson, found it and set up a store. Then he was killed, and now I own the bar and the parking lot. More customers every day, heh-heh.}
+{Speech 8 Answer 9}{}{What else is there here?}
+{Speech 8 Answer Exit}{}{[Exit] Sorry, but I have to go.}
+{Speech 9}{}{In the next room is my son, Smitty, who sells all sorts of junk. He was into repairs for a while, until he blew out his eye with an exploding cartridge. But now you can find a pile of all kinds of parts and tools at his place. To the south is the town of Den, and between the parking lot and Den there's a caravan office. They often have a lot of stuff.}
+{Speech 9 Answer 3}{}{Thanks for the story.}
+{Speech 9 Answer Exit}{}{[Exit] That was interesting, but I have to go. See you!}
+{Speech 10}{}{Listen, I've got no openings, you'd be better off asking about that in Den, it's to the south of here. You could also ask the caravaneers, they need new guards after every run *chuckles*}
+{Speech 10 Answer 3}{}{I see, thanks.}
+{Speech 10 Answer Exit}{}{[Exit] Okay, I'll go ask them.}

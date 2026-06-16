@@ -104,29 +104,29 @@ Speech 10 # Вы ошиблись дверью. С мелкими ранения
 {Name}{}{Rachael}
 {DescAliveShort}{}{You see Rachael}
 {DescAliveFull}{}{Red-haired girl wearing glasses with a very intelligent look.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Зашёл с улицы.}
-{Speech 1 Answer 3}{}{Закликал до смерти.}
-{Speech 1 Answer 4}{}{Пришёл на операцию}
-{Speech 1 Answer 10}{}{Не туда попал.}
-{Speech 2}{}{Немедленно покиньте операционную!}
-{Speech 2 Answer 7}{}{А я с маргаритками. Оп! [Достать горшок из-за спины]}
-{Speech 3}{}{Помогите! @sex@|Тут какой-то маньяк|Ко мне пристаёт какая-то больная женщина!|!}
-{Speech 4}{}{Привет. Я Рейчел, буду Вас лечить. Прилягте сюда. Не бойтесь механической руки, не бойтесь. Тааак, отлично. [Приладывает к Вашему лицу какую-то маску со шлангом] Теперь дышите глубоко... Дышите... Дышииитеее... [Её голос замедляется и всё вокруг темнеет]}
-{Speech 4 Answer 5}{}{[Далее]}
-{Speech 5}{}{[Вы очнулись. Вы всё ещё лежите на операционном столе. Но, на удивление, уже ничего не болит.]}
-{Speech 5 Answer 6}{}{Спасибо, доктор!}
-{Speech 5 Answer Exit}{}{Спасибо!}
-{Speech 6}{}{Да не за что, я рада помочь. Я же на самом деле пока не доктор, и мне очень нужна практика, чтобы им стать. Так что заходите ещ... Ой. Как это некрасиво прозвучало. @sex@|Но цветы можете приносить, конечно! Я особенно люблю маргаритки.|Просто буду рада помочь, в случае чего!|}
-{Speech 6 Answer Exit}{}{Практика, говоришь... Постараюсь я больше не попадать в эту больницу.}
-{Speech 6 Answer Exit*}{}{Буду иметь ввиду!}
-{Speech 6 Answer Exit**}{}{Буду иметь ввиду!}
-{Speech 7}{}{Ой! Какая неожиданность! Я же тогда пошутила! Спасибо, большое, спасибо! [Рейчел краснеет]}
-{Speech 7 Answer 8}{}{[Выжидающе на неё посмотреть]}
-{Speech 7 Answer 9}{}{[Выжидающе на неё посмотреть]}
-{Speech 7 Answer Exit}{}{Мне только приятно порадовать такую девушку, как Вы. До свидания!}
-{Speech 8}{}{[Рейчел целует Вас в щёчку и краснеет ещё больше]}
-{Speech 8 Answer 9}{}{Рейчел, а что вы делаете сегодня вечером?}
-{Speech 8 Answer Exit}{}{Пока!}
-{Speech 9}{}{Извините... Я занята! Да, не забудьте закрыть за собой дверь!}
-{Speech 10}{}{Вы ошиблись дверью. С мелкими ранениями - к Франческе.}
+{Speech 1}{}{Initial preferences}
+{Speech 1 Answer 2}{}{Came in from the street.}
+{Speech 1 Answer 3}{}{Clicked to death.}
+{Speech 1 Answer 4}{}{Came for the operation.}
+{Speech 1 Answer 10}{}{Wrong place.}
+{Speech 2}{}{Leave the operating room immediately!}
+{Speech 2 Answer 7}{}{But I brought daisies. Ta-da! [Pull a pot out from behind your back]}
+{Speech 3}{}{Help! @sex@|There's some maniac in here|Some sick woman is hitting on me!|!}
+{Speech 4}{}{Hi. I'm Rachael, I'll be treating you. Lie down here. Don't be afraid of the mechanical arm, don't be afraid. Theeere we go, great. [Places some kind of mask with a hose over your face] Now breathe deep... Breathe... Breaaatheee... [Her voice slows down and everything around goes dark]}
+{Speech 4 Answer 5}{}{[Next]}
+{Speech 5}{}{[You came to. You're still lying on the operating table. But, surprisingly, nothing hurts anymore.]}
+{Speech 5 Answer 6}{}{Thanks, doctor!}
+{Speech 5 Answer Exit}{}{Thanks!}
+{Speech 6}{}{Oh, don't mention it, I'm glad to help. I'm actually not a doctor yet, and I really need the practice to become one. So drop by aga... Oops. That came out wrong. @sex@|But you can bring flowers, of course! I especially love daisies.|I'll just be glad to help if anything comes up!|}
+{Speech 6 Answer Exit}{}{Practice, you say... I'll try not to end up in this hospital again.}
+{Speech 6 Answer Exit*}{}{I'll keep that in mind!}
+{Speech 6 Answer Exit**}{}{I'll keep that in mind!}
+{Speech 7}{}{Oh! What a surprise! I was only joking back then! Thank you, thank you so much! [Rachael blushes]}
+{Speech 7 Answer 8}{}{[Look at her expectantly]}
+{Speech 7 Answer 9}{}{[Look at her expectantly]}
+{Speech 7 Answer Exit}{}{It's my pleasure to make a girl like you happy. Goodbye!}
+{Speech 8}{}{[Rachael kisses you on the cheek and blushes even more]}
+{Speech 8 Answer 9}{}{Rachael, what are you doing tonight?}
+{Speech 8 Answer Exit}{}{Bye!}
+{Speech 9}{}{Sorry... I'm busy! Oh, and don't forget to close the door behind you!}
+{Speech 10}{}{You've got the wrong door. For minor injuries, see Francesca.}

@@ -473,7 +473,7 @@ Speech 47 # Чёрт, я не должна тебе этого говорить.
 {Speech 3 Answer 9}{}{I want to ask you something.@@I have questions.@@I need information.}
 {Speech 3 Answer 10}{}{I want to buy something...@@I need to trade with you.@@I'd like to trade.@@I need to equip myself wholly. What do you have?}
 {Speech 3 Answer 27}{}{Job's done.@@Bottles are delivered.@@I've delivered the bottles to James.}
-{Speech 3 Answer Exit}{}{Ничего, извини.}
+{Speech 3 Answer Exit}{}{Nothing, sorry.}
 {Speech 4}{}{We don't have any doctors in town and I can't help you.@@Why are you speaking like a moron? Wait... let me guess... you ARE moron.}
 {Speech 4 Answer Exit}{}{By Rara!}
 {Speech 5}{}{I haven't seen you before. Better not bum around, it's severe about this while Brotherhood of Steel is here...}
@@ -600,7 +600,7 @@ Speech 47 # Чёрт, я не должна тебе этого говорить.
 {Speech 45}{}{Maybe you've heard about Enclave? That's definitely the most powerful organization on this continent. They are gathering the most skilled warriors and scientists. I don't know exactly what for. But if you show yourself worthy, they will notice you.}
 {Speech 45 Answer 46}{}{And where can I find them?}
 {Speech 46}{}{I don't know where exactly, but there is their base somewhere near the coast far away to the south-west from here.}
-{Speech 46 Answer 47}{}{Меня интересует ещё работа.}
+{Speech 46 Answer 47}{}{I'm interested in more work.}
 {Speech 46 Answer Exit}{}{Thanks, I'll look.}
-{Speech 47}{}{Чёрт, я не должна тебе этого говорить... Но ладно, ты вроде показал@sex@||а| себя человеком, которому можно доверять. Давай сюда свой пип-бой, я отмечу примерное расположение их базы у тебя на карте. Скажи, что интересуешься работой по сбору информации в городах.}
-{Speech 47 Answer Exit}{}{Спасибо, надо будет посмотреть.}
+{Speech 47}{}{Damn, I shouldn't be telling you this... But fine, you seem to have shown@sex@||| yourself to be a person who can be trusted. Hand over your Pip-Boy, I'll mark the approximate location of their base on your map. Tell them you're interested in work gathering information in the towns.}
+{Speech 47 Answer Exit}{}{Thanks, I'll have to take a look.}

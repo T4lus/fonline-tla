@@ -313,9 +313,9 @@ Speech 32 # На северо-восток от моего магазина.
 {Speech 3 Answer 10}{}{What do you do here?}
 {Speech 3 Answer 15}{}{What about this big white building in the middle of the town?}
 {Speech 3 Answer Exit}{}{Bye.}
-{Speech 3 Answer 20}{}{Может, я могу как-то помочь вашему прекрасному городу?}
-{Speech 3 Answer 26}{}{Насчёт твоего задания...\n\n\n\n}
-{Speech 3 Answer 29}{}{Больше этих тварей, гигантских насекомых, в округе никто не видел?}
+{Speech 3 Answer 20}{}{Maybe I can help your fine town somehow?}
+{Speech 3 Answer 26}{}{About your job...\n\n\n\n}
+{Speech 3 Answer 29}{}{Has anyone else seen those creatures, those giant insects, around?}
 {Speech 4}{}{My name’s Jo. Can you say Jo? No matter; you see that rectangular thing over there? That’s a\n door. Be careful not to let it hit you on the way out.}
 {Speech 4 Answer 5}{}{[You don’t quite understand everything he’s saying, but you grin and turn to leave]}
 {Speech 5}{}{[He seems to mull something over for a bit and then smiles and looks up at you] Maybe we can\n work out a trade after all. My name is Jo; I run this here trading post. I have some information about\n GECK. You interested?}
@@ -368,32 +368,32 @@ Speech 32 # На северо-восток от моего магазина.
 {Speech 18 Answer Exit}{}{Okay, I'll be right back!}
 {Speech 18 Answer Exit*}{}{I don't want to soil my hands. Goodbye!}
 {Speech 19}{}{Oh, I see you have crop with you. Thank you for your work!}
-{Speech 20}{}{Да. Хотелось бы. У нас возникла проблема на одной из ферм.}
-{Speech 20 Answer 21}{}{Надеюсь, это не запор у брамина. Этим я заниматься не стану, это к ветеринару.\n}
-{Speech 21}{}{О нет, там совсем другое. Там появилась оса…}
-{Speech 21 Answer 22}{}{Что появилось? Да ты охренел что ли, мужик? Лезешь с такой ерундой!\n}
-{Speech 21 Answer 22*}{}{Оса? Так возьми мухобойку. Чё за ерунду ты выдумываешь?\n}
-{Speech 22}{}{Ерунда, говоришь? Но деньги , которые я плачу, вполне настоящие. Предлагаю полторы тысячи, если убьешь осу.}
-{Speech 22 Answer 23}{}{Вот как? Хм. Где-то тут лажа зарыта, чую…\n\n}
-{Speech 22 Answer Exit}{}{Не, бред какой-то. Пойду я.\n\n}
-{Speech 23}{}{Никакой лажи. Убиваешь осу  - получаешь полторы штуки. И приз  от меня лично.}
-{Speech 23 Answer 24}{}{Договорились. Показывай, где?\n\n}
-{Speech 24}{}{Тут недалеко[делает отметку на карте]}
-{Speech 24 Answer 25}{}{Ладно. Скоро вернусь. Приготовьте деньги.\n\n\n}
-{Speech 25}{}{Да, разумеется. И чистые штаны тоже приготовлю...}
-{Speech 26}{}{Как там наш уговор?}
-{Speech 26 Answer Exit}{}{Выполняется. Скоро буду с отчетом.\n\n\n}
-{Speech 26 Answer 28}{}{Ети! Это не оса. Это, блин, подводная лодка в степях Казахстана! Ну нахер, сами разбирайтесь!\n\n\n}
-{Speech 26 Answer 27}{}{В следующий раз возьму с собой дихлофос. Блин. Всё сделано.\n\n\n}
-{Speech 27}{}{Отлично, отлично. Получите денежки. Ну,  и научу тебя кое-чему. Я в торговле всю жизнь работаю…}
-{Speech 27 Answer Exit}{}{Спасибо. Я ещё зайду.\n\n\n\n}
-{Speech 28}{}{это тебе не гандоны из Рено в Ден возить!}
-{Speech 29}{}{Мы уже не раз к тебе обращались за помощью. Помоги уж ещё разок}
-{Speech 29 Answer 30}{}{Ой, ну только не оса…}
-{Speech 30}{}{Не, точно не оса.}
-{Speech 30 Answer 31}{}{Ладно. А что тогда?}
-{Speech 31}{}{А подойди к Гришему поговори. Ему что-то нужно было, просил правильного человека найти. Что-то у него нелады со стадом.}
-{Speech 31 Answer 32}{}{Достали скотоводы… Где это хренов Гришем? }
-{Speech 31 Answer Exit}{}{Ой, задолбало. Пойду я отсюда лучше.}
-{Speech 32}{}{На северо-восток от моего магазина.}
-{Speech 32 Answer Exit}{}{Хорошо, иду…}
+{Speech 20}{}{Yeah. I'd like that. We've got a problem on one of the farms.}
+{Speech 20 Answer 21}{}{I hope it's not a brahmin's constipation. I won't deal with that, that's a job for a vet.\n}
+{Speech 21}{}{Oh no, it's something else entirely. A wasp has shown up there…}
+{Speech 21 Answer 22}{}{Shown up? Have you lost your mind, man? Bothering me with such nonsense!\n}
+{Speech 21 Answer 22*}{}{A wasp? Then grab a flyswatter. What kind of nonsense are you making up?\n}
+{Speech 22}{}{Nonsense, you say? But the money I'm paying is quite real. I'm offering fifteen hundred if you kill the wasp.}
+{Speech 22 Answer 23}{}{Is that so? Hmm. There's something fishy buried here, I can smell it…\n\n}
+{Speech 22 Answer Exit}{}{Nah, this is some kind of crap. I'm off.\n\n}
+{Speech 23}{}{Nothing fishy. You kill the wasp - you get fifteen hundred. And a prize from me personally.}
+{Speech 23 Answer 24}{}{Deal. Show me where?\n\n}
+{Speech 24}{}{It's not far from here[marks it on the map]}
+{Speech 24 Answer 25}{}{All right. I'll be back soon. Get the money ready.\n\n\n}
+{Speech 25}{}{Yes, of course. And I'll get clean pants ready too...}
+{Speech 26}{}{How's our deal coming along?}
+{Speech 26 Answer Exit}{}{In progress. I'll be back with a report soon.\n\n\n}
+{Speech 26 Answer 28}{}{Damn! That's no wasp. That's a freaking submarine in the steppes of Kazakhstan! To hell with it, sort it out yourselves!\n\n\n}
+{Speech 26 Answer 27}{}{Next time I'll bring some bug spray. Damn. It's all done.\n\n\n}
+{Speech 27}{}{Excellent, excellent. Here's your money. Well, and I'll teach you a thing or two. I've worked in trade my whole life…}
+{Speech 27 Answer Exit}{}{Thanks. I'll drop by again.\n\n\n\n}
+{Speech 28}{}{This ain't like hauling rubbers from Reno to the Den!}
+{Speech 29}{}{We've turned to you for help more than once already. Help us out one more time?}
+{Speech 29 Answer 30}{}{Oh, just not a wasp…}
+{Speech 30}{}{Nah, definitely not a wasp.}
+{Speech 30 Answer 31}{}{All right. What is it, then?}
+{Speech 31}{}{Go talk to Grisham. He needed something, asked me to find the right person. Something's wrong with his herd.}
+{Speech 31 Answer 32}{}{These ranchers are a pain… Where's that damn Grisham? }
+{Speech 31 Answer Exit}{}{Ugh, I'm sick of this. I'd better get out of here.}
+{Speech 32}{}{Northeast of my store.}
+{Speech 32 Answer Exit}{}{All right, I'm going…}

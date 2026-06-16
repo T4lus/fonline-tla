@@ -186,63 +186,63 @@ Speech 19 # Ну, что и требовалось. Бери денежки.  И
 {DescAliveFull}{}{Grishem.}
 {DescAliveFull}{}{You can't recall him, but he looks familiar.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 10}{}{тупой}
-{Speech 1 Answer 2}{}{[Вы сами не поняли что сказали, но...]}
-{Speech 1 Answer 5}{}{[Вы сами не поняли что сказали, но...]}
-{Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Наверное, забираю. Я хочу приобрести кое-какую провизию для путешествий.}
-{Speech 2 Answer Exit}{}{Пока.}
-{Speech 2 Answer 11}{}{Меня мэр прислал. Тебе что-то нужно?}
-{Speech 3}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 3 Answer 8}{}{Звучит неплохо, дай мне одну упаковку.}
-{Speech 3 Answer 5}{}{Нет, спасибо. Может быть, позже. Но мне бы хотелось задать тебе пару вопросов.}
-{Speech 3 Answer Exit}{}{Пока.}
-{Speech 4}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 4 Answer 5}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 4 Answer Exit}{}{[КОНЕЦ.]}
-{Speech 5}{}{Теперь что я могу для вас сделать?}
-{Speech 5 Answer 3}{}{Мне бы хотелось купить вашего знаменитого вяленого мяса.}
-{Speech 5 Answer 6}{}{Ты мне не можешь рассказать немного о скотобойне?}
-{Speech 5 Answer 9}{}{Вижу, засуха еще не подействовала на твой бизнес.}
-{Speech 5 Answer Exit}{}{Ладно, пока.}
-{Speech 5 Answer 11}{}{Меня мэр прислал. Тебе что-то нужно?}
-{Speech 5 Answer 16}{}{По поводу твоей просьбы…\n}
-{Speech 6}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 6 Answer 7}{}{А куда идут шкуры и субпродукты?}
-{Speech 6 Answer 5}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 7}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 7 Answer 5}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 7 Answer Exit}{}{[КОНЕЦ.]}
-{Speech 8}{}{Приятно иметь с тобой дело. Чем еще могу тебе помочь?}
-{Speech 8 Answer 5}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 8 Answer 3}{}{Я хочу приобрести еще провизии.}
-{Speech 8 Answer Exit}{}{Пока.}
-{Speech 9}{}{Вообще-то, засуха даже помогла в некоторой степени. Никто не в состоянии вырастить достаточно корма для своих браминов, и им приходится резко снижать поголовье стад. Но это всего лишь временно. Если смотреть на картину в целом, снижение поголовья браминов в конце концов обязательно скажется на моем бизнесе.}
-{Speech 9 Answer 5}{}{Можно задать тебе еще несколько вопросов?}
-{Speech 9 Answer Exit}{}{Пока.}
-{Speech 10}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 10 Answer Exit}{}{[Пускаете пузыри из слюней] Угуук.}
-{Speech 11}{}{Нужно, ага. Точно. Помощь нужна. Тут такая штука. У меня видишь, брамины…Они того, пасутся…Ну и этого…}
-{Speech 11 Answer 12}{}{Какого этого? Давай уже яснее…}
-{Speech 12}{}{Ну понимаешь, они вялые какие-то стали. Как выгоню ночью на пастбище - потом еле двигаются. И надои упали. Хотя в надоях и есть слово «надо», всё равно упали. }
-{Speech 12 Answer 13}{}{Так. И что ты от меня ждешь? Что я надои увеличу?}
-{Speech 12 Answer Exit}{}{Почему мне всегда достаётся такой ерундой заниматься? Я ухожу!\n}
-{Speech 13}{}{Да не…Там , понимаешь, видели люди в темноте какое-то это. Ну что-то типа вида как бы там  летало…Или ходило…Двигалось в общем…}
-{Speech 13 Answer 14}{}{Угу. Типа вида как бы и что?}
-{Speech 14}{}{Ну я думаю, это из-за этой штуки с браминами такая ерунда. Поймай её, ну или застрели. Короче, сделай что-нибудь. С меня 3000 монет, если всё получится. Ну и научу кое-чему…}
-{Speech 14 Answer 15}{}{Хорошо, где твое ранчо, скотовод?\n}
-{Speech 14 Answer Exit}{}{Как достали фермеры. Всё, с меня хватит…}
-{Speech 15}{}{А туточки. Но эта штука только по ночам появляется, учти.}
-{Speech 15 Answer Exit}{}{Ладно. Ещё одна бессонная ночь для блага пустоши.\n}
-{Speech 16}{}{Как успехи?}
-{Speech 16 Answer Exit}{}{Я усиленно работаю в этом направлении...\n}
-{Speech 16 Answer 17}{}{Всё просто. Эта штука боится людей. Просто поставь ночную охрану, и всё будет в порядке.\n}
-{Speech 16 Answer 18}{}{Я ничего не @sex@| видел |видела| за целую ночь…\n}
-{Speech 16 Answer 19}{}{Всё в порядке. Больше эта тварь тебя не побеспокоит. Я @sex@| разобрался |разобралась| .\n}
-{Speech 16 Answer 17*}{}{Тут такое дело... Я засек@sex@||ла| одного странного типа, но он успел смыться. Думаю, достаточно будет просто поставить охрану на ферму. Он больше туда не сунется.}
-{Speech 16 Answer 19*}{}{Долгая история... Одно могу тебе обещать, больше браминов никто не тронет.}
-{Speech 17}{}{Отлично. И ты просто так получаешь три штуки денег. Молодец, блин.}
-{Speech 17 Answer Exit}{}{Не жопься, фермер. Жадность - грех\n}
-{Speech 18}{}{Если ты чего -то не видишь, это не значит, что этого нет. }
-{Speech 19}{}{Ну, что и требовалось. Бери денежки.  И я научу тебя правильно разделывать браминов, чтоб получить вкусное, полезное мясо.}
-{Speech 19 Answer Exit}{}{Спасибо.}
+{Speech 1 Answer 10}{}{dumb}
+{Speech 1 Answer 2}{}{[You don't quite understand what you just said, but...]}
+{Speech 1 Answer 5}{}{[You don't quite understand what you just said, but...]}
+{Speech 2}{}{Time:60000 No answer:Завершить диалог}
+{Speech 2 Answer 3}{}{Taking, I suppose. I want to buy some supplies for the road.}
+{Speech 2 Answer Exit}{}{Bye.}
+{Speech 2 Answer 11}{}{The mayor sent me. Do you need something?}
+{Speech 3}{}{Time:60000 No answer:Завершить диалог}
+{Speech 3 Answer 8}{}{Sounds good, give me one pack.}
+{Speech 3 Answer 5}{}{No, thanks. Maybe later. But I'd like to ask you a couple of questions.}
+{Speech 3 Answer Exit}{}{Bye.}
+{Speech 4}{}{Time:60000 No answer:Завершить диалог}
+{Speech 4 Answer 5}{}{Can I ask you a few more questions?}
+{Speech 4 Answer Exit}{}{[END.]}
+{Speech 5}{}{Now what can I do for you?}
+{Speech 5 Answer 3}{}{I'd like to buy some of your famous jerky.}
+{Speech 5 Answer 6}{}{Can you tell me a little about the slaughterhouse?}
+{Speech 5 Answer 9}{}{I see the drought hasn't hurt your business yet.}
+{Speech 5 Answer Exit}{}{All right, bye.}
+{Speech 5 Answer 11}{}{The mayor sent me. Do you need something?}
+{Speech 5 Answer 16}{}{About your request…\n}
+{Speech 6}{}{Time:60000 No answer:Завершить диалог}
+{Speech 6 Answer 7}{}{And where do the hides and offal go?}
+{Speech 6 Answer 5}{}{Can I ask you a few more questions?}
+{Speech 7}{}{Time:60000 No answer:Завершить диалог}
+{Speech 7 Answer 5}{}{Can I ask you a few more questions?}
+{Speech 7 Answer Exit}{}{[END.]}
+{Speech 8}{}{It's a pleasure doing business with you. What else can I do for you?}
+{Speech 8 Answer 5}{}{Can I ask you a few more questions?}
+{Speech 8 Answer 3}{}{I want to buy some more supplies.}
+{Speech 8 Answer Exit}{}{Bye.}
+{Speech 9}{}{Actually, the drought has even helped to some degree. Nobody can grow enough feed for their brahmin, so they have to cut their herds down sharply. But that's only temporary. Looking at the big picture, the drop in the brahmin population is bound to hit my business in the end.}
+{Speech 9 Answer 5}{}{Can I ask you a few more questions?}
+{Speech 9 Answer Exit}{}{Bye.}
+{Speech 10}{}{Time:60000 No answer:Завершить диалог}
+{Speech 10 Answer Exit}{}{[You blow spit bubbles] Uguuk.}
+{Speech 11}{}{Need? Yeah. Sure do. Help, that's what I need. Here's the thing. You see, my brahmin… They, well, they graze… And, you know…}
+{Speech 11 Answer 12}{}{What "you know"? Spit it out already…}
+{Speech 12}{}{Well, you see, they've gone all sluggish. When I drive them out to pasture at night, afterwards they can barely move. And the milk yields are down. Even though "yield" sounds like something you should get, they still went down anyway. }
+{Speech 12 Answer 13}{}{Right. And what do you expect from me? That I boost the milk yields?}
+{Speech 12 Answer Exit}{}{Why do I always end up dealing with such nonsense? I'm leaving!\n}
+{Speech 13}{}{Nah… It's like, you see, folks have seen some kind of thing out there in the dark. Like, some sort of shape that was, like, flying… Or walking… Moving around, anyway…}
+{Speech 13 Answer 14}{}{Uh-huh. Some sort of shape that was what, exactly?}
+{Speech 14}{}{Well, I figure this whole mess with the brahmin is because of that thing. Catch it, or shoot it. In short, do something. There's 3000 coins in it for you if it all works out. And I'll teach you a thing or two…}
+{Speech 14 Answer 15}{}{All right, where's your ranch, herdsman?\n}
+{Speech 14 Answer Exit}{}{These farmers are so tiresome. That's it, I've had enough…}
+{Speech 15}{}{Right here. But mind you, that thing only shows up at night.}
+{Speech 15 Answer Exit}{}{All right. Another sleepless night for the good of the wasteland.\n}
+{Speech 16}{}{How's it going?}
+{Speech 16 Answer Exit}{}{I'm working hard on it...\n}
+{Speech 16 Answer 17}{}{It's simple. That thing is afraid of people. Just post a night guard, and everything will be fine.\n}
+{Speech 16 Answer 18}{}{I didn't @sex@| see |see| a thing all night…\n}
+{Speech 16 Answer 19}{}{It's all taken care of. That creature won't bother you anymore. I @sex@| dealt |dealt| with it.\n}
+{Speech 16 Answer 17*}{}{Here's the thing... I spotted@sex@||| some strange fellow, but he managed to slip away. I think it'll be enough to just post a guard at the farm. He won't come back there.}
+{Speech 16 Answer 19*}{}{Long story... One thing I can promise you, nobody will touch the brahmin anymore.}
+{Speech 17}{}{Excellent. And you get three thousand coins just like that. Good for you, damn it.}
+{Speech 17 Answer Exit}{}{Don't be a tightwad, farmer. Greed is a sin\n}
+{Speech 18}{}{Just because you don't see something doesn't mean it isn't there. }
+{Speech 19}{}{Well, that's just what was needed. Take the money.  And I'll teach you how to butcher brahmin properly, so you get tasty, wholesome meat.}
+{Speech 19 Answer Exit}{}{Thanks.}

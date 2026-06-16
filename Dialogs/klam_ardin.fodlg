@@ -73,28 +73,28 @@ Speech 9 # Я просто содержу здесь комнаты. Есди в
 {DescAliveShort}{}{You see a sturdy, old woman with tired smile.}
 {DescAliveFull}{}{You see Ardin Bakner, the owner of the Bakner's Home.}
 {DescAliveFull}{}{You see a woman, very strong and active for her fifties.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{тупой}
-{Speech 1 Answer 4}{}{умный}
-{Speech 2}{}{Привет. Мое имя Ардин Бакнер и это Дом Бакнера.}
-{Speech 2 Answer 3}{}{Вот так раз.}
-{Speech 2 Answer 3*}{}{Xороший, хороший домик.}
-{Speech 3}{}{Вы напомнили мне моего мальчика Торра. Думаю вы оба неплохо бы смотрелись. Почему бы вам не пойти и не поговорить с ним? До свидания.}
-{Speech 4}{}{Здравствуйте. Мое имя Ардин Бакнер и это мой дом.}
-{Speech 4 Answer 5}{}{Мне кое-что нужно прямо сейчас.}
-{Speech 4 Answer Exit}{}{Привет, Ардин. Я, наверное, пойду. До свидания.}
-{Speech 5}{}{Вам лучше не планировать никаких темных делишек здесь. Что вам нужно?}
-{Speech 5 Answer 7}{}{Удивительно, неужели вы человек, которого интересуют последние местные слухи и события?}
-{Speech 5 Answer 8}{}{Мне нужна комната.}
-{Speech 5 Answer 9}{}{Я хочу купить кое-что.}
-{Speech 5 Answer Exit}{}{Я думаю, мне ничего не нужно сейчас. До свидания.}
-{Speech 7}{}{Вы должны поговорить об этом с моей дочерью, Майдой. Я не слежу за тем, что происходит в последнее время. Слишком много времени занимает мой бизнес.}
-{Speech 7 Answer 5}{}{А, окей, я так и сделаю. Прямо сейчас, хотя мне нужна также информация о кое-чем еще.}
-{Speech 7 Answer Exit}{}{Xорошо, я сейчас с ней об этом поговорю. До свидания.}
-{Speech 8}{}{Окей, давайте посмотрим. У нас должна быть свободная комната. За 25 баксов.}
-{Speech 8 Answer Exit}{}{Я беру. Вот деньги. Спасибо.}
-{Speech 8 Answer 5}{}{Не думаю, что мне это нужно прямо сейчас. Позвольте спросить вас кое-что еще.}
-{Speech 8 Answer Exit*}{}{Не думаю, что теперь мне нужна комната. До свидания. }
-{Speech 9}{}{Я просто содержу здесь комнаты. Есди вам нужно что-либо купить или продать, обратитесь к моей дочери Майде.}
-{Speech 9 Answer 5}{}{А, понятно. Расскажите еще что-нибудь.}
-{Speech 9 Answer Exit}{}{Спасибо. До свидания.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{dumb}
+{Speech 1 Answer 4}{}{smart}
+{Speech 2}{}{Hello. My name is Ardin Bakner and this is the Bakner's Home.}
+{Speech 2 Answer 3}{}{Well, how about that.}
+{Speech 2 Answer 3*}{}{Nice, nice little place.}
+{Speech 3}{}{You remind me of my boy Torr. I think the two of you would look good together. Why don't you go and have a talk with him? Goodbye.}
+{Speech 4}{}{Greetings. My name is Ardin Bakner and this is my home.}
+{Speech 4 Answer 5}{}{I need something right now.}
+{Speech 4 Answer Exit}{}{Hello, Ardin. I think I'll be going. Goodbye.}
+{Speech 5}{}{You'd better not be planning any shady business here. What do you need?}
+{Speech 5 Answer 7}{}{Surprisingly, are you the sort of person who's interested in the latest local rumors and events?}
+{Speech 5 Answer 8}{}{I need a room.}
+{Speech 5 Answer 9}{}{I want to buy something.}
+{Speech 5 Answer Exit}{}{I don't think I need anything right now. Goodbye.}
+{Speech 7}{}{You should talk to my daughter, Maida, about that. I don't keep up with what's been going on lately. My business takes up too much of my time.}
+{Speech 7 Answer 5}{}{Ah, okay, I'll do that. Right now, though I also need some information about something else.}
+{Speech 7 Answer Exit}{}{All right, I'll go talk to her about it now. Goodbye.}
+{Speech 8}{}{Okay, let's see. We should have a free room. For 25 bucks.}
+{Speech 8 Answer Exit}{}{I'll take it. Here's the money. Thanks.}
+{Speech 8 Answer 5}{}{I don't think I need it right now. Let me ask you something else.}
+{Speech 8 Answer Exit*}{}{I don't think I need a room now after all. Goodbye. }
+{Speech 9}{}{I just keep the rooms here. If you need to buy or sell anything, see my daughter Maida.}
+{Speech 9 Answer 5}{}{Ah, I see. Tell me something else.}
+{Speech 9 Answer Exit}{}{Thanks. Goodbye.}

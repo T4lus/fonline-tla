@@ -490,169 +490,169 @@ Speech 57 # @sex@|Идиот.|Дура.|
 {Speech 57}{}{@sex@|Идиот.|Дура.|}
 
 [Text engl]
-{Name}{}{Тодд}
-{DescAliveShort}{}{Вы видите: Тодд}
-{DescAliveFull}{}{Немного полный мужчина в костюме Убежища, носит круглые очки.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{По-умолчанию.}
-{Speech 1 Answer 4}{}{Неумный, надоел.}
-{Speech 1 Answer 46}{}{Отошли поговорить.}
-{Speech 2}{}{Чего тебе? Давай быстро, я занят.}
-{Speech 2 Answer 5}{}{Добрый день. Я занимаюсь поисками Избранного. Не ответите на пару вопросов?}
-{Speech 2 Answer 7}{}{А кто вы?}
-{Speech 2 Answer 7*}{}{Напомните, кто вы?}
-{Speech 2 Answer 13}{}{Я ищу работу. Не нужно ничего сделать?}
-{Speech 2 Answer 31}{}{Насчёт работы...}
-{Speech 2 Answer 35}{}{Новой работы нет никакой?}
-{Speech 2 Answer 56}{}{Новой работы нет никакой?}
-{Speech 2 Answer 45}{}{Вам посылка.}
-{Speech 2 Answer Exit}{}{Да на самом деле ничего, не буду отвлекать, извините.}
-{Speech 2 Answer 3}{}{Кто такая?}
-{Speech 2 Answer 3*}{}{Унга-бунга.}
-{Speech 2 Answer 3**}{}{Шу-ту-ту.}
-{Speech 3}{}{На дне каньона сидит мёртвый кенгуру, он ответит на все твои вопросы.}
-{Speech 3 Answer Exit}{}{Ууу...}
-{Speech 4}{}{Отвали.@@Уйди, ты отвлекаешь меня.@@Проваливай.@@Иди прочь.@@Иди отсюда.}
-{Speech 5}{}{Нет, не отвечу, у меня нет на это времени. Вы один из тех искателей приключений, которых нанял Мартин? Если да, то всё, что я знаю, он уже должен был рассказать.}
-{Speech 5 Answer 6}{}{На самом деле нет. Это больше частное предприятие.}
-{Speech 5 Answer 13}{}{Понятно. Может, и вам надо сделать что-то такое, за что вы готовы заплатить? Чисто в перерывах между поисками Избранного.}
-{Speech 5 Answer Exit}{}{Понятно. Спасибо за ваше время.}
-{Speech 6}{}{Тогда идите и "наймитесь" официально.}
-{Speech 7}{}{Меня зовут Тодд Стюарт. Я - исполняющий обязанности Научного Советника Арройо. Координирую разные важные дела.}
-{Speech 7 Answer 8}{}{Исполняющий обязанности? А что случилось с самим советником?}
-{Speech 7 Answer 13}{}{Нет никакой работы для меня, Научный Советник?}
-{Speech 7 Answer Exit}{}{Понятно. Ну в таком случае мне ничего не надо.}
-{Speech 8}{}{Официально Научный Советник - это Фробишер. Но он сейчас по сути исполняет обязанности Старейшины. А я - его обязанности.}
-{Speech 8 Answer 9}{}{Но что мешает объявить его Старейшиной и закончить эту чепуху с исполнением обязанностей?}
-{Speech 8 Answer Exit}{}{Как всё сложно. Ну, спасибо, что уделили время.}
-{Speech 9}{}{[Тодд заметно оживился] Видишь, пока мы точно не знаем, что стало с Избранным, мы не можем занять его место. Для того, чтобы это сделать, нужно подтвердить, что он ушёл окончательно... ну или погиб, например. Пока мы это не сделаем, будем жить в неразберихе.}
-{Speech 9 Answer 10}{}{Оу. Ну тогда я постараюсь быстрей узнать, что с ним стряслось.}
-{Speech 9 Answer 11}{}{Хм. Я бы мог@sex@||ла| достать доказательства того, что он мёртв. За определённую плату, конечно. Я так понимаю, вы хотите поскорей занять эту должность? [Подмигнуть]}
-{Speech 9 Answer Exit}{}{Ох уж эта бюрократия. Ну, удачи вам с вашим маразмом.}
-{Speech 10}{}{Да, да... Успехов.}
-{Speech 11}{}{Именно так. Хватит уже делать культ из Избранного. Пора уже забыть о нём, настало время деловых людей вроде меня. Легендой не прокормить этот город. Но я могу привести его к процветанию! Если вы поможете мне переступить эту формальность с доказательством смерти, город будет вам благодарен. И выразит это в денежном эквиваленте.}
-{Speech 11 Answer 12}{}{Это дело. Если я найду что-то такое, то пойду сначала к вам, а потом уже к Мартину.}
-{Speech 12}{}{Договорились, друг.}
-{Speech 13}{}{Вы поселенец? В смысле, постоянную работу хотите, чтобы тут остаться?}
-{Speech 13 Answer 15}{}{Да.}
-{Speech 13 Answer 16}{}{Нет. Мне что-нибудь такое, чтобы заработать и уйти.}
-{Speech 13 Answer 14}{}{[Уйти без ответа]}
-{Speech 14}{}{Странн@sex@|ый|ая|.}
-{Speech 15}{}{Постоянной нет, извините. Наймитесь к какому-нибудь фермеру урожай убирать... Если получится, конечно. За каньоном ошивается полсотни иммигрантов, желающих тут поселиться, и все хотят работу.}
-{Speech 15 Answer Exit}{}{Понятно. Спасибо.}
-{Speech 15 Answer 16}{}{А если так, для свободного наёмника? Есть что-нибудь?}
-{Speech 16}{}{Для начала ответь мне... Как ты относишься к Избранному?}
-{Speech 16 Answer 17}{}{А зачем?}
-{Speech 16 Answer 18}{}{Ну, это символ, легенда. Он изменил мир к лучшему.}
-{Speech 16 Answer 19}{}{Спорная фигура. Но он достиг того, что хотел. А остальные детали со временем забудутся и останется просто образ.}
-{Speech 16 Answer 20}{}{Ненавижу его. Он ничего такого не сделал, но все тащатся от него. Я уже не говорю о том, какие делишки водились за ним на самом деле.}
-{Speech 16 Answer Exit}{}{Слишком много расспросов для одной работы. Она мне не подходит.}
-{Speech 17}{}{Ты задаешь слишком много вопросов. Как раз такой человек мне не нужен. Пока.}
-{Speech 17 Answer Exit}{}{Ух... Ну пока.}
-{Speech 18}{}{Да, согласен. И ты бы хотел@sex@||а| видеть, что всё идёт, как он задумал, так ведь?}
-{Speech 18 Answer 21}{}{[Далее]}
-{Speech 19}{}{А образ придумывают люди, поэтому даже неважно, каким он был на самом деле. И мотивы его исчезновения тоже, наверное, придумают сами. Но вот какое дело у меня с этим связано...}
-{Speech 19 Answer 27}{}{[Далее]}
-{Speech 20}{}{Именно! Все посходили с ума и мечтают бродить по Пустоши, ничего не делая. Но так же ничего в жизни не добиться! Пора завязывать с легендой, время уступать деловым людям. Только мы сможем довести этот город до какого-то уровня. Но с этой привязанностью к легендам у меня связана одна проблема...}
-{Speech 20 Answer 27}{}{[Далее]}
-{Speech 21}{}{Но у нас пока не получается этого делать. Видишь, Мартин является внегласным лидером племени, но на деле его нельзя объявить Старейшиной, пока мы точно не знаем, что Избранный уже не вернётся в Арройо... по какой-либо из причин. В итоге у него нет права принимать какие-либо важные решения, ну а как результат все процессы в городе тормозятся.}
-{Speech 21 Answer 22}{}{[Далее]}
-{Speech 22}{}{Мне надо, чтобы ты достал@sex@||а| какие-нибудь доказательства того, что он уже не вернётся сюда. Возможно, того, что его уже нет в живых. Люди всё уповают на возвращение легенды, но пора бы уже заняться делом. Я считаю, надо вернуть их в эту реальность.}
-{Speech 22 Answer 23}{}{Ну, я не знаю... А не будет ли новость о смерти Избранного большим ударом для людей? Его дед тоже ушёл в Пустошь, чтобы не вернуться, и многие до сих пор считают его живым, рассказывают о таинственном страннике, который иногда приходит на помощь...}
-{Speech 22 Answer 24}{}{А какая в этом ваша выгода?}
-{Speech 22 Answer 26}{}{Ну, я не знаю... Есть вероятность, что я столкнуть с чем-то таким в своих поисках. Но я подумаю, прежде чем передавать это вам. Тут отдаёт чем-то грязным.}
-{Speech 22 Answer 25}{}{Сколько я получу за это?}
-{Speech 23}{}{Возможно, но это только вернёт их к жизни. Мы же говорим о процветании города. Первые поселенцы этих мест состояли наполовину из образованных жителей Убежища, но что стало с ними через пару поколений? Они опустились до уровня дикарей. Вот, что значит жить мечтами.}
-{Speech 23 Answer 26}{}{Ну... Если я найду что-то такое, то дам знать.}
-{Speech 23 Answer 25}{}{Ладно. Озвучьте цену.}
-{Speech 24}{}{Моя? Никакой. Мы говорим о процветании города.}
-{Speech 24 Answer 25}{}{А моя?}
-{Speech 24 Answer 26}{}{Ну окей. Буду искать улики.}
-{Speech 25}{}{Не беспокойтесь, если вы сможете это достать, я пробью вознаграждение из городского бюджета. Мы говорим о тысячах золотом. Это для нас действительно очень важно.}
-{Speech 25 Answer 26}{}{Отлично. Я постараюсь достать что-нибудь убедительное.}
-{Speech 26}{}{Хорошо. Да, и постарайтесь держать наш разговор в секрете. Хоть я и помогаю городу, подобные методы могут сделать меня очень непопулярным.}
-{Speech 26 Answer Exit}{}{Да, нет проблем.}
-{Speech 27}{}{Видишь, в связи с пропажей Избранного Мартин Фробишер стал исполняющим обязанности Старейшины. А я - исполняющим его обязанности, то есть Научного Советника. Это довольно высокая должность. И всё бы хорошо, но исполняющий обязанности не может обладать всеми полномочиями своей должности. И хотя мы знаем, что Избранный уже не вернётся, мы не можем объявить его место вакантным, пока не подтвердится его смерть.}
-{Speech 27 Answer 28}{}{[Далее]}
-{Speech 28}{}{Поэтому мне нужно, чтобы кто-то смог достать доказательства смерти Избранного. Или что-нибудь, что можно было бы выдать за таковые. Мне неважно, важен результат.}
-{Speech 28 Answer 29}{}{Даже и не знаю. По-моему, это будет не очень нравственным поступком.}
-{Speech 28 Answer 53}{}{А что я буду с этого иметь?}
-{Speech 28 Answer 26}{}{Я посмотрю, что я смогу сделать.}
-{Speech 29}{}{Не беспокойся. Все понимают, что он пропал с концами, ты просто поможешь устранить некоторые юридические заморочки. Иногда приходится прибегать к подобным уловкам для общего блага.}
-{Speech 29 Answer 30}{}{Тебя действительно ебёт это благо?}
-{Speech 29 Answer 53}{}{Давай об оплате.}
-{Speech 29 Answer 26}{}{У меня по-прежнему сомнения, но я посмотрю, что я смогу сделать.}
-{Speech 30}{}{Тебя это не должно волновать. Но если тебе так хочется знать, то да, мне нужен этот пост. Для чего - это тебе знать не надо.}
-{Speech 30 Answer 25}{}{Понял@sex@||а|. Теперь давай об оплате.}
-{Speech 53}{}{Я смогу выделить тебе официальное вознаграждение из городского бюджета. Всё легально. Речь будет идти о тысячах наличными. Условия устраивают?}
-{Speech 53 Answer 26}{}{Да.}
-{Speech 53 Answer 26*}{}{Посмотрим.}
-{Speech 31}{}{Да?@@Как прогресс?@@Как успехи?@@Какие новости?}
-{Speech 31 Answer 33}{}{У меня кое-что есть... Но я не могу показывать это тут.}
-{Speech 31 Answer 34}{}{Что-то туго идёт. Может, есть какие-то идеи по тому, что это может быть?}
-{Speech 31 Answer 35}{}{Пока ничего не достал@sex@||а|. Может, есть пока какая-то другая работа?}
-{Speech 31 Answer 36}{}{Пока ничего не достал@sex@||а|. Может, есть пока какая-то другая работа?}
-{Speech 31 Answer 56}{}{Пока ничего не достал@sex@||а|. Может, есть пока какая-то другая работа?}
-{Speech 31 Answer 43}{}{Я доставил@sex@||а| это письмо.}
-{Speech 31 Answer 32}{}{Пока ничего нового.}
-{Speech 32}{}{Ну старайтесь, старайтесь.}
-{Speech 33}{}{Давай отойдём.}
-{Speech 34}{}{Ну я не знаю. Окровавленные подштаники, который Избранный носил по субботам, покрышка от хайвеймена, что-то ещё. Поключи воображение.}
-{Speech 34 Answer 35}{}{А другой работы какой нет пока?}
-{Speech 34 Answer 36}{}{А другой работы какой нет пока?}
-{Speech 34 Answer 56}{}{А другой работы какой нет пока?}
-{Speech 34 Answer Exit}{}{Ну... Окей.}
-{Speech 35}{}{Была, но я уже кое-кого нанял. Через пару недель может понадобиться ещё человек.}
-{Speech 35 Answer Exit}{}{Понятно.}
-{Speech 36}{}{Есть довольно простое, но ответственное задание. Не хочешь поработать курьером?}
-{Speech 36 Answer 37}{}{Да запросто.}
-{Speech 36 Answer Exit}{}{Не, это не по мне.}
-{Speech 37}{}{Вот, возьми этот голодиск. Он предназначен для Первой Гражданки Города-Убежища Линетт, но так как к ней тебя, скорее всего, не пустят, отдай его проконсулу Грегори. Прямо там тебе и заплатят за доставку.}
-{Speech 37 Answer 42}{}{Сколько?}
-{Speech 37 Answer 38}{}{Отлично. Давайте его сюда.}
-{Speech 37 Answer 54}{}{А где этот Город-Убежище находится?}
-{Speech 37 Answer 39}{}{А какие у вас дела с Первой Гражданкой?}
-{Speech 54}{}{Не знаешь? Ты точно уверен@sex@||а|, что справишься?}
-{Speech 54 Answer 55}{}{Да, да, уже пол-Пустоши обош@sex@|ёл|ла|, просто в те края не заходи@sex@|л|ла|.}
-{Speech 54 Answer Exit}{}{Ммм. Да, наверное, не буду браться, потеряю ещё.}
-{Speech 55}{}{Ну хорошо. Давай сюда свой пип-бой. [Отмечает на карте координаты Города] И Вот голодиск.}
-{Speech 55 Answer 38}{}{[Забрать]}
-{Speech 38}{}{Постарайся не задерживать.}
-{Speech 38 Answer Exit}{}{[Выход]}
-{Speech 39}{}{Или ответы на вопросы, или плата за работу, выбирай. Мне не очень нравятся слишком любопытные.}
-{Speech 39 Answer 40}{}{Я выбираю первое.}
-{Speech 39 Answer 38}{}{Всё понял@sex@||а|. Будет доставлено.}
-{Speech 40}{}{Хе-хе, нет. Мне это не подходит. [Смеётся] Это просто деловая переписка. Мы, как молодое поселение, устанавливаем отношения со всем городами.}
-{Speech 40 Answer 38}{}{Понятно. Ладно, давайте свой голодиск.}
-{Speech 40 Answer 41}{}{А почему тогда такая скрытность?}
-{Speech 41}{}{Знаешь, ты мне не подходишь.}
-{Speech 42}{}{Хорошо заплатят, не волнуйся. Что-то около полутора тысяч. Может, сейчас уже больше.}
-{Speech 42 Answer 38}{}{Договорились.}
-{Speech 42 Answer Exit}{}{Не, для моих амбиций это слишком мало.}
-{Speech 43}{}{Отлично. Вот, возьми ещё лично от меня. [Отчитывает деньги]}
-{Speech 43 Answer Exit}{}{Спасибо!}
-{Speech 44}{}{Может быть попозже.}
-{Speech 45}{}{Да? О, вижу, вижу, от кого это. Замечательно. Вот твоя зарплата.}
-{Speech 45 Answer Exit}{}{Спасибо!}
-{Speech 46}{}{Ну, что там?}
-{Speech 46 Answer 47}{}{[Достать костюм Избранного]}
-{Speech 46 Answer 49}{}{[Достать поддельный костюм Избранного]}
-{Speech 46 Answer 57}{}{Я потерял@sex@||а|, пока ш@sex@|ёл|ла|.}
-{Speech 47}{}{[У Тодда округляются глаза] Как тебе удалось?!}
-{Speech 47 Answer 48}{}{Профессиональные секреты.}
-{Speech 47 Answer 50}{}{Он оставил его у друга перед тем, как пропасть.}
-{Speech 48}{}{Он, что, действительно мёртв?!}
-{Speech 48 Answer 49}{}{Похоже, что да.}
-{Speech 48 Answer 50}{}{Непонятно.}
-{Speech 49}{}{Это лучшая новость за последние три месяца! Вот, забирай своё возраграждение.}
-{Speech 49 Answer 52}{}{[Забрать]}
-{Speech 50}{}{Хм. Это немного осложняет ситуацию. Но должно прокатить. Вот, забирай своё возраграждение.}
-{Speech 50 Answer 52}{}{[Забрать]}
-{Speech 51}{}{[У Тодда сначала округляются глаза, потом он берёт костюм в руки, внимательно его осматривает и сворачивает обратно] Хорошая попытка. Но надо будет его доработать. Автор явно не видел Избранного вживую. Вот, возьми за работу.}
-{Speech 51 Answer 52}{}{[Забрать]}
-{Speech 52}{}{И помни, что нашего разговора не было.}
-{Speech 56}{}{Есть ещё один голодиск для Первой Гражданки. Интересует?}
-{Speech 56 Answer 38}{}{Да, лишний заработок не помешает.}
-{Speech 56 Answer 38*}{}{У вас там что, любовный роман? Давай голодиск, доставлю.}
-{Speech 56 Answer Exit}{}{Не, слишком опасный путь, не хочется туда лезть.}
-{Speech 57}{}{@sex@|Идиот.|Дура.|}
+{Name}{}{Todd}
+{DescAliveShort}{}{You see: Todd}
+{DescAliveFull}{}{A slightly plump man in a Vault suit, wearing round glasses.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{By default.}
+{Speech 1 Answer 4}{}{Dumb, fed up.}
+{Speech 1 Answer 46}{}{Stepped aside to talk.}
+{Speech 2}{}{What do you want? Make it quick, I'm busy.}
+{Speech 2 Answer 5}{}{Good day. I'm searching for the Chosen One. Would you answer a couple of questions?}
+{Speech 2 Answer 7}{}{And who are you?}
+{Speech 2 Answer 7*}{}{Remind me, who are you?}
+{Speech 2 Answer 13}{}{I'm looking for work. Anything that needs doing?}
+{Speech 2 Answer 31}{}{About that job...}
+{Speech 2 Answer 35}{}{Got any new work?}
+{Speech 2 Answer 56}{}{Got any new work?}
+{Speech 2 Answer 45}{}{There's a package for you.}
+{Speech 2 Answer Exit}{}{Actually, nothing, I won't keep you, sorry.}
+{Speech 2 Answer 3}{}{Who's that?}
+{Speech 2 Answer 3*}{}{Unga-bunga.}
+{Speech 2 Answer 3**}{}{Shoo-too-too.}
+{Speech 3}{}{At the bottom of the canyon sits a dead kangaroo, it'll answer all your questions.}
+{Speech 3 Answer Exit}{}{Uuh...}
+{Speech 4}{}{Buzz off.@@Go away, you're distracting me.@@Get lost.@@Be off with you.@@Get out of here.}
+{Speech 5}{}{No, I won't answer, I don't have time for this. Are you one of those adventurers Martin hired? If so, then everything I know he should have already told you.}
+{Speech 5 Answer 6}{}{Actually no. This is more of a private enterprise.}
+{Speech 5 Answer 13}{}{I see. Maybe you've got something that needs doing, something you'd be willing to pay for? Just between searches for the Chosen One.}
+{Speech 5 Answer Exit}{}{I see. Thanks for your time.}
+{Speech 6}{}{Then go and "get hired" officially.}
+{Speech 7}{}{My name is Todd Stewart. I'm the acting Science Advisor of Arroyo. I coordinate various important matters.}
+{Speech 7 Answer 8}{}{Acting? And what happened to the actual advisor?}
+{Speech 7 Answer 13}{}{Got any work for me, Science Advisor?}
+{Speech 7 Answer Exit}{}{I see. Well, in that case I don't need anything.}
+{Speech 8}{}{Officially the Science Advisor is Frobisher. But right now he's essentially acting as Elder. And I'm acting in his place.}
+{Speech 8 Answer 9}{}{But what's stopping you from declaring him Elder and ending this nonsense with acting positions?}
+{Speech 8 Answer Exit}{}{How complicated. Well, thanks for your time.}
+{Speech 9}{}{[Todd noticeably perked up] You see, until we know for sure what became of the Chosen One, we can't take his place. To do that, we need to confirm that he's gone for good... or perished, for example. Until we do that, we'll be living in chaos.}
+{Speech 9 Answer 10}{}{Oh. Well then I'll try to find out faster what happened to him.}
+{Speech 9 Answer 11}{}{Hmm. I could@sex@||| get hold of proof that he's dead. For a certain fee, of course. I take it you'd like to take that position sooner rather than later? [Wink]}
+{Speech 9 Answer Exit}{}{Oh, this bureaucracy. Well, good luck with your madness.}
+{Speech 10}{}{Yes, yes... Good luck.}
+{Speech 11}{}{Exactly. Enough making a cult out of the Chosen One. It's time to forget about him, the age of businessmen like me has come. You can't feed this town on a legend. But I can lead it to prosperity! If you help me step over this formality with proof of death, the town will be grateful to you. And it'll express that in monetary terms.}
+{Speech 11 Answer 12}{}{Sounds good. If I find something like that, I'll come to you first, and then to Martin.}
+{Speech 12}{}{It's a deal, friend.}
+{Speech 13}{}{Are you a settler? I mean, do you want permanent work, to stay here?}
+{Speech 13 Answer 15}{}{Yes.}
+{Speech 13 Answer 16}{}{No. I want something to earn money and move on.}
+{Speech 13 Answer 14}{}{[Leave without answering]}
+{Speech 14}{}{Strange one.}
+{Speech 15}{}{There's no permanent work, sorry. Hire on with some farmer to harvest crops... If you can manage it, of course. There's half a hundred immigrants loitering beyond the canyon wanting to settle here, and they all want work.}
+{Speech 15 Answer Exit}{}{I see. Thanks.}
+{Speech 15 Answer 16}{}{What about for a free mercenary, then? Got anything?}
+{Speech 16}{}{First, answer me this... How do you feel about the Chosen One?}
+{Speech 16 Answer 17}{}{Why do you ask?}
+{Speech 16 Answer 18}{}{Well, he's a symbol, a legend. He changed the world for the better.}
+{Speech 16 Answer 19}{}{A controversial figure. But he achieved what he wanted. And the rest of the details will be forgotten over time and just the image will remain.}
+{Speech 16 Answer 20}{}{I hate him. He didn't do anything special, but everyone's crazy about him. Not to mention the kind of dirty dealings he was really up to.}
+{Speech 16 Answer Exit}{}{Too many questions for one job. It's not for me.}
+{Speech 17}{}{You ask too many questions. That's exactly the kind of person I don't need. Bye.}
+{Speech 17 Answer Exit}{}{Ugh... Well, bye.}
+{Speech 18}{}{Yes, I agree. And you'd want to see everything go the way he intended, right?}
+{Speech 18 Answer 21}{}{[Next]}
+{Speech 19}{}{And it's people who invent the image, so it doesn't even matter what he was really like. And they'll probably make up the motives for his disappearance themselves. But here's the thing I've got going with this...}
+{Speech 19 Answer 27}{}{[Next]}
+{Speech 20}{}{Exactly! Everyone's gone mad and dreams of wandering the Wasteland, doing nothing. But you can't achieve anything in life that way! It's time to be done with the legend, time to make way for businessmen. Only we can bring this town up to some kind of standard. But I've got one problem tied up with this attachment to legends...}
+{Speech 20 Answer 27}{}{[Next]}
+{Speech 21}{}{But so far we haven't managed to do that. You see, Martin is the unofficial leader of the tribe, but in practice he can't be declared Elder until we know for sure that the Chosen One won't return to Arroyo... for any reason at all. As a result he has no right to make any important decisions, and consequently all the processes in town are stalled.}
+{Speech 21 Answer 22}{}{[Next]}
+{Speech 22}{}{I need you to get some kind of proof that he won't be coming back here. Perhaps proof that he's no longer alive. People keep hoping for the legend's return, but it's high time to get down to business. I think we need to bring them back to reality.}
+{Speech 22 Answer 23}{}{Well, I don't know... Wouldn't the news of the Chosen One's death be a big blow to people? His grandfather also went into the Wasteland never to return, and many still consider him alive, telling tales of a mysterious wanderer who sometimes comes to the rescue...}
+{Speech 22 Answer 24}{}{And what's in it for you?}
+{Speech 22 Answer 26}{}{Well, I don't know... There's a chance I'll run into something like that in my searches. But I'll think about it before handing it over to you. This reeks of something dirty.}
+{Speech 22 Answer 25}{}{How much will I get for this?}
+{Speech 23}{}{Maybe, but that would only bring them back to life. We're talking about the prosperity of the town. The first settlers of these parts were half made up of educated Vault dwellers, but what became of them after a couple of generations? They sank to the level of savages. That's what it means to live on dreams.}
+{Speech 23 Answer 26}{}{Well... If I find something like that, I'll let you know.}
+{Speech 23 Answer 25}{}{Fine. Name your price.}
+{Speech 24}{}{Mine? None. We're talking about the prosperity of the town.}
+{Speech 24 Answer 25}{}{And mine?}
+{Speech 24 Answer 26}{}{Well, okay. I'll look for evidence.}
+{Speech 25}{}{Don't worry, if you can get this, I'll push a reward through the town budget. We're talking thousands in gold. This is really very important to us.}
+{Speech 25 Answer 26}{}{Excellent. I'll try to get something convincing.}
+{Speech 26}{}{Good. Oh, and try to keep our conversation secret. Even though I'm helping the town, methods like this could make me very unpopular.}
+{Speech 26 Answer Exit}{}{Yeah, no problem.}
+{Speech 27}{}{You see, with the Chosen One's disappearance, Martin Frobisher became the acting Elder. And I became acting in his place, that is, Science Advisor. It's a fairly high position. And everything would be fine, but an acting officeholder can't hold all the powers of his post. And although we know the Chosen One won't return, we can't declare his place vacant until his death is confirmed.}
+{Speech 27 Answer 28}{}{[Next]}
+{Speech 28}{}{That's why I need someone to get proof of the Chosen One's death. Or something that could be passed off as such. It doesn't matter to me how, the result is what matters.}
+{Speech 28 Answer 29}{}{I don't even know. In my opinion, this wouldn't be a very moral thing to do.}
+{Speech 28 Answer 53}{}{And what do I get out of this?}
+{Speech 28 Answer 26}{}{I'll see what I can do.}
+{Speech 29}{}{Don't worry. Everyone understands he's gone for good, you'll just be helping to clear up some legal red tape. Sometimes you have to resort to tricks like this for the common good.}
+{Speech 29 Answer 30}{}{Do you really give a damn about this "good"?}
+{Speech 29 Answer 53}{}{Let's talk about the pay.}
+{Speech 29 Answer 26}{}{I still have my doubts, but I'll see what I can do.}
+{Speech 30}{}{That shouldn't concern you. But if you really want to know, then yes, I need this post. What for is none of your business.}
+{Speech 30 Answer 25}{}{Got it. Now let's talk about the pay.}
+{Speech 53}{}{I can allocate you an official reward from the town budget. All legal. We're talking thousands in cash. Do the terms suit you?}
+{Speech 53 Answer 26}{}{Yes.}
+{Speech 53 Answer 26*}{}{We'll see.}
+{Speech 31}{}{Yes?@@How's progress?@@How's it going?@@Any news?}
+{Speech 31 Answer 33}{}{I've got something... But I can't show it here.}
+{Speech 31 Answer 34}{}{Things are going slow. Maybe you've got some ideas about what it could be?}
+{Speech 31 Answer 35}{}{Haven't gotten anything yet. Maybe there's some other work for now?}
+{Speech 31 Answer 36}{}{Haven't gotten anything yet. Maybe there's some other work for now?}
+{Speech 31 Answer 56}{}{Haven't gotten anything yet. Maybe there's some other work for now?}
+{Speech 31 Answer 43}{}{I delivered that letter.}
+{Speech 31 Answer 32}{}{Nothing new yet.}
+{Speech 32}{}{Well, keep trying, keep trying.}
+{Speech 33}{}{Let's step aside.}
+{Speech 34}{}{Well, I don't know. Bloodstained long johns that the Chosen One wore on Saturdays, a tire off a highwayman, something. Use your imagination.}
+{Speech 34 Answer 35}{}{Isn't there any other work for now?}
+{Speech 34 Answer 36}{}{Isn't there any other work for now?}
+{Speech 34 Answer 56}{}{Isn't there any other work for now?}
+{Speech 34 Answer Exit}{}{Well... Okay.}
+{Speech 35}{}{There was, but I already hired someone. In a couple of weeks I might need another person.}
+{Speech 35 Answer Exit}{}{I see.}
+{Speech 36}{}{There's a fairly simple but responsible task. Want to work as a courier?}
+{Speech 36 Answer 37}{}{Easily.}
+{Speech 36 Answer Exit}{}{Nah, that's not for me.}
+{Speech 37}{}{Here, take this holodisk. It's meant for First Citizen Lynette of Vault City, but since they probably won't let you in to see her, give it to Proconsul Gregory. You'll be paid for the delivery right there.}
+{Speech 37 Answer 42}{}{How much?}
+{Speech 37 Answer 38}{}{Excellent. Hand it over.}
+{Speech 37 Answer 54}{}{And where is this Vault City located?}
+{Speech 37 Answer 39}{}{And what dealings do you have with the First Citizen?}
+{Speech 54}{}{You don't know? Are you sure you can handle this?}
+{Speech 54 Answer 55}{}{Yeah, yeah, I've already walked half the Wasteland, I just never went to those parts.}
+{Speech 54 Answer Exit}{}{Hmm. Yeah, I probably won't take it on, I'll just lose more.}
+{Speech 55}{}{Alright then. Hand over your Pip-Boy. [Marks the coordinates of the City on the map] And here's the holodisk.}
+{Speech 55 Answer 38}{}{[Take it]}
+{Speech 38}{}{Try not to delay.}
+{Speech 38 Answer Exit}{}{[Exit]}
+{Speech 39}{}{Either answers to questions, or pay for the job, take your pick. I'm not too fond of the overly curious.}
+{Speech 39 Answer 40}{}{I choose the first.}
+{Speech 39 Answer 38}{}{Understood. It'll be delivered.}
+{Speech 40}{}{Heh-heh, no. That doesn't work for me. [Laughs] It's just business correspondence. As a young settlement, we're establishing relations with all the cities.}
+{Speech 40 Answer 38}{}{I see. Fine, give me your holodisk.}
+{Speech 40 Answer 41}{}{Then why all the secrecy?}
+{Speech 41}{}{You know, you're not the right fit for me.}
+{Speech 42}{}{They'll pay well, don't worry. Something around fifteen hundred. Maybe more by now.}
+{Speech 42 Answer 38}{}{It's a deal.}
+{Speech 42 Answer Exit}{}{Nah, that's too little for my ambitions.}
+{Speech 43}{}{Excellent. Here, take this too, from me personally. [Counts out the money]}
+{Speech 43 Answer Exit}{}{Thanks!}
+{Speech 44}{}{Maybe later.}
+{Speech 45}{}{Yes? Oh, I see, I see who it's from. Wonderful. Here's your pay.}
+{Speech 45 Answer Exit}{}{Thanks!}
+{Speech 46}{}{Well, what have you got?}
+{Speech 46 Answer 47}{}{[Produce the Chosen One's suit]}
+{Speech 46 Answer 49}{}{[Produce the fake Chosen One's suit]}
+{Speech 46 Answer 57}{}{I lost it on the way.}
+{Speech 47}{}{[Todd's eyes go wide] How did you manage it?!}
+{Speech 47 Answer 48}{}{Professional secrets.}
+{Speech 47 Answer 50}{}{He left it with a friend before he disappeared.}
+{Speech 48}{}{Is he, is he really dead?!}
+{Speech 48 Answer 49}{}{Looks like it.}
+{Speech 48 Answer 50}{}{Unclear.}
+{Speech 49}{}{This is the best news in the last three months! Here, take your reward.}
+{Speech 49 Answer 52}{}{[Take it]}
+{Speech 50}{}{Hmm. This complicates things a little. But it should work. Here, take your reward.}
+{Speech 50 Answer 52}{}{[Take it]}
+{Speech 51}{}{[Todd's eyes go wide at first, then he takes the suit in his hands, examines it closely and folds it back up] Nice try. But it'll need some work. The maker clearly never saw the Chosen One in the flesh. Here, take this for your trouble.}
+{Speech 51 Answer 52}{}{[Take it]}
+{Speech 52}{}{And remember, this conversation never happened.}
+{Speech 56}{}{There's another holodisk for the First Citizen. Interested?}
+{Speech 56 Answer 38}{}{Yeah, a little extra money won't hurt.}
+{Speech 56 Answer 38*}{}{What've you got going on there, a love affair? Give me the holodisk, I'll deliver it.}
+{Speech 56 Answer Exit}{}{Nah, too dangerous a route, I don't want to get into that.}
+{Speech 57}{}{@sex@|Idiot.|Idiot.|}

@@ -28,7 +28,7 @@ Speech 3 # Деньги вышли, не могу.
 {DescAliveFull}{}{You see a black-skinned man with grayed temple hair. He's busy reading something.}
 {Speech 1}{}{Initial preferences}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{Я знаю, что послал тебя искать Избранного, но сценаристы не написали мне диалог. Так что извини.}
-{Speech 2 Answer Exit}{}{Ух... Пока.}
-{Speech 2 Answer 3}{}{Купи уголь?}
-{Speech 3}{}{Деньги вышли, не могу.}
+{Speech 2}{}{I know I sent you to look for the Chosen One, but the writers didn't write me a dialog. So, sorry about that.}
+{Speech 2 Answer Exit}{}{Uh... Bye.}
+{Speech 2 Answer 3}{}{Buy some coal?}
+{Speech 3}{}{I'm out of money, can't do it.}

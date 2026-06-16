@@ -275,92 +275,92 @@ Speech 49 # Пока ничего не надо, приходите попозж
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{знаком}
-{Speech 1 Answer 5}{}{знаком}
-{Speech 2}{}{Добрый день, чем могу быть полезен?}
-{Speech 2 Answer Exit}{}{Я уже ухожу. [Уйти]}
-{Speech 2 Answer Exit*}{}{Пока! [Уйти]}
-{Speech 2 Answer 3}{}{Здравствуйте, вы - доктор?}
-{Speech 3}{}{Да, доктор. Меня зовут Клаус.}
-{Speech 3 Answer 4}{}{Вы можете мне помочь?}
-{Speech 4}{}{Я не практикую. Если вам нужна медицинская помощь, обратитесь к доктору Юбилею.}
-{Speech 4 Answer Exit}{}{Понятно, спасибо. [Уйти]}
-{Speech 5}{}{Снова вы? Чем могу помочь?}
-{Speech 5 Answer 4}{}{Мне нужна медицинская помощь.}
-{Speech 5 Answer Exit}{}{Я уже ухожу. [Уйти]}
-{Speech 5 Answer 6}{}{Док, я слышал@sex@||а|, что вы проводите медицинскую комиссию всех кандидатов в Рейнджеры?}
-{Speech 5 Answer 20}{}{Доктор, возможно, я чем-то смогу помочь в вашей непростой работе?@@Насколько мне известно, вы закупаете медикаменты?@@Вам нужны аптечки, стимуляторы, противоядия? Готов@sex@||а| стать вашим постоянным поставщиком.}
-{Speech 5 Answer 49}{}{Доктор, возможно, я чем-то смогу помочь в вашей непростой работе?@@Насколько мне известно, вы закупаете медикаменты?@@Вам нужны аптечки, стимуляторы, противоядия? Готов@sex@||а| стать вашим постоянным поставщиком.}
-{Speech 5 Answer 30}{}{А у вас неплохая лаборатория, док!}
-{Speech 5 Answer 31}{}{А у вас неплохая лаборатория, док!}
-{Speech 5 Answer 40}{}{Док, а вы можете меня сделать силачом или красавцем?}
-{Speech 6}{}{Да, это так. Многие хотят вступить, но Элизе нужны только лучшие бойцы.}
-{Speech 6 Answer 7}{}{А я смогу пройти эту комиссию?}
-{Speech 7}{}{[Смотрит на вас с интересом] Сложно сказать. Вам потребуется сдать ряд анализов, сделать несколько рентгеновских снимков, пройти полное обследование. Плюс, вы должны быть в превосходной спортивной форме.}
-{Speech 7 Answer 8}{}{Ого! Неслабо так. А что насчет вредных привычек?}
-{Speech 8}{}{Разумеется, никаких вредных привычек. Курение, алкоголизм, или, упаси бог, наркомания сразу ставят крест на возможности вступления в рейнджеры.}
-{Speech 8 Answer Exit}{}{Ясно. Нет, не настолько сильно я хочу в рейнджеры. [Уйти]}
-{Speech 8 Answer 9}{}{Кесс по какому критерию не прошел?}
-{Speech 9}{}{[Хмурится] Кесс? Этот алкоголик? Откуда вы о нем знаете?}
-{Speech 9 Answer 10}{}{Это мой знакомый. Жалуется, он очень расстроен, что вылетел из Рейнджеров.}
-{Speech 10}{}{Ваш знакомый провалил плановую проверку по физической подготовке. Вердикт один - исключение из членов.}
-{Speech 10 Answer 11}{}{Неужели ничего нельзя сделать?}
-{Speech 11}{}{Если Кесс поменяет образ жизни, бросит пить и курить, займется здоровьем... То, возможно, лет через 5 он сможет пройти медкомиссию.}
-{Speech 11 Answer 12}{}{Док, ты издеваешься? ПЯТЬ лет! А если я возьму вот этот скальпель, и проковыряю в тебе пару дырок?}
-{Speech 11 Answer 13}{}{Док, ты издеваешься? ПЯТЬ лет! А если я возьму вот этот скальпель, и проковыряю в тебе пару дырок?}
-{Speech 11 Answer 15}{}{Доктор, это абсурд! Кесс обязательно выполнит все требования, но пять лет он не может ждать.}
-{Speech 12}{}{Немедленно покиньте помещение. Иначе я вызову полицию.}
-{Speech 13}{}{Спокойно, не нужно насилия!}
-{Speech 13 Answer 14}{}{Не вынуждай меня перейти от слов к делу. Я хочу, чтобы Кесс прошел Медкомиссию. Если не пройдет, я тобой займусь!}
-{Speech 14}{}{Я все сделаю, можете сказать Кессу!!}
-{Speech 14 Answer Exit}{}{Так то лучше, эскулап. Я проверю. [Уйти]}
-{Speech 15}{}{Не верю я, что Кесс способен измениться.}
-{Speech 15 Answer 16}{}{Может быть, я смогу каким-то образом повлиять на ваше мнение?}
-{Speech 16}{}{Что вы имеете в виду?}
-{Speech 16 Answer 17}{}{Вам наверняка нужны средства для приобретения инструментов и медикаментов. Я смогу с этим помочь.}
-{Speech 17}{}{Хорошо. Думаю, 300 монет мне пригодятся, в качестве пожертвования на исследования...}
-{Speech 17 Answer Exit}{}{Как только я найду деньги, я вернусь. [Уйти]}
-{Speech 17 Answer 18}{}{Чего не сделаешь, для поддержания исследований! [Отдать 300 монет]}
-{Speech 18}{}{Хорошо. Не распространяйтесь об этом. Кесс может прийти ко мне завтра для оформления документов.}
-{Speech 20}{}{Хм. Действительно, я всегда заинтересован в пополнении банка лекарств и медикаментов. Готов у вас купить стимуляторы (100 монет за пару) и аптечки (90 монет за штуку).@@Если у вас найдутся аптечки первой помощи, я заплачу 90 монет за каждую. Также возьму стимуляторы, два стимулятора за 100 монет.@@Мне нужны стимуляторы и аптечки первой помощи.  За два стимулятора получите 100 монет, за аптечку - 90.}
-{Speech 20 Answer Exit}{}{В данный момент у меня нет стимуляторов и аптечек. Возможно, вернусь позже. [Уйти]@@Я запомню. [Уйти]@@Аптечки, стимуляторы... Все ясно. [Уйти]}
-{Speech 20 Answer 21}{}{Стимуляторы у меня с собой. [Отдать 2 стимпака за 100 монет]@@Готов@sex@||а| поделиться стимпаками. [Отдать 2 стимпака за 100 монет]}
-{Speech 20 Answer 21*}{}{90 монет, конечно, не самая лучшая цена за аптечку... Надеюсь, она вам пригодится. [Отдать аптечку за 90 монет]@@За аптечку могли бы и накинуть немного монет. Эх! Чего только не сделаешь ради здоровья ближнего. [Отдать аптечку за 90 монет]}
-{Speech 21}{}{Прекрасно! С вами приятно иметь дело, @pname@.@@Ваш вклад в развитие медицины НКР не пропадет зря! Вы очень помогли.@@Достойный поступок! Эти медикаменты пойдут на благое дело.@@Благодарю за помощь. Возможно, вы спасли сейчас чью-то жизнь!}
-{Speech 21 Answer Exit}{}{Мне пора. [Уйти]@@Не стоит благодарностей. [Уйти]}
-{Speech 30}{}{Не отвлекайте меня. Я очень занят.}
-{Speech 31}{}{Хммм... да.. Досталась мне по наследству...}
-{Speech 31 Answer 32}{}{По наследству? От кого?}
-{Speech 32}{}{Доктор Генри, ученый, талантливый генетик основал эту лабораторию. Вы наверняка слышали о нем.}
-{Speech 32 Answer 33}{}{Чем он так знаменит?}
-{Speech 33}{}{Он разработал радикальную концепцию решения проблемы мутаций ФЕВ. Доказал, что мутации обратимы и практически открыл рецепт сыворотки, которая могла излечить супермутанта...}
-{Speech 33 Answer 34}{}{И где он сейчас?}
-{Speech 34}{}{Он слишком много работал... В какой-то момент он принял слишком ответственное решение и вколол сыворотку себе.}
-{Speech 34 Answer 35}{}{И отбросил коньки?}
-{Speech 35}{}{Скончался... Не учел какой-то фактор. Теперь эти работы остановлены... Но кто знает, может быть, найдется еще человек, который завершит начатое доктором Генри.}
-{Speech 35 Answer Exit}{}{Понятно. Ну, мне пора. [Уйти]}
-{Speech 35 Answer Exit*}{}{Да, жаль, что Генри не закончил начатое. [Уйти]}
-{Speech 40}{}{Друг мой, я не оперирую с косметическими целями, если вы об этом.}
-{Speech 40 Answer 41}{}{А с какими целями оперируете?}
-{Speech 41}{}{Ну, хм, если у вас имеются проблемы со зрениям, я могу с этим помочь. В исключительных случаях я использую лазерную коррекцию зрения. Никто пока не жаловался. [Зловеще смеется]}
-{Speech 41 Answer 42}{}{Что-нибудь еще?}
-{Speech 42}{}{Кроме того, я могу предложить вам испытать новейшую технологию укрепления сердечных мышц. Через грудину пациента пропускается специальный заряд тока высокой частоты, это позволяет стимулировать работу сердца, и, в большинстве случаев, приводит к положительному результату...}
-{Speech 42 Answer 43}{}{Что значит "в большинстве случаев"? А что происходит в "меньшинстве"?}
-{Speech 43}{}{Не берите в голову, друг мой. Ну так что, желаете укрепить здоровье?}
-{Speech 43 Answer 44}{}{Да, я готов@sex@||а| к операции на сердце. [+1 Выносливости]}
-{Speech 43 Answer 45}{}{Да, я готов@sex@||а| к операции на сердце. [+1 Выносливости]}
-{Speech 43 Answer Exit}{}{Нет, мне нужно подумать, я вернусь позже. [Уйти]}
-{Speech 44}{}{Операция стоит 50 000 монет. Даже для вас, хотя вы и заслуживаете всяческого доверия, я не могу сделать скидки.}
-{Speech 44 Answer Exit}{}{У меня нет таких денег. [Уйти]}
-{Speech 44 Answer 46}{}{Да, деньги у меня с собой, начинайте.}
-{Speech 45}{}{Операция стоит 50 000 монет. Даже для вас, хотя вы и заслуживаете всяческого доверия, я не могу сделать скидки.}
-{Speech 45 Answer 46}{}{Да, деньги у меня с собой, начинайте.}
-{Speech 45 Answer Exit}{}{У меня нет таких денег. [Уйти]}
-{Speech 46}{}{Вы даже не заметили, как доктор сделал вам укол. Вы потеряли сознание и пропустили самое интересное. Придя в себя на больничной койке, вы поняли, что ваше тело изменилось.}
-{Speech 46 Answer 47}{}{Док, что со мной было?}
-{Speech 47}{}{Все нормально, мой друг. Операция прошла без осложнений. Почти...}
-{Speech 47 Answer 48}{}{Что значит "ПОЧТИ"?!!}
-{Speech 48}{}{Робопес снова сожрал один из скальпелей. Еще один такой промах, и мне нечем будет резать моих любимых пациентов... А в остальном, все отлично, мой друг, все отлично... Можете идти...}
-{Speech 48 Answer Exit}{}{Хорошо, благодарю вас, док.}
-{Speech 49}{}{Пока ничего не надо, приходите попозже.}
+{Speech 1}{}{Predialogue settings}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 5}{}{acquainted}
+{Speech 2}{}{Good day, how can I be of service?}
+{Speech 2 Answer Exit}{}{I'm leaving anyway. [Leave]}
+{Speech 2 Answer Exit*}{}{Bye! [Leave]}
+{Speech 2 Answer 3}{}{Hello, are you the doctor?}
+{Speech 3}{}{Yes, the doctor. My name is Claus.}
+{Speech 3 Answer 4}{}{Can you help me?}
+{Speech 4}{}{I'm not in practice. If you need medical help, see Doctor Jubilee.}
+{Speech 4 Answer Exit}{}{I see, thanks. [Leave]}
+{Speech 5}{}{You again? How can I help?}
+{Speech 5 Answer 4}{}{I need medical help.}
+{Speech 5 Answer Exit}{}{I'm leaving anyway. [Leave]}
+{Speech 5 Answer 6}{}{Doc, I heard@sex@||| that you run the medical board for all candidates to the Rangers?}
+{Speech 5 Answer 20}{}{Doctor, maybe I could help with your difficult work somehow?@@As far as I know, you buy medicine?@@You need first aid kits, stimpaks, antidotes? I'm ready@sex@||| to become your regular supplier.}
+{Speech 5 Answer 49}{}{Doctor, maybe I could help with your difficult work somehow?@@As far as I know, you buy medicine?@@You need first aid kits, stimpaks, antidotes? I'm ready@sex@||| to become your regular supplier.}
+{Speech 5 Answer 30}{}{You've got a pretty good lab here, doc!}
+{Speech 5 Answer 31}{}{You've got a pretty good lab here, doc!}
+{Speech 5 Answer 40}{}{Doc, can you make me a strongman or a handsome devil?}
+{Speech 6}{}{Yes, that's right. Many want to join, but Elise needs only the best fighters.}
+{Speech 6 Answer 7}{}{And could I pass that board?}
+{Speech 7}{}{[Looks at you with interest] Hard to say. You'd have to take a series of tests, get several X-rays, undergo a full examination. Plus, you'd have to be in excellent physical shape.}
+{Speech 7 Answer 8}{}{Wow! That's no small thing. And what about bad habits?}
+{Speech 8}{}{Of course, no bad habits. Smoking, alcoholism, or, God forbid, drug addiction immediately put an end to any chance of joining the rangers.}
+{Speech 8 Answer Exit}{}{I see. No, I don't want to join the rangers that badly. [Leave]}
+{Speech 8 Answer 9}{}{On which criterion did Kess fail?}
+{Speech 9}{}{[Frowns] Kess? That drunk? How do you know about him?}
+{Speech 9 Answer 10}{}{He's an acquaintance of mine. He's complaining, very upset that he got kicked out of the Rangers.}
+{Speech 10}{}{Your acquaintance failed the routine physical fitness check. The verdict is one - expulsion from the ranks.}
+{Speech 10 Answer 11}{}{Is there really nothing that can be done?}
+{Speech 11}{}{If Kess changes his way of life, quits drinking and smoking, takes care of his health... Then maybe in about 5 years he could pass the medical board.}
+{Speech 11 Answer 12}{}{Doc, are you kidding me? FIVE years! And what if I take this scalpel here and poke a couple of holes in you?}
+{Speech 11 Answer 13}{}{Doc, are you kidding me? FIVE years! And what if I take this scalpel here and poke a couple of holes in you?}
+{Speech 11 Answer 15}{}{Doctor, this is absurd! Kess will surely meet all the requirements, but he can't wait five years.}
+{Speech 12}{}{Leave the premises immediately. Otherwise I'll call the police.}
+{Speech 13}{}{Easy, no need for violence!}
+{Speech 13 Answer 14}{}{Don't make me go from words to deeds. I want Kess to pass the Medical Board. If he doesn't, I'll come for you!}
+{Speech 14}{}{I'll do everything, you can tell Kess!!}
+{Speech 14 Answer Exit}{}{That's better, sawbones. I'll check. [Leave]}
+{Speech 15}{}{I don't believe Kess is capable of changing.}
+{Speech 15 Answer 16}{}{Maybe I can influence your opinion somehow?}
+{Speech 16}{}{What do you mean?}
+{Speech 16 Answer 17}{}{You surely need funds to buy instruments and medicine. I can help with that.}
+{Speech 17}{}{All right. I think 300 caps would come in handy for me, as a donation to research...}
+{Speech 17 Answer Exit}{}{As soon as I find the money, I'll come back. [Leave]}
+{Speech 17 Answer 18}{}{What wouldn't one do to support research! [Give 300 caps]}
+{Speech 18}{}{All right. Don't spread word of this. Kess can come to me tomorrow to fill out the paperwork.}
+{Speech 20}{}{Hmm. Indeed, I'm always interested in restocking my supply of drugs and medicine. I'm willing to buy stimpaks from you (100 caps a pair) and first aid kits (90 caps apiece).@@If you happen to have first aid kits, I'll pay 90 caps for each. I'll also take stimpaks, two stimpaks for 100 caps.@@I need stimpaks and first aid kits.  For two stimpaks you'll get 100 caps, for a first aid kit - 90.}
+{Speech 20 Answer Exit}{}{Right now I don't have any stimpaks or first aid kits. Maybe I'll come back later. [Leave]@@I'll remember. [Leave]@@First aid kits, stimpaks... Got it. [Leave]}
+{Speech 20 Answer 21}{}{I've got stimpaks on me. [Give 2 stimpaks for 100 caps]@@I'm ready@sex@||| to share some stimpaks. [Give 2 stimpaks for 100 caps]}
+{Speech 20 Answer 21*}{}{90 caps is certainly not the best price for a first aid kit... I hope it serves you well. [Give a first aid kit for 90 caps]@@You could've thrown in a few more caps for a first aid kit. Eh! The things one does for a fellow man's health. [Give a first aid kit for 90 caps]}
+{Speech 21}{}{Wonderful! It's a pleasure doing business with you, @pname@.@@Your contribution to the development of NCR medicine won't go to waste! You've been a great help.@@A worthy deed! This medicine will go to a good cause.@@Thank you for the help. Maybe you've just saved someone's life!}
+{Speech 21 Answer Exit}{}{I must go. [Leave]@@No need for thanks. [Leave]}
+{Speech 30}{}{Don't distract me. I'm very busy.}
+{Speech 31}{}{Hmmm... yes.. It came to me by inheritance...}
+{Speech 31 Answer 32}{}{By inheritance? From whom?}
+{Speech 32}{}{Doctor Henry, a scientist, a talented geneticist, founded this laboratory. You've surely heard of him.}
+{Speech 32 Answer 33}{}{What is he so famous for?}
+{Speech 33}{}{He developed a radical concept for solving the problem of FEV mutations. He proved that mutations are reversible and practically discovered the recipe for a serum that could cure a supermutant...}
+{Speech 33 Answer 34}{}{And where is he now?}
+{Speech 34}{}{He worked too hard... At some point he made too grave a decision and injected the serum into himself.}
+{Speech 34 Answer 35}{}{And kicked the bucket?}
+{Speech 35}{}{He passed away... He failed to account for some factor. Now this work is halted... But who knows, maybe there will be another person who'll finish what Doctor Henry started.}
+{Speech 35 Answer Exit}{}{I see. Well, I must go. [Leave]}
+{Speech 35 Answer Exit*}{}{Yes, a shame Henry didn't finish what he started. [Leave]}
+{Speech 40}{}{My friend, I don't operate for cosmetic purposes, if that's what you mean.}
+{Speech 40 Answer 41}{}{And for what purposes do you operate?}
+{Speech 41}{}{Well, hm, if you have problems with your eyesight, I can help with that. In exceptional cases I use laser vision correction. No one has complained yet. [Laughs ominously]}
+{Speech 41 Answer 42}{}{Anything else?}
+{Speech 42}{}{Besides that, I can offer you a chance to try the latest technology for strengthening the heart muscles. A special high-frequency electric charge is passed through the patient's sternum, this stimulates the heart's work and, in most cases, leads to a positive result...}
+{Speech 42 Answer 43}{}{What do you mean "in most cases"? And what happens in the "minority"?}
+{Speech 43}{}{Don't worry about it, my friend. So, do you wish to bolster your health?}
+{Speech 43 Answer 44}{}{Yes, I'm ready@sex@||| for the heart operation. [+1 Endurance]}
+{Speech 43 Answer 45}{}{Yes, I'm ready@sex@||| for the eye operation. [+1 Perception]}
+{Speech 43 Answer Exit}{}{No, I need to think about it, I'll come back later. [Leave]}
+{Speech 44}{}{The operation costs 50,000 caps. Even for you, although you deserve every confidence, I can't give a discount.}
+{Speech 44 Answer Exit}{}{I don't have that kind of money. [Leave]}
+{Speech 44 Answer 46}{}{Yes, the money is on me, begin.}
+{Speech 45}{}{The operation costs 50,000 caps. Even for you, although you deserve every confidence, I can't give a discount.}
+{Speech 45 Answer 46}{}{Yes, the money is on me, begin.}
+{Speech 45 Answer Exit}{}{I don't have that kind of money. [Leave]}
+{Speech 46}{}{You didn't even notice the doctor give you the injection. You lost consciousness and missed the most interesting part. Coming to on a hospital cot, you realized your body had changed.}
+{Speech 46 Answer 47}{}{Doc, what happened to me?}
+{Speech 47}{}{Everything's fine, my friend. The operation went without complications. Almost...}
+{Speech 47 Answer 48}{}{What do you mean "ALMOST"?!!}
+{Speech 48}{}{The robodog ate one of the scalpels again. One more slip-up like that and I'll have nothing left to cut my beloved patients with... But otherwise, everything's great, my friend, everything's great... You may go...}
+{Speech 48 Answer Exit}{}{All right, thank you, doc.}
+{Speech 49}{}{Nothing needed for now, come back later.}

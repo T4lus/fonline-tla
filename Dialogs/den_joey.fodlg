@@ -607,7 +607,7 @@ Speech 57 # Понятно, тогда все в порядке..
 {Speech 6 Answer 42}{}{Concerning jet...}
 {Speech 6 Answer 42*}{}{Concerning jet... I have some good news.}
 {Speech 6 Answer 39*}{}{How the business is?}
-{Speech 6 Answer 58}{}{Как торговля?}
+{Speech 6 Answer 58}{}{How's the business?}
 {Speech 6 Answer 43}{}{Any job?}
 {Speech 6 Answer 47}{}{About Lara..}
 {Speech 6 Answer 49}{}{Any new job?}
@@ -715,7 +715,7 @@ Speech 57 # Понятно, тогда все в порядке..
 {Speech 39 Answer Exit}{}{OK, I`ll do it.}
 {Speech 39 Answer Exit*}{}{Don’t wanna bustle with this.}
 {Speech 39 Answer Exit**}{}{Some other time.}
-{Speech 58}{}{Скоро может понадобиться ещё одна партия джета.}
+{Speech 58}{}{Soon I might need another batch of jet.}
 {Speech 40}{}{Move your ass, I need my goods!}
 {Speech 41}{}{Got it? Cool, gimme my stuff. Here, take some on your minor expenses. [Gives you $500]}
 {Speech 41 Answer Exit}{}{[You count the money] It’s a pleasure doing business with ya.}

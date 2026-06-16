@@ -21,5 +21,5 @@ Speech 2 # Оставьте меня в покое!
 {Name}{}{error}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{2}
-{Speech 2}{}{Оставьте меня в покое!}
-{Speech 2 Answer Exit}{}{Пока.}
+{Speech 2}{}{Leave me alone!}
+{Speech 2 Answer Exit}{}{Bye.}

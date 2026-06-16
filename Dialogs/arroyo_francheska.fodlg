@@ -86,29 +86,29 @@ Speech 11 # Вам к Рейчел, это в операционную.
 {Name}{}{Francesca}
 {DescAliveShort}{}{You see Francesca}
 {DescAliveFull}{}{A tribal girl that looks surprisingly clean. She smiles at you nicely.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Текст ответа}
-{Speech 1 Answer 5}{}{Пришёл на перевязку, высокий интеллект.}
-{Speech 1 Answer 6}{}{Пришёл на перевязку, низкий интеллект.}
-{Speech 1 Answer 11}{}{Ошибся помощницей.}
-{Speech 2}{}{Привет. Чем могу помочь?}
-{Speech 2 Answer 10}{}{Мне нужна медицинская помощь.}
-{Speech 2 Answer 10*}{}{Я хочу купить медикаментов.}
-{Speech 2 Answer 3}{}{Классные сиськи.}
-{Speech 2 Answer 4}{}{Классные сиськи.}
-{Speech 2 Answer Exit}{}{Ничем, изивините.}
-{Speech 3}{}{Хам!}
-{Speech 4}{}{Ммм... Спасибо?}
-{Speech 5}{}{Привет. Давайте посмотрим, что не так... Ух. Присаживайтесь, сейчас всё сделаем... Готово!}
-{Speech 5 Answer Exit}{}{Спасибо!}
-{Speech 5 Answer 7}{}{Рейчел, а что вы делаете сегодня вечером?}
-{Speech 5 Answer 8}{}{Рейчел, а что вы делаете сегодня вечером?}
-{Speech 6}{}{Привет. Давай глянем, что у тебя не так. Ух. Ну ничего, это не худшее, что я видела. Так. Присаживайся. Сейчас всё сделаем... [Перевязывает] Готово!}
-{Speech 6 Answer Exit}{}{Спасибо!}
-{Speech 7}{}{По поводу сексуальных проблем обращайтесь к доктору.}
-{Speech 8}{}{Иду домой, а что?}
-{Speech 8 Answer Exit}{}{Да так, ничего...}
-{Speech 8 Answer 9}{}{Может, проведём его вместе?}
-{Speech 9}{}{Извините, я занята.}
-{Speech 10}{}{Обращайтесь к доктору.}
-{Speech 11}{}{Вам к Рейчел, это в операционную.}
+{Speech 1}{}{Initial preferences}
+{Speech 1 Answer 2}{}{Answer text}
+{Speech 1 Answer 5}{}{Came for bandaging, high intellect.}
+{Speech 1 Answer 6}{}{Came for bandaging, low intellect.}
+{Speech 1 Answer 11}{}{Wrong assistant.}
+{Speech 2}{}{Hi. How can I help you?}
+{Speech 2 Answer 10}{}{I need medical help.}
+{Speech 2 Answer 10*}{}{I want to buy some medicine.}
+{Speech 2 Answer 3}{}{Nice tits.}
+{Speech 2 Answer 4}{}{Nice tits.}
+{Speech 2 Answer Exit}{}{Nothing, sorry.}
+{Speech 3}{}{Boor!}
+{Speech 4}{}{Mmm... Thanks?}
+{Speech 5}{}{Hi. Let's take a look at what's wrong... Ugh. Have a seat, we'll fix you right up... Done!}
+{Speech 5 Answer Exit}{}{Thanks!}
+{Speech 5 Answer 7}{}{Rachael, what are you doing tonight?}
+{Speech 5 Answer 8}{}{Rachael, what are you doing tonight?}
+{Speech 6}{}{Hi. Let's take a look at what's wrong with you. Ugh. Well, it's not the worst I've seen. Alright. Have a seat. We'll fix you right up... [Bandages you] Done!}
+{Speech 6 Answer Exit}{}{Thanks!}
+{Speech 7}{}{For sexual problems, please see the doctor.}
+{Speech 8}{}{Going home, why?}
+{Speech 8 Answer Exit}{}{Oh, nothing...}
+{Speech 8 Answer 9}{}{Maybe we could spend it together?}
+{Speech 9}{}{Sorry, I'm busy.}
+{Speech 10}{}{See the doctor.}
+{Speech 11}{}{You want Rachael, that's in the operating room.}

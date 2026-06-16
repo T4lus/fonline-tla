@@ -192,68 +192,68 @@ Speech 28 # Ну надо же, я в тебе ошибался. Не ожида
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Predialogue settings}
 {Speech 1 Answer 2}{}{- }
-{Speech 2}{}{[Вы видите угрюмого человека, лицо которого обезображено шрамами. Вы ловите себя на мысли, что не можете смотреть ему в глаза и стремитесь отвести взгляд]}
-{Speech 2 Answer 3}{}{Привет.}
-{Speech 2 Answer 21}{}{Ух! Рожа! [Показать пальцем на шрам]}
-{Speech 2 Answer 28}{}{Маклик! Твоя идти! Моей разрешили!}
-{Speech 3}{}{[Майкл пристально смотрит в ваши глаза. Хотя на его лице не отображается ни единой эмоции, вам хочется как можно скорее убраться подальше от этого человека]}
-{Speech 3 Answer Exit}{}{Я, пожалуй, позже загляну. [Уйти]}
-{Speech 3 Answer 4}{}{Эй, я что, с забором разговариваю? А ну, бырро, поздаровался с @sex@|дяденькой|тетенькой| @pname@.}
-{Speech 3 Answer 5}{}{Ты - Майкл, я угадал@sex@||а|?}
-{Speech 3 Answer 20}{}{Майкл. Ты можешь пройти в город, я убедил@sex@||а| капитана, что ты не навредишь городу.}
-{Speech 4}{}{[Майкл пожимает плечами и отводит взгляд. Разговор окончен]}
-{Speech 5}{}{[Майкл хмурится и смотрит на вас немного иначе. Во взгляде, кроме смертельного холода, затеплилась тень интереса]}
-{Speech 5 Answer Exit}{}{Майкл, ты "отличный собеседник", черт тебя подери. [Уйти]}
-{Speech 5 Answer 6}{}{Хм. Тебя нельзя назвать болтуном. Откуда у тебя эти шрамы, Майкл?}
-{Speech 5 Answer 8}{}{Майкл, я тво@sex@|й|я| фанат@sex@||ка|!}
-{Speech 5 Answer 11}{}{Ты кажешься чужим в этом городе.}
-{Speech 6}{}{[Майкл медленно проводит тыльной стороной ладони по лбу, пересеченному шрамом и его лицо искажает гримаса боли] Хочешь себе такой? Могу устроить.}
-{Speech 6 Answer Exit}{}{А мы сейчас проверим. Я сам@sex@||а| тебе  еще один нарисую! [Атаковать]}
-{Speech 6 Answer 7}{}{Я просто так спросил@sex@||а|!}
-{Speech 7}{}{Если тебя терзает праздное любопытство, найди себе такого же болвана как ты сам@sex@||а|. А меня оставь в покое.}
-{Speech 8}{}{Что за бред ты несешь?}
-{Speech 8 Answer 9}{}{Ты такой мужественный, сильный, уверенный в себе. И эти шрамы, ах, они меня возбуждают!}
-{Speech 8 Answer 10}{}{Ты - мой кумир. Я тоже хочу заработать себе такие шрамы в бою. Чтобы меня все уважали! Расскажи мне, Майк, о своих подвигах!}
-{Speech 9}{}{Извращенка.}
-{Speech 10}{}{Я не разговариваю с теми, кто спятил.}
-{Speech 11}{}{Так оно и есть. [Вам показалось, что вы услышали нотки сожаления в голосе Майкла]}
-{Speech 11 Answer 12}{}{Что это значит?}
-{Speech 11 Answer 13}{}{Ты сожалеешь об этом?}
-{Speech 11 Answer 14}{}{Это плохо?}
-{Speech 12}{}{Ничего.}
-{Speech 13}{}{В моем сердце нет места чувствам.}
-{Speech 14}{}{Нет. Это не плохо, и не хорошо. Это жизнь.}
-{Speech 14 Answer 15}{}{У тебя что-то связано с НКР? В прошлом?}
-{Speech 15}{}{Можно и так сказать. Это было слишком давно...}
-{Speech 15 Answer Exit}{}{Понятно. Оставлю тебя наедине с твоими воспоминаниями. [Уйти]}
-{Speech 15 Answer 16}{}{Почему бы тебе просто не пройтись по улицам, на которых провел часть своей жизни?}
-{Speech 16}{}{Мне запрещено.}
-{Speech 16 Answer 17}{}{И правильно. Человеку с такой харей нечего делать в городе при свете дня.}
-{Speech 16 Answer 18}{}{Тебе не выдают разрешения пройти через ворота города?}
-{Speech 17}{}{Твое мнение меня интересует меньше всего.}
-{Speech 18}{}{Верно.}
-{Speech 18 Answer 19}{}{Я попробую договориться с капитаном охраны, чтобы тебя пропустили.}
-{Speech 19}{}{Как хочешь.}
-{Speech 20}{}{Спасибо.}
-{Speech 21}{}{[Делает свирепое лицо] БУ на тебя!}
-{Speech 21 Answer Exit}{}{Ох! Боюсь! [Уйти]}
-{Speech 21 Answer 22}{}{[Сделать свирепое лицо в ответ] БУ твою!!!!}
-{Speech 22}{}{[Смеется] Ха! Ты тоже красав@sex@|чик|ица|.}
-{Speech 22 Answer 23}{}{Твоя сильный. Моя тоже сильный.}
-{Speech 22 Answer 23*}{}{Твоя страшный, но моя страшнее!}
-{Speech 22 Answer Exit}{}{Моя уходить. Твоя дрожать! Страшно! [Уйти]}
-{Speech 23}{}{Не спорю. [На угрюмом прежде лице Майкла играет улыбка]}
-{Speech 23 Answer Exit}{}{Пока! [Уйти]}
-{Speech 23 Answer 24}{}{Твоя пить! Моя угощать! [Показать рукой в сторону городских ворот]}
-{Speech 24}{}{ Прости, @sex@|друг|подруга|. Но мне заказан вход в город. }
-{Speech 24 Answer 25}{}{Чья посмел!??!! [Возмущенно ударить себя кулаком в лоб]}
-{Speech 25}{}{Спокойно, не стоит себя калечить. Это их право.}
-{Speech 25 Answer 26}{}{Моя говорить. Моя говорить много. Моя мудр - твоя проходить.}
-{Speech 26}{}{Ты хочешь поговорить с капитаном охраны? }
-{Speech 26 Answer Exit}{}{Моя уходить. Твоя сам делать! [Уйти]}
-{Speech 26 Answer 27}{}{[Приложить руку со сжатым кулаком к груди] Ага! Моя твою ценить! Рожа страшный! Сердце - хороший!}
-{Speech 27}{}{Боюсь, никто даже не поймет, чего ты хочешь...}
-{Speech 27 Answer Exit}{}{Ждать! Моя быстрый! [Уйти]}
-{Speech 28}{}{Ну надо же, я в тебе ошибался. Не ожидал.}
+{Speech 2}{}{[You see a grim man whose face is disfigured by scars. You catch yourself unable to look him in the eye and wanting to look away]}
+{Speech 2 Answer 3}{}{Hello.}
+{Speech 2 Answer 21}{}{Whoa! What a mug! [Point a finger at the scar]}
+{Speech 2 Answer 28}{}{Maklik! You go! Mine allowed it!}
+{Speech 3}{}{[Michael stares intently into your eyes. Though not a single emotion shows on his face, you want to get away from this man as quickly as possible]}
+{Speech 3 Answer Exit}{}{I think I'll drop by later. [Leave]}
+{Speech 3 Answer 4}{}{Hey, am I talking to a fence here? Come on, quick, say hello to @sex@|mister|missus| @pname@.}
+{Speech 3 Answer 5}{}{You're Michael, did I guess right@sex@|||?}
+{Speech 3 Answer 20}{}{Michael. You can pass into the city, I've convinced@sex@||| the captain that you won't harm the city.}
+{Speech 4}{}{[Michael shrugs and looks away. The conversation is over]}
+{Speech 5}{}{[Michael frowns and looks at you a little differently. In his gaze, besides the deadly cold, a shadow of interest has flickered to life]}
+{Speech 5 Answer Exit}{}{Michael, you're a "wonderful conversationalist", damn you. [Leave]}
+{Speech 5 Answer 6}{}{Hm. You can't be called a chatterbox. Where did you get those scars, Michael?}
+{Speech 5 Answer 8}{}{Michael, I'm your@sex@||| fan@sex@|||!}
+{Speech 5 Answer 11}{}{You seem like a stranger in this city.}
+{Speech 6}{}{[Michael slowly runs the back of his hand across his scar-crossed brow and his face twists in a grimace of pain] You want one like it? I can arrange that.}
+{Speech 6 Answer Exit}{}{Let's find out right now. I'll draw@sex@||| you another one myself! [Attack]}
+{Speech 6 Answer 7}{}{I just asked@sex@|||!}
+{Speech 7}{}{If idle curiosity is gnawing at you, go find yourself a dolt as dim as you are@sex@|||. And leave me alone.}
+{Speech 8}{}{What nonsense are you spouting?}
+{Speech 8 Answer 9}{}{You're so manly, strong, self-assured. And those scars, ah, they excite me!}
+{Speech 8 Answer 10}{}{You're my idol. I also want to earn myself scars like that in battle. So everyone respects me! Tell me, Mike, about your exploits!}
+{Speech 9}{}{Pervert.}
+{Speech 10}{}{I don't talk to people who've lost their minds.}
+{Speech 11}{}{So it is. [It seemed to you that you heard a note of regret in Michael's voice]}
+{Speech 11 Answer 12}{}{What does that mean?}
+{Speech 11 Answer 13}{}{Do you regret it?}
+{Speech 11 Answer 14}{}{Is that bad?}
+{Speech 12}{}{Nothing.}
+{Speech 13}{}{There's no place for feelings in my heart.}
+{Speech 14}{}{No. It's not bad, and not good. It's life.}
+{Speech 14 Answer 15}{}{Do you have something tied to the NCR? In the past?}
+{Speech 15}{}{You could say so. It was too long ago...}
+{Speech 15 Answer Exit}{}{I see. I'll leave you alone with your memories. [Leave]}
+{Speech 15 Answer 16}{}{Why don't you just walk down the streets where you spent part of your life?}
+{Speech 16}{}{I'm forbidden.}
+{Speech 16 Answer 17}{}{And rightly so. A man with a mug like that has no business in the city in broad daylight.}
+{Speech 16 Answer 18}{}{They won't grant you permission to pass through the city gates?}
+{Speech 17}{}{Your opinion interests me least of all.}
+{Speech 18}{}{Correct.}
+{Speech 18 Answer 19}{}{I'll try to arrange it with the guard captain to let you through.}
+{Speech 19}{}{As you wish.}
+{Speech 20}{}{Thank you.}
+{Speech 21}{}{[Makes a fierce face] BOO at you!}
+{Speech 21 Answer Exit}{}{Oh! I'm scared! [Leave]}
+{Speech 21 Answer 22}{}{[Make a fierce face in return] BOO yours!!!!}
+{Speech 22}{}{[Laughs] Ha! You're a looker too@sex@|||.}
+{Speech 22 Answer 23}{}{You strong. Me strong too.}
+{Speech 22 Answer 23*}{}{You scary, but me scarier!}
+{Speech 22 Answer Exit}{}{Me leave. You tremble! Scary! [Leave]}
+{Speech 23}{}{Can't argue. [A smile plays on Michael's once-grim face]}
+{Speech 23 Answer Exit}{}{Bye! [Leave]}
+{Speech 23 Answer 24}{}{You drink! Me treat! [Point a hand toward the city gates]}
+{Speech 24}{}{ Sorry, @sex@|friend|friend|. But entry to the city is barred to me. }
+{Speech 24 Answer 25}{}{Who dared!??!! [Indignantly strike yourself with a fist on the forehead]}
+{Speech 25}{}{Easy, no need to maim yourself. It's their right.}
+{Speech 25 Answer 26}{}{Me talk. Me talk much. Me wise - you pass.}
+{Speech 26}{}{Do you want to talk with the guard captain? }
+{Speech 26 Answer Exit}{}{Me leave. You do it yourself! [Leave]}
+{Speech 26 Answer 27}{}{[Press a clenched fist to your chest] Yeah! Me value you! Mug scary! Heart - good!}
+{Speech 27}{}{I'm afraid no one will even understand what you want...}
+{Speech 27 Answer Exit}{}{Wait! Me quick! [Leave]}
+{Speech 28}{}{Well, would you look at that, I was wrong about you. Didn't expect it.}

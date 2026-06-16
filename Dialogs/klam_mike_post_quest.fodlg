@@ -53,13 +53,13 @@ Speech 5 # Мне рассказали о всём, что ты сделал@sex
 [Text engl]
 {Name}{}{Mike}
 {DescAliveShort}{}{You see: Mike.}
-{DescAliveFull}{}{Молодой траппер. Судя по его виду, он перенёс серьёзную болезнь.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Не брал квест.}
-{Speech 1 Answer 3}{}{Брал квест и не выполнил.}
-{Speech 1 Answer 4}{}{Брал квест и выполнил.}
-{Speech 1 Answer Exit}{}{Обманул кого-то из двоих.}
-{Speech 2}{}{Привет.}
-{Speech 3}{}{Привет, рад тебя видеть.@@Мне уже гораздо лучше.@@Скоро возвращаюсь домой.@@Терри жалко.@@Хорошо, что всё обошлось.@@Спасибо ещё раз за помощь.}
-{Speech 4}{}{Пока ты ходил@sex@||а|, мы уже со всем разобрались.@@Лучше поздно, чем никогда.@@А я уже сам дошёл.@@Ух. Запоздалый гонец.}
-{Speech 5}{}{Я всё знаю, @sex@|обманщик|сучка|!@@Я тебя никогда не прощу!@@Как ты посмел@sex@||а| сюда прийти?@@Время расплаты!}
+{DescAliveFull}{}{A young trapper. By the look of him, he's been through a serious illness.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Didn't take the quest.}
+{Speech 1 Answer 3}{}{Took the quest and didn't complete it.}
+{Speech 1 Answer 4}{}{Took the quest and completed it.}
+{Speech 1 Answer Exit}{}{Deceived one of the two.}
+{Speech 2}{}{Hello.}
+{Speech 3}{}{Hi, glad to see you.@@I'm feeling much better now.@@I'll be heading home soon.@@Poor Terry.@@Good thing it all worked out.@@Thanks again for the help.}
+{Speech 4}{}{While you were off running around@sex@|||, we already sorted everything out.@@Better late than never.@@I made it back on my own anyway.@@Ugh. A late messenger.}
+{Speech 5}{}{I know everything, @sex@|cheat|bitch|!@@I'll never forgive you!@@How dare you come here?@@Time to pay!}

@@ -233,77 +233,77 @@ Speech 25 # Отлично. Вот ваша зарплата.
 {DescAliveShort}{}{You see Proconsul Gregory.}
 {DescAliveFull}{}{You see a gloomy bureaucrat, thin-faced and thick-browed.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 11}{}{дурак}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 10}{}{знаком}
-{Speech 2}{}{Прошу прощения... Чем могу помочь?}
-{Speech 2 Answer 3}{}{Кто вы?}
-{Speech 2 Answer Exit}{}{Просто осматриваюсь, спасибо.}
-{Speech 3}{}{Я проконсул Грегори. Вы точно уверены, что не ошиблись дверью?}
-{Speech 3 Answer 14}{}{У меня есть посылка для Первой Гражданки. Голодиск.}
-{Speech 3 Answer 4}{}{Чем вы здесь занимаетесь?}
-{Speech 3 Answer Exit}{}{Просто осматриваюсь, спасибо.}
-{Speech 4}{}{Я ПОМОЩНИК Первой гражданки. Я составляю для нее расписание встреч, провожу экзамены для претендентов на гражданство и обновляю все списки на сервере Города Убежища. Работа не маленькая, уверяю вас.}
-{Speech 4 Answer 5}{}{Экзамен на гражданство?}
-{Speech 4 Answer 9}{}{Могу ли я задать несколько вопросов?}
-{Speech 4 Answer Exit}{}{Понятно. Да, мне пора идти.}
-{Speech 5}{}{Да, я отвечаю за проведение экзамена на гражданство для всех, кто желает стать гражданином Города Убежища.}
-{Speech 5 Answer 7}{}{И в чем, собственно, состоит экзамен?}
-{Speech 5 Answer 6}{}{А какие преимущества дает гражданство?}
-{Speech 5 Answer 9}{}{Можно задать вам еще несколько вопросов?}
-{Speech 5 Answer Exit}{}{Понятно. Возможно, мы еще поговорим.}
-{Speech 6}{}{Преимущества? Да просто оглянитесь вокруг... Город Убежища - самый безопасный и богатый город в пустошах. Граждане бесплатно получают медицинскую помощь, здесь в изобилии имеется еда и вода, нет преступности и сколько-нибудь серьезных болезней.}
-{Speech 6 Answer 7}{}{И в чем, собственно, состоит экзамен?}
-{Speech 6 Answer 9}{}{Можно задать вам еще несколько вопросов?}
-{Speech 6 Answer Exit}{}{Понятно. Возможно, мы еще поговорим.}
-{Speech 7}{}{Это обширный экзамен, поделенный на несколько частей... высшая математика, космология и астрономия, дедуктивное мышление, сравнительное языкознание... ах, да, и еще всесторонний медицинский осмотр.}
-{Speech 7 Answer 8}{}{Похоже, это непросто. Мне бы хотелось сдать экзамен, если можно.}
-{Speech 7 Answer 9}{}{Понятно. Могу я задать вам еще несколько вопросов?}
-{Speech 7 Answer Exit}{}{Интересно. Спасибо, что уделили мне время.}
-{Speech 8}{}{К сожалению сейчас вы не можете пройти экзамен. У нас тут слишком много работы и нет времени возиться с такими как вы. Подойдите позже.}
-{Speech 8 Answer Exit}{}{Очень жаль. До свидания.}
-{Speech 9}{}{Полагаю да... что вы хотели бы узнать?}
-{Speech 9 Answer 4}{}{Не могли бы вы повторить, что вы тут делаете?}
-{Speech 9 Answer Exit}{}{Да нет, ничего. Возможно, мы поговорим позже. }
-{Speech 10}{}{Опять вы? Я могу помочь вам?}
-{Speech 10 Answer 14}{}{У меня есть посылка для Первой Гражданки. Голодиск.}
-{Speech 10 Answer 15}{}{Вы тут вроде письмами занимаетесь. Не надо ничего доставить?}
-{Speech 10 Answer 17}{}{Вы тут вроде письмами занимаетесь. Не надо ничего доставить?}
-{Speech 10 Answer 18}{}{Вы тут вроде письмами занимаетесь. Не надо ничего доставить?}
-{Speech 10 Answer 22}{}{Вы тут вроде письмами занимаетесь. Не надо ничего доставить?}
-{Speech 10 Answer 25}{}{Письмо доставлено, адресат очень рад и шлёт привет.}
-{Speech 10 Answer 4}{}{Не могли бы вы повторить, что вы тут делаете?}
-{Speech 10 Answer Exit}{}{Да нет, ничего. Возможно, мы поговорим позже. }
-{Speech 11}{}{Прошу прощения... Чем могу помочь?}
-{Speech 11 Answer 12}{}{Зепа.}
-{Speech 11 Answer Exit}{}{Ходить не сюда.}
-{Speech 12}{}{ЕЩЕ один заблудившийся слуга?! Я напишу жалобу на Баркуса, если он будет позволять им расхаживать тут... эй, ты... Кыш! Кыш!}
-{Speech 12 Answer 13}{}{Кыштрелить тебя? Лан-на.}
-{Speech 12 Answer Exit}{}{Свидания!}
-{Speech 13}{}{Похоже, вы слуги глупее с каждым днем.}
-{Speech 13 Answer Exit}{}{Буууу!!!}
-{Speech 14}{}{Давайте её сюда. Хммм. Так. Тодд Стьюард. Вам положено... Тысяча восемьсот за доставку, двести за опасность маршрута, сто пятьдесят за важность, итого... Две тысячи сто пятьдесят. Распишитесь.}
-{Speech 14 Answer Exit}{}{[Забрать награду]}
-{Speech 15}{}{Извините, но я вас не знаю. Это работа только для проверенных людей.}
-{Speech 15 Answer 16}{}{А что я могу сделать, чтобы доказать свою пригодность?}
-{Speech 16}{}{Поищите пока работу попроще. Если будут рекомендации от граждан, то я смогу вас нанять.}
-{Speech 16 Answer Exit}{}{Договорились.}
-{Speech 17}{}{В данный момент ничего нет. Приходите попозже.}
-{Speech 17 Answer Exit}{}{Окей.}
-{Speech 18}{}{Да, есть одна посылка, голодиск... От самой Первой Гражданки некому Тодду Стьюарду, из Арройо. Очень важная. Сумеете доставить?}
-{Speech 18 Answer 19}{}{И не такое доставляли. Я просто супер-курьер.}
-{Speech 18 Answer 20}{}{Конечно. Только пригодилось бы немного денег на дорогу.}
-{Speech 18 Answer 21}{}{Не-не-не, вы что. Я не попрусь в те края. Это же Арройо, там едят людей!}
-{Speech 19}{}{Не повредите по дороге.}
-{Speech 20}{}{Хорошо, вот аванс. Не повредите по дороге.}
-{Speech 21}{}{Не слышал ни разу. Ну как хотите.}
-{Speech 22}{}{Сначала закончите с первой доставкой.}
-{Speech 22 Answer 23}{}{Знаете... А она потерялась.}
-{Speech 22 Answer Exit}{}{Ммм, точно. Отнесу пока ту.}
-{Speech 22 Answer 24}{}{А два письма сразу нельзя взять?}
-{Speech 23}{}{[Вздыхает] Ну что ж, извините. Эта работа для вас закрыта.}
-{Speech 23 Answer Exit}{}{Какие вы...}
-{Speech 23 Answer Exit*}{}{Всё понятно. Будет сделано.}
-{Speech 24}{}{Нет.}
-{Speech 25}{}{Отлично. Вот ваша зарплата.}
-{Speech 25 Answer Exit}{}{[Забрать]}
+{Speech 1 Answer 11}{}{fool}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 10}{}{acquainted}
+{Speech 2}{}{Excuse me... How can I help you?}
+{Speech 2 Answer 3}{}{Who are you?}
+{Speech 2 Answer Exit}{}{Just looking around, thanks.}
+{Speech 3}{}{I am Proconsul Gregory. Are you quite sure you didn't come through the wrong door?}
+{Speech 3 Answer 14}{}{I have a package for the First Citizen. A holodisk.}
+{Speech 3 Answer 4}{}{What do you do here?}
+{Speech 3 Answer Exit}{}{Just looking around, thanks.}
+{Speech 4}{}{I am the ASSISTANT to the First Citizen. I arrange her schedule of meetings, conduct examinations for citizenship applicants, and update all the lists on the Vault City server. It's no small job, I assure you.}
+{Speech 4 Answer 5}{}{A citizenship examination?}
+{Speech 4 Answer 9}{}{May I ask a few questions?}
+{Speech 4 Answer Exit}{}{I see. Yes, I should be going.}
+{Speech 5}{}{Yes, I am responsible for conducting the citizenship examination for everyone who wishes to become a citizen of Vault City.}
+{Speech 5 Answer 7}{}{And what exactly does the examination consist of?}
+{Speech 5 Answer 6}{}{And what advantages does citizenship grant?}
+{Speech 5 Answer 9}{}{May I ask you a few more questions?}
+{Speech 5 Answer Exit}{}{I see. Perhaps we'll talk again.}
+{Speech 6}{}{Advantages? Just look around you... Vault City is the safest and richest city in the wastes. Citizens receive free medical care, there's an abundance of food and water, no crime and no serious diseases of any kind.}
+{Speech 6 Answer 7}{}{And what exactly does the examination consist of?}
+{Speech 6 Answer 9}{}{May I ask you a few more questions?}
+{Speech 6 Answer Exit}{}{I see. Perhaps we'll talk again.}
+{Speech 7}{}{It's an extensive examination, divided into several parts... advanced mathematics, cosmology and astronomy, deductive reasoning, comparative linguistics... ah, yes, and a comprehensive medical examination as well.}
+{Speech 7 Answer 8}{}{Sounds difficult. I'd like to take the examination, if I may.}
+{Speech 7 Answer 9}{}{I see. May I ask you a few more questions?}
+{Speech 7 Answer Exit}{}{Interesting. Thank you for your time.}
+{Speech 8}{}{Unfortunately you cannot take the examination right now. We have far too much work here and no time to bother with the likes of you. Come back later.}
+{Speech 8 Answer Exit}{}{What a pity. Goodbye.}
+{Speech 9}{}{I suppose so... what would you like to know?}
+{Speech 9 Answer 4}{}{Could you repeat what you do here?}
+{Speech 9 Answer Exit}{}{No, never mind. Perhaps we'll talk later. }
+{Speech 10}{}{You again? Can I help you?}
+{Speech 10 Answer 14}{}{I have a package for the First Citizen. A holodisk.}
+{Speech 10 Answer 15}{}{You handle letters here, don't you. Anything to deliver?}
+{Speech 10 Answer 17}{}{You handle letters here, don't you. Anything to deliver?}
+{Speech 10 Answer 18}{}{You handle letters here, don't you. Anything to deliver?}
+{Speech 10 Answer 22}{}{You handle letters here, don't you. Anything to deliver?}
+{Speech 10 Answer 25}{}{The letter is delivered, the recipient is very pleased and sends his regards.}
+{Speech 10 Answer 4}{}{Could you repeat what you do here?}
+{Speech 10 Answer Exit}{}{No, never mind. Perhaps we'll talk later. }
+{Speech 11}{}{Excuse me... How can I help you?}
+{Speech 11 Answer 12}{}{Zepa.}
+{Speech 11 Answer Exit}{}{No go here.}
+{Speech 12}{}{ANOTHER lost servant?! I'll file a complaint against Barkus if he keeps letting them wander about in here... hey, you... Shoo! Shoo!}
+{Speech 12 Answer 13}{}{Shoot you? Lan-na.}
+{Speech 12 Answer Exit}{}{Bye-bye!}
+{Speech 13}{}{It seems you servants get dumber by the day.}
+{Speech 13 Answer Exit}{}{Booo!!!}
+{Speech 14}{}{Hand it here. Hmmm. So. Todd Steward. You're owed... One thousand eight hundred for delivery, two hundred for the danger of the route, one hundred fifty for importance, that makes... Two thousand one hundred fifty. Sign here.}
+{Speech 14 Answer Exit}{}{[Take the reward]}
+{Speech 15}{}{Sorry, but I don't know you. This job is only for trusted people.}
+{Speech 15 Answer 16}{}{What can I do to prove my worth?}
+{Speech 16}{}{Find some simpler work for now. If you get recommendations from citizens, then I'll be able to hire you.}
+{Speech 16 Answer Exit}{}{Agreed.}
+{Speech 17}{}{There's nothing at the moment. Come back later.}
+{Speech 17 Answer Exit}{}{Okay.}
+{Speech 18}{}{Yes, there is one package, a holodisk... From the First Citizen herself to one Todd Steward, from Arroyo. Very important. Can you deliver it?}
+{Speech 18 Answer 19}{}{I've delivered worse. I'm just a super-courier.}
+{Speech 18 Answer 20}{}{Of course. Only a little money for the road wouldn't hurt.}
+{Speech 18 Answer 21}{}{No-no-no, are you mad. I'm not trekking out to those parts. That's Arroyo, they eat people there!}
+{Speech 19}{}{Don't damage it on the way.}
+{Speech 20}{}{All right, here's the advance. Don't damage it on the way.}
+{Speech 21}{}{Never heard of it. Well, suit yourself.}
+{Speech 22}{}{First finish the first delivery.}
+{Speech 22 Answer 23}{}{You know... it got lost.}
+{Speech 22 Answer Exit}{}{Mmm, right. I'll take that one for now.}
+{Speech 22 Answer 24}{}{Can't I take both letters at once?}
+{Speech 23}{}{[Sighs] Well then, my apologies. This job is closed to you.}
+{Speech 23 Answer Exit}{}{What sort of...}
+{Speech 23 Answer Exit*}{}{Understood. It will be done.}
+{Speech 24}{}{No.}
+{Speech 25}{}{Excellent. Here's your pay.}
+{Speech 25 Answer Exit}{}{[Take]}

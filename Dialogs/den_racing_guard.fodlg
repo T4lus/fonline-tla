@@ -19,4 +19,4 @@ Speech 2 # Можешь проходить.@@Эт@sex@|от|а| вроде в п
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 2}{}{Answer text}
-{Speech 2}{}{Можешь проходить.@@Эт@sex@|от|а| вроде в порядке...@@Иди своей дорогой.@@Механик прямо за мной. У него узнаешь, куда гнать дальше.@@Мне лично эти гонки в хвост не впились. Но сказано "обеспечь порядок", значит надо выполнять...@@Будешь долго думать, просрешь шансы победить.@@Чего тормозишь? Останешься в хвосте. Действуй!}
+{Speech 2}{}{You can pass.@@@sex@|This one|This one| seems to be in order...@@Go on your way.@@The mechanic's right behind me. He'll tell you where to drive next.@@Personally, these races mean nothing to me. But I was told to "keep order", so I gotta do it...@@Think too long and you'll blow your chance to win.@@What are you stalling for? You'll end up last. Get moving!}

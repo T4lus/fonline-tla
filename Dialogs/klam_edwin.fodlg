@@ -19,8 +19,8 @@ Speech 2 # *Бззз-ззз*@@*Вжик-вжик*@@Ч-ч-чего изволит
 [Text engl]
 {Name}{}{Edwin}
 {DescAliveShort}{}{You see a robot.}
-{DescAliveFull}{}{Робот модели "Мистер Хенди". Корпус покрыт многочисленными заплатами, а некоторые конечности заменены протезами явно кустарного изготовления.}
-{Speech 1}{}{Преддиалоговые установки}
+{DescAliveFull}{}{A "Mister Handy" model robot. Its body is covered with numerous patches, and some of its limbs have been replaced with clearly homemade prosthetics.}
+{Speech 1}{}{Pre-dialog setup}
 {Speech 1 Answer 2}{}{-}
-{Speech 2}{}{*Bzzz-bzzz*@@*Clang-clang*@@What needs doing?@@Mister Handy at your service!@@Who needs to be fixed today?@@*makes noise with propellers*@@Master Vic is kind to me!@@How do you manage to hold your balance with just two legs?@@This hole here on my chest was made by Chosen One himself!@@Do you like my shiny limbs?@@I can walk a dog!@@Бззз.@@*claps manipulators*}
-{100000001}{}{Мое!@@Предмет.@@Лут!@@Опять намусорили.@@Это что еще такое?@@Вещь.@@Вижу мусор. Постановка задачи... Забрать и заныкать... Принято.@@Моя прелесссть...@@Вижу драгоценный ресурс.@@Ходют тут всякие... А мне убирать...@@Что упалло, то пропалло.@@Ха. Ха. Ха.@@Предмет. Ура.@@Всем стоять. Это мое.@@Процедура очистки запущена.@@Вижу ценную вещь.@@Вижу ценный предмет.@@Вжик* Вжик* ВЕЩЬ!}
+{Speech 2}{}{*Bzzz-bzzz*@@*Clang-clang*@@What needs doing?@@Mister Handy at your service!@@Who needs to be fixed today?@@*makes noise with propellers*@@Master Vic is kind to me!@@How do you manage to hold your balance with just two legs?@@This hole here on my chest was made by Chosen One himself!@@Do you like my shiny limbs?@@I can walk a dog!@@Bzzz.@@*claps manipulators*}
+{100000001}{}{Mine!@@An item.@@Loot!@@Made a mess again.@@What's this now?@@A thing.@@I see litter. Task assigned... Collect and stash away... Accepted.@@My preciousss...@@I see a precious resource.@@All sorts of people wandering through... and I'm the one who has to clean up...@@Finders keepers.@@Ha. Ha. Ha.@@An item. Hooray.@@Everybody freeze. This is mine.@@Cleanup procedure initiated.@@I see a valuable thing.@@I see a valuable item.@@Zip* Zip* THING!}

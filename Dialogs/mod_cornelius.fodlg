@@ -108,42 +108,42 @@ Speech 14 # Привет! Мы уже встречались?
 {DescAliveFull}{}{Cornelius.}
 {DescAliveFull}{}{Nothing extraordinary about this old man, maybe except the foreign look.}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 14}{}{тупой}
-{Speech 1 Answer 2}{}{Ответ}
-{Speech 1 Answer 13}{}{Ответ}
+{Speech 1 Answer 14}{}{dumb}
+{Speech 1 Answer 2}{}{Answer}
+{Speech 1 Answer 13}{}{Answer}
 {Speech 2}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 2 Answer 3}{}{Если этим местом заведуете вы, то почему оно называется Мотелем РОЗЫ?}
-{Speech 2 Answer 4}{}{Чем вы здесь занимаетесь?}
-{Speech 2 Answer 6}{}{Кто такая Роза?}
-{Speech 2 Answer 7}{}{Я хочу снять комнату.}
-{Speech 2 Answer Exit}{}{Пока.}
-{Speech 3}{}{Роза - моя жена. Я назвал это место в честь нее. Вам никто не говорил, что я женат?}
-{Speech 3 Answer 8}{}{Можно задать вам еще пару вопросов?}
-{Speech 3 Answer Exit}{}{Пока.}
-{Speech 4}{}{Я заведую этим мотелем. Да, это заведение давно бы развалилось, если бы не я. Вы только посмотрите на уборную. Самая чистая уборная на белом свете. И это все моя заслуга.}
-{Speech 4 Answer 5}{}{Какое отношение чистая уборная имеет к управлению мотелем?}
-{Speech 4 Answer Exit}{}{До свидания.}
+{Speech 2 Answer 3}{}{If you run this place, then why is it called ROSE's Motel?}
+{Speech 2 Answer 4}{}{What do you do here?}
+{Speech 2 Answer 6}{}{Who is Rose?}
+{Speech 2 Answer 7}{}{I want to rent a room.}
+{Speech 2 Answer Exit}{}{Bye.}
+{Speech 3}{}{Rose is my wife. I named this place after her. Nobody told you I'm married?}
+{Speech 3 Answer 8}{}{Can I ask you a couple more questions?}
+{Speech 3 Answer Exit}{}{Bye.}
+{Speech 4}{}{I run this motel. Yeah, this place would've fallen apart long ago if it weren't for me. Just take a look at the outhouse. The cleanest outhouse in the whole wide world. And that's all thanks to me.}
+{Speech 4 Answer 5}{}{What does a clean outhouse have to do with running a motel?}
+{Speech 4 Answer Exit}{}{Goodbye.}
 {Speech 5}{}{Время:60000 Нет ответа:Завершить диалог}
-{Speech 5 Answer 13}{}{Хмм... Кажется, определенные слова действуют на него.] Роза... Комната... Бегать...}
-{Speech 5 Answer 8}{}{Можно задать еще пару вопросов?}
-{Speech 5 Answer Exit}{}{[КОНЕЦ]}
-{Speech 6}{}{Роза - моя жена. Она заведует кухней. Лучших блюд вы нигде не найдете. Роза такая красавица. Когда-нибудь я обязательно на ней женюсь.}
-{Speech 6 Answer 3}{}{Мне показалось, вы только что сказали, что Роза - ваша жена.}
-{Speech 6 Answer Exit}{}{Пока.}
-{Speech 7}{}{У меня есть комната. Я там сплю. А вы где спите?}
-{Speech 7 Answer 5}{}{Кажется, вы не поняли. Мне бы хотелось снять комнату на ночь.}
-{Speech 7 Answer Exit}{}{Пока.}
-{Speech 8}{}{Вопросы? Разве я у вас что-то спрашивал? Привет, меня зовут Корнелиус.}
-{Speech 8 Answer 3}{}{Если этим местом заведуете вы, то почему оно называется Мотелем РОЗЫ?}
-{Speech 8 Answer 4}{}{Чем вы здесь занимаетесь?}
-{Speech 8 Answer 6}{}{Кто такая Роза?}
-{Speech 8 Answer 7}{}{Я хочу снять комнату.}
-{Speech 8 Answer 5}{}{Ну, дедуля, кому-то пора к психиатру.}
-{Speech 8 Answer Exit}{}{Пока.}
-{Speech 13}{}{Привет! Мы уже встречались?}
-{Speech 13 Answer 4}{}{Чем вы здесь занимаетесь?}
-{Speech 13 Answer 7}{}{Я хочу снять комнату.}
-{Speech 13 Answer 8}{}{Можно задать вам еще пару вопросов?}
-{Speech 13 Answer Exit}{}{Пока.}
-{Speech 14}{}{Привет! Мы уже встречались?}
-{Speech 14 Answer Exit}{}{Ууугы!}
+{Speech 5 Answer 13}{}{Hmm... Seems like certain words have an effect on him.] Rose... Room... Run...}
+{Speech 5 Answer 8}{}{Can I ask a couple more questions?}
+{Speech 5 Answer Exit}{}{[END]}
+{Speech 6}{}{Rose is my wife. She runs the kitchen. You won't find better dishes anywhere. Rose is such a beauty. Someday I'm definitely going to marry her.}
+{Speech 6 Answer 3}{}{I thought you just said that Rose is your wife.}
+{Speech 6 Answer Exit}{}{Bye.}
+{Speech 7}{}{I have a room. I sleep there. And where do you sleep?}
+{Speech 7 Answer 5}{}{Seems you didn't understand. I'd like to rent a room for the night.}
+{Speech 7 Answer Exit}{}{Bye.}
+{Speech 8}{}{Questions? Did I ask you anything? Hello, my name's Cornelius.}
+{Speech 8 Answer 3}{}{If you run this place, then why is it called ROSE's Motel?}
+{Speech 8 Answer 4}{}{What do you do here?}
+{Speech 8 Answer 6}{}{Who is Rose?}
+{Speech 8 Answer 7}{}{I want to rent a room.}
+{Speech 8 Answer 5}{}{Well, gramps, somebody needs to see a psychiatrist.}
+{Speech 8 Answer Exit}{}{Bye.}
+{Speech 13}{}{Hi! Have we met before?}
+{Speech 13 Answer 4}{}{What do you do here?}
+{Speech 13 Answer 7}{}{I want to rent a room.}
+{Speech 13 Answer 8}{}{Can I ask you a couple of questions?}
+{Speech 13 Answer Exit}{}{Bye.}
+{Speech 14}{}{Hi! Have we met before?}
+{Speech 14 Answer Exit}{}{Uuugh!}

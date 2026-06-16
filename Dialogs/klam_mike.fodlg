@@ -39,13 +39,13 @@ Speech 5 # Сволочь!@@Ненавижу!@@@sex@|Подлец|Стерва|!
 [Text engl]
 {Name}{}{Mike}
 {DescAliveShort}{}{You see: Mike.}
-{DescAliveFull}{}{Молодой траппер. Судя по его виду, то ли он болен, то ли ему сейчас очень сильно плохо.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Болен.}
-{Speech 1 Answer 3}{}{Вылечили, игрок не помогал.}
-{Speech 1 Answer 4}{}{Вылечили, игрок принимал в этом участие.}
-{Speech 1 Answer 5}{}{Игрок обманул Эмму, трапперы в курсе.}
-{Speech 2}{}{Привет.@@Эээ... Воды...@@Эээ...@@*молчит*@@*смотрит мутным взглядом*@@*тяжело дышит*}
-{Speech 3}{}{Привет.@@Как дела?@@Южней не ходи, там радиоактивная свалка.@@Тут с нами такооое было...@@Чего тебе?@@Что смотришь?@@Отстань от больного человека.}
-{Speech 4}{}{Привет.@@Как дела?@@Спасибо тебе за помощь.@@Хорошо, что ты тут вовремя оказал@sex@|ся|ась|.@@Никогда больше не буду приближаться к светящемуся зелёным.@@Надо будет найти книжку про радиацию. Или попрошу Вика рассказать.@@Надо было внимательнее слушать Смайли.@@Терри жалко.@@Сволочи, они съели Терри!@@Отлежусь, вернусь, замочу всех этих ящериц.@@Похоже, Брайан кому-то отдал моё копьё.@@Странно, что у меня тоже волосы не выпали.@@Ох и тяжко нам пришлось.@@Приятно, когда есть люди вроде тебя.}
-{Speech 5}{}{Сволочь!@@Ненавижу!@@@sex@|Подлец|Стерва|!}
+{DescAliveFull}{}{A young trapper. By the look of him, he's either sick or feeling really, really bad right now.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Sick.}
+{Speech 1 Answer 3}{}{Cured, player didn't help.}
+{Speech 1 Answer 4}{}{Cured, player took part in it.}
+{Speech 1 Answer 5}{}{Player deceived Emma, the trappers know.}
+{Speech 2}{}{Hello.@@Ehh... Water...@@Ehh...@@*stays silent*@@*looks at you with a glazed stare*@@*breathes heavily*}
+{Speech 3}{}{Hello.@@How are you?@@Don't go further south, there's a radioactive dump there.@@We went through such a thing here...@@What do you want?@@What are you looking at?@@Leave a sick man alone.}
+{Speech 4}{}{Hello.@@How are you?@@Thank you for the help.@@Good thing you showed up here in time.@@I'll never go near anything glowing green again.@@I'll have to find a book about radiation. Or I'll ask Vic to tell me about it.@@I should have listened to Smiley more carefully.@@Poor Terry.@@The bastards, they ate Terry!@@I'll rest up, come back, and waste all those lizards.@@Looks like Brian gave my spear away to someone.@@Strange that my hair didn't fall out too.@@Boy, did we have a rough time of it.@@It's nice when there are people like you around.}
+{Speech 5}{}{Bastard!@@I hate you!@@@sex@|Scumbag|Bitch|!}

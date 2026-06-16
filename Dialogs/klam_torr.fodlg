@@ -195,67 +195,67 @@ Speech 23 # Торр уже найти помощь.
 {DescAliveShort}{}{You see a very big man covered with dirt, with little smile and empty eyes.}
 {DescAliveFull}{}{You see Torr Bakner, the village idiot.}
 {DescAliveFull}{}{You see a big, muscular man wearing dirty clothes. He is looking somewhere with a blank expression in his eyes.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{умный}
-{Speech 1 Answer 4}{}{тупой}
-{Speech 1 Answer 18}{}{Квест взят- обращение к Торру до нападений}
-{Speech 1 Answer 19}{}{Квест взят- обращение к Торру во время нападений}
-{Speech 1 Answer 21}{}{Квест провален.}
-{Speech 1 Answer 20}{}{Квест завершен удачно, все брамины живы.}
-{Speech 1 Answer 17}{}{Квест завершен удачно, часть браминов умерла.}
-{Speech 2}{}{Я Торр.}
-{Speech 2 Answer 3}{}{Привет, Торр. Что ты тут делаешь?}
-{Speech 3}{}{Моя помогать Дантонам.}
-{Speech 3 Answer 10}{}{Тебе нужна помощь?}
-{Speech 3 Answer 22}{}{Тебе нужна помощь?}
-{Speech 3 Answer 23}{}{Тебе нужна помощь?}
-{Speech 3 Answer Exit}{}{Черт, ну кажется вам виднее.}
-{Speech 10}{}{Да! Торр нужна помощь! Злые твари приходить поздно и убивать му-му, Торр охранять му-му, но Торр бояться злые твари.}
-{Speech 10 Answer 11}{}{А, ты хочешь, чтобы я помог@sex@||ла| тебе охранять браминов?}
-{Speech 10 Answer Exit}{}{Я слишком занят.}
-{Speech 4}{}{Я Торр [Меня зовут Торр. Чем могу помочь?]}
-{Speech 4 Answer 15}{}{Надо помочь? [Торр, ты выглядишь озабоченным. Тебе помочь?]}
-{Speech 4 Answer 22}{}{Надо помочь? [Торр, ты выглядишь озабоченным. Тебе помочь?]}
-{Speech 4 Answer 23}{}{Надо помочь? [Торр, ты выглядишь озабоченным. Тебе помочь?]}
-{Speech 4 Answer 5}{}{Вы Торр [Привет, Торр. У меня к тебе несколько вопросов.]}
-{Speech 11}{}{Да, Торр хотеть, чтобы ваша помогла Торр!}
-{Speech 11 Answer Exit}{}{Я не могу помочь тебе, Торр. Прости.}
-{Speech 11 Answer Exit*}{}{Отвали, дебил.}
-{Speech 11 Answer Exit**}{}{Хорошо, я помогу тебе.}
-{Speech 15}{}{Торр нужна помощь. Злые твари гнать му-му отсюда.}
-{Speech 15 Answer 16}{}{Угук! Ааргх! [Да, конечно, я помогу тебе с охраной браминов.]}
-{Speech 15 Answer Exit}{}{Умкг. [Нет, извини, я сейчас очень занят. Может, позже.]}
-{Speech 16}{}{Торр рад!}
-{Speech 16 Answer Exit}{}{Хааа! [Хорошо, я пойду на пастбище.]}
-{Speech 16 Answer Exit*}{}{Моя тоже бояться! [Нет, извини. Я сейчас очень занят.]}
-{Speech 5}{}{Торр скажи? [Что вам угодно знать, мой друг?]}
-{Speech 5 Answer 6}{}{Здесь! [Расскажите мне о том, что здесь происходит.]}
-{Speech 5 Answer 7}{}{Ззззз. Окей? [Мне нужно переночевать где-то.]}
-{Speech 5 Answer 8}{}{Xотеть! [Вы показываете на вещь] [Где я могу поменять вещи или приобрести новые?]}
-{Speech 5 Answer 9}{}{Торр? [Простите, а чем вы занимаетесь в городе?]}
-{Speech 5 Answer Exit}{}{Идти Торр. [Это все, что мне нужно знать. До свидания, Торр.]}
-{Speech 6}{}{Торр ух! [В последнее время не происходит ничего необычного.]}
-{Speech 6 Answer 5}{}{Да! [Кажется я упустил из виду какую-то деталь, расскажите мне еще что-нибудь.]}
-{Speech 6 Answer Exit}{}{Окей! [Этого достаточно. До свидания.]}
-{Speech 7}{}{Зззз? Торр зззз. [Ну, можешь поспать в поей комнате бесплатно.]}
-{Speech 7 Answer Exit}{}{Торр ззззз? [Ты позволишь мне остаться в твоей комнате? Это очень благородно с твоей стороны, я тогда прямо сейчас и воспользуюсь твоим предложением.]}
-{Speech 7 Answer 5}{}{Ззз? [Я не думаю, что мне сейчас хочется спать. Может, в другой раз. У меня к тебе еще несколько вопросов.]}
-{Speech 7 Answer Exit*}{}{Зззз, нет Торр. [Я совсем не хочу сейчас спать. Спасибо за твое благородное предложение, До свидания.]}
-{Speech 8}{}{Акнер! Зууги! [Я думаю, что здесь вам предложат лучшие цены. А в Золотом Гекко над вами только посмеются.]}
-{Speech 8 Answer 5}{}{Акнер Зууги? [Спасибо. Я здесь сделаю все покупки. Позвольте вас спросить еще кое о чем.]}
-{Speech 8 Answer Exit}{}{Зууги нет. [Xороший совет. Я не думаю, что мне нужно что-то еще сейчас. До свидания.]}
-{Speech 9}{}{Торр, датон [Раньше у меня было дело с джентельменами Дантонами, но последнее время я сотрудничаю c господином Эйденом.]}
-{Speech 9 Answer 5}{}{Что! [Мне кажется вы неправильно мыслите, Дантоны не очень хорошие люди. Позвольте еще спросить.]}
-{Speech 9 Answer Exit}{}{Ну, Торр [Спасибо за информацию, Торр! Всего хорошего.]}
-{Speech 18}{}{Приходить в дом му-му в полночь.}
-{Speech 19}{}{Злые твари здесь! Помогите му-му!}
-{Speech 17}{}{Торр благодарить @pname@!}
-{Speech 17 Answer Exit}{}{Не за что.}
-{Speech 17 Answer Exit*}{}{Да нуу! [Всегда рад@sex@||да| помочь.]}
-{Speech 20}{}{Все му-му жить! Торр рад! Торр давать твоя кое-что.}
-{Speech 20 Answer Exit}{}{О, спасибо.}
-{Speech 20 Answer Exit*}{}{Моя говорить спасибо.}
-{Speech 21}{}{Му-му умереть. Торр не хотеть видеть ваша!}
-{Speech 21 Answer Exit}{}{[Уйти]}
-{Speech 22}{}{Нет. Приходить позже.}
-{Speech 23}{}{Торр уже найти помощь.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{smart}
+{Speech 1 Answer 4}{}{stupid}
+{Speech 1 Answer 18}{}{Quest taken - talking to Torr before the attacks}
+{Speech 1 Answer 19}{}{Quest taken - talking to Torr during the attacks}
+{Speech 1 Answer 21}{}{Quest failed.}
+{Speech 1 Answer 20}{}{Quest completed successfully, all brahmin alive.}
+{Speech 1 Answer 17}{}{Quest completed successfully, some of the brahmin died.}
+{Speech 2}{}{Me Torr.}
+{Speech 2 Answer 3}{}{Hello, Torr. What are you doing here?}
+{Speech 3}{}{Me help Dantons.}
+{Speech 3 Answer 10}{}{Do you need help?}
+{Speech 3 Answer 22}{}{Do you need help?}
+{Speech 3 Answer 23}{}{Do you need help?}
+{Speech 3 Answer Exit}{}{Damn, well, I guess you know best.}
+{Speech 10}{}{Yes! Torr need help! Bad creatures come at night and kill moo-moos, Torr guard moo-moos, but Torr afraid of bad creatures.}
+{Speech 10 Answer 11}{}{Ah, you want me to help@sex@||| you guard the brahmin?}
+{Speech 10 Answer Exit}{}{I'm too busy.}
+{Speech 4}{}{Me Torr [My name is Torr. How can I help?]}
+{Speech 4 Answer 15}{}{Need help? [Torr, you look worried. Need a hand?]}
+{Speech 4 Answer 22}{}{Need help? [Torr, you look worried. Need a hand?]}
+{Speech 4 Answer 23}{}{Need help? [Torr, you look worried. Need a hand?]}
+{Speech 4 Answer 5}{}{You Torr [Hello, Torr. I have a few questions for you.]}
+{Speech 11}{}{Yes, Torr want you to help Torr!}
+{Speech 11 Answer Exit}{}{I can't help you, Torr. Sorry.}
+{Speech 11 Answer Exit*}{}{Get lost, moron.}
+{Speech 11 Answer Exit**}{}{All right, I'll help you.}
+{Speech 15}{}{Torr need help. Bad creatures drive moo-moos away from here.}
+{Speech 15 Answer 16}{}{Uguk! Aargh! [Yes, of course, I'll help you guard the brahmin.]}
+{Speech 15 Answer Exit}{}{Umkg. [No, sorry, I'm very busy right now. Maybe later.]}
+{Speech 16}{}{Torr glad!}
+{Speech 16 Answer Exit}{}{Haaa! [All right, I'll go to the pasture.]}
+{Speech 16 Answer Exit*}{}{Me afraid too! [No, sorry. I'm very busy right now.]}
+{Speech 5}{}{Torr say? [What would you like to know, my friend?]}
+{Speech 5 Answer 6}{}{Here! [Tell me about what's going on here.]}
+{Speech 5 Answer 7}{}{Zzzzz. Okay? [I need somewhere to spend the night.]}
+{Speech 5 Answer 8}{}{Want! [You point at an item] [Where can I trade things or buy new ones?]}
+{Speech 5 Answer 9}{}{Torr? [Excuse me, what is it you do in town?]}
+{Speech 5 Answer Exit}{}{Go Torr. [That's all I needed to know. Goodbye, Torr.]}
+{Speech 6}{}{Torr ooh! [Nothing unusual has been happening lately.]}
+{Speech 6 Answer 5}{}{Yes! [I think I missed some detail, tell me something more.]}
+{Speech 6 Answer Exit}{}{Okay! [That's enough. Goodbye.]}
+{Speech 7}{}{Zzzz? Torr zzzz. [Well, you can sleep in my room for free.]}
+{Speech 7 Answer Exit}{}{Torr zzzzz? [You'll let me stay in your room? That's very generous of you, I'll take you up on your offer right now then.]}
+{Speech 7 Answer 5}{}{Zzz? [I don't think I feel like sleeping right now. Maybe another time. I have a few more questions for you.]}
+{Speech 7 Answer Exit*}{}{Zzzz, no Torr. [I don't feel like sleeping at all right now. Thanks for your generous offer, goodbye.]}
+{Speech 8}{}{Ackner! Zoogi! [I think you'll get the best prices here. Over at the Golden Gecko they'll only laugh at you.]}
+{Speech 8 Answer 5}{}{Ackner Zoogi? [Thanks. I'll do all my shopping here. Let me ask you about one more thing.]}
+{Speech 8 Answer Exit}{}{Zoogi no. [Good advice. I don't think I need anything else right now. Goodbye.]}
+{Speech 9}{}{Torr, daton [I used to have business with the gentlemen Dantons, but lately I've been working with Mister Aiden.]}
+{Speech 9 Answer 5}{}{What! [I think you're mistaken, the Dantons aren't very good people. Let me ask another thing.]}
+{Speech 9 Answer Exit}{}{Well, Torr [Thanks for the information, Torr! All the best.]}
+{Speech 18}{}{Come to the moo-moo house at midnight.}
+{Speech 19}{}{Bad creatures here! Help the moo-moos!}
+{Speech 17}{}{Torr thank @pname@!}
+{Speech 17 Answer Exit}{}{You're welcome.}
+{Speech 17 Answer Exit*}{}{Aw, shucks! [Always glad@sex@||| to help.]}
+{Speech 20}{}{All moo-moos live! Torr glad! Torr give you something.}
+{Speech 20 Answer Exit}{}{Oh, thank you.}
+{Speech 20 Answer Exit*}{}{Me say thank you.}
+{Speech 21}{}{Moo-moos dead. Torr not want to see you!}
+{Speech 21 Answer Exit}{}{[Leave]}
+{Speech 22}{}{No. Come later.}
+{Speech 23}{}{Torr already found help.}

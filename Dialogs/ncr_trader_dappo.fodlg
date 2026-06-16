@@ -573,8 +573,8 @@ Speech 93 # Ох! Невероятно! Правду люди про тебя г
 {Speech 1 Answer 11}{}{dumb}
 {Speech 1 Answer 2}{}{stranger}
 {Speech 1 Answer 3}{}{acquainted}
-{Speech 1 Answer 90}{}{Знаком, репутация 30+, квест не взят на маргаритки}
-{Speech 1 Answer 3*}{}{Знаком, репутация 30+, квест взят или сдан на маргаритки}
+{Speech 1 Answer 90}{}{acquainted, reputation 30+, daisies quest not taken}
+{Speech 1 Answer 3*}{}{acquainted, reputation 30+, daisies quest taken or finished}
 {Speech 2}{}{Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?}
 {Speech 2 Answer 6}{}{Buy.}
 {Speech 2 Answer 4}{}{Work.}
@@ -582,17 +582,17 @@ Speech 93 # Ох! Невероятно! Правду люди про тебя г
 {Speech 3}{}{What'll it be, stranger?}
 {Speech 3 Answer 6}{}{Buy.}
 {Speech 3 Answer Exit}{}{Goodbye.}
-{Speech 3 Answer 20}{}{Вид у тебя какой-то озабоченный, Даппо. Что-то случилось?}
-{Speech 3 Answer 23}{}{Я поговорил с Бастером.}
-{Speech 3 Answer 33}{}{Даппо, я перерыл@sex@||а| всю Пустошь в поисках твоего каравана. }
-{Speech 3 Answer 35}{}{Я наш@sex@|ел|ла| твой караван, Даппо.}
-{Speech 3 Answer 10}{}{Я ищу работу.}
-{Speech 3 Answer 44}{}{Напомни, когда выходит караван в Реддинг?}
-{Speech 3 Answer 50}{}{Слушай, Даппо, у тебя минутка свободная есть?}
-{Speech 3 Answer 60}{}{Даппо, я от Бастера...}
-{Speech 3 Answer 70}{}{Эй, Даппо, я снова к тебе по тому делу, насчет испорченных стволов...}
-{Speech 3 Answer 76}{}{Даппо, помнится, ты обвинял Бастера в том, что он подсунул тебе левую партию винтовок.}
-{Speech 3 Answer 93}{}{Даппо, у меня есть букет маргариток. [Отдать горшок с маргаритками]}
+{Speech 3 Answer 20}{}{You look kind of worried, Duppo. Something happen?}
+{Speech 3 Answer 23}{}{I talked to Buster.}
+{Speech 3 Answer 33}{}{Duppo, I scoured@sex@||| the whole Wasteland looking for your caravan. }
+{Speech 3 Answer 35}{}{I found your caravan, Duppo.}
+{Speech 3 Answer 10}{}{I'm looking for work.}
+{Speech 3 Answer 44}{}{Remind me, when does the caravan to Redding leave?}
+{Speech 3 Answer 50}{}{Listen, Duppo, you got a minute to spare?}
+{Speech 3 Answer 60}{}{Duppo, I'm here on Buster's behalf...}
+{Speech 3 Answer 70}{}{Hey, Duppo, I'm back about that business, the spoiled guns...}
+{Speech 3 Answer 76}{}{Duppo, I recall you accused Buster of slipping you a bad batch of rifles.}
+{Speech 3 Answer 93}{}{Duppo, I've got a bunch of daisies. [Hand over the pot of daisies]}
 {Speech 4}{}{Well, my name's Duppo. Ranch supplies and hiring hall, all done right here. Gotta say, you don't look like a brahmin puncher. How are you with a gun?}
 {Speech 4 Answer 10}{}{Good enough.}
 {Speech 4 Answer 9}{}{I'm not into violence.}
@@ -604,173 +604,173 @@ Speech 93 # Ох! Невероятно! Правду люди про тебя г
 {Speech 8 Answer Exit}{}{Goodbye.}
 {Speech 9}{}{Well, then there's no work for you here. Countryside's a rough place. No room for weaklings, stranger.}
 {Speech 10}{}{Great, be ready when the next caravan arrives.}
-{Speech 10 Answer 40}{}{Опасности меня не страшат.}
-{Speech 10 Answer Exit}{}{Я не люблю напрасный риск. [Уйти]}
+{Speech 10 Answer 40}{}{Danger doesn't scare me.}
+{Speech 10 Answer Exit}{}{I don't like pointless risk. [Leave]}
 {Speech 11}{}{Don't bother me.}
-{Speech 20}{}{Угу. С Бастером посрался. То есть Бастер со мной.}
-{Speech 20 Answer 21}{}{А какое тебе дело до Бастера?}
-{Speech 21}{}{Он мне оружие для караванов подгонял. Теперь будут проблемы со снарягой...}
-{Speech 21 Answer 22}{}{Могу чем-то помочь?}
-{Speech 22}{}{Попробуй. Нужно уболтать Бастера перестать тупить. Я тебе заплачу, если выгорит.}
-{Speech 22 Answer Exit}{}{Нет, не хочу в ваши разборки вмешиваться. [Уйти]}
-{Speech 22 Answer Exit*}{}{Хорошо, я выясню, в чем дело. [Уйти]}
-{Speech 23}{}{И чего? Какая муха его укусила?}
-{Speech 23 Answer 24}{}{Говорит, что ты у него какой-то ценный груз увел. Он тебе заказывал доставку.}
-{Speech 24}{}{Вот дерьмо! Проклятый ящик...}
-{Speech 24 Answer 25}{}{Рассказывай!}
-{Speech 25}{}{Короче. Бастер у меня заказал доставку одного здорового ящика. С военной базы.}
-{Speech 25 Answer 26}{}{Ты согласился?}
-{Speech 26}{}{Ну да, мы друг другу помогаем. Он мне пушки, я ему доставку, если надо чего...}
-{Speech 26 Answer 27}{}{Что в ящике?}
-{Speech 26 Answer 28}{}{Откуда караван шел?}
-{Speech 26 Answer 29}{}{Где сейчас караван?}
-{Speech 26 Answer 30}{}{А ты не присвоил ли, случаем, груз из ящика?}
-{Speech 26 Answer 31}{}{Никто из пропавшего каравана не объявлялся?}
-{Speech 26 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 26 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 27}{}{Да откуда мне знать? Ящик был огромный! Что-то ценное и очень нужное Бастеру...}
-{Speech 27 Answer 28}{}{Откуда караван шел?}
-{Speech 27 Answer 29}{}{Где сейчас караван?}
-{Speech 27 Answer 30}{}{А ты не присвоил ли, случаем, груз из ящика?}
-{Speech 27 Answer 31}{}{Никто из пропавшего каравана не объявлялся?}
-{Speech 27 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 27 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 28}{}{Из Фриско шли ребята. Надежные парни. Из-за Бастера петлю на восток сделали. На военной базе подобрали груз.}
-{Speech 28 Answer 27}{}{Что в ящике?}
-{Speech 28 Answer 29}{}{Где сейчас караван?}
-{Speech 28 Answer 30}{}{А ты не присвоил ли, случаем, груз из ящика?}
-{Speech 28 Answer 31}{}{Никто из пропавшего каравана не объявлялся?}
-{Speech 28 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 28 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 29}{}{Пропал... Последний раз с ними на связь выходили - они прошли Убежище 15. Уже к НКР приближались.}
-{Speech 29 Answer 27}{}{Что в ящике?}
-{Speech 29 Answer 28}{}{Откуда караван шел?}
-{Speech 29 Answer 30}{}{А ты не присвоил ли, случаем, груз из ящика?}
-{Speech 29 Answer 31}{}{Никто из пропавшего каравана не объявлялся?}
-{Speech 29 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 29 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 30}{}{Да что я, враг себе чтоли? Мне не резон с Бастером проблемы иметь...}
-{Speech 30 Answer 27}{}{Что в ящике?}
-{Speech 30 Answer 28}{}{Откуда караван шел?}
-{Speech 30 Answer 29}{}{Где сейчас караван?}
-{Speech 30 Answer 31}{}{Никто из пропавшего каравана не объявлялся?}
-{Speech 30 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 30 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 31}{}{Нет, как они с Волта 15 отметились, больше ничего не слышали...}
-{Speech 31 Answer 27}{}{Что в ящике?}
-{Speech 31 Answer 28}{}{Откуда караван шел?}
-{Speech 31 Answer 29}{}{Где сейчас караван?}
-{Speech 31 Answer 30}{}{А ты не присвоил ли, случаем, груз из ящика?}
-{Speech 31 Answer Exit}{}{Ерунда какая-то. Может, попозже загляну. [Уйти]}
-{Speech 31 Answer 32}{}{Понятно. Караван нужно найти. Сколько заплатишь?}
-{Speech 32}{}{Ты серьезно? Без шуток? Найдешь караван, ребят и груз Бастера - получишь два куска.}
-{Speech 32 Answer Exit}{}{Две тыщи? По рукам.[Уйти]}
-{Speech 32 Answer Exit*}{}{Две тысячи всего за такую пыльную работу? Не смеши меня. [Уйти]}
-{Speech 33}{}{Есть результаты?}
-{Speech 33 Answer 34}{}{Полный голяк! Никаких следов, слухов, Н И Ч Е Г О!}
-{Speech 34}{}{Проклятье. Ищи дальше. Около Убежища 15 пропали ребята.}
-{Speech 34 Answer Exit}{}{Ладно, будем надеяться на лучшее. [Уйти]}
-{Speech 35}{}{Отлично! Где эти ублюдки и, главное, где ящик Бастера?}
-{Speech 35 Answer 36}{}{Твои люди мертвы. Ящик я оставил@sex@||а| в Пустоши.}
-{Speech 36}{}{Мертвы? Что случилось?}
-{Speech 36 Answer 37}{}{Ты знаешь, что было в ящике Бастера?.}
-{Speech 37}{}{Нет.}
-{Speech 37 Answer 38}{}{В ящике был боевой робот. По каким-то причинам он выбрался наружу и положил твоих людей.}
-{Speech 38}{}{Вот черт! Я так и знал, что тут что-то неладно, с этим странным ящиком. Ну ничего, я прочищу мозги Бастеру. }
-{Speech 38 Answer 39}{}{Как насчет платы?}
-{Speech 39}{}{Держи. Ты заработал@sex@||а|. Спасибо за помощь!}
-{Speech 39 Answer Exit}{}{Всегда к твоим услугам, Даппо.}
-{Speech 40}{}{Это хорошо. Ближайший караван будет 12 числа. Идет в Реддинг. }
-{Speech 40 Answer Exit}{}{Мне это не интересно. [Уйти]}
-{Speech 40 Answer 41}{}{Сколько я получу?}
-{Speech 41}{}{Если все будет в порядке, караван дойдет до точки назначения и выживет проводник. Ты получишь 5000 монет.}
-{Speech 41 Answer Exit}{}{Я подумаю. [Уйти]}
-{Speech 41 Answer 42}{}{Условия меня устраивают. Что мне нужно сделать?}
-{Speech 42}{}{Ближайший караван отправляется 12 числа. Найдите у ворот НКР проводника караванов Абдалхи. Это опытный и надежный человек. Он поведет караван.}
-{Speech 42 Answer 43}{}{Кроме меня будут еще охранники?}
-{Speech 43}{}{Да, в составе каравана будет 5 охранников. Если не найдем нужное число людей, караван будет отменен.}
-{Speech 43 Answer Exit}{}{Хорошо. Я запомню. [Уйти]}
-{Speech 44}{}{Приходи к входу НКР 12 числа в 16 часов. Найди Абдалхи. Когда доберетесь до Реддинга - обратись к Джеймсу Хоффи.}
-{Speech 44 Answer Exit}{}{Ясно, это все что мне нужно было знать. [Уйти]}
-{Speech 50}{}{Чего хотел?}
-{Speech 50 Answer 54}{}{Ты про ребят из Нью-Рено слышал что-нибудь?}
-{Speech 50 Answer 51}{}{Тут в городе слухи всякие ходят...}
-{Speech 51}{}{ Что за слухи?}
-{Speech 51 Answer 52}{}{Бастер, говорят, умом тронулся, скупает у крестьян браминьи лепешки и баррикаду вокруг своей палатки строит.}
-{Speech 52}{}{ха! Бастер известный идиот.}
-{Speech 52 Answer 53}{}{Но я, вообще-то, не за этим приш@sex@|ел|ла|.}
-{Speech 53}{}{Не томи, что там у тебя?}
-{Speech 53 Answer 54}{}{Ты про ребят из Нью-Рено слышал что-нибудь?}
-{Speech 54}{}{Каких еще ребят?}
-{Speech 54 Answer 55}{}{Вроде как, банда одна из Рено хочет всю торговлю к лапам прибрать в НКР. Достойный человек мне сказал.}
-{Speech 55}{}{Ох, йопрст. Плохие новости. Надо охрану удвоить...}
-{Speech 55 Answer 56}{}{Я так понимаю, не слышал ты ничего?}
-{Speech 56}{}{В точку! А теперь проваливай, мне нужно о своей шкуре позаботиться.}
-{Speech 56 Answer Exit}{}{Ну ты и хитрюга, Даппо. [Уйти]}
-{Speech 56 Answer Exit*}{}{Ну ты и хитрюга, Даппо. [Уйти]}
-{Speech 60}{}{Пош@sex@|ел|ла| вон! И передай Бастеру, чтобы забыл дорогу в мою лавку!}
-{Speech 60 Answer Exit}{}{Вернусь, когда ты придешь в себя}
-{Speech 60 Answer 61}{}{Эй, успокойся! Если есть проблема, которой мы с Бастером пока не видим, нужно ее решать.}
-{Speech 61}{}{Проблема? [Лицо Даппо багровеет] Проблема? Да! У меня большие проблемы! Эти подонки вскрыли караван! Я тонну убытков несу, гребаный дохлый скорпион!}
-{Speech 61 Answer 62}{}{Кто-то ограбил твой караван?}
-{Speech 62}{}{Именно! И, угадай, почему мои ребята не положили всех этих долбаных уродов?}
-{Speech 62 Answer 63}{}{Струсили?}
-{Speech 62 Answer 63*}{}{Струсили?}
-{Speech 63}{}{Мои ребята не трусят. Иди, у Хэла спроси, если не веришь. Пушки Бастер подогнал кривые! Отказали в самый нужный момент!}
-{Speech 63 Answer Exit}{}{У, Бастер-то, оказывается, сволочь! Зря я ему поверил@sex@||а|...}
-{Speech 63 Answer 64}{}{Да не может этого быть, ты что!}
-{Speech 64}{}{Не может? Я тоже так думал. А Бастер решил на мне заработать и подсунул бракованные стволы!}
-{Speech 64 Answer Exit}{}{Я все выясню. Уверен@sex@||а|, ты ошибаешься}
-{Speech 64 Answer 65}{}{Сколько ты потерял? Я легко возмещу все твои расходы.}
-{Speech 65}{}{Да ты за всю свою никчемную жизнь столько не заработаешь! Груза увели на 30 косарей!}
-{Speech 65 Answer Exit}{}{Нихрена себе. Нет, столько мне не достать.}
-{Speech 65 Answer 66}{}{Да без проблем. 30 штук - для меня копейки. Забирай. [Отдать деньги]}
-{Speech 65 Answer 67}{}{Да ты че, опух, караванщик? Называй реальную цену. Что там у тебя за товар был, мне не известно. Может, ты за дохлых браминов 30 косых просишь?}
-{Speech 66}{}{Богатый, да? Ну ладно, это деловой разговор. Хорошо. Передай Бастеру - на этот раз я его прощаю. Но если подобное повторится...}
-{Speech 66 Answer Exit}{}{Не повторится. Это ошибка какая-то была.}
-{Speech 67}{}{Дохлых браминов? Ты надо мной издеваешься? Гони 20 штук, или убирайся отсюда.}
-{Speech 67 Answer 68}{}{Двадцатка тоже слишком дохрена. 5000 - максимум, что твой дрянной караван перевести мог.}
-{Speech 68}{}{Да вы все оборзели! [Задумывается] Ладно, черт с тобой. Пустошь дала, Пустошь забрала. Груз все равно не вернуть. Давай деньги.}
-{Speech 68 Answer Exit}{}{Я с собой монеты не ношу. Обожди, вернусь через минуту.}
-{Speech 68 Answer 69}{}{Ну вот и славно! [Отдать деньги] Что Бастеру передать?}
-{Speech 69}{}{Передай этому долбаному кретину... Ладно, хрен с ним. Передай Бастеру, мы в расчете. Пока. Но если эта хрень еще раз повторится... Я с ним разберусь.}
-{Speech 69 Answer Exit}{}{Заметано. Так и скажу Бастеру.}
-{Speech 70}{}{Жулик Бастер снова прислал сво@sex@|его|ю| @sex@|мальчика|девочку| на побегушках к старому Даппо? Чего тебе еще нужно? Неужели, я недостаточно ясно выразился в прошлый раз?}
-{Speech 70 Answer 71}{}{Я здесь, чтобы решить эту проблему сейчас. Бастер готов заплатить за твой потерянный груз.}
-{Speech 71}{}{Да ну? А откуда у Бастера денежки? Уж не его ли ребята напали на мой караван? Если так - все с ним ясно!}
-{Speech 71 Answer Exit}{}{С тобой невозможно разговаривать.}
-{Speech 71 Answer 72}{}{Ничего подобного. Бастер здесь совершенно не причем. Но ради сохранения деловых отношений готов заплатить тебе, чтобы частично компенсировать ущерб.}
-{Speech 72}{}{И сколько готов отстегнуть Бастер?}
-{Speech 72 Answer Exit}{}{Надо посчитать финансы, минуточку, сейчас вернусь}
+{Speech 20}{}{Yeah. Had a falling out with Buster. Well, Buster had it with me.}
+{Speech 20 Answer 21}{}{And what's Buster to you?}
+{Speech 21}{}{He used to hook me up with weapons for the caravans. Now I'll have trouble with gear...}
+{Speech 21 Answer 22}{}{Can I help with something?}
+{Speech 22}{}{Give it a shot. Need to talk Buster into stopping his nonsense. I'll pay you if it works out.}
+{Speech 22 Answer Exit}{}{No, I don't want to get mixed up in your squabbles. [Leave]}
+{Speech 22 Answer Exit*}{}{All right, I'll find out what's going on. [Leave]}
+{Speech 23}{}{And? What's gotten into him?}
+{Speech 23 Answer 24}{}{Says you ran off with some valuable cargo of his. He hired you for a delivery.}
+{Speech 24}{}{Aw, crap! That damned crate...}
+{Speech 24 Answer 25}{}{Tell me!}
+{Speech 25}{}{Here's the short of it. Buster hired me to deliver one big crate. From a military base.}
+{Speech 25 Answer 26}{}{Did you agree?}
+{Speech 26}{}{Well yeah, we help each other out. He gives me guns, I give him deliveries when he needs them...}
+{Speech 26 Answer 27}{}{What's in the crate?}
+{Speech 26 Answer 28}{}{Where was the caravan coming from?}
+{Speech 26 Answer 29}{}{Where's the caravan now?}
+{Speech 26 Answer 30}{}{You didn't happen to help yourself to the cargo from the crate, did you?}
+{Speech 26 Answer 31}{}{Has anyone from the lost caravan turned up?}
+{Speech 26 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 26 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 27}{}{How should I know? The crate was huge! Something valuable and badly needed by Buster...}
+{Speech 27 Answer 28}{}{Where was the caravan coming from?}
+{Speech 27 Answer 29}{}{Where's the caravan now?}
+{Speech 27 Answer 30}{}{You didn't happen to help yourself to the cargo from the crate, did you?}
+{Speech 27 Answer 31}{}{Has anyone from the lost caravan turned up?}
+{Speech 27 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 27 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 28}{}{The boys were coming from Frisco. Reliable guys. Because of Buster they made a loop to the east. Picked up the cargo at the military base.}
+{Speech 28 Answer 27}{}{What's in the crate?}
+{Speech 28 Answer 29}{}{Where's the caravan now?}
+{Speech 28 Answer 30}{}{You didn't happen to help yourself to the cargo from the crate, did you?}
+{Speech 28 Answer 31}{}{Has anyone from the lost caravan turned up?}
+{Speech 28 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 28 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 29}{}{Vanished... Last time we heard from them, they'd passed Vault 15. They were already getting close to the NCR.}
+{Speech 29 Answer 27}{}{What's in the crate?}
+{Speech 29 Answer 28}{}{Where was the caravan coming from?}
+{Speech 29 Answer 30}{}{You didn't happen to help yourself to the cargo from the crate, did you?}
+{Speech 29 Answer 31}{}{Has anyone from the lost caravan turned up?}
+{Speech 29 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 29 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 30}{}{What, am I my own enemy? It makes no sense for me to have trouble with Buster...}
+{Speech 30 Answer 27}{}{What's in the crate?}
+{Speech 30 Answer 28}{}{Where was the caravan coming from?}
+{Speech 30 Answer 29}{}{Where's the caravan now?}
+{Speech 30 Answer 31}{}{Has anyone from the lost caravan turned up?}
+{Speech 30 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 30 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 31}{}{No, ever since they checked in at Vault 15, we haven't heard another thing...}
+{Speech 31 Answer 27}{}{What's in the crate?}
+{Speech 31 Answer 28}{}{Where was the caravan coming from?}
+{Speech 31 Answer 29}{}{Where's the caravan now?}
+{Speech 31 Answer 30}{}{You didn't happen to help yourself to the cargo from the crate, did you?}
+{Speech 31 Answer Exit}{}{Sounds like nonsense. Maybe I'll drop by later. [Leave]}
+{Speech 31 Answer 32}{}{Got it. The caravan needs to be found. How much will you pay?}
+{Speech 32}{}{You serious? No joke? Find the caravan, the boys and Buster's cargo - you'll get two grand.}
+{Speech 32 Answer Exit}{}{Two thousand? Deal.[Leave]}
+{Speech 32 Answer Exit*}{}{Two thousand for such a dusty job? Don't make me laugh. [Leave]}
+{Speech 33}{}{Any results?}
+{Speech 33 Answer 34}{}{Total bust! No tracks, no rumors, N O T H I N G!}
+{Speech 34}{}{Damn it. Keep looking. The boys went missing near Vault 15.}
+{Speech 34 Answer Exit}{}{All right, let's hope for the best. [Leave]}
+{Speech 35}{}{Excellent! Where are those bastards and, most importantly, where's Buster's crate?}
+{Speech 35 Answer 36}{}{Your men are dead. I left the crate in the Wasteland.}
+{Speech 36}{}{Dead? What happened?}
+{Speech 36 Answer 37}{}{Do you know what was in Buster's crate?}
+{Speech 37}{}{No.}
+{Speech 37 Answer 38}{}{There was a combat robot in the crate. For some reason it got out and gunned down your men.}
+{Speech 38}{}{Aw, hell! I just knew there was something off about that strange crate. Well, never mind, I'll clear Buster's head for him. }
+{Speech 38 Answer 39}{}{What about the pay?}
+{Speech 39}{}{Here. You earned it. Thanks for the help!}
+{Speech 39 Answer Exit}{}{Always at your service, Duppo.}
+{Speech 40}{}{That's good. The next caravan leaves on the 12th. It's headed to Redding. }
+{Speech 40 Answer Exit}{}{I'm not interested. [Leave]}
+{Speech 40 Answer 41}{}{How much will I get?}
+{Speech 41}{}{If everything goes well, the caravan reaches its destination and the guide survives. You'll get 5000 coins.}
+{Speech 41 Answer Exit}{}{I'll think about it. [Leave]}
+{Speech 41 Answer 42}{}{The terms suit me. What do I need to do?}
+{Speech 42}{}{The next caravan leaves on the 12th. Find the caravan guide Abdalhi at the NCR gate. He's an experienced and reliable man. He'll lead the caravan.}
+{Speech 42 Answer 43}{}{Will there be other guards besides me?}
+{Speech 43}{}{Yes, the caravan will have 5 guards. If we don't find enough people, the caravan will be canceled.}
+{Speech 43 Answer Exit}{}{All right. I'll remember. [Leave]}
+{Speech 44}{}{Come to the NCR entrance on the 12th at 16:00. Find Abdalhi. When you reach Redding - go see James Hoffy.}
+{Speech 44 Answer Exit}{}{Got it, that's all I needed to know. [Leave]}
+{Speech 50}{}{What did you want?}
+{Speech 50 Answer 54}{}{Heard anything about the boys from New Reno?}
+{Speech 50 Answer 51}{}{There's all sorts of rumors going around town...}
+{Speech 51}{}{ What rumors?}
+{Speech 51 Answer 52}{}{They say Buster's lost his mind, buying up brahmin patties from the farmers and building a barricade around his tent.}
+{Speech 52}{}{Ha! Buster's a known idiot.}
+{Speech 52 Answer 53}{}{But that's not actually why I came.}
+{Speech 53}{}{Don't keep me waiting, what've you got?}
+{Speech 53 Answer 54}{}{Heard anything about the boys from New Reno?}
+{Speech 54}{}{What boys?}
+{Speech 54 Answer 55}{}{Seems like some gang from Reno wants to grab all the trade in the NCR. A trustworthy man told me.}
+{Speech 55}{}{Oh, damn it. Bad news. Need to double the guard...}
+{Speech 55 Answer 56}{}{So I take it you haven't heard anything?}
+{Speech 56}{}{Bingo! Now get lost, I've got my own hide to look after.}
+{Speech 56 Answer Exit}{}{You're a sly one, Duppo. [Leave]}
+{Speech 56 Answer Exit*}{}{You're a sly one, Duppo. [Leave]}
+{Speech 60}{}{Get out! And tell Buster to forget the way to my shop!}
+{Speech 60 Answer Exit}{}{I'll come back when you've cooled off}
+{Speech 60 Answer 61}{}{Hey, calm down! If there's a problem Buster and I aren't seeing yet, it needs to be sorted out.}
+{Speech 61}{}{A problem? [Duppo's face turns crimson] A problem? Yes! I've got big problems! Those scumbags cracked open the caravan! I'm taking a ton of losses, you damn dead scorpion!}
+{Speech 61 Answer 62}{}{Someone robbed your caravan?}
+{Speech 62}{}{Exactly! And guess why my boys didn't gun down all those goddamn freaks?}
+{Speech 62 Answer 63}{}{They chickened out?}
+{Speech 62 Answer 63*}{}{They chickened out?}
+{Speech 63}{}{My boys don't chicken out. Go ask Hal if you don't believe me. The guns Buster hooked me up with were junk! Jammed at the worst possible moment!}
+{Speech 63 Answer Exit}{}{Ugh, so Buster's a bastard after all! I was a fool to trust him...}
+{Speech 63 Answer 64}{}{That can't be, no way!}
+{Speech 64}{}{Can't be? I thought so too. But Buster decided to make a buck off me and slipped me defective guns!}
+{Speech 64 Answer Exit}{}{I'll get to the bottom of this. I'm sure you're mistaken}
+{Speech 64 Answer 65}{}{How much did you lose? I can easily cover all your costs.}
+{Speech 65}{}{You couldn't earn that much in your whole worthless life! They made off with 30 grand of cargo!}
+{Speech 65 Answer Exit}{}{Holy crap. No, I can't get that much.}
+{Speech 65 Answer 66}{}{No problem at all. 30 grand is pocket change for me. Take it. [Hand over the money]}
+{Speech 65 Answer 67}{}{What, are you out of your mind, caravanner? Name a real price. I don't know what goods you had there. Maybe you're asking 30 grand for dead brahmins?}
+{Speech 66}{}{Rich, huh? Well all right, that's a business talk. Fine. Tell Buster - this time I forgive him. But if anything like this happens again...}
+{Speech 66 Answer Exit}{}{It won't happen again. It was some kind of mistake.}
+{Speech 67}{}{Dead brahmins? Are you mocking me? Hand over 20 grand or get out of here.}
+{Speech 67 Answer 68}{}{Twenty's way too much too. 5000 is the most your lousy caravan could've been carrying.}
+{Speech 68}{}{You've all got some nerve! [Ponders] Fine, to hell with you. The Wasteland gives, the Wasteland takes away. The cargo's gone anyway. Give me the money.}
+{Speech 68 Answer Exit}{}{I don't carry coins on me. Wait, I'll be back in a minute.}
+{Speech 68 Answer 69}{}{Well good then! [Hand over the money] What should I tell Buster?}
+{Speech 69}{}{Tell that damn cretin... All right, to hell with him. Tell Buster we're square. For now. But if this crap happens one more time... I'll deal with him.}
+{Speech 69 Answer Exit}{}{Done. That's what I'll tell Buster.}
+{Speech 70}{}{Crook Buster sent his @sex@|errand boy|errand girl| to old Duppo again? What more do you want? Did I not make myself clear enough last time?}
+{Speech 70 Answer 71}{}{I'm here to solve this problem now. Buster's ready to pay for your lost cargo.}
+{Speech 71}{}{Oh yeah? And where'd Buster get the money? Wasn't his own boys who attacked my caravan, was it? If so - everything about him is clear!}
+{Speech 71 Answer Exit}{}{There's no talking to you.}
+{Speech 71 Answer 72}{}{Nothing of the sort. Buster's got nothing to do with it. But for the sake of preserving business relations he's ready to pay you to partially cover the damage.}
+{Speech 72}{}{And how much is Buster willing to fork over?}
+{Speech 72 Answer Exit}{}{Need to count up the finances, one moment, I'll be right back}
 {Speech 72 Answer 73}{}{5 000}
 {Speech 72 Answer 74}{}{6 000}
 {Speech 72 Answer 74*}{}{10 000}
-{Speech 73}{}{Ты смеешься надо мной? Этого слишком мало!}
-{Speech 74}{}{Да это же кропаль! По сравнению с тем, что от меня ушло! Но на крайний случай... Ладно, гони монеты.}
-{Speech 74 Answer 75}{}{Вот и отлично. Я могу сказать Бастеру, что больше не будет проблем?}
-{Speech 75}{}{Угу. Если он будет вести себя прилично, и перестанет впаривать мне кривые винтовки...}
-{Speech 75 Answer Exit}{}{Нормально. Прощай!}
-{Speech 76}{}{А, это снова ты? Бастер - продажная свинья. Знаешь, были такие твари? Рассказать тебе, что они представляли из себя?}
-{Speech 76 Answer 76}{}{Не нужно, я ухожу.}
-{Speech 76 Answer 77}{}{Нет. Давай лучше я расскажу тебе, что случилось с твоими пушками?}
-{Speech 77}{}{Ну, попробуй.}
-{Speech 77 Answer 78}{}{У тебя в охране был некто Джим, так?}
-{Speech 78}{}{Гребаный наркоман. От него обычно куча проблем, но не в этот раз. Тут пушки просто отказали. Он пропал куда-то, да, но подобное с ним и раньше случалось.}
-{Speech 78 Answer 79}{}{Ты ошибаешься. Я нашел Джима, в 15ом Убежище.}
-{Speech 79}{}{Ишь ты. Куда его занесло. Но причем здесь Джим?}
-{Speech 79 Answer 80}{}{Я с ним поговорил немного. И он рассказал. Перед выходом каравана Джиму срочно доза потребовалась. Он взломал ящик с патронами охраны и вынес все. Сдал дилеру джета и заполнил ящик холостыми патронами.}
-{Speech 80}{}{Что??! Джим? Вот, сука... Я его...}
-{Speech 80 Answer 81}{}{Теперь ты понимаешь, что Бастер не виноват в том, что твой караван нагрели рейдеры?}
-{Speech 81}{}{Бастер все равно в чем-то виноват... Но я готов признать, что в этом деле нет его вины. Передай Бастеру мои слова.}
-{Speech 81 Answer Exit}{}{Хорошо. Я передам.}
-{Speech 90}{}{Ба! Да это же сам@sex@||а| @pname@! Слушай, у меня к тебе есть дело.}
-{Speech 90 Answer 3}{}{Не интересует, ответь лучше на пару вопросов.}
-{Speech 90 Answer 91}{}{Что за дело?}
-{Speech 91}{}{Можешь достать одну редкую вещицу? }
-{Speech 91 Answer 92}{}{Какую?}
-{Speech 92}{}{Горшок с маргаритками, поставлю на подоконник. В наше время - редкая и ценная штука.}
-{Speech 92 Answer Exit}{}{Без проблем.}
-{Speech 92 Answer Exit*}{}{Нет, слишком сложно.}
-{Speech 93}{}{Ох! Невероятно! Правду люди про тебя говорят! Моя признательность не знает границ! Послушай, что я тебе расскажу...}
-{Speech 93 Answer Exit}{}{[Слушать внимательно]}
-{100000001}{}{После беседы с Даппо навык бартера персонажа увеличен на 5 пунктов.}
+{Speech 73}{}{Are you laughing at me? That's far too little!}
+{Speech 74}{}{That's a pittance! Compared to what I lost! But as a last resort... Fine, hand over the coins.}
+{Speech 74 Answer 75}{}{Good then. Can I tell Buster there won't be any more problems?}
+{Speech 75}{}{Yeah. As long as he behaves himself and stops pushing junk rifles on me...}
+{Speech 75 Answer Exit}{}{Fine. Farewell!}
+{Speech 76}{}{Ah, it's you again? Buster's a corrupt pig. You know, there used to be creatures like that? Want me to tell you what they were like?}
+{Speech 76 Answer 76}{}{No need, I'm leaving.}
+{Speech 76 Answer 77}{}{No. Let me tell you what happened to your guns instead.}
+{Speech 77}{}{Well, give it a try.}
+{Speech 77 Answer 78}{}{You had a guard named Jim, right?}
+{Speech 78}{}{Damn junkie. He's usually a heap of trouble, but not this time. Here the guns just jammed. He did vanish somewhere, yeah, but that's happened with him before.}
+{Speech 78 Answer 79}{}{You're mistaken. I found Jim, in Vault 15.}
+{Speech 79}{}{Well now. Look where he wound up. But what's Jim got to do with it?}
+{Speech 79 Answer 80}{}{I talked with him a bit. And he told me. Before the caravan set out, Jim urgently needed a dose. He broke into the guards' ammo crate and took everything. Sold it to a jet dealer and filled the crate with blanks.}
+{Speech 80}{}{What??! Jim? That son of a bitch... I'll...}
+{Speech 80 Answer 81}{}{Now do you understand that Buster's not to blame for your caravan getting hit by raiders?}
+{Speech 81}{}{Buster's still guilty of something... But I'm willing to admit he's not to blame in this matter. Pass my words on to Buster.}
+{Speech 81 Answer Exit}{}{All right. I'll pass it on.}
+{Speech 90}{}{Well! If it isn't @pname@! Listen, I've got a job for you.}
+{Speech 90 Answer 3}{}{Not interested, better answer a couple of questions.}
+{Speech 90 Answer 91}{}{What kind of job?}
+{Speech 91}{}{Can you get hold of one rare item? }
+{Speech 91 Answer 92}{}{Which one?}
+{Speech 92}{}{A pot of daisies, I'll put it on the windowsill. These days it's a rare and valuable thing.}
+{Speech 92 Answer Exit}{}{No problem.}
+{Speech 92 Answer Exit*}{}{No, too difficult.}
+{Speech 93}{}{Oh! Incredible! People speak the truth about you! My gratitude knows no bounds! Listen to what I'll tell you...}
+{Speech 93 Answer Exit}{}{[Listen carefully]}
+{100000001}{}{After talking with Duppo your character's barter skill has been increased by 5 points.}

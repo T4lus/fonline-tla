@@ -185,55 +185,55 @@ Speech 26 # Да, мне уже сообщили. Проходите.
 {DescAliveFull}{}{Let's see - he's a hearty, has a bage, wearing military uniform - hmmph, a guard, exactly.}
 {Speech 1}{}{Predialogue installations}
 {Speech 1 Answer 10}{}{ }
-{Speech 1 Answer 10*}{}{доступ получен в ночное время}
-{Speech 1 Answer 2}{}{доступ не получен в ночное время}
-{Speech 10}{}{Добро пожаловать в НКР. Просто для того, чтобы вы знали, если у вас есть оружие, держите его в кобуре или еще где. Это не бандитский город, незнакомец.@@Добро пожаловать в НКР, столицу Новой Калифорнийской Республики, под управлением Президента Танди.Приветствую вас, незнакомец. Пришли, чтобы делать бизнес с НКР?@@НКР приветствует вас - если не будете хулиганить.@@Прочитали знак при входе? "Нет оружию", так вот это мы и говорим.@@Ворота на ночь закрываются. Если приспичило выйти, то обратитесь к охране.}
-{Speech 10 Answer 20}{}{Тут такое дело...}
-{Speech 2}{}{Стоять. Город закрыт. Проход запрещен.}
-{Speech 2 Answer 3}{}{Это еще почему?}
-{Speech 2 Answer Exit}{}{Ох! Страшно! [Уйти]}
-{Speech 3}{}{Коммендатский час. Ждите до утра.}
-{Speech 3 Answer 4}{}{И что, нет никакого способа пройти в город?}
-{Speech 4}{}{Только рейнджеры, военные и полиция НКР могут находиться на улицах города после 21:00. Либо, при наличии специального разрешения, мы вас пропустим.}
-{Speech 4 Answer 5}{}{Но я рейнджер!}
-{Speech 4 Answer 5*}{}{Но я рейнджер!}
-{Speech 4 Answer 6}{}{Но я рейнджер!}
-{Speech 4 Answer 7}{}{Офицер, мне очень нужно попасть в город. Я готов заплатить!}
-{Speech 4 Answer 14}{}{У меня есть персональное разрешение администрации на посещение города во время комендантского часа.}
-{Speech 5}{}{В таком случае, вы можете пройти.}
-{Speech 6}{}{Вы не похожи на рейнджера. Уходите. Иначе я открою огонь.}
-{Speech 7}{}{Вы предлагаете взятку офицеру при исполнении?}
-{Speech 7 Answer 8}{}{А что, я как-то непонятно выразился? [В сторону] Каких только идиотов не встретишь в НКР.}
-{Speech 7 Answer 11}{}{Нет, ни в коем случае! Я просто предлагаю сократить процедуру по оформлению пропуска и заплатить по тройному тарифу.}
-{Speech 8}{}{[Поднимает оружие] Внимание! Всем постам. У нас нарушитель. Приказываю нейтрализовать!}
-{Speech 11}{}{[Осматривается] Окей. Гони 300 монет, и я сделаю вид, что тебя здесь не было.}
-{Speech 11 Answer 12}{}{А может, сойдемся на 100 монетах? Я на мели сейчас, но в следующий раз у меня будет полная сумма.}
-{Speech 11 Answer 13}{}{А может, сойдемся на 100 монетах? Я на мели сейчас, но в следующий раз у меня будет полная сумма.}
-{Speech 11 Answer 13*}{}{У меня нет такой уймы денег. Может в долг пропустите?}
-{Speech 11 Answer 5}{}{[Отдать 300 монет]}
-{Speech 12}{}{С паршивой овцы... Давай деньги и проходи. }
-{Speech 13}{}{Не пойдет. Я рискую. Ищи деньги, там посмотрим.}
-{Speech 14}{}{Разрешите взглянуть?}
-{Speech 14 Answer 8}{}{Какого черта! Прочь с дороги, идиот!}
-{Speech 14 Answer Exit}{}{Ох. Кажется, у меня с собой нет документов. Я вернусь. [Уйти]}
-{Speech 14 Answer 8*}{}{Вот мой пропуск [Показать средний палец]}
-{Speech 14 Answer 15}{}{Вот мой пропуск [Показать средний палец]}
-{Speech 14 Answer 15*}{}{Вот мой пропуск [Показать пропуск]}
-{Speech 15}{}{Пропуск подлинный. Проход разрешаю. Добро пожаловать в НКР, @pname@.}
-{Speech 20}{}{Какие-то проблемы?}
-{Speech 20 Answer Exit}{}{Нет, офицер, никаких проблем. [Уйти]}
-{Speech 20 Answer 21}{}{Офицер, этот человек со мной. [Показать на Смита]}
-{Speech 21}{}{И что? Я тебя поздравить с этим должен?}
-{Speech 21 Answer 22}{}{Прошу вас, разрешите Смиту пройти в центр города. Я за него ручаюсь.}
-{Speech 22}{}{Исключено. правила общие для всех. Оформит пропуск - пройдет в город.}
-{Speech 22 Answer 23}{}{Офицер, я ценю ваше время, и для его экономии предлагаю заплатить пошлину Смита прямо здесь, на месте.}
-{Speech 22 Answer 26}{}{Офицер, я был@sex@||а| у капитана таможни. Получено разрешение на проход в город.}
-{Speech 22 Answer Exit}{}{Мы так и сделаем. [Уйти]}
-{Speech 23}{}{Ты чего несешь? Это взятка?}
-{Speech 23 Answer 8}{}{Конечно, это взятка, придурок!}
-{Speech 23 Answer 24}{}{Это всего лишь средство для решения проблемы. Я обещаю не спускать глаз с моего приятеля. }
-{Speech 24}{}{Договорились, ответственность за его действия будешь нести ты. 100 монет и проходите.}
-{Speech 24 Answer 25}{}{У меня нет таких денег.}
-{Speech 24 Answer Exit}{}{Вот, вы нас очень выручили, офицер. [Отдать деньги] Смит, следуйте за мной.}
-{Speech 25}{}{Тогда обращайтесь в таможню и оформляйте пропуск. }
-{Speech 26}{}{Да, мне уже сообщили. Проходите.}
+{Speech 1 Answer 10*}{}{access granted during nighttime}
+{Speech 1 Answer 2}{}{access not granted during nighttime}
+{Speech 10}{}{Welcome to NCR. Just so you know, if you've got a weapon, keep it in a holster or somewhere. This isn't a bandit town, stranger.@@Welcome to NCR, the capital of the New California Republic, under the rule of President Tandi. Greetings, stranger. Come to do business with NCR?@@NCR welcomes you - as long as you don't cause trouble.@@Did you read the sign at the entrance? "No weapons," and that's exactly what we mean.@@The gates close for the night. If you really need to leave, talk to the guards.}
+{Speech 10 Answer 20}{}{Here's the thing...}
+{Speech 2}{}{Halt. The city is closed. No entry.}
+{Speech 2 Answer 3}{}{And why is that?}
+{Speech 2 Answer Exit}{}{Ooh! Scary! [Leave]}
+{Speech 3}{}{Curfew. Wait until morning.}
+{Speech 3 Answer 4}{}{So there's no way at all to get into the city?}
+{Speech 4}{}{Only rangers, the military and NCR police may be on the city streets after 9:00 PM. Or, with a special permit, we'll let you through.}
+{Speech 4 Answer 5}{}{But I'm a ranger!}
+{Speech 4 Answer 5*}{}{But I'm a ranger!}
+{Speech 4 Answer 6}{}{But I'm a ranger!}
+{Speech 4 Answer 7}{}{Officer, I really need to get into the city. I'm willing to pay!}
+{Speech 4 Answer 14}{}{I have a personal permit from the administration to visit the city during curfew.}
+{Speech 5}{}{In that case, you may pass.}
+{Speech 6}{}{You don't look like a ranger. Leave. Otherwise I'll open fire.}
+{Speech 7}{}{Are you offering a bribe to an officer on duty?}
+{Speech 7 Answer 8}{}{What, did I put it unclearly somehow? [Aside] The idiots you run into in NCR.}
+{Speech 7 Answer 11}{}{No, absolutely not! I'm just offering to shorten the permit-issuing procedure and pay triple the rate.}
+{Speech 8}{}{[Raises weapon] Attention! All posts. We've got an intruder. Orders are to neutralize!}
+{Speech 11}{}{[Looks around] Okay. Cough up 300 chips, and I'll pretend you were never here.}
+{Speech 11 Answer 12}{}{How about we settle on 100 chips? I'm broke right now, but next time I'll have the full amount.}
+{Speech 11 Answer 13}{}{How about we settle on 100 chips? I'm broke right now, but next time I'll have the full amount.}
+{Speech 11 Answer 13*}{}{I don't have that kind of money. Maybe you could let me through on credit?}
+{Speech 11 Answer 5}{}{[Give 300 chips]}
+{Speech 12}{}{Well, a little is better than nothing... Hand over the money and go on through. }
+{Speech 13}{}{No deal. I'm taking a risk. Find the money, then we'll see.}
+{Speech 14}{}{May I take a look?}
+{Speech 14 Answer 8}{}{What the hell! Out of my way, idiot!}
+{Speech 14 Answer Exit}{}{Oh. Seems I don't have any documents on me. I'll be back. [Leave]}
+{Speech 14 Answer 8*}{}{Here's my pass [Show the middle finger]}
+{Speech 14 Answer 15}{}{Here's my pass [Show the middle finger]}
+{Speech 14 Answer 15*}{}{Here's my pass [Show the pass]}
+{Speech 15}{}{The pass is genuine. Entry granted. Welcome to NCR, @pname@.}
+{Speech 20}{}{Some kind of problem?}
+{Speech 20 Answer Exit}{}{No, officer, no problem. [Leave]}
+{Speech 20 Answer 21}{}{Officer, this man is with me. [Point at Smith]}
+{Speech 21}{}{So what? Am I supposed to congratulate you on that?}
+{Speech 21 Answer 22}{}{Please, allow Smith to pass into the city center. I vouch for him.}
+{Speech 22}{}{Out of the question. The rules are the same for everyone. He gets a permit - he gets into the city.}
+{Speech 22 Answer 23}{}{Officer, I value your time, and to save it I propose to pay Smith's toll right here, on the spot.}
+{Speech 22 Answer 26}{}{Officer, I was@sex@||| at the customs captain's. Permission to enter the city has been granted.}
+{Speech 22 Answer Exit}{}{We'll do just that. [Leave]}
+{Speech 23}{}{What are you blabbering about? Is this a bribe?}
+{Speech 23 Answer 8}{}{Of course it's a bribe, you fool!}
+{Speech 23 Answer 24}{}{It's merely a means to solve a problem. I promise to keep an eye on my buddy. }
+{Speech 24}{}{Agreed, you'll bear responsibility for his actions. 100 chips and you can pass.}
+{Speech 24 Answer 25}{}{I don't have that kind of money.}
+{Speech 24 Answer Exit}{}{There, you've been a great help, officer. [Give the money] Smith, follow me.}
+{Speech 25}{}{Then go to customs and get a permit. }
+{Speech 26}{}{Yes, I've already been informed. Go on through.}

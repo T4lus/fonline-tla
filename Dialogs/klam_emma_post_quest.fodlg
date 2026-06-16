@@ -52,16 +52,16 @@ Speech 5 # Брайан рассказал мне всю правду!@@Брай
 {Speech 5}{}{Брайан рассказал мне всю правду!@@Брайан, вон он@sex@||а|! Т@sex@|от|а|, про к@sex@|ого|оторую| я тебе рассказывала!@@Ну сейчас ты у меня получишь!}
 
 [Text engl]
-{Name}{}{Эмма}
-{DescAliveShort}{}{Вы видите: Эмма.}
-{DescAliveFull}{}{У этой женщины очень радостный взгляд.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{Не брал квест.}
-{Speech 1 Answer 3}{}{Брал квест и выполнил.}
-{Speech 1 Answer 4}{}{Брал квест и не выполнил.}
-{Speech 1 Answer 4*}{}{Брал квест и не выполнил.}
-{Speech 1 Answer 5}{}{Обманул кого-то из двоих.}
-{Speech 2}{}{Как дела, незнакомец?@@Привет, незнакомец.@@Привет, путешественник.@@Ты случайно не собираешься менять шкурки на огненную воду?@@Мы могли бы найти работу нескольким людям, таким как ты.@@Если надо что-нибудь купить, иди в дом Бакнера.@@Берегись Дантона.@@Почему ты так на меня смотришь?}
-{Speech 3}{}{Привет, рад тебя видеть.@@Мне уже гораздо лучше.@@И вот я дома.@@Терри жалко.@@Хорошо, что всё обошлось.@@Спасибо ещё раз за помощь.}
-{Speech 4}{}{Пока ты ходил@sex@||а|, мы уже со всем разобрались.@@Лучше поздно, чем никогда.@@А я уже сам дошёл.@@Ух. Запоздалый гонец.}
-{Speech 5}{}{Я всё знаю, @sex@|обманщик|сучка|!@@Я тебя никогда не прощу!@@Как ты посмел@sex@||а| сюда прийти?@@Время расплаты!}
+{Name}{}{Emma}
+{DescAliveShort}{}{You see: Emma.}
+{DescAliveFull}{}{This woman has a very joyful look.}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{Didn't take the quest.}
+{Speech 1 Answer 3}{}{Took the quest and completed it.}
+{Speech 1 Answer 4}{}{Took the quest and didn't complete it.}
+{Speech 1 Answer 4*}{}{Took the quest and didn't complete it.}
+{Speech 1 Answer 5}{}{Deceived one of the two.}
+{Speech 2}{}{How are you, stranger?@@Hello, stranger.@@Hello, traveler.@@You wouldn't happen to be trading pelts for firewater, would you?@@We could find work for a few people like you.@@If you need to buy something, go to the Bakner's Home.@@Watch out for Dunton.@@Why are you looking at me like that?}
+{Speech 3}{}{Hi, glad to see you.@@I'm feeling much better now.@@And here I am, home.@@Poor Terry.@@Good thing it all worked out.@@Thanks again for the help.}
+{Speech 4}{}{While you were off running around@sex@|||, we already sorted everything out.@@Better late than never.@@I made it back on my own anyway.@@Ugh. A late messenger.}
+{Speech 5}{}{I know everything, @sex@|cheat|bitch|!@@I'll never forgive you!@@How dare you come here?@@Time to pay!}

@@ -158,57 +158,57 @@ Speech 16 # Проходил тут недавно... Ушёл с друзьям
 {DescAliveShort}{}{You see Joe Sullivan.}
 {DescAliveFull}{}{You see Joe Sullivan. He looks like very strong and tough guy.}
 {DescAliveFull}{}{You see Joe Sullivan. He gives you a wink.}
-{Speech 1}{}{Преддиалоговые установки}
-{Speech 1 Answer 2}{}{не знаком}
-{Speech 1 Answer 3}{}{знаком}
-{Speech 1 Answer 4}{}{не знаком, тупой}
-{Speech 1 Answer 5}{}{знаком, тупой}
-{Speech 2}{}{Привет незнаком@sex@|ец|ка|, что ты делаешь в этих краях? Меня звать Джо Салливан.}
-{Speech 2 Answer 6}{}{Привет, я @pname@. Чем ты тут занимаешься?}
-{Speech 2 Answer 7}{}{Привет! Что это за место?}
-{Speech 2 Answer 16}{}{Эй, мужик, не видел тут часом траппера по имени Джим?}
-{Speech 3}{}{А это ты, @pname@. Какими судьбами?}
-{Speech 3 Answer 15}{}{Этот алкаш успокоилcя на некоторое время.}
-{Speech 3 Answer 6}{}{Напомни еще, чем ты тут занимаешься?}
-{Speech 3 Answer 7}{}{Расскажи что это за место?}
-{Speech 3 Answer Exit}{}{Прости за беспокойство, я просто думал это другой человек.}
-{Speech 3 Answer 16}{}{Эй, Саливан, не видел тут часом траппера по имени Джим?}
-{Speech 4}{}{Как@sex@|ой|ая| ты грустн@sex@|ый|ая|. Я Салливан, Джо Саливан.}
-{Speech 4 Answer 8}{}{Моя звать @pname@. Что ты делать?}
-{Speech 4 Answer 9}{}{Я @pname@. А что это?}
-{Speech 5}{}{О, снова ты. Что-нибудь случилось?}
-{Speech 5 Answer 15}{}{Дантоны ухух! (КВЕСТ)}
-{Speech 5 Answer 8}{}{Что ты делать?}
-{Speech 5 Answer 9}{}{Что это?}
-{Speech 5 Answer Exit}{}{Моя зашла попроведать. Все оукей.}
-{Speech 5 Answer Exit*}{}{Моя уходить.}
-{Speech 6}{}{Я работаю на Боба, отвечаю тут за порядок на заводе.}
-{Speech 6 Answer 12}{}{Ого, у тебя наверное большой опыт по этой части?}
-{Speech 6 Answer 10}{}{Неплохо, тогда у меня к тебе еще есть вопрос или два.}
-{Speech 7}{}{Это завод по производству алкоголя. Боб за главного.}
-{Speech 7 Answer 10}{}{И что прямо целый завод? Ничего себе! Давай еще спрошу кое-что.}
-{Speech 8}{}{Я работаю на Боба, отвечаю тут за порядок на заводе.}
-{Speech 8 Answer 13}{}{Оооо! Ты сильный...}
-{Speech 8 Answer Exit}{}{Моя уходить.}
-{Speech 9}{}{Это завод по производству алкоголя. Боб за главного.}
-{Speech 9 Answer 11}{}{Ал-ко... ух! Еще что?}
-{Speech 9 Answer Exit}{}{Моя хочет уйти.}
-{Speech 10}{}{Что ты хочешь узнать?}
-{Speech 10 Answer 6}{}{Напомни еще, чем ты тут занимаешься?}
-{Speech 10 Answer 7}{}{Расскажи что это за место?}
-{Speech 11}{}{Что ты хочешь узнать?}
-{Speech 11 Answer 8}{}{Что ты делать?}
-{Speech 11 Answer 9}{}{Что это?}
-{Speech 11 Answer Exit}{}{Моя уходить.}
-{Speech 12}{}{Раньше я был знаменитым боксером в Нью-Рено, так что мое имя гремело во всех его закоулках.}
-{Speech 12 Answer 14}{}{А можешь меня чему-нибудь научить?}
-{Speech 12 Answer 10}{}{Спасибо за информацию. Хочу тебя еще спросить.}
-{Speech 13}{}{[Здоровяк улыбается вам] Конечно я раньше славно боксировал, бывал чемпионом среди тяжеловесов в Нью-Рено. Хочешь могу показать пару приемов. }
-{Speech 13 Answer 14}{}{Да!}
-{Speech 13 Answer Exit}{}{Мне страшно!}
-{Speech 14}{}{Ну давай посмотрим, что ты умеешь. Там вон неподалёку поселился какой-то алкаш, любит лазить на наш заводик, когда я отхожу. Задай ему трёпку, чтобы знал, что не стоит совать свой нос куда не следует.}
-{Speech 14 Answer Exit}{}{Окей!}
-{Speech 15}{}{Отлично! Сейчас покажу тебе парочку приемов.}
-{Speech 15 Answer Exit}{}{[Вы учитесь драться кулаками]}
-{Speech 16}{}{Проходил тут недавно... Ушёл с друзьями на юг, больше я его не видел.}
-{Speech 16 Answer Exit}{}{Спасибо!}
+{Speech 1}{}{Pre-dialog setup}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 3}{}{acquainted}
+{Speech 1 Answer 4}{}{not acquainted, stupid}
+{Speech 1 Answer 5}{}{acquainted, stupid}
+{Speech 2}{}{Hello, stranger, what are you doing in these parts? The name's Joe Sullivan.}
+{Speech 2 Answer 6}{}{Hi, I'm @pname@. What do you do around here?}
+{Speech 2 Answer 7}{}{Hi! What is this place?}
+{Speech 2 Answer 16}{}{Hey, mister, you haven't happened to see a trapper named Jim around here, have you?}
+{Speech 3}{}{Oh, it's you, @pname@. What brings you here?}
+{Speech 3 Answer 15}{}{That drunk has settled down for a while.}
+{Speech 3 Answer 6}{}{Remind me again, what do you do around here?}
+{Speech 3 Answer 7}{}{Tell me, what is this place?}
+{Speech 3 Answer Exit}{}{Sorry to bother you, I just thought you were someone else.}
+{Speech 3 Answer 16}{}{Hey, Sullivan, you haven't happened to see a trapper named Brian around here, have you?}
+{Speech 4}{}{How sad you look. I'm Sullivan, Joe Sullivan.}
+{Speech 4 Answer 8}{}{Me name @pname@. What you do?}
+{Speech 4 Answer 9}{}{Me @pname@. And what's this?}
+{Speech 5}{}{Oh, you again. Did something happen?}
+{Speech 5 Answer 15}{}{Dantons ooh-ooh! (QUEST)}
+{Speech 5 Answer 8}{}{What you do?}
+{Speech 5 Answer 9}{}{What's this?}
+{Speech 5 Answer Exit}{}{Me come check in. Everything okay.}
+{Speech 5 Answer Exit*}{}{Me leave.}
+{Speech 6}{}{I work for Bob, I keep order here at the plant.}
+{Speech 6 Answer 12}{}{Wow, you must have a lot of experience in that line of work?}
+{Speech 6 Answer 10}{}{Not bad, then I've got a question or two more for you.}
+{Speech 7}{}{This is an alcohol production plant. Bob's in charge.}
+{Speech 7 Answer 10}{}{What, a whole plant? Amazing! Let me ask one more thing.}
+{Speech 8}{}{I work for Bob, I keep order here at the plant.}
+{Speech 8 Answer 13}{}{Ooooh! You strong...}
+{Speech 8 Answer Exit}{}{Me leave.}
+{Speech 9}{}{This is an alcohol production plant. Bob's in charge.}
+{Speech 9 Answer 11}{}{Al-co... ooh! What else?}
+{Speech 9 Answer Exit}{}{Me want leave.}
+{Speech 10}{}{What do you want to know?}
+{Speech 10 Answer 6}{}{Remind me again, what do you do around here?}
+{Speech 10 Answer 7}{}{Tell me, what is this place?}
+{Speech 11}{}{What do you want to know?}
+{Speech 11 Answer 8}{}{What you do?}
+{Speech 11 Answer 9}{}{What's this?}
+{Speech 11 Answer Exit}{}{Me leave.}
+{Speech 12}{}{I used to be a famous boxer in New Reno, so my name thundered through every corner of it.}
+{Speech 12 Answer 14}{}{Can you teach me something?}
+{Speech 12 Answer 10}{}{Thanks for the information. I'd like to ask you something else.}
+{Speech 13}{}{[The big guy smiles at you] Of course, I used to box pretty well, was a heavyweight champion in New Reno. If you want, I can show you a few moves. }
+{Speech 13 Answer 14}{}{Yes!}
+{Speech 13 Answer Exit}{}{I'm scared!}
+{Speech 14}{}{Well, let's see what you can do. Some drunk has settled in not far from here, likes to sneak into our little plant when I step away. Give him a thrashing, so he knows not to stick his nose where it doesn't belong.}
+{Speech 14 Answer Exit}{}{Okay!}
+{Speech 15}{}{Excellent! Now I'll show you a couple of moves.}
+{Speech 15 Answer Exit}{}{[You learn to fight with your fists]}
+{Speech 16}{}{He passed through here recently... Went south with some friends, I haven't seen him since.}
+{Speech 16 Answer Exit}{}{Thanks!}

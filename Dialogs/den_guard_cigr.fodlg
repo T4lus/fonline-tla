@@ -84,25 +84,25 @@ Speech 10 # Спасибо, друг! Если смогу тебе чем-ниб
 
 [Text engl]
 {Name}{}{none}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Pre-dialogue setup}
 {Speech 1 Answer 2}{}{- }
-{Speech 2}{}{[Охранник хмурится] Чего уставился? Дыру на мне взглядом хочешь протереть?}
-{Speech 2 Answer 3}{}{Да вот, смотрю на тебя и думаю, непросто это, целый день на одном месте торчать.}
-{Speech 2 Answer Exit}{}{Все, ухожу уже. [Уйти]}
-{Speech 3}{}{А что поделать, работа такая. }
-{Speech 3 Answer 4}{}{А смена у тебя когда? }
-{Speech 4}{}{Смена, ха, скажешь тоже. Людей не хватает, а жулья всякого развелось, как грязи. Свободного времени только и хватает что поспать, да пожрать.}
-{Speech 4 Answer 5}{}{Жестоко. Ну а выходные-то как проводишь?}
-{Speech 5}{}{Выходные у нас за свой счет. Про отпуск можешь даже не спрашивать. И чего ты так@sex@|ой|ая| любопытн@sex@|ый|ая|? Подозрительно.}
-{Speech 5 Answer 6}{}{Да вот, жду тут кое-кого. Дай, думаю, с крутым парнем поговорю.}
-{Speech 6}{}{Ха. Ну жди, что я, против что ли? Под ногами только не путайся. У тебя, кстати, закурить не найдется?}
-{Speech 6 Answer Exit}{}{Нет, не курю. Да и остальным не советую. Ну, удачи тебе! [Уйти]}
-{Speech 6 Answer 10}{}{Повезло тебе. Найдется у меня закурить, угощайся}
-{Speech 6 Answer 7}{}{Найдется, да. Сигареты в Пустоши редкость. Может, ты патронами поделишься? Махнемся?}
-{Speech 6 Answer 8}{}{Нет, сигарет нету.}
-{Speech 7}{}{Ну, почему бы и нет. Давай по быстрому, пока шеф не видит. 20 гильз в обмен на пачку. Спасибо, @sex@|приятель|подруга|. Который день без курева.}
-{Speech 8}{}{Эх. Месяц уже сигарету достать не могу. Дефицит. Может бросить, как думаешь?}
-{Speech 8 Answer 9}{}{Бросай, правильно. Здоровье у хаболога не купишь.}
-{Speech 9}{}{Можно попробовать. Да и жена довольна будет, все расходов меньше... Знаешь что, забирай-ка ты мою зажигалку,  хорошая вещь. Мне она теперь без надобности.}
-{Speech 9 Answer Exit}{}{Спасибо. Жене привет передавай [Уйти]}
-{Speech 10}{}{Спасибо, друг! Если смогу тебе чем-нибудь помочь, рад буду!}
+{Speech 2}{}{[The guard frowns] What are you staring at? Trying to bore a hole through me with your eyes?}
+{Speech 2 Answer 3}{}{Well, I'm looking at you and thinking, it's not easy, standing in one spot all day long.}
+{Speech 2 Answer Exit}{}{All right, I'm leaving now. [Leave]}
+{Speech 3}{}{What can you do, that's the job. }
+{Speech 3 Answer 4}{}{So when's your shift over? }
+{Speech 4}{}{Shift, ha, listen to you. There aren't enough men, and crooks of every kind have bred like dirt. The only free time I get is enough to sleep and eat.}
+{Speech 4 Answer 5}{}{Brutal. So how do you spend your days off?}
+{Speech 5}{}{Our days off are on our own dime. Don't even bother asking about vacation. And why are you so curious? Suspicious.}
+{Speech 5 Answer 6}{}{Well, I'm waiting for someone here. Figured I'd chat with a tough guy.}
+{Speech 6}{}{Ha. Well, wait then, what do I care? Just don't get underfoot. Got a smoke on you, by the way?}
+{Speech 6 Answer Exit}{}{No, I don't smoke. And I don't advise it to others either. Well, good luck to you! [Leave]}
+{Speech 6 Answer 10}{}{Lucky you. I've got a smoke, help yourself.}
+{Speech 6 Answer 7}{}{I do, yeah. Cigarettes are rare in the Wasteland. Maybe you'll share some ammo? Trade?}
+{Speech 6 Answer 8}{}{No, I've got no cigarettes.}
+{Speech 7}{}{Well, why not. Let's make it quick, before the chief sees. 20 casings in exchange for a pack. Thanks, @sex@|buddy|girl|. Been days without a smoke.}
+{Speech 8}{}{Ugh. Haven't been able to get a cigarette for a month now. Shortage. Maybe I should quit, what do you think?}
+{Speech 8 Answer 9}{}{Quit, that's right. You can't buy your health back from a doctor.}
+{Speech 9}{}{Worth a try. And the wife will be happy, fewer expenses... Tell you what, take my lighter, it's a good thing. I've got no use for it now.}
+{Speech 9 Answer Exit}{}{Thanks. Say hi to your wife for me. [Leave]}
+{Speech 10}{}{Thanks, friend! If I can ever help you with anything, I'd be glad to!}

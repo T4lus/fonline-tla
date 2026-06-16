@@ -58,22 +58,22 @@ Speech 7 # Боже, да ты совсем плох! Поговори с наш
 {Name}{}{Faithful}
 {DescAliveShort}{}{You see a man wearing robes.}
 {DescAliveFull}{}{You see some hooded man wearing robes.}
-{Speech 1}{}{Преддиалоговые установки}
+{Speech 1}{}{Pre-dialogue settings}
 {Speech 1 Answer 2}{}{-}
 {Speech 1 Answer 6}{}{-}
-{Speech 2}{}{Покайся грешник! Грядет день Великого Суда!}
-{Speech 2 Answer 3}{}{Вот это что-ли ваша церковь?}
-{Speech 2 Answer 5}{}{Я не грешник, я вообще боевые скиллы не прокачиваю!}
-{Speech 2 Answer Exit}{}{Думаю, у меня еще будет время.}
-{Speech 3}{}{Ну да. Это она! думаю тебе лучше пообщаться с нашим священником, он больше знает.}
-{Speech 3 Answer 4}{}{Да черт с вашей церковью, я вообще атеист на самом деле.}
-{Speech 3 Answer Exit}{}{У вас и священник есть? Надо будет с ним поговорить.}
-{Speech 4}{}{Чтоб тебя сожрала гиена огненная, грешник!}
-{Speech 4 Answer Exit}{}{Чтоб тебя тем же самым, да в то же место!}
-{Speech 5}{}{Мир, брат! Ты делаешь успехи в избавлении мира от страданий. Поговори с нашим священником, может он даст разрешение к нам присоединиться.}
-{Speech 5 Answer Exit}{}{Интересная мысль, я так и сделаю.}
-{Speech 5 Answer Exit*}{}{Думаю это не для меня.}
-{Speech 6}{}{Покайся грешник! Грядет день Великого Суда!}
-{Speech 6 Answer 7}{}{Что?}
-{Speech 7}{}{Боже, да ты совсем плох! Поговори с наши священником, может он найдет тебе применение.}
-{Speech 7 Answer Exit}{}{Ну я...}
+{Speech 2}{}{Repent, sinner! The day of the Great Judgment is coming!}
+{Speech 2 Answer 3}{}{So this is your church?}
+{Speech 2 Answer 5}{}{I'm no sinner, I don't even train combat skills!}
+{Speech 2 Answer Exit}{}{I think I'll still have time.}
+{Speech 3}{}{Why yes. This is it! I think you'd better talk with our priest, he knows more.}
+{Speech 3 Answer 4}{}{To hell with your church, I'm actually an atheist.}
+{Speech 3 Answer Exit}{}{You even have a priest? I should talk to him.}
+{Speech 4}{}{May a fiery hyena devour you, sinner!}
+{Speech 4 Answer Exit}{}{May the same happen to you, in the same place!}
+{Speech 5}{}{Peace, brother! You are making progress in ridding the world of suffering. Talk to our priest, maybe he'll grant you permission to join us.}
+{Speech 5 Answer Exit}{}{An interesting thought, I'll do just that.}
+{Speech 5 Answer Exit*}{}{I think this isn't for me.}
+{Speech 6}{}{Repent, sinner! The day of the Great Judgment is coming!}
+{Speech 6 Answer 7}{}{What?}
+{Speech 7}{}{God, you're in a really bad way! Talk to our priest, maybe he'll find a use for you.}
+{Speech 7 Answer Exit}{}{Well, I...}

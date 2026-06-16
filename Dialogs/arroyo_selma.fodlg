@@ -284,92 +284,92 @@ Speech 108 # Далеко не убегай, нам скоро выходить.
 [Text engl]
 {Name}{}{none}
 {Speech 1}{}{Predialogue installations}
-{Speech 1 Answer 2}{}{не знакомы}
-{Speech 1 Answer 15}{}{знаком, не в составе}
-{Speech 1 Answer 13}{}{низкий инт}
-{Speech 1 Answer 17}{}{Игрок в составе каравана}
-{Speech 1 Answer 19}{}{караван на энкаунтере, все спокойно. Норм инт. Реплика для всех,  а не только игрока с квестом. У игрока не было провалов}
-{Speech 1 Answer 100}{}{Провал: игрок убил караванщика на энкаунтере}
-{Speech 1 Answer 102}{}{Провал: игрок покинул караван во время маршрута. Норм инт}
-{Speech 1 Answer 104}{}{Провал: игрок нападал на караван или пытался ограбить}
-{Speech 1 Answer 105}{}{Провал: игрок погиб во время каравана}
-{Speech 1 Answer 105*}{}{Провал: проводника убили во время каравана, кто-то кроме игрока}
-{Speech 1 Answer 107}{}{выполнен квест, доступна награда}
-{Speech 2}{}{Привет зайчик. Я тебя раньше не видела. Ты зачем здесь?}
-{Speech 2 Answer Exit}{}{Нет, обознал@sex@|ся|ась|, прошу прощения.}
-{Speech 2 Answer 3}{}{Меня зовут @pname@. Это ты - Селма?}
-{Speech 3}{}{Да, это я. Я вожу караваны отсюда  в Город-Убежище. Мне не помешает  надежный человек для охраны груза. Хочешь пойти с нами?}
-{Speech 3 Answer 4}{}{И как такая очаровательная крошка справляется с опасностями Пустоши? Рейдеры, кентавры, прочие чудовища? Ты их не боишься?}
-{Speech 3 Answer 5}{}{А когда вы выходите и какой груз везете?}
-{Speech 3 Answer 6}{}{А когда вы выходите и какой груз везете?}
-{Speech 3 Answer 7}{}{Сколько я получу и какие условия?}
-{Speech 3 Answer 8}{}{Я в твоем распоряжении. Сколько заплатишь?}
-{Speech 3 Answer Exit}{}{Нет, мне это не интересно.}
-{Speech 4}{}{[Смеется] Как раз на такой случай, я и нанимаю @sex@|парней|девчонок| вроде тебя. Мне нужны охранники, конечно. Приходи, если захочешь получить работу. }
-{Speech 4 Answer 5}{}{А когда вы выходите и какой груз везете?}
-{Speech 4 Answer 6}{}{А когда вы выходите и какой груз везете?}
-{Speech 4 Answer 7}{}{Сколько я получу и какие условия?}
-{Speech 4 Answer 8}{}{Я в твоем распоряжении. Сколько заплатишь?}
-{Speech 4 Answer Exit}{}{Нет, мне это не интересно.}
-{Speech 5}{}{Ну, мы продаем сельхоз продукцию и рыбу, а из ГУ везем всякую электронику и медикаменты. Выходим в 14 часов ровно.}
-{Speech 5 Answer 7}{}{Сколько я получу и какие условия?}
-{Speech 5 Answer 8}{}{Я в твоем распоряжении. Сколько заплатишь?}
-{Speech 5 Answer Exit}{}{Нет, мне это не интересно.}
-{Speech 6}{}{Мы почти закончили свои дела здесь. Скоро собираемся обратно. Выходим в 14 часов. Нужно доставить в Арройо груз медикаментов.}
-{Speech 6 Answer 7}{}{Сколько я получу и какие условия?}
-{Speech 6 Answer 8}{}{Я в твоем распоряжении. Сколько заплатишь?}
-{Speech 6 Answer Exit}{}{Нет, мне это не интересно.}
-{Speech 7}{}{Выходим сегодня в 14 часов. Плачу три куска, когда доберемся до места. Ещё столько же, если пойдешь с нами обратно. Что скажешь?}
-{Speech 7 Answer Exit}{}{Нет, мне это не интересно.}
-{Speech 7 Answer 9}{}{Напомни, какой груз вы везете?}
-{Speech 7 Answer 10}{}{Ладно, я с тобой.}
-{Speech 7 Answer 11}{}{Ладно, я с тобой.}
-{Speech 8}{}{Найди меня за пару часов до выхода каравана. Начиная с полдня мы утрясаем состав каравана и нанимаем охранников. За работу получишь три косых. А сейчас, извини, мне нужно идти.}
-{Speech 8 Answer Exit}{}{Увидимся!}
-{Speech 9}{}{Рыбу, трепангов и водоросли. А в обратный зад - медикаменты. Ну? Я жду ответа.}
-{Speech 9 Answer Exit}{}{Нет, это не для меня.}
-{Speech 9 Answer 10}{}{Ладно, я с тобой.}
-{Speech 9 Answer 11}{}{Ладно, я с тобой.}
-{Speech 10}{}{Отлично. Отправляемся в 14 часов. Будь рядом.}
-{Speech 10 Answer Exit}{}{Договорились.@@Буду неподалеку. @@Ясно.}
-{Speech 11}{}{[Сверяется с каким-то списком] Ой, как неудачно, все места заняты. Может придешь в другой раз? Извини...}
-{Speech 11 Answer Exit}{}{Ладно, забудь.}
-{Speech 11 Answer 12}{}{Но, может, не придет кто?}
-{Speech 12}{}{Хм. Да, всякое бывает. Будь здесь на всякий случай, если что, дам знать. В 14 часов все решится .}
-{Speech 12 Answer Exit}{}{Я подумал@sex@||а| и решила. Мне это не подходит.}
-{Speech 12 Answer Exit*}{}{Хорошо, подожду здесь.}
-{Speech 13}{}{О-па. Тяжелый случай. Может , ты уже пойдешь от греха?}
-{Speech 13 Answer Exit}{}{Моя убивать! Твоя страдать! [Атака]}
-{Speech 13 Answer Exit*}{}{Фу, тебе! [Уйти]}
-{Speech 15}{}{А, это ты? Ну что, подумал@sex@||а| над моим предложением?}
-{Speech 15 Answer 16}{}{Да, вот только вопросы есть. }
-{Speech 15 Answer Exit}{}{Пока не решу никак, позже загляну.}
-{Speech 16}{}{Валяй, на пару вопросов отвечу. Ты мне пока нравишься. Только не тупи, а то могу и передумать.}
-{Speech 16 Answer 4}{}{Тебя не пугают все эти подонки, которых полно в Пустоши? }
-{Speech 17}{}{Не путайся под ногами. Скоро выходим.}
-{Speech 17 Answer 18}{}{Долго ждать еще?}
-{Speech 18}{}{В 14 часов будь рядом, чтобы я тебя видела. Опоздавших ждать не буду.}
-{Speech 18 Answer Exit}{}{Поскорей бы уже.[Уйти]@@Ясно. [Уйти]@@Хорошо, подождем. [Уйти]}
-{Speech 19}{}{Ну что за люди в пустошах. Кошмар какой-то.@@Хм, ну почему меня вечно пытаются ограбить@@Вот уроды, я вам яйца отрежу!@@Это начинает  надоедать. Опять они здесь.}
-{Speech 19 Answer Exit}{}{Не бери в голову. [Уйти]}
-{Speech 19 Answer 20}{}{Не стоит тут отсвечивать, пошли дальше?}
-{Speech 20}{}{Да, самое время. Идем.}
-{Speech 20 Answer Exit}{}{Все готовы. Можно выходить.}
-{Speech 100}{}{Думаю, тебе не стоит здесь свою рожу показывать.}
-{Speech 100 Answer Exit}{}{Че за дела?!}
-{Speech 101}{}{Уходи. А еще лучше убирайся.}
-{Speech 102}{}{Ты бросил@sex@||а| мой караван и теперь явил@sex@|ся|ась| с наглой рожей? Вон отсюда!}
-{Speech 102 Answer 103}{}{Эй, полегче!}
-{Speech 103}{}{Я не желаю видеть и слышать тебя. Иди отсюда, не порть мне настроение.}
-{Speech 104}{}{С  детства не выношу гопников и жуликов. Удались отсюда, пока хуже не стало.}
-{Speech 104 Answer Exit}{}{Гопников? Да сама ты! [Уйти]}
-{Speech 104 Answer Exit*}{}{Хуже? Ну, попробуй, сделай что-нибудь! [Атака]}
-{Speech 105}{}{Провал: игрок погиб во время каравана}
-{Speech 105 Answer 106}{}{Э, минутку. Меня там приложили, в твоем караване, и ты не хочешь платить?}
-{Speech 106}{}{Тебе лучше уйти, а то знаешь, и до беды недалеко. споткнешься, ногу сломаешь... иди добром.}
-{Speech 106 Answer Exit}{}{Ах ты обезьяна! [Атака]}
-{Speech 106 Answer Exit*}{}{Чтоб ты лопнула, ведьма. [Уйти]}
-{Speech 107}{}{А, это ты? Ну что ж,  неплохо. Я знала, что могу тебе верить. Вот твоя плата. Мы идем обратно через 4 часа. Ты с нами?}
-{Speech 107 Answer Exit}{}{Спасибо, я подумаю.}
-{Speech 107 Answer 108}{}{Да, конечно. Только вот схожу гляну на убежище}
-{Speech 108}{}{Далеко не убегай, нам скоро выходить.}
+{Speech 1 Answer 2}{}{not acquainted}
+{Speech 1 Answer 15}{}{acquainted, not in the party}
+{Speech 1 Answer 13}{}{low int}
+{Speech 1 Answer 17}{}{Player is in the caravan party}
+{Speech 1 Answer 19}{}{caravan at an encounter, all calm. Normal int. Line for everyone, not just the player with the quest. Player had no failures}
+{Speech 1 Answer 100}{}{Failure: player killed a caravaneer at an encounter}
+{Speech 1 Answer 102}{}{Failure: player left the caravan during the route. Normal int}
+{Speech 1 Answer 104}{}{Failure: player attacked the caravan or tried to rob it}
+{Speech 1 Answer 105}{}{Failure: player died during the caravan}
+{Speech 1 Answer 105*}{}{Failure: the guide was killed during the caravan, by someone other than the player}
+{Speech 1 Answer 107}{}{quest complete, reward available}
+{Speech 2}{}{Hi, bunny. I haven't seen you before. What are you doing here?}
+{Speech 2 Answer Exit}{}{No, I @sex@|mistook you|mistook you| for someone, my apologies.}
+{Speech 2 Answer 3}{}{My name is @pname@. Are you Selma?}
+{Speech 3}{}{Yes, that's me. I run caravans from here to Vault City. I could use a reliable person to guard the cargo. Want to come with us?}
+{Speech 3 Answer 4}{}{And how does such a charming little thing handle the dangers of the Wasteland? Raiders, centaurs, all the other monsters? Aren't you afraid of them?}
+{Speech 3 Answer 5}{}{And when do you leave and what cargo do you carry?}
+{Speech 3 Answer 6}{}{And when do you leave and what cargo do you carry?}
+{Speech 3 Answer 7}{}{How much will I get and what are the terms?}
+{Speech 3 Answer 8}{}{I'm at your service. How much will you pay?}
+{Speech 3 Answer Exit}{}{No, I'm not interested.}
+{Speech 4}{}{[Laughs] That's exactly why I hire @sex@|guys|girls| like you. I need guards, of course. Come by if you want the job. }
+{Speech 4 Answer 5}{}{And when do you leave and what cargo do you carry?}
+{Speech 4 Answer 6}{}{And when do you leave and what cargo do you carry?}
+{Speech 4 Answer 7}{}{How much will I get and what are the terms?}
+{Speech 4 Answer 8}{}{I'm at your service. How much will you pay?}
+{Speech 4 Answer Exit}{}{No, I'm not interested.}
+{Speech 5}{}{Well, we sell farm produce and fish, and from VC we carry all kinds of electronics and medicine. We leave sharp at 14:00.}
+{Speech 5 Answer 7}{}{How much will I get and what are the terms?}
+{Speech 5 Answer 8}{}{I'm at your service. How much will you pay?}
+{Speech 5 Answer Exit}{}{No, I'm not interested.}
+{Speech 6}{}{We're almost done with our business here. Soon we head back. We leave at 14:00. We need to deliver a load of medicine to Arroyo.}
+{Speech 6 Answer 7}{}{How much will I get and what are the terms?}
+{Speech 6 Answer 8}{}{I'm at your service. How much will you pay?}
+{Speech 6 Answer Exit}{}{No, I'm not interested.}
+{Speech 7}{}{We leave today at 14:00. I pay three grand when we reach the destination. Another three if you come back with us. What do you say?}
+{Speech 7 Answer Exit}{}{No, I'm not interested.}
+{Speech 7 Answer 9}{}{Remind me, what cargo do you carry?}
+{Speech 7 Answer 10}{}{Alright, I'm with you.}
+{Speech 7 Answer 11}{}{Alright, I'm with you.}
+{Speech 8}{}{Find me a couple hours before the caravan leaves. Starting at noon we sort out the caravan party and hire guards. You'll get three grand for the work. Now, sorry, I have to go.}
+{Speech 8 Answer Exit}{}{See you!}
+{Speech 9}{}{Fish, sea cucumbers and seaweed. And on the way back - medicine. Well? I'm waiting for an answer.}
+{Speech 9 Answer Exit}{}{No, this isn't for me.}
+{Speech 9 Answer 10}{}{Alright, I'm with you.}
+{Speech 9 Answer 11}{}{Alright, I'm with you.}
+{Speech 10}{}{Great. We set off at 14:00. Stay close.}
+{Speech 10 Answer Exit}{}{Agreed.@@I'll be nearby. @@Got it.}
+{Speech 11}{}{[Checks some list] Oh, what bad luck, all the spots are taken. Maybe come back another time? Sorry...}
+{Speech 11 Answer Exit}{}{Alright, forget it.}
+{Speech 11 Answer 12}{}{But maybe someone won't show up?}
+{Speech 12}{}{Hmm. Yeah, anything can happen. Stay here just in case, I'll let you know if anything comes up. It'll all be decided at 14:00.}
+{Speech 12 Answer Exit}{}{I thought it over and decided. This doesn't suit me.}
+{Speech 12 Answer Exit*}{}{Alright, I'll wait here.}
+{Speech 13}{}{Oh boy. A tough case. Maybe you'd better leave before there's trouble?}
+{Speech 13 Answer Exit}{}{Me kill! You suffer! [Attack]}
+{Speech 13 Answer Exit*}{}{Ew, you! [Leave]}
+{Speech 15}{}{Ah, it's you? So, did you think over my offer?}
+{Speech 15 Answer 16}{}{Yes, just have a few questions. }
+{Speech 15 Answer Exit}{}{Haven't decided yet, I'll drop by later.}
+{Speech 16}{}{Go ahead, I'll answer a couple of questions. I still like you. Just don't act dumb, or I might change my mind.}
+{Speech 16 Answer 4}{}{Aren't you scared of all the lowlifes that fill the Wasteland? }
+{Speech 17}{}{Don't get underfoot. We're leaving soon.}
+{Speech 17 Answer 18}{}{How much longer to wait?}
+{Speech 18}{}{Be nearby at 14:00 so I can see you. I won't wait for latecomers.}
+{Speech 18 Answer Exit}{}{Can't wait already.[Leave]@@Got it. [Leave]@@Alright, we'll wait. [Leave]}
+{Speech 19}{}{What kind of people live in these wastes. It's a nightmare.@@Hmm, why does someone always try to rob me@@What jerks, I'll cut your balls off!@@This is getting old. They're here again.}
+{Speech 19 Answer Exit}{}{Never mind. [Leave]}
+{Speech 19 Answer 20}{}{No point hanging around here, shall we move on?}
+{Speech 20}{}{Yes, it's about time. Let's go.}
+{Speech 20 Answer Exit}{}{Everyone's ready. We can leave.}
+{Speech 100}{}{I don't think you should be showing your face around here.}
+{Speech 100 Answer Exit}{}{What's the deal?!}
+{Speech 101}{}{Leave. Better yet, get lost.}
+{Speech 102}{}{You ditched my caravan and now you show up with that smug face? Get out of here!}
+{Speech 102 Answer 103}{}{Hey, easy!}
+{Speech 103}{}{I don't want to see or hear you. Get out of here, don't ruin my mood.}
+{Speech 104}{}{Since childhood I can't stand thugs and crooks. Clear off before things get worse.}
+{Speech 104 Answer Exit}{}{Thugs? Look who's talking! [Leave]}
+{Speech 104 Answer Exit*}{}{Worse? Go on, try something! [Attack]}
+{Speech 105}{}{Failure: player died during the caravan}
+{Speech 105 Answer 106}{}{Hey, hold on. I got banged up out there, in your caravan, and you don't want to pay?}
+{Speech 106}{}{You'd better leave, or, you know, trouble's not far off. You'll trip, break a leg... go on your own way.}
+{Speech 106 Answer Exit}{}{Why you ape! [Attack]}
+{Speech 106 Answer Exit*}{}{Burst and die, witch. [Leave]}
+{Speech 107}{}{Ah, it's you? Well, not bad. I knew I could trust you. Here's your pay. We head back in 4 hours. Are you with us?}
+{Speech 107 Answer Exit}{}{Thanks, I'll think about it.}
+{Speech 107 Answer 108}{}{Yes, of course. Just let me go take a look at the Vault.}
+{Speech 108}{}{Don't run off too far, we're leaving soon.}
