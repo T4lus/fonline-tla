@@ -523,7 +523,7 @@
                 }
 
                 string text = MsgStr::GetGameText(MsgStr::StrFixPieces);
-                string name = MsgStr::GetItemText(MsgStr::ItemTextId(hstring(outItems[i++]), 1));
+                string name = MsgStr::GetItemText(hstring(outItems[i++]).str);
                 text = Game.ReplaceText(text, "%NAME", name);
                 text = Game.ReplaceText(text, "%COUNT", outItems[i++]);
                 result += text;
@@ -564,7 +564,33 @@
 //           "OnHide": null,
 //           "OnAppear": null,
 //           "OnDisappear": null,
-//           "OnDraw": null,
+//           "OnDraw":
+{
+    {
+        {
+            const int gap = 5;
+
+            auto main = GuiScreensExt::NeedObject(Find("MainCraftItem"));
+            auto imageGrid = GuiScreensExt::NeedObject(Find("ImageCraftItemGrid"));
+            auto desc = GuiScreensExt::NeedObject(Find("DescCraftItem"));
+
+            desc.SetPosition(0, imageGrid.Pos.y + imageGrid.Size.height + gap);
+            main.SetSize(main.Size.width, desc.Pos.y + desc.Size.height);
+
+            int y = main.Size.height + gap;
+            auto needParams = GuiScreensExt::NeedObject(Find("NeedParamsMain"));
+            needParams.SetPosition(0, y);
+            y += needParams.Size.height + gap;
+
+            auto needTools = GuiScreensExt::NeedObject(Find("NeedToolsMain"));
+            needTools.SetPosition(0, y);
+            y += needTools.Size.height + gap;
+
+            auto needItems = GuiScreensExt::NeedObject(Find("NeedItemsMain"));
+            needItems.SetPosition(0, y);
+        }
+    }
+}
 //           "OnPostDraw": null,
 //           "OnMove": null,
 //           "OnMouseDown": null,
@@ -717,7 +743,7 @@
                 }
 
                 string text = MsgStr::GetGameText(MsgStr::StrFixPieces);
-                string name = MsgStr::GetItemText(MsgStr::ItemTextId(hstring(outItems[i++]), 1));
+                string name = MsgStr::GetItemText(hstring(outItems[i++]).str);
                 text = Game.ReplaceText(text, "%NAME", name);
                 text = Game.ReplaceText(text, "%COUNT", outItems[i++]);
                 result += text;
@@ -755,8 +781,8 @@
 //                   "Selected": false,
 //                   "Active": true,
 //                   "Name": "ImageCraftItemGrid",
-//                   "Position": "0, 0",
-//                   "Size": "0, 0",
+//                   "Position": "0, 12",
+//                   "Size": "340, 50",
 //                   "Anchor": "None",
 //                   "Dock": "None",
 //                   "IsDraggable": false,
@@ -802,6 +828,10 @@
 
             any[] outItems = cast<FixBoy>(GuiScreensExt::NeedScreen(Screen)).CraftItem.OutItems;
             ResizeGrid(outItems.length() / 2);
+
+            int centerX = 0, centerY = 0, wholeWidth = 0, wholeHeight = 0;
+            GetWholeSize(ipos(centerX, centerY), isize(wholeWidth, wholeHeight), true);
+            SetPosition((GuiScreensExt::NeedObject(Parent).Size.width - wholeWidth) / 2, Pos.y);
         }
     }
 }
@@ -822,7 +852,7 @@
 //                       "Selected": false,
 //                       "Active": true,
 //                       "Name": "ImageCraftItem",
-//                       "Position": "145, 10",
+//                       "Position": "0, 0",
 //                       "Size": "50, 50",
 //                       "Anchor": "None",
 //                       "Dock": "None",
@@ -943,7 +973,7 @@
             }
 
             auto fixBoy = cast<FixBoy>(GuiScreensExt::NeedScreen(Screen));
-            string text = MsgStr::GetGameText("CraftItem".hstr().hash + fixBoy.CraftItem.Id);
+            string text = Game.GetText(TextPackKey(TextPackName::Game, "CraftItem", "" + fixBoy.CraftItem.Id));
             int tw = 0, th = 0, lines = 0;
             Game.GetTextInfo(text, isize(Size.width, 1000), TextFormat(FontType(int(TextFont)), FontFlag(TextFlags), 0), isize(tw, th), lines);
             SetSize(Size.width, th);
@@ -1175,7 +1205,7 @@
                 if (index != 0) {
                     text += needTools[index + 2] == 1 ? "or " : "and ";
                 }
-                text += MsgStr::GetItemText(MsgStr::ItemTextId(hstring(needTools[index]), 1));
+                text += MsgStr::GetItemText(hstring(needTools[index]).str);
                 text += ", " + needTools[index + 1] + "\\n";
                 index += 3;
             }
@@ -1472,7 +1502,7 @@
                 if (index != 0) {
                     text += needTools[index + 2] == 1 ? "or " : "and ";
                 }
-                text += MsgStr::GetItemText(MsgStr::ItemTextId(hstring(needTools[index]), 1));
+                text += MsgStr::GetItemText(hstring(needTools[index]).str);
                 text += ", " + needTools[index + 1] + "\\n";
                 index += 3;
             }

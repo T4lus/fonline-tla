@@ -62,8 +62,8 @@
                 if (cr == null) {
                     return;
                 }
-                // TODO: IsModel работает только на карте, на глобале будет ошибка.
-                if (cr.IsModel()) {
+                // IsModel() requires the critter to be on a map; off-map (world map) fall back to the 2D preview.
+                if (HasCurMap && cr.IsModel()) {
                     float[] chaPosition = array<float>(14);
                     // Position
                     chaPosition[0] = AbsolutePos.x + Size.width / 2;

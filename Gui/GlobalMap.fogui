@@ -17,9 +17,9 @@
 //   "Active": true,
 //   "Name": "GlobalMap",
 //   "Position": "0, 0",
-//   "Size": "0, 0",
-//   "Anchor": "Top, Left",
-//   "Dock": "None",
+//   "Size": "800, 600",
+//   "Anchor": "None",
+//   "Dock": "Fill",
 //   "IsDraggable": false,
 //   "IsNotHittable": true,
 //   "CheckTransparentOnHit": false,
@@ -38,6 +38,8 @@
 {
     {
         {
+            GuiScreensExt::ApplyGlobalMapResolutionLayout(this);
+
             auto globalMapObjects = GuiScreensExt::NeedPanel(FindPanel("GMObjects"));
             globalMapObjects.SetPosition(0, 0);
             cast<GMObjects>(globalMapObjects).ChangeGMZoom(0, true);
@@ -520,7 +522,7 @@
 {
     {
         {
-            SetBackgroundImage("art/intrface/GlobalMap/WRLDMP" + FormatXX(cellIndex) + ".png", SpriteLayout::Zoom);
+            SetBackgroundImage("art/intrface/GlobalMap/Terrain/WRLDMP" + FormatXX(cellIndex) + ".png", SpriteLayout::Zoom);
         }
     }
 }
@@ -632,7 +634,8 @@
 //                   "ClassFields":
 {
     {
-        GlobalMapLocations::LocationData Location;
+        // Initialized so the (inactive) cell prototype, whose OnShow still fires, never derefs a null handle.
+        GlobalMapLocations::LocationData Location = GlobalMapLocations::LocationData();
 
         void SetLocPosition(float zoom)
         {
@@ -647,7 +650,10 @@
 {
     {
         {
-            SetLocPosition(1.0f);
+            // Position at the map's current zoom (not a hardcoded 1.0) so icons line up immediately
+            // when the world map is reopened, instead of only after a manual zoom refresh.
+            auto gmObjects = cast<GMObjects>(GuiScreensExt::NeedObject(GuiScreensExt::NeedObject(Parent).Parent));
+            SetLocPosition(gmObjects.GlobalZoom);
             if (Location.Color != ucolor(0)) {
                 SetColor(Location.Color);
             }
@@ -729,7 +735,14 @@
 //               "IsNotHittable": false,
 //               "CheckTransparentOnHit": false,
 //               "GlobalScope": null,
-//               "ClassFields": null,
+//               "ClassFields":
+{
+    {
+        bool Inited;
+        float InterpX, InterpY;
+        nanotime LastDraw;
+    }
+}
 //               "OnInit": null,
 //               "OnShow": null,
 //               "OnHide": null,
@@ -740,10 +753,38 @@
     {
         {
             if (!HasChosen) {
+                Inited = false;
                 return;
             }
-            SetPosition(cast<GMObjects>(GuiScreensExt::NeedObject(Parent)).NormalX(int(Chosen.WorldPos.x)),
-                        cast<GMObjects>(GuiScreensExt::NeedObject(Parent)).NormalY(int(Chosen.WorldPos.y)));
+
+            auto parent = cast<GMObjects>(GuiScreensExt::NeedObject(Parent));
+            float targetX = float(Chosen.WorldPos.x);
+            float targetY = float(Chosen.WorldPos.y);
+            nanotime now = Game.FrameTime;
+
+            // The server only updates the group position about once per second; ease the marker
+            // toward the authoritative position each frame so travel looks smooth instead of jumping.
+            if (Inited && GlobalmapGroup::GetCurrentGroup().IsMoving) {
+                float dt = float((now - LastDraw).milliseconds) / 1000.0f;
+                float smoothing = dt * 6.0f;
+                if (smoothing < 0.0f) {
+                    smoothing = 0.0f;
+                }
+                if (smoothing > 1.0f) {
+                    smoothing = 1.0f;
+                }
+                InterpX += (targetX - InterpX) * smoothing;
+                InterpY += (targetY - InterpY) * smoothing;
+            }
+            else {
+                InterpX = targetX;
+                InterpY = targetY;
+            }
+
+            Inited = true;
+            LastDraw = now;
+
+            SetPosition(parent.NormalX(int(InterpX + 0.5f)), parent.NormalY(int(InterpY + 0.5f)));
         }
     }
 }
@@ -1005,6 +1046,18 @@
                     points[i + 1] = globalMapObjects.NormalY(points[i + 1]) + gmBase.AbsolutePos.y + GuiScreensExt::NeedObject(Parent).Pos.y;
                 }
                 Game.DrawPrimitive(RenderPrimitiveType::PointList, points);
+            }
+
+            if (info.IsEncounter) {
+                // Blink the "encounter" indicator at the group's current world position to warn the player.
+                ipos encPos = ipos(globalMapObjects.NormalX(info.CurX) + gmBase.AbsolutePos.x + GuiScreensExt::NeedObject(Parent).Pos.x,
+                                   globalMapObjects.NormalY(info.CurY) + gmBase.AbsolutePos.y + GuiScreensExt::NeedObject(Parent).Pos.y);
+                if ((int(Game.FrameTime.milliseconds) / 250) % 2 == 0) {
+                    GMEncOn.Draw(encPos, isize(), 0, 0);
+                }
+                else {
+                    GMEncOff.Draw(encPos, isize(), 0, 0);
+                }
             }
         }
     }
