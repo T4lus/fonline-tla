@@ -270,7 +270,7 @@ Render.RunAnimBaseSpeed = 120
 Render.ModelProjFactor = 40.0
 Render.EggEllipseWidthExt = 0
 Render.EggEllipseHeightExt = 0
-Render.EggTransparencyTransitionFactor = 0.9
+Render.EggTransparencyTransitionFactor = 0.5
 Render.AtlasLinearFiltration = True
 Render.DefaultParticleDrawWidth = 100
 Render.DefaultParticleDrawHeight = 100
@@ -442,7 +442,7 @@ Name = FOnline
 InputDirs = Resources/FOnline
 RecursiveInput = True
 ClientOnly = True
-Bakers = Image Effect
+Bakers = Image Effect RawCopy
 
 [ResourcePack]
 Name = FOArt
